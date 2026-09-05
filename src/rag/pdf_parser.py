@@ -1,4 +1,5 @@
 import re
+import json
 from pathlib import Path
 
 from llama_index.core import Document
@@ -71,3 +72,28 @@ def parse_pdf(path: Path) -> list[Document]:
         )
 
     return documents
+
+
+def export_parsed_documents(data_dir: Path, output_dir: Path) -> Path:
+    output_dir.mkdir(parents=True, exist_ok=True)
+    manifest = []
+
+    for path in sorted(data_dir.rglob("*.pdf")):
+        for document in parse_pdf(path):
+            page_number = document.metadata["page_number"]
+            output_name = f"{path.stem}__page_{page_number:04d}.txt"
+            output_path = output_dir / output_name
+            output_path.write_text(document.text, encoding="utf-8")
+            manifest.append(
+                {
+                    "output_file": output_name,
+                    "source": document.metadata,
+                }
+            )
+
+    manifest_path = output_dir / "manifest.json"
+    manifest_path.write_text(
+        json.dumps(manifest, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    return manifest_path

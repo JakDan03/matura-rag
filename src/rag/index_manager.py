@@ -1,5 +1,9 @@
 import hashlib
 import json
+import os
+import shutil
+import tempfile
+import uuid
 from pathlib import Path
 
 from llama_index.core import StorageContext, VectorStoreIndex, load_index_from_storage
@@ -40,20 +44,36 @@ class IndexManager:
         configure_models(self.app_settings, self.embedding_mode)
         documents = load_documents(self.app_settings.data_dir)
         index = VectorStoreIndex.from_documents(documents)
-        self.index_dir.mkdir(parents=True, exist_ok=True)
-        index.storage_context.persist(persist_dir=str(self.index_dir))
-        self.metadata_path.write_text(
-            json.dumps(
-                {
-                    "embedding_mode": self.embedding_mode,
-                    "source_hash": self._source_hash(),
-                    "document_count": len(documents),
-                    "parser_version": PARSER_VERSION,
-                },
-                indent=2,
-            ),
-            encoding="utf-8",
+        self.index_dir.parent.mkdir(parents=True, exist_ok=True)
+        temporary_dir = Path(
+            tempfile.mkdtemp(prefix=f".{self.index_dir.name}-", dir=self.index_dir.parent)
         )
+        backup_dir = self.index_dir.parent / f".{self.index_dir.name}-backup-{uuid.uuid4().hex}"
+        try:
+            index.storage_context.persist(persist_dir=str(temporary_dir))
+            (temporary_dir / "index_metadata.json").write_text(
+                json.dumps(
+                    {
+                        "embedding_mode": self.embedding_mode,
+                        "source_hash": self._source_hash(),
+                        "document_count": len(documents),
+                        "parser_version": PARSER_VERSION,
+                    },
+                    indent=2,
+                ),
+                encoding="utf-8",
+            )
+            if self.index_dir.exists():
+                os.replace(self.index_dir, backup_dir)
+            os.replace(temporary_dir, self.index_dir)
+            if backup_dir.exists():
+                shutil.rmtree(backup_dir)
+        except Exception:
+            if temporary_dir.exists():
+                shutil.rmtree(temporary_dir)
+            if backup_dir.exists() and not self.index_dir.exists():
+                os.replace(backup_dir, self.index_dir)
+            raise
         return index
 
     def load(self):

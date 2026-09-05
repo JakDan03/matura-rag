@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from src.rag.pdf_parser import document_type_for, parse_pdf
+from src.rag.pdf_parser import document_type_for, export_parsed_documents, parse_pdf
 
 
 class FakePage:
@@ -37,3 +37,17 @@ def test_pdf_parser_preserves_page_and_section_metadata(monkeypatch, tmp_path):
 
 def test_document_type_falls_back_to_pdf():
     assert document_type_for(Path("material.pdf")) == "pdf"
+
+
+def test_export_writes_pages_and_manifest(monkeypatch, tmp_path):
+    source_dir = tmp_path / "data"
+    source_dir.mkdir()
+    pdf_path = source_dir / "wzory.pdf"
+    pdf_path.touch()
+    monkeypatch.setattr("src.rag.pdf_parser.PdfReader", FakeReader)
+
+    manifest_path = export_parsed_documents(source_dir, tmp_path / "parsed")
+
+    assert (manifest_path.parent / "wzory__page_0001.txt").exists()
+    assert (manifest_path.parent / "wzory__page_0002.txt").exists()
+    assert len(__import__("json").loads(manifest_path.read_text(encoding="utf-8"))) == 2

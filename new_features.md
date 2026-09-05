@@ -13,8 +13,14 @@
 
 - [x] Wydzielić parser PDF oparty na stronach i sekcjach.
 - [x] Zachować `file_name`, numer strony, typ dokumentu i tytuł sekcji w metadanych fragmentów.
-- [ ] Dodać walidację indeksu i bezpieczną przebudowę do katalogu tymczasowego.
-- [ ] Dodać opcjonalny eksport sparsowanych dokumentów do czytelnych plików diagnostycznych, np. tekstu per strona i `manifest.json` z metadanymi.
+- [x] Ograniczać kontekst odpowiedzi przez retriever `similarity_top_k=2`, zamiast przekazywać cały indeks do LLM.
+- [x] Dodać konfigurowalny próg podobieństwa i odrzucać fragmenty, które nie są wystarczająco trafne.
+- [ ] Dobrać rozmiar i overlap chunków na podstawie pomiarów jakości oraz kosztu tokenów.
+- [ ] Mierzyć liczbę pobranych fragmentów, długość kontekstu, tokeny i koszt zapytania.
+- [ ] Pomijać kondensowanie historii dla niezależnych pytań, aby uniknąć dodatkowego wywołania LLM.
+- [ ] Dodać router decydujący, czy pytanie wymaga RAG, narzędzia matematycznego czy odpowiedzi bez retrieval.
+- [x] Dodać walidację indeksu i bezpieczną przebudowę do katalogu tymczasowego.
+- [x] Dodać opcjonalny eksport sparsowanych dokumentów do czytelnych plików diagnostycznych, np. tekstu per strona i `manifest.json` z metadanymi.
 - [ ] Renderować cytowania jako klikalne źródła, gdy dostępny jest podgląd dokumentu.
 
 ### Etap 3: doświadczenie ucznia
@@ -86,7 +92,7 @@ Iteracja jest gotowa, gdy aplikacja ma powtarzalny parser PDF z metadanymi stron
 
 - [x] Wyświetlanie źródeł odpowiedzi z nazwą pliku i numerem strony, gdy metadane są dostępne.
 - [ ] Wyszukiwanie hybrydowe: wektory plus BM25.
-- [ ] Reranking wyników.
+- [ ] Reranking wyników po wstępnym retrieval, np. dopiero dla pytań wymagających większej precyzji.
 - [ ] Parser tabel zachowujący układ punktacji CKE.
 - [x] Parsować PDF stronami, pomijać puste strony i zachować podstawową strukturę sekcji.
 

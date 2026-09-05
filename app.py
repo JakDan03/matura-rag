@@ -159,7 +159,12 @@ def render_visualization(visualization: dict):
 
 chat_configuration = (embedding_mode, role_name, student_context)
 if st.session_state.get("chat_configuration") != chat_configuration:
-    st.session_state.chat_service = ChatService(index, system_prompt)
+    st.session_state.chat_service = ChatService(
+        index,
+        system_prompt,
+        retrieval_top_k=settings.retrieval_top_k,
+        similarity_cutoff=settings.retrieval_similarity_cutoff,
+    )
     st.session_state.chat_configuration = chat_configuration
 
 if "messages" not in st.session_state:

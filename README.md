@@ -60,6 +60,8 @@ storage/indexes/openai/text-embedding-3-small/
 
 Przy pierwszym uruchomieniu trzeba kliknąć przycisk tworzenia bazy. PDF-y są parsowane stronami przez `pypdf`; każda niepusta strona staje się dokumentem z metadanymi nazwy pliku, numeru strony, typu dokumentu i sekcji. Indeks zapisuje także metadane parsera i hash plików z `data/`. Po dodaniu lub zmianie PDF albo zmianie wersji parsera aplikacja wykryje nieaktualność i pozwoli utworzyć nową wersję. Indeksy nie powinny być przechowywane w repozytorium, dlatego katalog `storage/` jest ignorowany przez Git.
 
+Do ręcznej kontroli wyniku parsowania można użyć funkcji `export_parsed_documents` z `src.rag.pdf_parser`. Zapisuje ona plik tekstowy dla każdej niepustej strony oraz `manifest.json` z metadanymi, ale nie tworzy embeddingów.
+
 ## Prompty i role
 
 Role znajdują się w `config/prompts/roles.json`, a ich treść w plikach Markdown obok niego. Obecnie dostępne są role tutora, egzaminatora i trybu podpowiedzi. Kontekst ucznia można podać w panelu bocznym; jest dołączany do promptu sesji.
