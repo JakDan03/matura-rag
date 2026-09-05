@@ -28,6 +28,11 @@ _ALLOWED_LOCALS = {
 
 
 class MathService:
+    # TODO: Keep this service as a deterministic calculation/verification layer.
+    # A future math agent should select methods and produce a generic structured
+    # solution response; MathService should return typed artifacts and checks,
+    # not the final pedagogical prose shown to the user.
+
     def parse_expression(self, expression: str, dimensions: int = 1) -> sp.Expr:
         allowed_symbols = {"x"} if dimensions == 1 else {"x", "y"}
         cleaned = expression.strip().replace("^", "**")
@@ -39,6 +44,8 @@ class MathService:
             transformations=_TRANSFORMATIONS,
             evaluate=True,
         )
+        if not isinstance(parsed, sp.Expr):
+            raise ValueError("Nie udało się odczytać pojedynczego wyrażenia matematycznego.")
         unknown_symbols = parsed.free_symbols - {
             _X,
             _Y,

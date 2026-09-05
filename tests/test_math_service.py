@@ -34,3 +34,8 @@ def test_unsupported_expression_is_rejected():
 
 def test_expression_is_sympy_expression():
     assert isinstance(MathService().parse_expression("2x + 1"), sp.Expr)
+
+
+def test_tuple_like_expression_is_rejected_cleanly():
+    with pytest.raises(ValueError, match="pojedynczego wyrażenia"):
+        MathService().parse_expression("0,")

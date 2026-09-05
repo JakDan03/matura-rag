@@ -40,6 +40,9 @@ class PlotService:
         return figure
 
     def plot_circle(self, radius: float = 1.0, center_x: float = 0.0, center_y: float = 0.0):
+        # TODO: Replace figure-specific methods with render_scene(scene_spec).
+        # A scene spec must support custom geometry from a task description,
+        # including multiple figures, coordinates, labels and annotations.
         angles = np.linspace(0, 2 * np.pi, 500)
         x_values = center_x + radius * np.cos(angles)
         y_values = center_y + radius * np.sin(angles)

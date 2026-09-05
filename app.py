@@ -6,6 +6,7 @@ from src.rag.index_manager import IndexManager
 from src.services.chat_service import ChatService
 from src.services.math_service import MathService
 from src.services.plot_service import PlotService
+from src.services.request_router import RequestRoute, RequestRouter
 from src.services.session_service import SessionService
 from src.storage.session_repository import SessionRepository
 
@@ -142,6 +143,7 @@ index = load_index(embedding_mode)
 system_prompt = prompt_loader.build_system_prompt(role_name, student_context)
 math_service = MathService()
 plot_service = PlotService(math_service)
+request_router = RequestRouter()
 
 
 def render_visualization(visualization: dict):
@@ -209,12 +211,13 @@ if prompt := st.chat_input("Napisz pytanie..."):
 
     with st.chat_message("assistant"):
         with st.spinner("Analizuję CKE..."):
-            tool_request = math_service.extract_tool_request(prompt)
+            routed_request = request_router.route(prompt)
             figure = None
             visualization = {}
             try:
-                if tool_request:
-                    dimensions, expression = tool_request
+                if routed_request.route == RequestRoute.PLOT:
+                    dimensions = routed_request.plot_type or "2d"
+                    expression = routed_request.payload
                     if dimensions == "circle":
                         visualization = {"type": "circle", "radius": 1.0}
                     else:
@@ -231,10 +234,11 @@ if prompt := st.chat_input("Napisz pytanie..."):
                         ),
                         "sources": [],
                     }
-                elif math_service.is_solve_request(prompt):
+                elif routed_request.route == RequestRoute.MATH:
+                    verified_result = math_service.format_solution(routed_request.payload)
                     answer = {
-                        "answer": math_service.format_solution(
-                            math_service.extract_solve_expression(prompt)
+                        "answer": st.session_state.chat_service.explain_math(
+                            prompt, verified_result
                         ),
                         "sources": [],
                     }

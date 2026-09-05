@@ -18,7 +18,7 @@
 - [ ] Dobrać rozmiar i overlap chunków na podstawie pomiarów jakości oraz kosztu tokenów.
 - [x] Mierzyć liczbę pobranych fragmentów, długość kontekstu i przybliżenie tokenów; koszt zapytania pozostaje do połączenia z usage API modelu.
 - [ ] Pomijać kondensowanie historii dla niezależnych pytań, aby uniknąć dodatkowego wywołania LLM.
-- [ ] Dodać router decydujący, czy pytanie wymaga RAG, narzędzia matematycznego czy odpowiedzi bez retrieval.
+- [x] Dodać router decydujący, czy pytanie wymaga RAG, narzędzia matematycznego czy odpowiedzi bez retrieval.
 - [x] Dodać walidację indeksu i bezpieczną przebudowę do katalogu tymczasowego.
 - [x] Dodać opcjonalny eksport sparsowanych dokumentów do czytelnych plików diagnostycznych, np. tekstu per strona i `manifest.json` z metadanymi.
 - [ ] Renderować cytowania jako klikalne źródła, gdy dostępny jest podgląd dokumentu.
@@ -36,6 +36,8 @@
 - [x] Dodać wykresy funkcji 2D i 3D przez Plotly z ograniczonym zakresem próbkowania.
 - [ ] W późniejszym etapie zastąpić techniczne polecenia typu `wykres 2d: sin(x)` rozpoznawaniem intencji i parametrów z naturalnego kontekstu rozmowy; po wdrożeniu routera usunąć ten tryb z interfejsu użytkownika.
 - [ ] W późniejszym etapie zastąpić techniczną składnię `rozwiąż: ...` / `solve: ...` rozpoznawaniem próśb o rozwiązanie równań z naturalnego języka i kierowaniem ich przez router narzędzi do `MathService`.
+- [ ] Zastąpić specjalny przypadek `circle` generycznym opisem sceny geometrycznej: figury, punkty, odcinki, etykiety, współrzędne i relacje odczytywane z treści zadania; obecny okrąg pozostaje tylko kompatybilnością przejściową.
+- [ ] Docelowo wdrożyć agenta planującego wizualizację: agent analizuje naturalną treść zadania i generuje zwalidowany `VisualizationSpec`, natomiast deterministyczny `PlotService` renderuje scenę przez Plotly. Agent nie powinien generować ani wykonywać dowolnego kodu ani obrazu bezpośrednio.
 - [ ] Dopiero po testach narzędzi rozważyć izolowany sandbox kodu Python.
 
 ### Kryterium ukończenia iteracji

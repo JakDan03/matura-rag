@@ -1,3 +1,4 @@
+from llama_index.core import Settings
 from llama_index.core.postprocessor import SimilarityPostprocessor
 
 from src.rag.metrics import measure_retrieval
@@ -10,6 +11,7 @@ class ChatService:
         system_prompt: str,
         retrieval_top_k: int = 2,
         similarity_cutoff: float = 0.2,
+        llm=None,
     ):
         if retrieval_top_k < 1:
             raise ValueError("retrieval_top_k musi być większe od zera.")
@@ -24,6 +26,7 @@ class ChatService:
             ],
             verbose=True,
         )
+        self.llm = llm
 
     def ask(self, question: str) -> dict:
         response = self.engine.chat(question)
@@ -43,3 +46,27 @@ class ChatService:
             "sources": sources,
             "retrieval_metrics": measure_retrieval(source_nodes).as_dict(),
         }
+
+    def explain_math(self, question: str, verified_result: str) -> str:
+        # TODO: Replace the plain string contract with a generic SolutionResponse:
+        # task_type, method, interpretation, steps, result, visualizations, sources.
+        # Method-specific details (delta, geometry, derivatives, probability, etc.)
+        # should live in typed payloads inside that common response.
+        # The LLM should explain and format the verified tool result, while
+        # deterministic tools such as SymPy remain responsible for validation.
+        prompt = f"""Jesteś nauczycielem matematyki przygotowującym rozwiązanie dla ucznia.
+Rozwiąż zadanie krok po kroku i używaj LaTeX między znakami $...$.
+Jeżeli użytkownik prosi o deltę (delta), pokaż metodę delty: wskaż a, b, c, oblicz deltę,
+wyznacz pierwiastki i podaj odpowiedź końcową.
+Nie pomijaj rachunków. Nie twórz fikcyjnych danych.
+
+Treść zadania użytkownika:
+{question}
+
+Wynik zweryfikowany przez SymPy:
+{verified_result}
+
+Zwróć wyłącznie gotowe, czytelne rozwiązanie dla ucznia.
+"""
+        response = (self.llm or Settings.llm).complete(prompt)
+        return str(response)
