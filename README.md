@@ -110,3 +110,7 @@ python -m pytest -q
 ```
 
 Plan funkcji znajduje się w [new_features.md](new_features.md). Następne etapy to parser PDF zachowujący strukturę, lepsze cytowania, renderowanie LaTeX i narzędzia SymPy.
+
+## Licencja
+Ten projekt jest udostępniany na licencji **CC BY-NC-SA 4.0**. 
+Wykorzystanie komercyjne jest zabronione. Szczegóły znajdziesz w pliku [LICENSE](LICENSE).
