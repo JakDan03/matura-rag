@@ -1,39 +1,90 @@
-### Zarządzanie promptami i modelem
-- Zewnętrzne pliki konfiguracyjne (np. .json, .yaml) na prompty systemowe, oddzielające logikę od tekstu.
-- Interfejs (UI) do edycji promptów systemowych i wytycznych w locie, bez dotykania kodu.
-- Biblioteka gotowych ról (np. "Surowy egzaminator", "Cierpliwy tłumacz z podpowiedziami krok po kroku").
-- Dynamiczne wstrzykiwanie kontekstu ucznia do promptu (np. poziom trudności, preferowana metoda rozwiązywania).
-- Suwak parametryzacji modelu (temperatura, Top-P) w panelu bocznym. Ewentualnie – dostosowanie temperatury w zależności od zadania/agenta, ale nie przez uzytkownika
+# Lista rozwoju aplikacji
 
-### Interfejs i formatowanie (UI/UX)
-- Interpretacja i poprawne renderowanie wzorów matematycznych (wymuszenie formatowania MathJax/LaTeX przez st.latex()).
-- Przycisk "Pokaż tok rozumowania" rozwijający (w akordeonie st.expander) matematyczne kroki.
-- Zapisywanie, ładowanie i usuwanie historii sesji konwersacji.
-- Eksport rozmowy lub wygenerowanego arkusza do PDF/Markdown.
-- Wbudowana przeglądarka dokumentów (np. podgląd wycinka Karty Wzorów obok czatu).
-Obliczenia, kodowanie i wizualizacja
-- Moduł wykonywania kodu Python (sandbox) do precyzyjnych obliczeń algebaicznych (eliminacja halucynacji matematycznych).
-- Integracja z matplotlib / plotly do interaktywnego rysowania wykresów funkcji z poziomu czatu.
-- Wykorzystanie biblioteki sympy do symbolicznego rozwiązywania równań, całek i pochodnych.
+## Plan kolejnej iteracji
 
-### Narzędzia dla korepetytora i ucznia
-- Profile uczniów (śledzenie historii błędów, postępów i statystyk słabych działów).
-- Moduł generowania spersonalizowanych kartkówek i zadań domowych z wybranych tematów.
-- Wgrywanie zdjęć lub zrzutów ekranu zadań (OCR z wykorzystaniem modeli wizyjnych, np. gpt-4o).
+### Etap 1: stabilizacja i jakość
 
-### Rozbudowa RAG (Retrieval-Augmented Generation)
-- Wskazywanie precyzyjnych źródeł (np. "Karta Wzorów, strona 4" z linkiem do pobranego fragmentu).
-- Wyszukiwanie hybrydowe (wektory + słowa kluczowe BM25) dla wyższej precyzji wyszukiwania samych wzorów.
-- Reranking (np. Cohere Rerank) odrzucający mało trafne fragmenty informatorów.
-- Dedykowany parser tabel (np. LlamaParse), zachowujący układ punktacji CKE.
+- [x] Usunąć zdublowany stary przepływ z `app.py`.
+- [x] Dodać testy promptów, SQLite i wykrywania zmian indeksu.
+- [x] Zainstalować zależności testowe i uruchomić pełny `pytest` w środowisku projektu.
+- [x] Dodać test aplikacyjny sprawdzający tworzenie i przełączanie sesji.
 
-### Infrastruktura i optymalizacja
-- Zapis historii czatu i logów do lokalnej bazy danych SQLite.
-- Monitoring zużycia tokenów i kosztów z podziałem na poszczególne sesje.
-- Zabezpieczenie limitu zapytań (rate limiting), aby unikać przypadkowego przekroczenia budżetu.
-- Konteneryzacja aplikacji (Docker) do łatwego przenoszenia środowiska między komputerami.
+### Etap 2: jakość danych RAG
 
-### Dodatkowo (priorytetowo)
-- Bug: nie zapisały mi się wygenerowane wektory
-- Automatyczne testy funkcjonalności aplikacji
-- Plik, który będzie przykładem pliku .env – do skopiowania dla użytkownika
+- [ ] Wydzielić parser PDF oparty na stronach i sekcjach.
+- [ ] Zachować `file_name`, numer strony, typ dokumentu i tytuł sekcji w metadanych fragmentów.
+- [ ] Dodać walidację indeksu i bezpieczną przebudowę do katalogu tymczasowego.
+- [ ] Renderować cytowania jako klikalne źródła, gdy dostępny jest podgląd dokumentu.
+
+### Etap 3: doświadczenie ucznia
+
+- [ ] Renderować odpowiedzi z LaTeX bez traktowania całego tekstu jako wzoru.
+- [ ] Dodać eksport rozmowy do Markdown.
+- [ ] Dodać usuwanie sesji oraz tytuły rozmów edytowalne przez użytkownika.
+- [ ] Dodać kontrolowany widok kroków rozwiązania zamiast ujawniania surowego rozumowania modelu.
+
+### Etap 4: narzędzia matematyczne
+
+- [ ] Dodać SymPy jako jawne narzędzie do weryfikacji rachunków.
+- [ ] Dodać wykresy funkcji z ograniczeniem zakresu i czasu obliczeń.
+- [ ] Dopiero po testach narzędzi rozważyć izolowany sandbox kodu Python.
+
+### Kryterium ukończenia iteracji
+
+Iteracja jest gotowa, gdy aplikacja ma powtarzalny parser PDF z metadanymi stron, testy uruchamiane jedną komendą, trwałe sesje z pełnym CRUD oraz odpowiedzi prezentujące źródła i wzory w czytelny sposób.
+
+## Architektura i fundamenty
+
+- [x] Rozdzielenie entrypointu Streamlit od logiki RAG i obsługi czatu.
+- [x] Zewnętrzne pliki promptów i biblioteka ról.
+- [x] Wydzielenie konfiguracji aplikacji i fabryki modeli.
+- [x] Osobne katalogi indeksów dla lokalnego i OpenAI embeddingu.
+- [x] Zapisywanie metadanych indeksu oraz wykrywanie zmian w plikach źródłowych.
+- [x] Plik `requirements.txt` z zależnościami instalowanymi jedną komendą.
+- [x] Automatyczne testy modułów promptów, sesji i managera indeksu.
+- [ ] Konteneryzacja aplikacji (Docker).
+
+## Zarządzanie promptami i modelem
+
+- [x] Zewnętrzne pliki konfiguracyjne promptów.
+- [x] Biblioteka gotowych ról: tutor, egzaminator, podpowiedzi.
+- [x] Dynamiczne wstrzykiwanie kontekstu ucznia.
+- [ ] UI do edycji promptów systemowych i wytycznych.
+- [ ] Suwak temperatury i Top-P w panelu bocznym.
+- [ ] Automatyczny dobór parametrów modelu do zadania.
+
+## Interfejs i formatowanie
+
+- [ ] Poprawne renderowanie wzorów jako LaTeX.
+- [ ] Przycisk „Pokaż tok rozumowania” w kontrolowanym widoku kroków.
+- [x] Zapisywanie i ładowanie historii sesji w SQLite.
+- [ ] Usuwanie historii sesji z interfejsu.
+- [ ] Eksport rozmowy i arkuszy do PDF/Markdown.
+- [ ] Przeglądarka dokumentów z podglądem źródła obok czatu.
+
+## Obliczenia, kodowanie i wizualizacja
+
+- [ ] Bezpieczny sandbox do obliczeń Python.
+- [ ] Wykresy funkcji przez matplotlib lub Plotly.
+- [ ] Narzędzie SymPy do obliczeń symbolicznych.
+
+## Narzędzia dla korepetytora i ucznia
+
+- [ ] Profile uczniów i statystyki słabych działów.
+- [ ] Generator spersonalizowanych kartkówek i prac domowych.
+- [ ] Wgrywanie zdjęć zadań i OCR.
+
+## Rozbudowa RAG
+
+- [x] Wyświetlanie źródeł odpowiedzi z nazwą pliku i numerem strony, gdy metadane są dostępne.
+- [ ] Wyszukiwanie hybrydowe: wektory plus BM25.
+- [ ] Reranking wyników.
+- [ ] Parser tabel zachowujący układ punktacji CKE.
+- [ ] Oszczędne parsowanie PDF z zachowaniem struktury.
+
+## Infrastruktura i optymalizacja
+
+- [ ] Historia czatu i logi w SQLite.
+- [ ] Monitoring tokenów i kosztów per sesja.
+- [ ] Rate limiting.
+- [ ] Konfigurowalny katalog danych i indeksów dla wdrożeń.

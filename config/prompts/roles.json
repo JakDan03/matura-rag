@@ -1,0 +1,14 @@
+{
+  "tutor": {
+    "label": "Cierpliwy tutor",
+    "file": "tutor.md"
+  },
+  "examiner": {
+    "label": "Surowy egzaminator",
+    "file": "examiner.md"
+  },
+  "hints": {
+    "label": "Podpowiedzi krok po kroku",
+    "file": "hints.md"
+  }
+}

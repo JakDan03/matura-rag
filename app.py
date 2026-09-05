@@ -13,71 +13,89 @@ from llama_index.embeddings.openai import OpenAIEmbedding
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 
 # Domyślnie wybrany model LOKALNY (darmowy) - pierwsza pozycja na liście
-embed_mode = st.sidebar.radio(
-    "Silnik wektoryzacji:", 
-    ["Lokalny (BAAI/bge-small-en-v1.5)", "OpenAI (text-embedding-3-small)"]
-)
+import streamlit as st
 
-if embed_mode == "OpenAI (text-embedding-3-small)":
-    PERSIST_DIR = "./storage_openai"
-    Settings.embed_model = OpenAIEmbedding(model="text-embedding-3-small")
-else:
-    PERSIST_DIR = "./storage_local"
-    Settings.embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
+from config.settings import settings
+from src.prompts.loader import PromptLoader
+from src.rag.index_manager import IndexManager
+from src.services.chat_service import ChatService
+from src.services.session_service import SessionService
+from src.storage.session_repository import SessionRepository
 
-# Automatyczne ładowanie klucza API z pliku .env
-load_dotenv()
-
-PERSIST_DIR = "./storage"  # Folder na zapisaną bazę wektorową
 
 st.set_page_config(page_title="Tutor Maturalny CKE", page_icon="📐", layout="centered")
+
+prompt_loader = PromptLoader(settings.storage_dir.parent / "config" / "prompts")
+
+st.sidebar.header("Ustawienia")
+session_repository = SessionRepository(settings.storage_dir / "sessions.sqlite3")
+session_service = SessionService(session_repository)
+current_conversation_id = session_service.ensure_current(
+    st.session_state.get("conversation_id")
+)
+
+if st.sidebar.button("Nowa rozmowa"):
+    current_conversation_id = session_service.create_new()
+    st.session_state.conversation_id = current_conversation_id
+    st.session_state.pop("messages", None)
+    st.rerun()
+
+conversation_options = session_service.list_conversations()
+selected_conversation_id = st.sidebar.selectbox(
+    "Historia rozmów:",
+    [conversation_id for conversation_id, _ in conversation_options],
+    index=next(
+        (index for index, (conversation_id, _) in enumerate(conversation_options) if conversation_id == current_conversation_id),
+        0,
+    ),
+    format_func=lambda conversation_id: next(
+        title for item_id, title in conversation_options if item_id == conversation_id
+    ),
+)
+if selected_conversation_id != st.session_state.get("conversation_id"):
+    st.session_state.conversation_id = selected_conversation_id
+    st.session_state.messages = session_service.load_messages(selected_conversation_id)
+
+embedding_label = st.sidebar.radio(
+    "Silnik wektoryzacji:",
+    ["Lokalny", "OpenAI"],
+    help="Lokalny model nie wymaga opłat za embeddingi, ale może działać wolniej przy pierwszym uruchomieniu.",
+)
+embedding_mode = "openai" if embedding_label == "OpenAI" else "local"
+role_options = prompt_loader.role_choices()
+role_name = st.sidebar.selectbox(
+    "Rola tutora:", list(role_options), format_func=role_options.get
+)
+student_context = st.sidebar.text_area(
+    "Kontekst ucznia (opcjonalnie):",
+    placeholder="Np. poziom podstawowy, potrzebuję krótkich podpowiedzi.",
+)
+
+index_manager = IndexManager(settings, embedding_mode)
 st.title("📐 Tutor CKE - Matura z Matematyki")
 
-SYSTEM_PROMPT = """
-Jesteś profesjonalnym tutorem i egzaminatorem CKE z matematyki. 
-Odpowiadaj na pytania ucznia wyłącznie w oparciu o dostarczone materiały (Karta Wzorów, Informatory CKE, Zasady Oceniania).
-Jeśli podajesz wzór, podawaj dokładny dział z Karty Wzorów CKE.
-Gdy oceniasz zadanie, stosuj oficjalne kryteria punktowania CKE (etap postępu, pokonanie zasadniczych trudności).
-"""
-
-@st.cache_resource(show_spinner=False)
-def create_or_load_index(persist_dir, mode_name):
-    Settings.llm = OpenAI(model="gpt-4o-mini", temperature=0.2)
-    
-    index_file = os.path.join(persist_dir, "docstore.json")
-    if not os.path.exists(index_file):
-        with st.spinner(f"Tworzenie bazy ({mode_name})... To może potrwać."):
-            documents = SimpleDirectoryReader(input_dir="./data", recursive=True).load_data()
-            index = VectorStoreIndex.from_documents(documents)
-            index.storage_context.persist(persist_dir=persist_dir)
-            return index
-    else:
-        with st.spinner(f"Wczytywanie bazy wektorowej ({mode_name})..."):
-            storage_context = StorageContext.from_defaults(persist_dir=persist_dir)
-            return load_index_from_storage(storage_context)
-
-# ZABEZPIECZENIE PRZED AUTOMATYCZNYM GENEROWANIEM
-index_file_path = os.path.join(PERSIST_DIR, "docstore.json")
-
-if os.path.exists(index_file_path):
-    # Wczytywanie istniejącej bazy
-    index = create_or_load_index(PERSIST_DIR, embed_mode)
-else:
-    # Zatrzymanie aplikacji i wymuszenie zgody na generowanie
-    st.warning(f"Brak bazy danych w folderze {PERSIST_DIR}.")
-    
-    if st.button(f"Wygeneruj bazę dla: {embed_mode}"):
-        index = create_or_load_index(PERSIST_DIR, embed_mode)
+if not index_manager.exists() or not index_manager.is_current():
+    st.warning(
+        "Brak aktualnej bazy wektorowej. Zostanie utworzona na podstawie plików z katalogu data."
+    )
+    if st.button(f"Wygeneruj bazę ({embedding_label})"):
+        with st.spinner("Tworzenie bazy wektorowej..."):
+            index_manager.build()
         st.rerun()
-        
     st.stop()
 
-# Tworzenie chatu z pamięcią konwersacji
-if "chat_engine" not in st.session_state:
-    st.session_state.chat_engine = index.as_chat_engine(
-        chat_mode="condense_question", 
-        verbose=True
-    )
+
+def load_index(embedding_mode: str):
+    return IndexManager(settings, embedding_mode).load()
+
+
+index = load_index(embedding_mode)
+system_prompt = prompt_loader.build_system_prompt(role_name, student_context)
+
+chat_configuration = (embedding_mode, role_name, student_context)
+if st.session_state.get("chat_configuration") != chat_configuration:
+    st.session_state.chat_service = ChatService(index, system_prompt)
+    st.session_state.chat_configuration = chat_configuration
 
 if "messages" not in st.session_state:
     st.session_state.messages = [
@@ -95,6 +113,20 @@ if prompt := st.chat_input("Napisz pytanie..."):
 
     with st.chat_message("assistant"):
         with st.spinner("Analizuję CKE..."):
-            response = st.session_state.chat_engine.chat(prompt)
-            st.write(response.response)
-            st.session_state.messages.append({"role": "assistant", "content": response.response})
+            answer = st.session_state.chat_service.ask(prompt)
+            st.write(answer["answer"])
+            if answer["sources"]:
+                with st.expander("Źródła"):
+                    for source in answer["sources"]:
+                        page = f", strona {source['page']}" if source["page"] else ""
+                        st.write(f"- {source['file']}{page}")
+            session_repository.add_message(current_conversation_id, "user", prompt)
+            session_repository.add_message(
+                current_conversation_id,
+                "assistant",
+                answer["answer"],
+                answer["sources"],
+            )
+            st.session_state.messages.append(
+                {"role": "assistant", "content": answer["answer"], "sources": answer["sources"]}
+            )

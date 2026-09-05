@@ -1,77 +1,82 @@
-# 📐 Asystent Maturalny z Matematyki (RAG)
+# Asystent Maturalny z Matematyki (RAG)
 
-Lokalna aplikacja wspierająca naukę do matury z matematyki (poziom podstawowy i rozszerzony) w oparciu o oficjalne wytyczne, Kartę Wzorów oraz zasady oceniania Centralnej Komisji Egzaminacyjnej (CKE).
+Lokalna aplikacja Streamlit wspierająca naukę do matury z matematyki na podstawie materiałów CKE. Wykorzystuje LlamaIndex do wyszukiwania dokumentów i OpenAI do generowania odpowiedzi. Embeddingi mogą być tworzone lokalnie albo przez OpenAI.
 
-Aplikacja wykorzystuje framework **LlamaIndex** do przeszukiwania bazy dokumentów (RAG) oraz interfejs **Streamlit**.
+## Uruchomienie
 
----
-
-## 🚀 Szybki start (Uruchomienie aplikacji)
-
-Za każdym razem, gdy chcesz uruchomić aplikację, otwórz **Anaconda Prompt** i wykonaj poniższe kroki:
-
-### 1. Przejdź do folderu projektu
+W środowisku Python 3.11:
 
 ```bash
-cd C:\sciezka\do\twojego\folderu\matura_ai
-```
-
-### 2. Aktywuj środowisko Conda
-
-```bash
-conda activate matura_rag
-```
-
-### 3. Uruchom aplikację Streamlit
-
-```bash
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Aplikacja otworzy się automatycznie w Twojej przeglądarce pod adresem `http://localhost:8501`.
-
----
-
-## 📁 Struktura projektu
-
-* **`data/`** – folder na źródłowe pliki PDF z CKE (Karta Wzorów, Informatory, Zasady Oceniania).
-* **`storage/`** – folder generowany automatycznie. Przechowuje przetworzoną bazę wektorową (`docstore.json` itp.), co eliminuje konieczność ponownego indeksowania plików przy każdym uruchomieniu.
-* **`.env`** – plik konfiguracyjny przechowujący klucz API (`OPENAI_API_KEY=sk-...`).
-* **`app.py`** – główny kod źródłowy aplikacji (logika RAG + interfejs).
-
----
-
-## 🔄 Odświeżanie bazy wiedzy (Dodawanie nowych plików PDF)
-
-Aplikacja automatycznie wczytuje zapisaną bazę wektorową z folderu `./storage`.
-
-Jeśli dodasz nowe pliki PDF do folderu `./data` i chcesz, aby bot zaczął z nich korzystać:
-
-1. Zamknij aplikację (`Ctrl + C` w Anaconda Prompt).
-2. **Usuń pliki z folderu `storage/`** (lub skasuj cały folder).
-3. Uruchom aplikację ponownie (`streamlit run app.py`). System przy pierwszym uruchomieniu zbuduje nową indeksację.
-
----
-
-## 🛠️ Wymagania i instalacja (Jednorazowa konfiguracja)
-
-Jeśli uruchamiasz projekt na nowym komputerze:
-
-### 1. Tworzenie środowiska
+Na Condzie można użyć:
 
 ```bash
 conda create -n matura_rag python=3.11 -y
 conda activate matura_rag
+pip install -r requirements.txt
+streamlit run app.py
 ```
 
-### 2. Instalacja bibliotek
+Wymagany jest plik `.env` z kluczem:
+
+```text
+OPENAI_API_KEY=twoj_klucz_api
+```
+
+## Struktura projektu
+
+```text
+app.py                         # Entry point i warstwa Streamlit
+config/settings.py             # Ścieżki i ustawienia modeli
+config/prompts/                # Role i prompty w plikach tekstowych
+src/prompts/                   # Ładowanie i składanie promptów
+src/rag/                       # Modele, PDF-y i zarządzanie indeksami
+src/services/                  # Usługi aplikacyjne, obecnie czat
+src/storage/                   # Repozytorium historii rozmów SQLite
+tests/                         # Testy modułów aplikacji
+data/                          # Źródłowe pliki PDF CKE
+storage/indexes/               # Trwałe indeksy rozdzielone według embeddingu
+new_features.md                # Checklista dalszego rozwoju
+```
+
+## Indeksowanie dokumentów
+
+Po wybraniu silnika wektoryzacji aplikacja szuka indeksu w odpowiednim katalogu:
+
+```text
+storage/indexes/local/bge-small-en-v1.5/
+storage/indexes/openai/text-embedding-3-small/
+```
+
+Przy pierwszym uruchomieniu trzeba kliknąć przycisk tworzenia bazy. Indeks zapisuje także metadane i hash plików z `data/`. Po dodaniu lub zmianie PDF aplikacja wykryje nieaktualność i pozwoli utworzyć nową wersję. Indeksy nie powinny być przechowywane w repozytorium, dlatego katalog `storage/` jest ignorowany przez Git.
+
+## Prompty i role
+
+Role znajdują się w `config/prompts/roles.json`, a ich treść w plikach Markdown obok niego. Obecnie dostępne są role tutora, egzaminatora i trybu podpowiedzi. Kontekst ucznia można podać w panelu bocznym; jest dołączany do promptu sesji.
+
+## Testy i dalszy rozwój
+
+Kontrolę składni można wykonać poleceniem:
 
 ```bash
-pip install llama-index streamlit pypdf openai python-dotenv
+python -m compileall -q app.py config src
 ```
 
-### 3. Utworzenie pliku `.env` z kluczem OpenAI
+## Historia rozmów i źródła
+
+Historia rozmów jest zapisywana lokalnie w `storage/sessions.sqlite3`. Z panelu bocznego można utworzyć nową rozmowę albo przełączyć się na wcześniejszą. Odpowiedzi pokazują dostępne źródła dokumentowe, w tym numer strony, jeśli parser i indeks zachowały takie metadane.
+
+## Testy
+
+Po instalacji zależności uruchom:
 
 ```bash
-echo OPENAI_API_KEY=twoj_klucz_api > .env
+python -m pytest -q
 ```
+
+Plan funkcji znajduje się w [new_features.md](new_features.md). Następne etapy to parser PDF zachowujący strukturę, lepsze cytowania, renderowanie LaTeX i narzędzia SymPy.
