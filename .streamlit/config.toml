@@ -1,0 +1,4 @@
+[server]
+# Transformers exposes optional vision modules that Streamlit's watcher probes.
+# The app does not need hot-reloading of installed package internals.
+fileWatcherType = "none"

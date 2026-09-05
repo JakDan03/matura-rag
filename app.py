@@ -1,18 +1,3 @@
-import os
-from dotenv import load_dotenv
-import streamlit as st
-from llama_index.core import (
-    VectorStoreIndex, 
-    SimpleDirectoryReader, 
-    Settings, 
-    StorageContext, 
-    load_index_from_storage
-)
-from llama_index.llms.openai import OpenAI
-from llama_index.embeddings.openai import OpenAIEmbedding
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
-
-# Domyślnie wybrany model LOKALNY (darmowy) - pierwsza pozycja na liście
 import streamlit as st
 
 from config.settings import settings

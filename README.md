@@ -42,7 +42,12 @@ tests/                         # Testy modułów aplikacji
 data/                          # Źródłowe pliki PDF CKE
 storage/indexes/               # Trwałe indeksy rozdzielone według embeddingu
 new_features.md                # Checklista dalszego rozwoju
+.streamlit/config.toml         # Ustawienia uruchomienia Streamlit
 ```
+
+## Uwagi o uruchomieniu
+
+Projekt wyłącza introspekcję pakietów przez Streamlit Watcher w `.streamlit/config.toml`. Biblioteka `transformers` udostępnia opcjonalne moduły wizji, które bez zainstalowanego `torchvision` generują tracebacki watchera, mimo że tekstowe embeddingi działają poprawnie. Obecna aplikacja używa embeddingów tekstowych, więc `torchvision` nie jest potrzebne.
 
 ## Indeksowanie dokumentów
 
