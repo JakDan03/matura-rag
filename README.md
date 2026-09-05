@@ -78,6 +78,23 @@ Historia rozmów jest zapisywana lokalnie w `storage/sessions.sqlite3`. Z panelu
 
 W panelu bocznym można również zmienić nazwę aktywnego chatu i go usunąć. Przycisk „Nowa rozmowa” wykorzystuje istniejący pusty chat zamiast tworzyć kolejne puste rozmowy. Preferencje ucznia są zatwierdzane przyciskiem „Zastosuj preferencje”.
 
+## Narzędzia matematyczne
+
+Odpowiedzi czatu zawierające zapis `$...$` lub `$$...$$` są renderowane jako LaTeX. Dla deterministycznych obliczeń można użyć polecenia:
+
+```text
+rozwiąż: x^2 - 4 = 0
+```
+
+Wykresy są tworzone programowo, bez generowania obrazów przez model:
+
+```text
+wykres 2d: sin(x)
+wykres 3d: x^2 + y^2
+```
+
+Wyrażenia są parsowane przez SymPy. Wykresy 2D i 3D są renderowane interaktywnie przez Plotly, z ograniczonym zakresem próbkowania.
+
 ## Testy
 
 Po instalacji zależności uruchom:

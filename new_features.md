@@ -19,15 +19,17 @@
 
 ### Etap 3: doświadczenie ucznia
 
-- [ ] Renderować odpowiedzi z LaTeX bez traktowania całego tekstu jako wzoru.
+- [x] Renderować odpowiedzi z LaTeX bez traktowania całego tekstu jako wzoru.
 - [ ] Dodać eksport rozmowy do Markdown.
 - [x] Dodać usuwanie sesji oraz tytuły rozmów edytowalne przez użytkownika.
 - [ ] Dodać kontrolowany widok kroków rozwiązania zamiast ujawniania surowego rozumowania modelu.
 
 ### Etap 4: narzędzia matematyczne
 
-- [ ] Dodać SymPy jako jawne narzędzie do weryfikacji rachunków.
-- [ ] Dodać wykresy funkcji z ograniczeniem zakresu i czasu obliczeń.
+- [x] Dodać SymPy jako jawne narzędzie do weryfikacji rachunków.
+- [x] Dodać wykresy funkcji 2D i 3D przez Plotly z ograniczonym zakresem próbkowania.
+- [ ] W późniejszym etapie zastąpić techniczne polecenia typu `wykres 2d: sin(x)` rozpoznawaniem intencji i parametrów z naturalnego kontekstu rozmowy; po wdrożeniu routera usunąć ten tryb z interfejsu użytkownika.
+- [ ] W późniejszym etapie zastąpić techniczną składnię `rozwiąż: ...` / `solve: ...` rozpoznawaniem próśb o rozwiązanie równań z naturalnego języka i kierowaniem ich przez router narzędzi do `MathService`.
 - [ ] Dopiero po testach narzędzi rozważyć izolowany sandbox kodu Python.
 
 ### Kryterium ukończenia iteracji
@@ -61,7 +63,7 @@ Iteracja jest gotowa, gdy aplikacja ma powtarzalny parser PDF z metadanymi stron
 - [x] Umożliwić nadawanie chatowi własnej nazwy przez użytkownika, niezależnie od treści zapytań.
 - [ ] Ukryć mały przycisk kotwicy/linku wyświetlany przy tytule aplikacji, jeśli nie pełni funkcji użytkowej.
 - [x] Dodać klikalny przycisk zatwierdzania preferencji użytkownika zamiast wymagać skrótu klawiszowego.
-- [ ] Poprawne renderowanie wzorów jako LaTeX.
+- [x] Poprawne renderowanie wzorów jako LaTeX.
 - [ ] Przycisk „Pokaż tok rozumowania” w kontrolowanym widoku kroków.
 - [x] Zapisywanie i ładowanie historii sesji w SQLite.
 - [x] Usuwanie historii sesji z interfejsu.
@@ -71,8 +73,8 @@ Iteracja jest gotowa, gdy aplikacja ma powtarzalny parser PDF z metadanymi stron
 ## Obliczenia, kodowanie i wizualizacja
 
 - [ ] Bezpieczny sandbox do obliczeń Python.
-- [ ] Wykresy funkcji przez matplotlib lub Plotly.
-- [ ] Narzędzie SymPy do obliczeń symbolicznych.
+- [x] Wykresy funkcji przez Plotly.
+- [x] Narzędzie SymPy do obliczeń symbolicznych.
 
 ## Narzędzia dla korepetytora i ucznia
 

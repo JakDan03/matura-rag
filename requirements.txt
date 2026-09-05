@@ -7,3 +7,6 @@ llama-index-embeddings-huggingface
 pypdf
 sentence-transformers
 pytest
+sympy
+numpy
+plotly

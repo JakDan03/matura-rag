@@ -4,6 +4,8 @@ from config.settings import settings
 from src.prompts.loader import PromptLoader
 from src.rag.index_manager import IndexManager
 from src.services.chat_service import ChatService
+from src.services.math_service import MathService
+from src.services.plot_service import PlotService
 from src.services.session_service import SessionService
 from src.storage.session_repository import SessionRepository
 
@@ -138,6 +140,22 @@ def load_index(embedding_mode: str):
 
 index = load_index(embedding_mode)
 system_prompt = prompt_loader.build_system_prompt(role_name, student_context)
+math_service = MathService()
+plot_service = PlotService(math_service)
+
+
+def render_visualization(visualization: dict):
+    if visualization.get("type") == "plot_2d":
+        return plot_service.plot_2d(visualization["expression"])
+    if visualization.get("type") == "plot_3d":
+        return plot_service.plot_3d(visualization["expression"])
+    if visualization.get("type") == "circle":
+        return plot_service.plot_circle(
+            radius=visualization.get("radius", 1.0),
+            center_x=visualization.get("center_x", 0.0),
+            center_y=visualization.get("center_y", 0.0),
+        )
+    return None
 
 chat_configuration = (embedding_mode, role_name, student_context)
 if st.session_state.get("chat_configuration") != chat_configuration:
@@ -151,17 +169,59 @@ if "messages" not in st.session_state:
 
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
-        st.write(message["content"])
+        st.markdown(message["content"])
+        visualization = message.get("visualization", {})
+        if visualization:
+            st.plotly_chart(render_visualization(visualization), use_container_width=True)
 
 if prompt := st.chat_input("Napisz pytanie..."):
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
-        st.write(prompt)
+        st.markdown(prompt)
 
     with st.chat_message("assistant"):
         with st.spinner("Analizuję CKE..."):
-            answer = st.session_state.chat_service.ask(prompt)
-            st.write(answer["answer"])
+            tool_request = math_service.extract_tool_request(prompt)
+            figure = None
+            visualization = {}
+            try:
+                if tool_request:
+                    dimensions, expression = tool_request
+                    if dimensions == "circle":
+                        visualization = {"type": "circle", "radius": 1.0}
+                    else:
+                        visualization = {
+                            "type": "plot_3d" if dimensions == "3d" else "plot_2d",
+                            "expression": expression,
+                        }
+                    figure = render_visualization(visualization)
+                    answer = {
+                        "answer": (
+                            "Wygenerowano okrąg z oznaczonym środkiem, promieniem i średnicą."
+                            if dimensions == "circle"
+                            else f"Wygenerowano wykres {dimensions.upper()} dla $f = {expression}$."
+                        ),
+                        "sources": [],
+                    }
+                elif math_service.is_solve_request(prompt):
+                    answer = {
+                        "answer": math_service.format_solution(
+                            math_service.extract_solve_expression(prompt)
+                        ),
+                        "sources": [],
+                    }
+                else:
+                    answer = st.session_state.chat_service.ask(prompt)
+            except (TypeError, ValueError, SyntaxError, ZeroDivisionError) as error:
+                answer = {
+                    "answer": f"Nie udało się wykonać obliczenia: {error}",
+                    "sources": [],
+                }
+                visualization = {}
+
+            st.markdown(answer["answer"])
+            if figure is not None:
+                st.plotly_chart(figure, use_container_width=True)
             if answer["sources"]:
                 with st.expander("Źródła"):
                     for source in answer["sources"]:
@@ -173,8 +233,14 @@ if prompt := st.chat_input("Napisz pytanie..."):
                 "assistant",
                 answer["answer"],
                 answer["sources"],
+                visualization,
             )
             st.session_state.messages.append(
-                {"role": "assistant", "content": answer["answer"], "sources": answer["sources"]}
+                {
+                    "role": "assistant",
+                    "content": answer["answer"],
+                    "sources": answer["sources"],
+                    "visualization": visualization,
+                }
             )
             st.rerun()

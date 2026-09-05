@@ -17,6 +17,7 @@ def test_session_messages_round_trip(tmp_path):
             "role": "assistant",
             "content": "Wynik to 4.",
             "sources": [{"file": "wzory.pdf", "page": "4"}],
+            "visualization": {},
         }
     ]
 
@@ -39,6 +40,16 @@ def test_history_lists_only_non_empty_conversations(tmp_path):
 
     assert repository.list_non_empty_conversations() == [(saved_id, "Geometria")]
     assert empty_id not in [conversation_id for conversation_id, _ in repository.list_non_empty_conversations()]
+
+
+def test_visualization_is_persisted_with_message(tmp_path):
+    repository = SessionRepository(tmp_path / "sessions.sqlite3")
+    conversation_id = repository.create_conversation()
+    visualization = {"type": "circle", "radius": 1.0}
+
+    repository.add_message(conversation_id, "assistant", "Wygenerowano okrąg.", visualization=visualization)
+
+    assert repository.get_messages(conversation_id)[0]["visualization"] == visualization
 
 
 def test_first_user_message_sets_short_chat_title(tmp_path):
