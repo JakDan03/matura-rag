@@ -1,4 +1,4 @@
-\# 📐 Tutor CKE – Asystent Maturalny z Matematyki (RAG)
+\# 📐 Asystent Maturalny z Matematyki (RAG)
 
 
 
