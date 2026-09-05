@@ -6,6 +6,7 @@ from llama_index.core import StorageContext, VectorStoreIndex, load_index_from_s
 
 from src.rag.documents import load_documents
 from src.rag.models import configure_models
+from src.rag.pdf_parser import PARSER_VERSION
 
 
 class IndexManager:
@@ -30,7 +31,10 @@ class IndexManager:
         if not self.exists() or not self.metadata_path.exists():
             return False
         metadata = json.loads(self.metadata_path.read_text(encoding="utf-8"))
-        return metadata.get("source_hash") == self._source_hash()
+        return (
+            metadata.get("source_hash") == self._source_hash()
+            and metadata.get("parser_version") == PARSER_VERSION
+        )
 
     def build(self):
         configure_models(self.app_settings, self.embedding_mode)
@@ -44,6 +48,7 @@ class IndexManager:
                     "embedding_mode": self.embedding_mode,
                     "source_hash": self._source_hash(),
                     "document_count": len(documents),
+                    "parser_version": PARSER_VERSION,
                 },
                 indent=2,
             ),

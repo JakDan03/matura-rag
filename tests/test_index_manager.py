@@ -2,6 +2,7 @@ import json
 
 from config.settings import AppSettings
 from src.rag.index_manager import IndexManager
+from src.rag.pdf_parser import PARSER_VERSION
 
 
 def test_index_manager_detects_source_changes(tmp_path):
@@ -14,7 +15,13 @@ def test_index_manager_detects_source_changes(tmp_path):
     manager = IndexManager(app_settings, "local")
     manager.index_dir.mkdir(parents=True)
     manager.metadata_path.write_text(
-        json.dumps({"source_hash": manager._source_hash()}), encoding="utf-8"
+        json.dumps(
+            {
+                "source_hash": manager._source_hash(),
+                "parser_version": PARSER_VERSION,
+            }
+        ),
+        encoding="utf-8",
     )
     (manager.index_dir / "docstore.json").write_text("{}", encoding="utf-8")
 

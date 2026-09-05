@@ -11,8 +11,8 @@
 
 ### Etap 2: jakość danych RAG
 
-- [ ] Wydzielić parser PDF oparty na stronach i sekcjach.
-- [ ] Zachować `file_name`, numer strony, typ dokumentu i tytuł sekcji w metadanych fragmentów.
+- [x] Wydzielić parser PDF oparty na stronach i sekcjach.
+- [x] Zachować `file_name`, numer strony, typ dokumentu i tytuł sekcji w metadanych fragmentów.
 - [ ] Dodać walidację indeksu i bezpieczną przebudowę do katalogu tymczasowego.
 - [ ] Renderować cytowania jako klikalne źródła, gdy dostępny jest podgląd dokumentu.
 
@@ -55,6 +55,11 @@ Iteracja jest gotowa, gdy aplikacja ma powtarzalny parser PDF z metadanymi stron
 
 ## Interfejs i formatowanie
 
+- [ ] Dodać możliwość usuwania istniejących chatów z historii.
+- [ ] Zapewnić, że w historii może istnieć tylko jeden pusty chat; przycisk „Nowy chat” nie powinien tworzyć kolejnych pustych rozmów.
+- [ ] Umożliwić nadawanie chatowi własnej nazwy przez użytkownika, niezależnie od treści zapytań.
+- [ ] Ukryć mały przycisk kotwicy/linku wyświetlany przy tytule aplikacji, jeśli nie pełni funkcji użytkowej.
+- [ ] Dodać klikalny przycisk zatwierdzania preferencji użytkownika zamiast wymagać skrótu klawiszowego.
 - [ ] Poprawne renderowanie wzorów jako LaTeX.
 - [ ] Przycisk „Pokaż tok rozumowania” w kontrolowanym widoku kroków.
 - [x] Zapisywanie i ładowanie historii sesji w SQLite.
@@ -80,7 +85,7 @@ Iteracja jest gotowa, gdy aplikacja ma powtarzalny parser PDF z metadanymi stron
 - [ ] Wyszukiwanie hybrydowe: wektory plus BM25.
 - [ ] Reranking wyników.
 - [ ] Parser tabel zachowujący układ punktacji CKE.
-- [ ] Oszczędne parsowanie PDF z zachowaniem struktury.
+- [x] Parsować PDF stronami, pomijać puste strony i zachować podstawową strukturę sekcji.
 
 ## Infrastruktura i optymalizacja
 

@@ -1,7 +1,7 @@
 class ChatService:
     def __init__(self, index, system_prompt: str):
         self.engine = index.as_chat_engine(
-            chat_mode="condense_question",
+            chat_mode="condense_plus_context",
             system_prompt=system_prompt,
             verbose=True,
         )

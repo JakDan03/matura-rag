@@ -35,7 +35,7 @@ app.py                         # Entry point i warstwa Streamlit
 config/settings.py             # Ścieżki i ustawienia modeli
 config/prompts/                # Role i prompty w plikach tekstowych
 src/prompts/                   # Ładowanie i składanie promptów
-src/rag/                       # Modele, PDF-y i zarządzanie indeksami
+src/rag/                       # Modele, parser PDF i zarządzanie indeksami
 src/services/                  # Usługi aplikacyjne, obecnie czat
 src/storage/                   # Repozytorium historii rozmów SQLite
 tests/                         # Testy modułów aplikacji
@@ -58,7 +58,7 @@ storage/indexes/local/bge-small-en-v1.5/
 storage/indexes/openai/text-embedding-3-small/
 ```
 
-Przy pierwszym uruchomieniu trzeba kliknąć przycisk tworzenia bazy. Indeks zapisuje także metadane i hash plików z `data/`. Po dodaniu lub zmianie PDF aplikacja wykryje nieaktualność i pozwoli utworzyć nową wersję. Indeksy nie powinny być przechowywane w repozytorium, dlatego katalog `storage/` jest ignorowany przez Git.
+Przy pierwszym uruchomieniu trzeba kliknąć przycisk tworzenia bazy. PDF-y są parsowane stronami przez `pypdf`; każda niepusta strona staje się dokumentem z metadanymi nazwy pliku, numeru strony, typu dokumentu i sekcji. Indeks zapisuje także metadane parsera i hash plików z `data/`. Po dodaniu lub zmianie PDF albo zmianie wersji parsera aplikacja wykryje nieaktualność i pozwoli utworzyć nową wersję. Indeksy nie powinny być przechowywane w repozytorium, dlatego katalog `storage/` jest ignorowany przez Git.
 
 ## Prompty i role
 
