@@ -19,27 +19,71 @@ current_conversation_id = session_service.ensure_current(
     st.session_state.get("conversation_id")
 )
 
-if st.sidebar.button("Nowa rozmowa"):
-    current_conversation_id = session_service.create_new()
+if st.sidebar.button("Stwórz nowy chat"):
+    current_conversation_id = session_service.create_new(current_conversation_id)
     st.session_state.conversation_id = current_conversation_id
     st.session_state.pop("messages", None)
+    st.session_state.pop("history_selection", None)
     st.rerun()
 
-conversation_options = session_service.list_conversations()
-selected_conversation_id = st.sidebar.selectbox(
-    "Historia rozmów:",
-    [conversation_id for conversation_id, _ in conversation_options],
-    index=next(
-        (index for index, (conversation_id, _) in enumerate(conversation_options) if conversation_id == current_conversation_id),
-        0,
-    ),
-    format_func=lambda conversation_id: next(
-        title for item_id, title in conversation_options if item_id == conversation_id
-    ),
-)
-if selected_conversation_id != st.session_state.get("conversation_id"):
-    st.session_state.conversation_id = selected_conversation_id
-    st.session_state.messages = session_service.load_messages(selected_conversation_id)
+conversation_options = session_service.list_non_empty_conversations()
+conversation_ids = [conversation_id for conversation_id, _ in conversation_options]
+
+with st.sidebar.expander("Historia chatów", expanded=True):
+    if conversation_options:
+        history_index = (
+            conversation_ids.index(current_conversation_id)
+            if current_conversation_id in conversation_ids
+            else None
+        )
+        selected_history_id = st.selectbox(
+            "Wybierz rozmowę:",
+            conversation_ids,
+            index=history_index,
+            format_func=lambda conversation_id: next(
+                title for item_id, title in conversation_options if item_id == conversation_id
+            ),
+            placeholder="Wybierz zapisany chat...",
+            label_visibility="collapsed",
+        )
+        if (
+            selected_history_id != st.session_state.get("conversation_id")
+        ):
+            st.session_state.conversation_id = selected_history_id
+            st.session_state.messages = session_service.load_messages(selected_history_id)
+            st.rerun()
+
+        active_history_id = current_conversation_id
+        if active_history_id in conversation_ids:
+            active_title = next(
+                title for item_id, title in conversation_options if item_id == active_history_id
+            )
+            title_key = f"chat_title_{active_history_id}"
+            if st.session_state.get(title_key) != active_title:
+                st.session_state[title_key] = active_title
+
+            def save_chat_title(conversation_id=active_history_id, key=title_key):
+                try:
+                    session_service.rename(conversation_id, st.session_state[key])
+                    st.session_state.pop("chat_title_error", None)
+                except ValueError as error:
+                    st.session_state.chat_title_error = str(error)
+
+            st.text_input(
+                "Nazwa chatu",
+                key=title_key,
+                on_change=save_chat_title,
+            )
+            if st.session_state.get("chat_title_error"):
+                st.error(st.session_state.chat_title_error)
+
+            if st.button("Usuń chat", key=f"delete_chat_{active_history_id}"):
+                session_repository.delete_conversation(active_history_id)
+                st.session_state.pop("conversation_id", None)
+                st.session_state.pop("messages", None)
+                st.rerun()
+    else:
+        st.caption("Brak zapisanych rozmów.")
 
 embedding_label = st.sidebar.radio(
     "Silnik wektoryzacji:",
@@ -51,13 +95,31 @@ role_options = prompt_loader.role_choices()
 role_name = st.sidebar.selectbox(
     "Rola tutora:", list(role_options), format_func=role_options.get
 )
-student_context = st.sidebar.text_area(
-    "Kontekst ucznia (opcjonalnie):",
-    placeholder="Np. poziom podstawowy, potrzebuję krótkich podpowiedzi.",
-)
+if "student_context" not in st.session_state:
+    st.session_state.student_context = ""
+with st.sidebar.form("student_preferences"):
+    st.text_area(
+        "Kontekst ucznia (opcjonalnie):",
+        value=st.session_state.student_context,
+        key="student_context_draft",
+        placeholder="Np. poziom podstawowy, potrzebuję krótkich podpowiedzi.",
+    )
+    preferences_submitted = st.form_submit_button("Zastosuj preferencje")
+
+if preferences_submitted:
+    st.session_state.student_context = st.session_state.student_context_draft
+student_context = st.session_state.student_context
 
 index_manager = IndexManager(settings, embedding_mode)
-st.title("📐 Tutor CKE - Matura z Matematyki")
+st.markdown(
+    """
+    <style>
+    .stMarkdown h1 a { display: none !important; }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+st.title("📐 Matura z Matematyki")
 
 if not index_manager.exists() or not index_manager.is_current():
     st.warning(
@@ -115,3 +177,4 @@ if prompt := st.chat_input("Napisz pytanie..."):
             st.session_state.messages.append(
                 {"role": "assistant", "content": answer["answer"], "sources": answer["sources"]}
             )
+            st.rerun()

@@ -14,13 +14,14 @@
 - [x] Wydzielić parser PDF oparty na stronach i sekcjach.
 - [x] Zachować `file_name`, numer strony, typ dokumentu i tytuł sekcji w metadanych fragmentów.
 - [ ] Dodać walidację indeksu i bezpieczną przebudowę do katalogu tymczasowego.
+- [ ] Dodać opcjonalny eksport sparsowanych dokumentów do czytelnych plików diagnostycznych, np. tekstu per strona i `manifest.json` z metadanymi.
 - [ ] Renderować cytowania jako klikalne źródła, gdy dostępny jest podgląd dokumentu.
 
 ### Etap 3: doświadczenie ucznia
 
 - [ ] Renderować odpowiedzi z LaTeX bez traktowania całego tekstu jako wzoru.
 - [ ] Dodać eksport rozmowy do Markdown.
-- [ ] Dodać usuwanie sesji oraz tytuły rozmów edytowalne przez użytkownika.
+- [x] Dodać usuwanie sesji oraz tytuły rozmów edytowalne przez użytkownika.
 - [ ] Dodać kontrolowany widok kroków rozwiązania zamiast ujawniania surowego rozumowania modelu.
 
 ### Etap 4: narzędzia matematyczne
@@ -55,15 +56,15 @@ Iteracja jest gotowa, gdy aplikacja ma powtarzalny parser PDF z metadanymi stron
 
 ## Interfejs i formatowanie
 
-- [ ] Dodać możliwość usuwania istniejących chatów z historii.
-- [ ] Zapewnić, że w historii może istnieć tylko jeden pusty chat; przycisk „Nowy chat” nie powinien tworzyć kolejnych pustych rozmów.
-- [ ] Umożliwić nadawanie chatowi własnej nazwy przez użytkownika, niezależnie od treści zapytań.
+- [x] Dodać możliwość usuwania istniejących chatów z historii.
+- [x] Zapewnić, że w historii może istnieć tylko jeden pusty chat; przycisk „Nowy chat” nie powinien tworzyć kolejnych pustych rozmów.
+- [x] Umożliwić nadawanie chatowi własnej nazwy przez użytkownika, niezależnie od treści zapytań.
 - [ ] Ukryć mały przycisk kotwicy/linku wyświetlany przy tytule aplikacji, jeśli nie pełni funkcji użytkowej.
-- [ ] Dodać klikalny przycisk zatwierdzania preferencji użytkownika zamiast wymagać skrótu klawiszowego.
+- [x] Dodać klikalny przycisk zatwierdzania preferencji użytkownika zamiast wymagać skrótu klawiszowego.
 - [ ] Poprawne renderowanie wzorów jako LaTeX.
 - [ ] Przycisk „Pokaż tok rozumowania” w kontrolowanym widoku kroków.
 - [x] Zapisywanie i ładowanie historii sesji w SQLite.
-- [ ] Usuwanie historii sesji z interfejsu.
+- [x] Usuwanie historii sesji z interfejsu.
 - [ ] Eksport rozmowy i arkuszy do PDF/Markdown.
 - [ ] Przeglądarka dokumentów z podglądem źródła obok czatu.
 

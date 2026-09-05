@@ -76,6 +76,8 @@ python -m compileall -q app.py config src
 
 Historia rozmów jest zapisywana lokalnie w `storage/sessions.sqlite3`. Z panelu bocznego można utworzyć nową rozmowę albo przełączyć się na wcześniejszą. Odpowiedzi pokazują dostępne źródła dokumentowe, w tym numer strony, jeśli parser i indeks zachowały takie metadane.
 
+W panelu bocznym można również zmienić nazwę aktywnego chatu i go usunąć. Przycisk „Nowa rozmowa” wykorzystuje istniejący pusty chat zamiast tworzyć kolejne puste rozmowy. Preferencje ucznia są zatwierdzane przyciskiem „Zastosuj preferencje”.
+
 ## Testy
 
 Po instalacji zależności uruchom:
