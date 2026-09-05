@@ -18,6 +18,7 @@ def test_session_messages_round_trip(tmp_path):
             "content": "Wynik to 4.",
             "sources": [{"file": "wzory.pdf", "page": "4"}],
             "visualization": {},
+            "retrieval_metrics": {},
         }
     ]
 
@@ -50,6 +51,16 @@ def test_visualization_is_persisted_with_message(tmp_path):
     repository.add_message(conversation_id, "assistant", "Wygenerowano okrąg.", visualization=visualization)
 
     assert repository.get_messages(conversation_id)[0]["visualization"] == visualization
+
+
+def test_retrieval_metrics_are_persisted_with_message(tmp_path):
+    repository = SessionRepository(tmp_path / "sessions.sqlite3")
+    conversation_id = repository.create_conversation()
+    metrics = {"node_count": 2, "context_tokens_estimate": 120}
+
+    repository.add_message(conversation_id, "assistant", "Odpowiedź", retrieval_metrics=metrics)
+
+    assert repository.get_messages(conversation_id)[0]["retrieval_metrics"] == metrics
 
 
 def test_first_user_message_sets_short_chat_title(tmp_path):

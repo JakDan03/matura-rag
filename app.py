@@ -157,6 +157,31 @@ def render_visualization(visualization: dict):
         )
     return None
 
+
+def render_message_details(message: dict):
+    visualization = message.get("visualization", {})
+    if visualization:
+        figure = render_visualization(visualization)
+        if figure is not None:
+            st.plotly_chart(figure, use_container_width=True)
+
+    retrieval_metrics = message.get("retrieval_metrics", {})
+    if retrieval_metrics:
+        with st.expander("Diagnostyka RAG"):
+            st.json(retrieval_metrics)
+
+    sources = message.get("sources", [])
+    if sources:
+        with st.expander("Źródła"):
+            for source in sources:
+                page = f", strona {source['page']}" if source.get("page") else ""
+                score = (
+                    f", podobieństwo {source['score']:.3f}"
+                    if source.get("score") is not None
+                    else ""
+                )
+                st.write(f"- {source['file']}{page}{score}")
+
 chat_configuration = (embedding_mode, role_name, student_context)
 if st.session_state.get("chat_configuration") != chat_configuration:
     st.session_state.chat_service = ChatService(
@@ -175,9 +200,7 @@ if "messages" not in st.session_state:
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
-        visualization = message.get("visualization", {})
-        if visualization:
-            st.plotly_chart(render_visualization(visualization), use_container_width=True)
+        render_message_details(message)
 
 if prompt := st.chat_input("Napisz pytanie..."):
     st.session_state.messages.append({"role": "user", "content": prompt})
@@ -227,11 +250,12 @@ if prompt := st.chat_input("Napisz pytanie..."):
             st.markdown(answer["answer"])
             if figure is not None:
                 st.plotly_chart(figure, use_container_width=True)
-            if answer["sources"]:
-                with st.expander("Źródła"):
-                    for source in answer["sources"]:
-                        page = f", strona {source['page']}" if source["page"] else ""
-                        st.write(f"- {source['file']}{page}")
+            render_message_details(
+                {
+                    "sources": answer["sources"],
+                    "retrieval_metrics": answer.get("retrieval_metrics", {}),
+                }
+            )
             session_repository.add_message(current_conversation_id, "user", prompt)
             session_repository.add_message(
                 current_conversation_id,
@@ -239,6 +263,7 @@ if prompt := st.chat_input("Napisz pytanie..."):
                 answer["answer"],
                 answer["sources"],
                 visualization,
+                answer.get("retrieval_metrics", {}),
             )
             st.session_state.messages.append(
                 {
@@ -246,6 +271,7 @@ if prompt := st.chat_input("Napisz pytanie..."):
                     "content": answer["answer"],
                     "sources": answer["sources"],
                     "visualization": visualization,
+                    "retrieval_metrics": answer.get("retrieval_metrics", {}),
                 }
             )
             st.rerun()

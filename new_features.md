@@ -16,7 +16,7 @@
 - [x] Ograniczać kontekst odpowiedzi przez retriever `similarity_top_k=2`, zamiast przekazywać cały indeks do LLM.
 - [x] Dodać konfigurowalny próg podobieństwa i odrzucać fragmenty, które nie są wystarczająco trafne.
 - [ ] Dobrać rozmiar i overlap chunków na podstawie pomiarów jakości oraz kosztu tokenów.
-- [ ] Mierzyć liczbę pobranych fragmentów, długość kontekstu, tokeny i koszt zapytania.
+- [x] Mierzyć liczbę pobranych fragmentów, długość kontekstu i przybliżenie tokenów; koszt zapytania pozostaje do połączenia z usage API modelu.
 - [ ] Pomijać kondensowanie historii dla niezależnych pytań, aby uniknąć dodatkowego wywołania LLM.
 - [ ] Dodać router decydujący, czy pytanie wymaga RAG, narzędzia matematycznego czy odpowiedzi bez retrieval.
 - [x] Dodać walidację indeksu i bezpieczną przebudowę do katalogu tymczasowego.

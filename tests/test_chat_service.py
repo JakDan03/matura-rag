@@ -35,3 +35,11 @@ def test_chat_service_rejects_invalid_retrieval_configuration():
 
     with pytest.raises(ValueError):
         ChatService(FakeIndex(), "Prompt", similarity_cutoff=1.1)
+
+
+def test_chat_service_returns_retrieval_metrics():
+    service = ChatService(FakeIndex(), "Prompt")
+
+    result = service.ask("Pytanie")
+
+    assert result["retrieval_metrics"]["node_count"] == 0

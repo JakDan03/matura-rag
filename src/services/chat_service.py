@@ -1,5 +1,7 @@
 from llama_index.core.postprocessor import SimilarityPostprocessor
 
+from src.rag.metrics import measure_retrieval
+
 
 class ChatService:
     def __init__(
@@ -25,8 +27,9 @@ class ChatService:
 
     def ask(self, question: str) -> dict:
         response = self.engine.chat(question)
+        source_nodes = list(getattr(response, "source_nodes", []))
         sources = []
-        for source_node in getattr(response, "source_nodes", []):
+        for source_node in source_nodes:
             metadata = source_node.node.metadata
             sources.append(
                 {
@@ -35,4 +38,8 @@ class ChatService:
                     "score": source_node.score,
                 }
             )
-        return {"answer": response.response, "sources": sources}
+        return {
+            "answer": response.response,
+            "sources": sources,
+            "retrieval_metrics": measure_retrieval(source_nodes).as_dict(),
+        }

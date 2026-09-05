@@ -97,6 +97,8 @@ wykres 3d: x^2 + y^2
 
 Wyrażenia są parsowane przez SymPy. Wykresy 2D i 3D są renderowane interaktywnie przez Plotly, z ograniczonym zakresem próbkowania.
 
+Odpowiedzi RAG zawierają również rozwijany panel `Diagnostyka RAG` z liczbą pobranych fragmentów, liczbą znaków kontekstu, przybliżeniem tokenów oraz statystykami podobieństwa. Estymacja tokenów jest orientacyjna; dokładne zużycie i koszt wymagają odczytania usage z odpowiedzi konkretnego modelu.
+
 ## Testy
 
 Po instalacji zależności uruchom:
