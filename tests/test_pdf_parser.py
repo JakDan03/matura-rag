@@ -39,6 +39,13 @@ def test_document_type_falls_back_to_pdf():
     assert document_type_for(Path("material.pdf")) == "pdf"
 
 
+def test_document_type_uses_data_folder_structure():
+    assert document_type_for(Path("data/wymagania/aktualne.pdf")) == "requirements"
+    assert document_type_for(Path("data/karta_wzorow/aktualna.pdf")) == "formula_sheet"
+    assert document_type_for(Path("data/podstawowa/arkusze/2025.pdf")) == "exam_paper"
+    assert document_type_for(Path("data/rozszerzona/klucze/2025.pdf")) == "scoring_guide"
+
+
 def test_export_writes_pages_and_manifest(monkeypatch, tmp_path):
     source_dir = tmp_path / "data"
     source_dir.mkdir()

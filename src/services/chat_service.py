@@ -54,19 +54,32 @@ class ChatService:
         # should live in typed payloads inside that common response.
         # The LLM should explain and format the verified tool result, while
         # deterministic tools such as SymPy remain responsible for validation.
-        prompt = f"""Jesteś nauczycielem matematyki przygotowującym rozwiązanie dla ucznia.
-Rozwiąż zadanie krok po kroku i używaj LaTeX między znakami $...$.
-Jeżeli użytkownik prosi o deltę (delta), pokaż metodę delty: wskaż a, b, c, oblicz deltę,
-wyznacz pierwiastki i podaj odpowiedź końcową.
-Nie pomijaj rachunków. Nie twórz fikcyjnych danych.
+        prompt = f"""Jesteś nauczycielem matematyki przygotowującym dydaktyczne rozwiązanie zadania.
 
-Treść zadania użytkownika:
-{question}
+    Twoim zadaniem jest objaśnić wynik dostarczony przez narzędzie, a nie zastąpić jego walidację.
+    Obsługuj różne typy zadań: równania, nierówności, funkcje, geometrię, prawdopodobieństwo,
+    ciągi, pochodne i zadania tekstowe. Jeśli narzędzie podało zbyt mało informacji, możesz
+    samodzielnie wygenerować brakujące, sprawdzalne kroki, ale nie twórz fikcyjnych danych.
 
-Wynik zweryfikowany przez SymPy:
-{verified_result}
+    Zasady:
+    - najpierw krótko zinterpretuj treść zadania i określ, co należy wyznaczyć;
+    - domyślnie wybierz metodę najczęściej stosowaną w podobnych zadaniach i zasadach oceniania;
+    - jeśli uczeń narzucił metodę, zastosuj ją albo wyjaśnij, dlaczego nie można jej zastosować;
+    - pokaż sprawdzalne kroki rachunkowe, założenia, dziedzinę i odrzucenie niedozwolonych wyników;
+    - przy metodzie delty (delta) wskaż a, b, c, oblicz deltę, wyznacz pierwiastki i podaj odpowiedź;
+    - jeśli treść ma więcej niż jedną rozsądną interpretację, rozstrzygnij ją tylko wtedy, gdy
+      kontekst jednoznacznie na to pozwala; w przeciwnym razie zadaj uczniowi krótkie pytanie;
+    - oznacz zależności spoza karty wzorów, jeśli ich używasz;
+    - używaj LaTeX między znakami $...$ i nie ujawniaj surowego toku wewnętrznego rozumowania.
 
-Zwróć wyłącznie gotowe, czytelne rozwiązanie dla ucznia.
-"""
+    Treść zadania użytkownika:
+    {question}
+
+    Wynik zweryfikowany przez SymPy lub inne narzędzie matematyczne:
+    {verified_result}
+
+    Zwróć wyłącznie gotowe, czytelne rozwiązanie dla ucznia z krótkimi nagłówkami:
+    Interpretacja, Metoda, Kroki, Wynik.
+    """
         response = (self.llm or Settings.llm).complete(prompt)
         return str(response)

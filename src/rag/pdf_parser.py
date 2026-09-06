@@ -11,6 +11,17 @@ PARSER_VERSION = "pdf-pages-v1"
 
 def document_type_for(path: Path) -> str:
     name = path.name.lower()
+    directories = {part.lower() for part in path.parts}
+    if "karta_wzorow" in directories:
+        return "formula_sheet"
+    if "wymagania" in directories:
+        return "requirements"
+    if "klucze" in directories or "ocenian" in name or "scoring" in name:
+        return "scoring_guide"
+    if "arkusze" in directories:
+        return "exam_paper"
+    if "informatory" in directories:
+        return "exam_guide"
     if "wzor" in name or "formula" in name:
         return "formula_sheet"
     if "informator" in name:

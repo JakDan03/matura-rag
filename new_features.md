@@ -2,6 +2,21 @@
 
 ## Plan kolejnej iteracji
 
+### Funkcje wynikające z wymagań promptów
+
+- [x] Przenieść prompt bazowy z kodu do zewnętrznego pliku i rozdzielić go od promptów ról.
+- [x] Dodać katalog źródeł opisujący zawartość plików, ich zastosowanie i hierarchię wiarygodności.
+- [x] Usunąć osobny tryb „podpowiedzi krok po kroku”; stopniowanie podpowiedzi należy do tutora.
+- [x] Uporządkować `data/` według poziomu matury oraz typów materiałów: wymagania, karta wzorów, informatory, arkusze i klucze.
+- [ ] Dodać identyfikatory źródłowych zadań: poziom, rok, miesiąc, typ dokumentu i numer zadania.
+- [ ] Dodać metadane dokumentów: aktualność, poziom, rok, typ źródła i status względem wymagań.
+- [ ] Dodać strukturalny profil ucznia: poziom przygotowania, preferowana szczegółowość i bieżący tryb pracy.
+- [ ] Dodać walidację, czy zadanie lub generowany przykład mieści się w aktualnych wymaganiach dla poziomu ucznia.
+- [ ] Rozdzielić oficjalną punktację CKE od nieoficjalnej oceny szacunkowej wywnioskowanej z analogii.
+- [ ] Zapisywać błędy i słabe działy ucznia jako sygnały do dalszej nauki, bez zastępowania nimi bieżącej oceny.
+- [ ] Filtrować i rerankować retrieval według poziomu, aktualności i typu źródła przed przekazaniem kontekstu LLM.
+- [ ] Dodać osobny przepływ generowania zadań z kontrolą zakresu, poziomu i oznaczeniem zadania jako własnego.
+
 ### Etap 1: stabilizacja i jakość
 
 - [x] Usunąć zdublowany stary przepływ z `app.py`.
@@ -15,6 +30,7 @@
 - [x] Zachować `file_name`, numer strony, typ dokumentu i tytuł sekcji w metadanych fragmentów.
 - [x] Ograniczać kontekst odpowiedzi przez retriever `similarity_top_k=2`, zamiast przekazywać cały indeks do LLM.
 - [x] Dodać konfigurowalny próg podobieństwa i odrzucać fragmenty, które nie są wystarczająco trafne.
+- [ ] Cofnąć zmianę związaną z ustawieniem thresholdu dla podobieństwa wektorów - nie zadziała przy tak wielowymiarowej przestrzeni wektorowej - zamiast tego skupić się na rerankingu
 - [ ] Dobrać rozmiar i overlap chunków na podstawie pomiarów jakości oraz kosztu tokenów.
 - [x] Mierzyć liczbę pobranych fragmentów, długość kontekstu i przybliżenie tokenów; koszt zapytania pozostaje do połączenia z usage API modelu.
 - [ ] Pomijać kondensowanie historii dla niezależnych pytań, aby uniknąć dodatkowego wywołania LLM.
@@ -70,6 +86,7 @@ Iteracja jest gotowa, gdy aplikacja ma powtarzalny parser PDF z metadanymi stron
 - [x] Zapewnić, że w historii może istnieć tylko jeden pusty chat; przycisk „Nowy chat” nie powinien tworzyć kolejnych pustych rozmów.
 - [x] Umożliwić nadawanie chatowi własnej nazwy przez użytkownika, niezależnie od treści zapytań.
 - [ ] Ukryć mały przycisk kotwicy/linku wyświetlany przy tytule aplikacji, jeśli nie pełni funkcji użytkowej.
+- [ ] W ramce "Nazwa chatu" z defaultu pokazywać tylko napis na szaro, niemodyfikowalny "Zmień nazwę", ponieważ zarówno w liście rozwijanej jak i w ramce na zmianę nazwy wyświetla się to samo, co jest mylące dla użytkownika
 - [x] Dodać klikalny przycisk zatwierdzania preferencji użytkownika zamiast wymagać skrótu klawiszowego.
 - [x] Poprawne renderowanie wzorów jako LaTeX.
 - [ ] Przycisk „Pokaż tok rozumowania” w kontrolowanym widoku kroków.

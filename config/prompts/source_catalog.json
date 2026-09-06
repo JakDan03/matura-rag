@@ -1,0 +1,53 @@
+{
+  "sources": [
+    {
+      "id": "formula_sheet",
+      "path": "data/karta_wzorow/",
+      "description": "Karta wzorów dostępnych podczas egzaminu; zawiera większość najczęściej potrzebnych wzorów, ale nie jest zamkniętym katalogiem dozwolonych metod.",
+      "authority": "preferowane źródło wzorów egzaminacyjnych",
+      "use_for": ["wzory", "lokalizacja wzoru", "typowe metody"]
+    },
+    {
+      "id": "current_requirements",
+      "path": "data/wymagania/",
+      "description": "Aktualne wymagania maturalne; określa zakres treści dla poziomu podstawowego i rozszerzonego.",
+      "authority": "jedyne nadrzędne źródło wymagań",
+      "use_for": ["czy temat mieści się w zakresie", "poziom podstawowy", "poziom rozszerzony"]
+    },
+    {
+      "id": "basic_exam_guides",
+      "path": "data/podstawowa/informatory/",
+      "description": "Informatory dla poziomu podstawowego: przykłady zadań, ogólne informacje o egzaminie i ogólne zasady oceniania.",
+      "authority": "materiał uzupełniający, nie źródło aktualnych wymagań",
+      "use_for": ["schematy zadań", "przykładowe metody", "ogólna forma egzaminu"]
+    },
+    {
+      "id": "advanced_exam_guides",
+      "path": "data/rozszerzona/informatory/",
+      "description": "Informatory dla poziomu rozszerzonego: przykłady zadań, ogólne informacje o egzaminie i ogólne zasady oceniania.",
+      "authority": "materiał uzupełniający, nie źródło aktualnych wymagań",
+      "use_for": ["schematy zadań", "przykładowe metody", "ogólna forma egzaminu"]
+    },
+    {
+      "id": "basic_exam_papers",
+      "path": "data/podstawowa/arkusze/",
+      "description": "Rzeczywiste arkusze matury podstawowej; najlepiej odwzorowują poziom i formę egzaminu.",
+      "authority": "najlepszy wzorzec poziomu, po sprawdzeniu aktualności wymagań",
+      "use_for": ["zadania źródłowe", "poziom trudności", "identyfikatory zadań"]
+    },
+    {
+      "id": "advanced_exam_papers",
+      "path": "data/rozszerzona/arkusze/",
+      "description": "Rzeczywiste arkusze matury rozszerzonej; najlepiej odwzorowują poziom i formę egzaminu.",
+      "authority": "najlepszy wzorzec poziomu, po sprawdzeniu aktualności wymagań",
+      "use_for": ["zadania źródłowe", "poziom trudności", "identyfikatory zadań"]
+    },
+    {
+      "id": "scoring_guides",
+      "path": "data/podstawowa/klucze/ oraz data/rozszerzona/klucze/",
+      "description": "Klucze i zasady oceniania przypisane do arkuszy; określają, za jakie elementy można przyznać całkowite punkty.",
+      "authority": "nadrzędne źródło oficjalnej punktacji dla danego zadania",
+      "use_for": ["ocena rozwiązania", "kryteria punktowania", "utrata punktu"]
+    }
+  ]
+}

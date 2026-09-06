@@ -39,7 +39,7 @@ src/rag/                       # Modele, parser PDF i zarządzanie indeksami
 src/services/                  # Usługi aplikacyjne, obecnie czat
 src/storage/                   # Repozytorium historii rozmów SQLite
 tests/                         # Testy modułów aplikacji
-data/                          # Źródłowe pliki PDF CKE
+data/                          # Źródłowe pliki PDF CKE uporządkowane według typu i poziomu
 storage/indexes/               # Trwałe indeksy rozdzielone według embeddingu
 new_features.md                # Checklista dalszego rozwoju
 .streamlit/config.toml         # Ustawienia uruchomienia Streamlit
@@ -50,6 +50,27 @@ new_features.md                # Checklista dalszego rozwoju
 Projekt wyłącza introspekcję pakietów przez Streamlit Watcher w `.streamlit/config.toml`. Biblioteka `transformers` udostępnia opcjonalne moduły wizji, które bez zainstalowanego `torchvision` generują tracebacki watchera, mimo że tekstowe embeddingi działają poprawnie. Obecna aplikacja używa embeddingów tekstowych, więc `torchvision` nie jest potrzebne.
 
 ## Indeksowanie dokumentów
+
+Materiały źródłowe są porządkowane w katalogach, dzięki czemu można dodawać nowsze pliki
+bez zmiany logiki aplikacji:
+
+```text
+data/
+	wymagania/                   # aktualny zakres wymagań maturalnych
+	karta_wzorow/                # karta wzorów egzaminacyjnych
+	podstawowa/
+		informatory/
+		arkusze/
+		klucze/
+	rozszerzona/
+		informatory/
+		arkusze/
+		klucze/
+```
+
+W każdym katalogu może znajdować się wiele plików PDF. Katalog wymagań powinien zawierać
+aktualny dokument, a katalog karty wzorów aktualną kartę. Przy dodawaniu kolejnej wersji
+należy usunąć albo przenieść starszy plik, jeśli nie ma być indeksowany.
 
 Po wybraniu silnika wektoryzacji aplikacja szuka indeksu w odpowiednim katalogu:
 
