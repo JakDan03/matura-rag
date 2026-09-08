@@ -12,6 +12,18 @@ def test_prompt_roles_are_loaded():
     assert "Rzeczywiste arkusze" in prompt
 
 
+def test_tutor_prompt_requires_explicit_request_before_full_solution():
+    loader = PromptLoader(settings.storage_dir.parent / "config" / "prompts")
+
+    prompt = loader.build_system_prompt("tutor")
+
+    assert "nie podawaj od razu pełnego rozwiązania" in prompt
+    assert "samo wklejenie zadania nie są prośbą o pełne rozwiązanie" in prompt
+    assert "Nie traktuj obecności treści zadania w kontekście RAG" in prompt
+    assert "Odpowiedź będąca wskazówką nie może zawierać pełnego rachunku" in prompt
+    assert "podaj numer strony wskazany w nagłówku" in prompt
+
+
 def test_student_context_is_injected():
     loader = PromptLoader(settings.storage_dir.parent / "config" / "prompts")
 

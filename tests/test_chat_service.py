@@ -46,11 +46,14 @@ def test_chat_service_returns_retrieval_metrics():
 def test_chat_service_uses_llm_to_explain_verified_math(monkeypatch):
     class FakeLLM:
         def complete(self, prompt):
+            assert "Instrukcje wybranej roli" in prompt
             assert "Wynik zweryfikowany przez SymPy" in prompt
             assert "delta" in prompt.lower()
             return "Kroki rozwiązania: $\\Delta = 0$, więc $x = 1$."
 
-    service = ChatService(FakeIndex(), "Prompt", llm=FakeLLM())
+    service = ChatService(
+        FakeIndex(), "Instrukcje wybranej roli", llm=FakeLLM()
+    )
 
     answer = service.explain_math(
         "Rozwiąż równanie x^2 - 2x + 1 = 0 metodą delty",

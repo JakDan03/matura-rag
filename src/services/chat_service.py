@@ -14,6 +14,7 @@ class ChatService:
     ):
         if retrieval_top_k < 1:
             raise ValueError("retrieval_top_k musi być większe od zera.")
+        self.system_prompt = system_prompt
         self.engine = index.as_chat_engine(
             chat_mode="condense_plus_context",
             system_prompt=system_prompt,
@@ -60,7 +61,9 @@ class ChatService:
         # should live in typed payloads inside that common response.
         # The LLM should explain and format the verified tool result, while
         # deterministic tools such as SymPy remain responsible for validation.
-        prompt = f"""Jesteś nauczycielem matematyki przygotowującym dydaktyczne rozwiązanie zadania.
+        prompt = f"""{self.system_prompt}
+
+    Jesteś nauczycielem matematyki przygotowującym dydaktyczne rozwiązanie zadania.
 
     Twoim zadaniem jest objaśnić wynik dostarczony przez narzędzie, a nie zastąpić jego walidację.
     Obsługuj różne typy zadań: równania, nierówności, funkcje, geometrię, prawdopodobieństwo,

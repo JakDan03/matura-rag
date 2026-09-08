@@ -36,6 +36,7 @@ def test_pdf_parser_preserves_page_and_section_metadata(monkeypatch, tmp_path):
     assert documents[0].metadata["page_number"] == 1
     assert documents[0].metadata["document_type"] == "formula_sheet"
     assert documents[0].text.startswith("[ŹRÓDŁO:")
+    assert "strona=1" in documents[0].text
     assert documents[0].metadata["section"] == "GEOMETRIA"
     assert documents[1].metadata["page_number"] == 2
     assert documents[1].metadata["section"] == "1. Zadanie 1"

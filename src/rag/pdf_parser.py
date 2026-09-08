@@ -216,6 +216,10 @@ def _source_header(metadata: dict) -> str:
         f"plik={metadata['file_name']}",
         f"typ={metadata['document_type']}",
     ]
+    if metadata.get("page_numbers"):
+        fields.append(f"strony={metadata['page_label']}")
+    elif metadata.get("page_number"):
+        fields.append(f"strona={metadata['page_number']}")
     for key in ("level", "year", "month", "term", "task_id", "section"):
         if metadata.get(key):
             fields.append(f"{key}={metadata[key]}")
