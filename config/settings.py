@@ -12,12 +12,11 @@ load_dotenv(ROOT_DIR / ".env")
 class AppSettings:
     data_dir: Path = ROOT_DIR / "data"
     storage_dir: Path = ROOT_DIR / "storage"
-    local_embedding_model: str = "BAAI/bge-small-en-v1.5"
+    local_embedding_model: str = "sdadas/mmlw-retrieval-roberta-base"
     openai_embedding_model: str = "text-embedding-3-small"
     llm_model: str = "gpt-4o-mini"
     default_temperature: float = 0.2
-    retrieval_top_k: int = 2
-    retrieval_similarity_cutoff: float = 0.2
+    retrieval_top_k: int = 150
 
     def index_dir(self, embedding_mode: str) -> Path:
         directory_name = "openai" if embedding_mode == "openai" else "local"

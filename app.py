@@ -176,13 +176,28 @@ def render_message_details(message: dict):
     if sources:
         with st.expander("Źródła"):
             for source in sources:
-                page = f", strona {source['page']}" if source.get("page") else ""
+                source_pages = source.get("page_numbers") or source.get("page")
+                page = f", strony {source_pages}" if source_pages else ""
                 score = (
                     f", podobieństwo {source['score']:.3f}"
                     if source.get("score") is not None
                     else ""
                 )
-                st.write(f"- {source['file']}{page}{score}")
+                provenance = []
+                if source.get("level"):
+                    provenance.append(source["level"])
+                if source.get("year"):
+                    provenance.append(str(source["year"]))
+                if source.get("month"):
+                    provenance.append(source["month"])
+                if source.get("term"):
+                    provenance.append(source["term"])
+                if source.get("task_id"):
+                    provenance.append(f"zadanie {source['task_id']}")
+                if source.get("task_group_id") and source.get("task_group_id") != source.get("task_id"):
+                    provenance.append(f"grupa {source['task_group_id']}")
+                details = f" ({', '.join(provenance)})" if provenance else ""
+                st.write(f"- {source['file']}{details}{page}{score}")
 
 chat_configuration = (embedding_mode, role_name, student_context)
 if st.session_state.get("chat_configuration") != chat_configuration:
@@ -190,7 +205,6 @@ if st.session_state.get("chat_configuration") != chat_configuration:
         index,
         system_prompt,
         retrieval_top_k=settings.retrieval_top_k,
-        similarity_cutoff=settings.retrieval_similarity_cutoff,
     )
     st.session_state.chat_configuration = chat_configuration
 

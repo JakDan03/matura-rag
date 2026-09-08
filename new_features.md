@@ -8,13 +8,14 @@
 - [x] Dodać katalog źródeł opisujący zawartość plików, ich zastosowanie i hierarchię wiarygodności.
 - [x] Usunąć osobny tryb „podpowiedzi krok po kroku”; stopniowanie podpowiedzi należy do tutora.
 - [x] Uporządkować `data/` według poziomu matury oraz typów materiałów: wymagania, karta wzorów, informatory, arkusze i klucze.
-- [ ] Dodać identyfikatory źródłowych zadań: poziom, rok, miesiąc, typ dokumentu i numer zadania.
-- [ ] Dodać metadane dokumentów: aktualność, poziom, rok, typ źródła i status względem wymagań.
+- [x] Dodać identyfikatory źródłowych zadań: poziom, rok, miesiąc, typ dokumentu, grupę zadania, numer zadania i listę stron.
+- [x] Dodać metadane dokumentów: poziom, rok, typ źródła, proweniencję oraz status potwierdzenia źródła.
 - [ ] Dodać strukturalny profil ucznia: poziom przygotowania, preferowana szczegółowość i bieżący tryb pracy.
 - [ ] Dodać walidację, czy zadanie lub generowany przykład mieści się w aktualnych wymaganiach dla poziomu ucznia.
 - [ ] Rozdzielić oficjalną punktację CKE od nieoficjalnej oceny szacunkowej wywnioskowanej z analogii.
 - [ ] Zapisywać błędy i słabe działy ucznia jako sygnały do dalszej nauki, bez zastępowania nimi bieżącej oceny.
-- [ ] Filtrować i rerankować retrieval według poziomu, aktualności i typu źródła przed przekazaniem kontekstu LLM.
+- [x] Filtrować i rerankować retrieval według poziomu i typu źródła przed przekazaniem kontekstu LLM.
+- [x] Rozdzielić arkusz i klucz kontrolnej matury rozszerzonej na logiczne zadania i podzadania z zachowaniem wspólnego identyfikatora pary.
 - [ ] Dodać osobny przepływ generowania zadań z kontrolą zakresu, poziomu i oznaczeniem zadania jako własnego.
 
 ### Etap 1: stabilizacja i jakość
@@ -28,9 +29,9 @@
 
 - [x] Wydzielić parser PDF oparty na stronach i sekcjach.
 - [x] Zachować `file_name`, numer strony, typ dokumentu i tytuł sekcji w metadanych fragmentów.
-- [x] Ograniczać kontekst odpowiedzi przez retriever `similarity_top_k=2`, zamiast przekazywać cały indeks do LLM.
+- [x] Ograniczać kontekst odpowiedzi przez retriever z pulą 150 kandydatów i przekazywać dalej tylko wynik rerankingu, zamiast cały indeks do LLM; zwykłe pytania dostają 6 fragmentów, a pytania o pełny zakres wymagań wszystkie znalezione bloki wymagań.
 - [x] Dodać konfigurowalny próg podobieństwa i odrzucać fragmenty, które nie są wystarczająco trafne.
-- [ ] Cofnąć zmianę związaną z ustawieniem thresholdu dla podobieństwa wektorów - nie zadziała przy tak wielowymiarowej przestrzeni wektorowej - zamiast tego skupić się na rerankingu
+- [x] Usunąć stały threshold podobieństwa wektorów i zastąpić go rerankingiem leksykalno-metadanych.
 - [ ] Dobrać rozmiar i overlap chunków na podstawie pomiarów jakości oraz kosztu tokenów.
 - [x] Mierzyć liczbę pobranych fragmentów, długość kontekstu i przybliżenie tokenów; koszt zapytania pozostaje do połączenia z usage API modelu.
 - [ ] Pomijać kondensowanie historii dla niezależnych pytań, aby uniknąć dodatkowego wywołania LLM.

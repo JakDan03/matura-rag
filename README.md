@@ -75,7 +75,7 @@ należy usunąć albo przenieść starszy plik, jeśli nie ma być indeksowany.
 Po wybraniu silnika wektoryzacji aplikacja szuka indeksu w odpowiednim katalogu:
 
 ```text
-storage/indexes/local/bge-small-en-v1.5/
+storage/indexes/local/mmlw-retrieval-roberta-base/
 storage/indexes/openai/text-embedding-3-small/
 ```
 
@@ -129,8 +129,6 @@ Po instalacji zależności uruchom:
 ```bash
 python -m pytest -q
 ```
-
-Plan funkcji znajduje się w [new_features.md](new_features.md). Następne etapy to parser PDF zachowujący strukturę, lepsze cytowania, renderowanie LaTeX i narzędzia SymPy.
 
 ## Licencja
 Ten projekt jest udostępniany na licencji **CC BY-NC-SA 4.0**. 
