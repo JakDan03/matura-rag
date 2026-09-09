@@ -10,6 +10,8 @@
 - [x] Uporządkować `data/` według poziomu matury oraz typów materiałów: wymagania, karta wzorów, informatory, arkusze i klucze.
 - [x] Dodać identyfikatory źródłowych zadań: poziom, rok, miesiąc, typ dokumentu, grupę zadania, numer zadania i listę stron.
 - [x] Dodać metadane dokumentów: poziom, rok, typ źródła, proweniencję oraz status potwierdzenia źródła.
+- [x] Wymuszać przekazywanie wybranej roli do każdej ścieżki generowania odpowiedzi, także do wyjaśnień narzędzi matematycznych.
+- [x] Jawnie obsługiwać brakujące wykresy, rysunki i tabele: nie zgadywać ich treści i prosić o obraz lub dane, gdy są konieczne.
 - [ ] Dodać strukturalny profil ucznia: poziom przygotowania, preferowana szczegółowość i bieżący tryb pracy.
 - [ ] Dodać walidację, czy zadanie lub generowany przykład mieści się w aktualnych wymaganiach dla poziomu ucznia.
 - [ ] Rozdzielić oficjalną punktację CKE od nieoficjalnej oceny szacunkowej wywnioskowanej z analogii.
@@ -17,6 +19,7 @@
 - [x] Filtrować i rerankować retrieval według poziomu i typu źródła przed przekazaniem kontekstu LLM.
 - [x] Rozdzielić arkusz i klucz kontrolnej matury rozszerzonej na logiczne zadania i podzadania z zachowaniem wspólnego identyfikatora pary.
 - [ ] Dodać osobny przepływ generowania zadań z kontrolą zakresu, poziomu i oznaczeniem zadania jako własnego.
+- [ ] Dodać opcjonalny model reasoningowy (np. o3-mini) oraz routing modeli: kierować trudniejsze zadania do droższego modelu, a proste pytania do tańszego modelu.
 
 ### Etap 1: stabilizacja i jakość
 
@@ -33,6 +36,7 @@
 - [x] Dodać konfigurowalny próg podobieństwa i odrzucać fragmenty, które nie są wystarczająco trafne.
 - [x] Usunąć stały threshold podobieństwa wektorów i zastąpić go rerankingiem leksykalno-metadanych.
 - [ ] Dobrać rozmiar i overlap chunków na podstawie pomiarów jakości oraz kosztu tokenów.
+- [x] Ustawić jawny `SentenceSplitter` z konfigurowalnym rozmiarem i overlapem oraz unieważniać indeks po zmianie tych parametrów.
 - [x] Mierzyć liczbę pobranych fragmentów, długość kontekstu i przybliżenie tokenów; koszt zapytania pozostaje do połączenia z usage API modelu.
 - [ ] Pomijać kondensowanie historii dla niezależnych pytań, aby uniknąć dodatkowego wywołania LLM.
 - [x] Dodać router decydujący, czy pytanie wymaga RAG, narzędzia matematycznego czy odpowiedzi bez retrieval.
@@ -80,6 +84,7 @@ Iteracja jest gotowa, gdy aplikacja ma powtarzalny parser PDF z metadanymi stron
 - [ ] UI do edycji promptów systemowych i wytycznych.
 - [ ] Suwak temperatury i Top-P w panelu bocznym.
 - [ ] Automatyczny dobór parametrów modelu do zadania.
+- [ ] Dodać routing modeli z opcjonalnym modelem reasoningowym (np. o3-mini) dla zadań wymagających głębszego rozumowania, z zachowaniem tańszego modelu dla prostych zapytań.
 
 ## Interfejs i formatowanie
 

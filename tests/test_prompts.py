@@ -24,6 +24,16 @@ def test_tutor_prompt_requires_explicit_request_before_full_solution():
     assert "podaj numer strony wskazany w nagłówku" in prompt
 
 
+def test_prompt_requires_explicit_handling_of_missing_graphics():
+    loader = PromptLoader(settings.storage_dir.parent / "config" / "prompts")
+
+    prompt = loader.build_system_prompt("tutor")
+
+    assert "której treści nie ma w przekazanym kontekście" in prompt
+    assert "Nie odtwarzaj z pamięci szczegółów grafiki" in prompt
+    assert "Poproś o obraz lub dane odczytane z grafiki" in prompt
+
+
 def test_student_context_is_injected():
     loader = PromptLoader(settings.storage_dir.parent / "config" / "prompts")
 

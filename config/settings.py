@@ -17,6 +17,8 @@ class AppSettings:
     llm_model: str = "gpt-4o-mini"
     default_temperature: float = 0.2
     retrieval_top_k: int = 150
+    chunk_size: int = 1024
+    chunk_overlap: int = 200
 
     def index_dir(self, embedding_mode: str) -> Path:
         directory_name = "openai" if embedding_mode == "openai" else "local"

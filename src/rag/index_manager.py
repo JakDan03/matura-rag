@@ -7,6 +7,7 @@ import uuid
 from pathlib import Path
 
 from llama_index.core import StorageContext, VectorStoreIndex, load_index_from_storage
+from llama_index.core.node_parser import SentenceSplitter
 
 from src.rag.documents import load_documents
 from src.rag.models import configure_models
@@ -38,12 +39,18 @@ class IndexManager:
         return (
             metadata.get("source_hash") == self._source_hash()
             and metadata.get("parser_version") == PARSER_VERSION
+            and metadata.get("chunk_size") == self.app_settings.chunk_size
+            and metadata.get("chunk_overlap") == self.app_settings.chunk_overlap
         )
 
     def build(self):
         configure_models(self.app_settings, self.embedding_mode)
         documents = load_documents(self.app_settings.data_dir)
-        index = VectorStoreIndex.from_documents(documents)
+        splitter = SentenceSplitter(
+            chunk_size=self.app_settings.chunk_size,
+            chunk_overlap=self.app_settings.chunk_overlap,
+        )
+        index = VectorStoreIndex.from_documents(documents, transformations=[splitter])
         self.index_dir.parent.mkdir(parents=True, exist_ok=True)
         temporary_dir = Path(
             tempfile.mkdtemp(prefix=f".{self.index_dir.name}-", dir=self.index_dir.parent)
@@ -58,6 +65,8 @@ class IndexManager:
                         "source_hash": self._source_hash(),
                         "document_count": len(documents),
                         "parser_version": PARSER_VERSION,
+                        "chunk_size": self.app_settings.chunk_size,
+                        "chunk_overlap": self.app_settings.chunk_overlap,
                     },
                     indent=2,
                 ),

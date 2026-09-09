@@ -29,6 +29,64 @@ def test_chat_service_uses_prompt_compatible_engine():
     assert service.ask("Pytanie")["answer"] == "Odpowiedź"
 
 
+def test_chat_service_exposes_source_provenance_to_response():
+    class SourceNode:
+        score = 0.8
+        node = type(
+            "Node",
+            (),
+            {
+                "metadata": {
+                    "file_name": "arkusz.pdf",
+                    "page_label": "12, 13",
+                    "document_type": "exam_paper",
+                    "task_id": "12.1",
+                    "task_group_id": "12",
+                    "source_group_id": "arkusz-2026",
+                    "provenance_confirmed": True,
+                },
+                "get_content": lambda self: (
+                    "[ŹRÓDŁO: plik=arkusz.pdf; typ=exam_paper; strony=12, 13; "
+                    "task_id=12.1] Treść zadania."
+                ),
+            },
+        )()
+
+    class SourceEngine:
+        def chat(self, _question):
+            return type(
+                "Response",
+                (),
+                {"response": "Wskazówka", "source_nodes": [SourceNode()]},
+            )()
+
+    class SourceIndex(FakeIndex):
+        def as_chat_engine(self, **kwargs):
+            self.arguments = kwargs
+            return SourceEngine()
+
+    result = ChatService(SourceIndex(), "Rola").ask("Pomóż")
+
+    assert result["sources"] == [
+        {
+            "file": "arkusz.pdf",
+            "page": "12, 13",
+            "score": 0.8,
+            "document_type": "exam_paper",
+            "level": None,
+            "year": None,
+            "month": None,
+            "term": None,
+            "task_id": "12.1",
+            "parent_task_id": None,
+            "task_group_id": "12",
+            "page_numbers": None,
+            "source_group_id": "arkusz-2026",
+            "provenance_confirmed": True,
+        }
+    ]
+
+
 def test_chat_service_rejects_invalid_retrieval_configuration():
     with pytest.raises(ValueError):
         ChatService(FakeIndex(), "Prompt", retrieval_top_k=0)
