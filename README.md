@@ -120,7 +120,7 @@ Wyrażenia są parsowane przez SymPy. Wykresy 2D i 3D są renderowane interaktyw
 
 Odpowiedzi RAG zawierają również rozwijany panel `Diagnostyka RAG` z liczbą pobranych fragmentów, liczbą znaków kontekstu, przybliżeniem tokenów oraz statystykami podobieństwa. Estymacja tokenów jest orientacyjna; dokładne zużycie i koszt wymagają odczytania usage z odpowiedzi konkretnego modelu.
 
-Zapytania przechodzą przez lokalny router. Rozpoznaje on naturalne prośby o rozwiązanie równań i rysowanie wykresów, kierując je bezpośrednio do SymPy/Plotly. Pytania dotyczące materiałów CKE trafiają do RAG, a niejednoznaczne wiadomości domyślnie pozostają w bezpiecznej ścieżce RAG.
+Obecny prototyp używa lokalnego routera do kierowania próśb o równania i wykresy do SymPy/Plotly, a pytań o materiały CKE do RAG. Docelowa architektura zakłada zastąpienie go koordynatorem LLM, który zwraca walidowany plan i wywołuje deterministyczne toole albo wyspecjalizowanych agentów. RAG, SymPy i Plotly będą wtedy wykonawcami, a nie konkurencyjnymi ścieżkami odpowiedzi. Plan obejmuje także routing modeli: tańszy model do prostych zadań i model reasoningowy do trudnego planowania, matematyki oraz kontroli jakości.
 
 ## Testy
 
