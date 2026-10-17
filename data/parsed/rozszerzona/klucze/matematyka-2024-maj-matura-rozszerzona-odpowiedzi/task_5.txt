@@ -1,0 +1,141 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=8, 9, 10; level=rozszerzony; year=2024; month=maj; task_id=5]
+Zadanie 5. (0–3)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+I.9) stosuje związek logarytmowania
+z potęgowaniem, posługuje się wzorami na
+logarytm iloczynu, logarytm ilorazu
+i logarytm potęgi.
+I.R1) stosuje wzór na zamianę podstawy
+logarytmu.
+Zasady oceniania
+3 pkt – przeprowadzenie pełnego rozumowania.
+2 pkt – przekształcenie wyrażenia 2 log5 4 + log4 3
+log5 4 ⋅(1 + log4 3)
+lub log12 80, lub obydwu tych
+wyrażeń do takiej postaci, z której poprzez jednokrotne zastosowanie wzoru na
+logarytm iloczynu lub wzoru na zamianę podstawy logarytmu, lub logarytmu potęgi
+oraz ewentualne kilkukrotne przekształcenie wyrażenia wymiernego można otrzymać
+tezę
+ALBO
+– zapisanie jednego równania wymiernego z 𝑎, 𝑏 oraz niewiadomą 𝑥, np.
+𝑏𝑥 + 𝑥 = 1
+𝑎 + 2 (dla sposobu III),
+ALBO
+– zapisanie liczby 5 w postaci 4
+1
+𝑎
+oraz liczby 4 w postaci 12
+1
+1+𝑏
+(dla sposobu IV).
+1 pkt – zastosowanie wzoru na zamianę podstawy logarytmu lub na logarytm iloczynu, np.
+log12 80 = log4 80
+log4 12 , log12 80 = log5 80
+log5 12 , 2 ⋅ log5 4 + 1 = log5(4 ⋅ 4 ⋅ 5),
+1 + log4 3 = log4(4 ⋅ 3)
+ALBO
+– zapisanie dwóch spośród liczb 3, 4, 5 jako potęgi, której podstawą jest trzecia
+z nich, a wykładnik jest zależny od 𝑎 lub 𝑏, np.: 5 = 4
+1
+𝑎
+i 3 = 4𝑏 oraz zapisanie
+równania 12𝑥 = 80 (dla sposobu III),
+ALBO
+– zapisanie liczby 4 w postaci 12
+1
+1+𝑏
+(dla sposobu IV).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Przekształcamy wyrażenie log12 80, stosując wzór na zamianę podstawy logarytmu,
+a następnie wzór na logarytm iloczynu:
+Zasady oceniania rozwiązań zadań
+log12 80 = log4(16 ⋅ 5)
+log4(4 ⋅ 3) = log4 16 + log4 5
+log4 4 + log4 3 = 2 + log4 5
+1 + log4 3
+Korzystamy ze wzoru na zamianę podstawy logarytmu oraz z założenia i otrzymujemy
+log4 5 = log5 5
+log5 4 = 1
+log5 4 = 1
+𝑎
+Zatem
+log12 80 = 2 + log4 5
+1 + log4 3 =
+2 + 1
+𝑎
+1 + 𝑏 = 2𝑎 + 1
+𝑎 ⋅ (1 + 𝑏)
+To należało wykazać.
+Sposób II
+Przekształcamy wyrażenie 2𝑎 + 1
+𝑎 ⋅ (1 + 𝑏) , korzystając z założenia oraz ze wzoru na logarytm
+sumy:
+2𝑎 + 1
+𝑎 ⋅ (1 + 𝑏) = 2 ⋅ log5 4 + 1
+log5 4 ⋅ (1 + log4 3) = log5(4 ⋅ 4 ⋅ 5)
+log5 4 ⋅ log4(4 ⋅ 3) = log5 80
+log5 4 ⋅ log4 12
+Korzystamy dwukrotnie ze wzoru na zamianę podstawy logarytmu i otrzymujemy dalej
+log5 80
+log5 4 ⋅ log4 12 = log4 80
+log4 12 = log12 80
+Zatem log12 80 = 2𝑎 + 1
+𝑎 ⋅ (1 + 𝑏) .
+To należało wykazać.
+Sposób III
+Korzystamy z definicji logarytmu oraz z założenia i otrzymujemy 5 = 4
+1
+𝑎
+oraz 3 = 4𝑏.
+Oznaczmy przez 𝑥 liczbę rzeczywistą taką, że 12𝑥 = 80. Wtedy
+3𝑥 ⋅ 4𝑥 = 80
+(4𝑏)𝑥 ⋅ 4𝑥 = 4
+1
+𝑎 ⋅ 42
+4𝑏𝑥+𝑥 = 4
+1
+𝑎+2
+Stąd
+𝑏𝑥 + 𝑥 = 1
+𝑎 + 2
+𝑥(1 + 𝑏) = 2𝑎 + 1
+𝑎
+𝑥 = 2𝑎 + 1
+𝑎 ⋅ (1 + 𝑏)
+Zatem log12 80 = 𝑥 = 2𝑎 + 1
+𝑎 ⋅ (1 + 𝑏) .
+To należało wykazać.
+Sposób IV
+Korzystamy z definicji logarytmu oraz z założenia i otrzymujemy 5 = 4
+1
+𝑎
+oraz 3 = 4𝑏. Stąd
+12 = 4𝑏+1, czyli 4 = 12
+1
+1+𝑏
+.Zatem
+80 = 5 ⋅ 42 = 4
+1
+𝑎 ⋅ 42 = 4
+1
+𝑎 +2
+= (12
+1
+1+𝑏 )
+1
+𝑎 +2
+= 12
+2𝑎+1
+𝑎⋅(1+𝑏)
+czyli log12 80 = 2𝑎 + 1
+𝑎 ⋅ (1 + 𝑏) .
+To należało wykazać.

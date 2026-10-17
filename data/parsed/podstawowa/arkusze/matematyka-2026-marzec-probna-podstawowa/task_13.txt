@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=13; level=podstawowy; year=2026; month=marzec; term=probna; task_id=13]
+Zadanie 13. (0–1)
+Wielkości 𝑥 oraz 𝑦 zestawione w tabeli poniżej są odwrotnie proporcjonalne.
+𝑥 18 24
+𝑦 9 𝑎
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba 𝑎 jest równa
+A. 3 B. 6,75 C. 12 D. 15

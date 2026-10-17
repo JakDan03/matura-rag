@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=40; level=podstawowy; year=2024; month=maj; task_id=3]
+Zadanie 3.
+1 pkt – zastosowanie wzoru skróconego mnożenia do wyrażenia (𝑛 + 1)2
+ALBO
+– zastosowanie wzoru skróconego mnożenia do wyrażenia (𝑛 + 2)2 ,
+ALBO
+– przekształcenie wyrażenia (𝑛 + 1)2 do postaci 𝑛2 + 𝑛 + 𝑛 + 1 ,
+ALBO
+– przekształcenie wyrażenia (𝑛 + 2)2 do postaci 𝑛2 + 2𝑛 + 2𝑛 + 4 .

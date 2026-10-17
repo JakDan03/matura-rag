@@ -1,0 +1,182 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=10, 11, 12, 13; level=rozszerzony; year=2024; month=czerwiec; task_id=5]
+Zadanie 5. (0–3)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+III.R2) rozwiązuje równania i nierówności
+wymierne […].
+Zasady oceniania
+3 pkt – przeprowadzenie pełnego rozumowania.
+2 pkt – wykorzystanie założenia i przekształcenie nierówności 1
+2𝑎 + 𝑏 + 1
+𝑎 + 2𝑏 ≥ 4
+3 do
+postaci 4𝑎2 − 4𝑎 + 1 ≥ 0, 4𝑏2 − 4𝑏 + 1 ≥ 0 albo 𝑎2 − 2𝑎𝑏 + 𝑏2 ≥ 0
+ALBO
+– zapisanie nierówności między odpowiednimi średnimi liczb 1
+2𝑎 + 𝑏 oraz 1
+𝑎 + 2𝑏 (lub
+między odpowiednimi średnimi liczb 2𝑎 + 𝑏 oraz 𝑎 + 2𝑏) i przekształcenie tej
+nierówności do postaci, z której można bezpośrednio wnioskować o prawdziwości
+tezy, np. 3
+2 ≥ 2
+1
+2𝑎+𝑏 + 1
+𝑎+2𝑏
+.
+1 pkt – zapisanie nierówności w postaci równoważnej jako nierówności wymiernej
+𝑃(𝑎,𝑏)
+𝑄(𝑎,𝑏) ≥ 0, np. 3(𝑎+2𝑏)+3(2𝑎+𝑏)−4(𝑎+2𝑏)(2𝑎+𝑏)
+3(2𝑎+𝑏)(𝑎+2𝑏) ≥ 0
+ALBO
+– zapisanie nierówności w postaci równoważnej jako nierówności wielomianowej, np.
+3(1 + 𝑏) + 3(𝑎 + 1) ≥ 4(𝑎 + 1)(1 + 𝑏),
+ALBO
+– zapisanie nierówności między średnią harmoniczną a arytmetyczną liczb 1
+2𝑎 + 𝑏
+oraz 1
+𝑎 + 2𝑏 (lub między odpowiednimi średnimi liczb 2𝑎 + 𝑏 oraz 𝑎 + 2𝑏), np.
+1
+2𝑎+𝑏+ 1
+𝑎+2𝑏
+2 ≥ 2
+1
+1
+2𝑎+𝑏
++ 1
+1
+𝑎+2𝑏
+, 2𝑎+𝑏+𝑎+2𝑏
+2 ≥ 2
+1
+2𝑎+𝑏+ 1
+𝑎+2𝑏
+,
+ALBO
+– wykorzystanie założenia i zapisanie nierówności w postaci równoważnej jako
+nierówności wymiernej z jedną niewiadomą, np. 1
+2𝑎 +(1−𝑎) + 1
+𝑎 + 2(1−𝑎) ≥ 4
+3 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Ponieważ 𝑎 > 0 i 𝑏 > 0, więc (2𝑎 + 𝑏)(𝑎 + 2𝑏) > 0.
+Przekształcamy równoważnie nierówność 1
+2𝑎 + 𝑏 + 1
+𝑎 + 2𝑏 ≥ 4
+3 i otrzymujemy:
+Zasady oceniania rozwiązań zadań
+1
+2𝑎 + 𝑏 + 1
+𝑎 + 2𝑏 ≥ 4
+3
+3(𝑎 + 2𝑏)
+3(2𝑎 + 𝑏)(𝑎 + 2𝑏) + 3(2𝑎 + 𝑏)
+3(𝑎 + 2𝑏)(2𝑎 + 𝑏) − 4(𝑎 + 2𝑏)(2𝑎 + 𝑏)
+3(𝑎 + 2𝑏)(2𝑎 + 𝑏) ≥ 0
+3𝑎 + 6𝑏 + 6𝑎 + 3𝑏 − 8𝑎2 − 20𝑎𝑏 − 8𝑏2
+3(2𝑎 + 𝑏)(𝑎 + 2𝑏) ≥ 0
+9𝑎 + 9𝑏 − 8𝑎2 − 20𝑎𝑏 − 8𝑏2
+3(2𝑎 + 𝑏)(𝑎 + 2𝑏) ≥ 0
+9𝑎 + 9𝑏 − 8𝑎2 − 20𝑎𝑏 − 8𝑏2 ≥ 0
+Korzystamy z założenia i otrzymujemy dalej
+9𝑎 + 9(1 − 𝑎) − 8𝑎2 − 20𝑎(1 − 𝑎) − 8(1 − 𝑎)2 ≥ 0
+4𝑎2 − 4𝑎 + 1 ≥ 0
+(2𝑎 − 1)2 ≥ 0
+Kwadrat każdej liczby rzeczywistej jest liczbą nieujemną, więc nierówność (2𝑎 − 1)2 ≥ 0
+jest prawdziwa dla każdej liczby rzeczywistej 𝑎. To oznacza, że nierówność
+1
+2𝑎 + 𝑏 + 1
+𝑎 + 2𝑏 ≥ 4
+3 jest prawdziwa dla każdej liczby rzeczywistej dodatniej 𝑎 i dla każdej
+liczby rzeczywistej dodatniej 𝑏 takich, że 𝑎 + 𝑏 = 1.
+Sposób II
+Korzystamy z założenia 𝑎 + 𝑏 = 1 i nierówność 1
+2𝑎 + 𝑏 + 1
+𝑎 + 2𝑏 ≥ 4
+3 zapisujemy
+w postaci
+1
+𝑎 + 1 + 1
+1 + 𝑏 ≥ 4
+3
+Mnożymy obie strony tej nierówności przez liczbę dodatnią 3(𝑎 + 1)(1 + 𝑏) i ponownie
+korzystamy z założenia, otrzymując kolejno:
+3(1 + 𝑏) + 3(𝑎 + 1) ≥ 4(𝑎 + 1)(1 + 𝑏)
+2 − (𝑎 + 𝑏) ≥ 4𝑎𝑏
+1 ≥ 4𝑎𝑏
+(𝑎 + 𝑏)2 ≥ 4𝑎𝑏
+(𝑎 − 𝑏)2 ≥ 0
+Ponieważ kwadrat każdej liczby rzeczywistej jest liczbą nieujemną, więc nierówność
+(𝑎 − 𝑏)2 ≥ 0 jest prawdziwa dla każdej liczby rzeczywistej 𝑎 i każdej liczby
+rzeczywistej 𝑏. To oznacza, że nierówność 1
+2𝑎 + 𝑏 + 1
+𝑎 + 2𝑏 ≥ 4
+3 jest prawdziwa dla każdej
+liczby rzeczywistej dodatniej 𝑎 i dla każdej liczby rzeczywistej dodatniej 𝑏 takich, że
+𝑎 + 𝑏 = 1.
+Sposób III
+Korzystamy z nierówności między średnią arytmetyczną a harmoniczną dla liczb dodatnich
+1
+2𝑎 + 𝑏 oraz 1
+𝑎 + 2𝑏 i otrzymujemy:
+1
+2𝑎 + 𝑏 + 1
+𝑎 + 2𝑏
+2 ≥ 2
+1
+1
+2𝑎 + 𝑏
++ 1
+1
+𝑎 + 2𝑏
+1
+2𝑎 + 𝑏 + 1
+𝑎 + 2𝑏
+2 ≥ 2
+2𝑎 + 𝑏 + 𝑎 + 2𝑏
+1
+2𝑎 + 𝑏 + 1
+𝑎 + 2𝑏
+2 ≥ 2
+3(𝑎 + 𝑏)
+1
+2𝑎 + 𝑏 + 1
+𝑎 + 2𝑏 ≥ 4
+3(𝑎 + 𝑏)
+Po skorzystaniu z założenia 𝑎 + 𝑏 = 1 otrzymujemy tezę.
+Sposób IV
+Korzystamy z założenia 𝑎 + 𝑏 = 1 i nierówność 1
+2𝑎 + 𝑏 + 1
+𝑎 + 2𝑏 ≥ 4
+3 zapisujemy
+w postaci
+1
+2𝑎 + 1 − 𝑎 + 1
+𝑎 + 2(1 − 𝑎) ≥ 4
+3
+Mnożymy obie strony tej nierówności przez liczbę dodatnią 3(𝑎 + 1)(2 − 𝑎) i otrzymujemy
+kolejno:
+1
+𝑎 + 1 + 1
+2 − 𝑎 ≥ 4
+3
+3(2 − 𝑎) + 3(𝑎 + 1) ≥ 4(𝑎 + 1)(2 − 𝑎)
+6 − 3𝑎 + 3𝑎 + 3 ≥ −4𝑎2 + 4𝑎 + 8
+4𝑎2 − 4𝑎 + 1 ≥ 0
+(2𝑎 − 1)2 ≥ 0
+Ponieważ kwadrat każdej liczby rzeczywistej jest liczbą nieujemną, więc nierówność
+(2𝑎 − 1)2 ≥ 0 jest prawdziwa dla każdej liczby rzeczywistej 𝑎, więc w szczególności dla
+każdego 𝑎 ∈ (0, 1). To oznacza, że nierówność 1
+2𝑎 + 𝑏 + 1
+𝑎 + 2𝑏 ≥ 4
+3 jest prawdziwa dla
+każdej liczby rzeczywistej dodatniej 𝑎 i dla każdej liczby rzeczywistej dodatniej 𝑏 takich, że
+𝑎 + 𝑏 = 1.
+Zasady oceniania rozwiązań zadań

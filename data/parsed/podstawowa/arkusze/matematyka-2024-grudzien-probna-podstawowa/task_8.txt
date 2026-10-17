@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=8; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=8]
+Zadanie 8. (0–3)
+Rozwiąż równanie
+𝒙 + 𝟑
+𝒙 − 𝟏 = 𝒙
+𝟐𝒙 − 𝟐
+Zapisz konieczne założenie i obliczenia.
+8.
+0–1–
+2–3

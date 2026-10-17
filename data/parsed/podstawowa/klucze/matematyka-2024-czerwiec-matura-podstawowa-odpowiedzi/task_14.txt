@@ -1,0 +1,61 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=14, 15, 16; level=podstawowy; year=2024; month=czerwiec; task_id=14]
+Zadanie 14. (0–2)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+3. Dobieranie argumentów do uzasadnienia
+poprawności rozwiązywania problemów,
+tworzenie ciągu argumentów,
+gwarantujących poprawność rozwiązania
+i skuteczność w poszukiwaniu rozwiązań
+zagadnienia.
+Zdający:
+V.9) wyznacza wzór funkcji kwadratowej na
+podstawie informacji o tej funkcji lub o jej
+wykresie.
+Zasady oceniania
+2 pkt – poprawna metoda i zapisanie wzoru funkcji 𝑓 z poprawnymi wartościami
+współczynników, np.: 𝑓(𝑥) = 2(𝑥 − 3)2, 𝑓(𝑥) = 2𝑥2 − 12𝑥 + 18 .
+1 pkt – zapisanie wzoru funkcji 𝑓 w postaci kanonicznej z uwzględnieniem, że punkt 𝑁 jest
+wierzchołkiem paraboli będącej wykresem funkcji 𝑓: 𝑓(𝑥) = 𝑎(𝑥 − 3)2
+ALBO
+– zapisanie wartości wyrazu wolnego funkcji 𝑓, np.: 𝑐 = 18, 𝑓(𝑥) = 𝑎𝑥2 + 𝑏𝑥 + 18 ,
+ALBO
+– zapisanie równania 𝑏2 − 4𝑎𝑐 = 0 ,
+ALBO
+– zapisanie równania − 𝑏
+2𝑎 = 3 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Ponieważ punkt 𝑁 = (3, 0) jest jedynym punktem wspólnym wykresu funkcji 𝑓 i osi 𝑂𝑥,
+więc jest to wierzchołek paraboli będącej wykresem funkcji 𝑓.
+Zapisujemy wzór funkcji 𝑓 w postaci kanonicznej:
+𝑓(𝑥) = 𝑎(𝑥 − 3)2, gdzie 𝑎 ≠ 0
+Punkt 𝑀 = (0, 18) leży na wykresie funkcji 𝑓, zatem
+𝑓(0) = 18
+𝑎(0 − 3)2 = 18
+9𝑎 = 18
+𝑎 = 2
+Zatem 𝑓(𝑥) = 2(𝑥 − 3)2 .
+Zasady oceniania rozwiązań zadań
+Sposób II
+Zapisujemy wzór funkcji 𝑓 w postaci ogólnej:
+𝑓(𝑥) = 𝑎𝑥2 + 𝑏𝑥 + 𝑐, gdzie 𝑎 ≠ 0 oraz 𝑏, 𝑐 ∈ ℝ
+Punkt 𝑀 = (0, 18) leży na wykresie funkcji 𝑓, zatem
+𝑓(0) = 18
+𝑎 ∙ 02 + 𝑏 ∙ 0 + 𝑐 = 18
+𝑐 = 18
+Ponieważ punkt 𝑁 = (3, 0) jest jedynym punktem wspólnym wykresu funkcji 𝑓 i osi 𝑂𝑥,
+więc liczba 3 jest jedynym miejscem zerowym tej funkcji.
+Stąd otrzymujemy:
+Δ = 𝑏2 − 4𝑎𝑐 = 0 oraz 𝑥0 = − 𝑏
+2𝑎 = 3
+𝑏2 − 4𝑎 ⋅ 18 = 0 oraz 𝑏 = −6𝑎
+Zatem
+(−6𝑎)2 − 4𝑎 ⋅ 18 = 0
+36𝑎2 − 72𝑎 = 0
+36𝑎(𝑎 − 2) = 0
+𝑎 = 0 lub 𝑎 = 2
+Funkcja 𝑓 jest kwadratowa, więc 𝑎 = 2 i wówczas 𝑏 = −6𝑎 = −12 .
+Zatem 𝑓(𝑥) = 2𝑥2 − 12𝑥 + 18 .

@@ -1,0 +1,39 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=32; year=2023; section=16. POCHODNA FUNKCJI]
+Strona 32 z 34
+• Mediana
+Medianą uporządkowanego w kolejności niemalejącej zbioru 𝑛 danych liczbowych
+𝑎1, 𝑎2, …, 𝑎𝑛 jest:
+– dla 𝑛 nieparzystych: 𝑎 𝑛+1
+2
+(środkowy wyraz ciągu)
+– dla 𝑛 parzystych: 1
+2 ⋅ (𝑎 𝑛
+2
++ 𝑎 𝑛
+2 +1) (średnia arytmetyczna dwóch środkowych
+wyrazów ciągu)
+• Wariancja i odchylenie standardowe
+Wariancja 𝜎2 danych liczbowych 𝑎1, 𝑎2, …, 𝑎𝑛 o średniej arytmetycznej 𝑎̅ jest równa:
+Prawdziwa jest też równość:
+Odchylenie standardowe 𝜎 jest pierwiastkiem kwadratowym z wariancji:
+16. POCHODNA FUNKCJI
+• Pochodna sumy, różnicy, iloczynu i ilorazu funkcji. Pochodna funkcji złożonej
+𝜎2 =
+(𝑎1 − 𝑎̅)2 + (𝑎2 − 𝑎̅)2 + … + (𝑎𝑛 − 𝑎̅)2
+𝑛
+𝜎2 = (𝑎1)2 + (𝑎2)2 + … +(𝑎𝑛)2
+𝑛 − (𝑎̅)2
+𝜎 = √(𝑎1 − 𝑎̅)2 + (𝑎2 − 𝑎̅)2 + … + (𝑎𝑛 − 𝑎̅)2
+𝑛
+[𝑐 ⋅ 𝑓(𝑥)]′ = 𝑐 ⋅ 𝑓′(𝑥) dla 𝑐 ∈ ℝ
+[𝑓(𝑥) + 𝑔(𝑥)]′ = 𝑓′(𝑥) + 𝑔′(𝑥)
+[𝑓(𝑥) − 𝑔(𝑥)]′ = 𝑓′(𝑥) − 𝑔′(𝑥)
+[𝑓(𝑥) ⋅ 𝑔(𝑥)]′ = 𝑓′(𝑥) ⋅ 𝑔(𝑥) + 𝑓(𝑥) ⋅ 𝑔′(𝑥)
+[𝑓(𝑥)
+𝑔(𝑥)]
+′
+= 𝑓′(𝑥) ⋅ 𝑔(𝑥) − 𝑓(𝑥) ⋅ 𝑔′(𝑥)
+[𝑔(𝑥)]2 gdy 𝑔(𝑥) ≠ 0
+[𝑔(𝑓(𝑥))]
+′
+= 𝑔′(𝑓(𝑥)) ⋅ 𝑓′(𝑥)

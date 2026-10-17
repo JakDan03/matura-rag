@@ -1,0 +1,23 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=24; level=rozszerzony; year=2026; month=czerwiec; task_id=12]
+Zadanie 12. (0–5)
+Ostrosłup prawidłowy czworokątny 𝐴𝐵𝐶𝐷𝑆 o podstawie 𝐴𝐵𝐶𝐷 ma objętość równą 36√3.
+Ten ostrosłup przecięto płaszczyzną 𝛾, która:
+• jest prostopadła do ściany bocznej 𝐶𝐷𝑆 ostrosłupa
+• przechodzi przez środek 𝐾 krawędzi 𝐴𝐷 oraz środek 𝐿 krawędzi 𝐵𝐶
+• przecina krawędź boczną 𝐶𝑆 w punkcie 𝑀 oraz krawędź boczną 𝐷𝑆 w punkcie 𝑁
+• tworzy z płaszczyzną podstawy 𝐴𝐵𝐶𝐷 kąt o mierze 30°.
+Przekrój 𝐾𝐿𝑀𝑁 wyznaczony przez płaszczyznę 𝛾 jest trapezem równoramiennym.
+Oblicz pole trapezu 𝑲𝑳𝑴𝑵. Zapisz obliczenia.
+𝐴
+𝐵
+𝐶
+𝐷
+𝐾
+𝐿
+𝑆
+𝑀
+𝑁
+12.
+0–1–
+2–3–
+4–5

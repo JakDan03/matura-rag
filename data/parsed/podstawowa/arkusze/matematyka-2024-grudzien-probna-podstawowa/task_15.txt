@@ -1,0 +1,5 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=15; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=15]
+Zadanie 15. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Trzywyrazowy ciąg (5𝑚, 4 + 2𝑚, 𝑚) jest arytmetyczny, gdy liczba 𝑚 jest równa
+A. (−4) B. (−1) C. 1 D. 4

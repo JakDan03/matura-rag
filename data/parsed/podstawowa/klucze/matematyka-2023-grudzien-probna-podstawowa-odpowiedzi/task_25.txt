@@ -1,0 +1,22 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=23, 24; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=25]
+Zadanie 25. (0–1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+3. Tworzenie pomocniczych obiektów
+matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub
+rozwiązania problemu.
+Zdający:
+X.1) rozpoznaje wzajemne położenie
+prostych w przestrzeni […];
+X.2) posługuje się pojęciem kąta między
+prostą a płaszczyzną;
+X.4) oblicza objętości […] graniastosłupów
+i ostrosłupów […].
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+A

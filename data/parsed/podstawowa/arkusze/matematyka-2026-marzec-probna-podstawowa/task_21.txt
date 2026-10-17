@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=19; level=podstawowy; year=2026; month=marzec; term=probna; task_id=21]
+Zadanie 21. (0–3)
+Dany jest trapez równoramienny 𝐴𝐵𝐶𝐷 o podstawach 𝐴𝐵 i 𝐶𝐷, w którym |𝐴𝐵| = 2 ⋅ |𝐶𝐷|.
+Przekątna 𝐴𝐶 tego trapezu jest zawarta w dwusiecznej kąta 𝐷𝐴𝐵.
+Wykaż, że w tym trapezie miara kąta 𝑫𝑨𝑩 jest równa 𝟔𝟎°.
+21.
+0–1–
+2–3

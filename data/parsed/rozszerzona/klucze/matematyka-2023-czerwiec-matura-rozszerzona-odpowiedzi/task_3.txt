@@ -1,0 +1,125 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=5, 6; level=rozszerzony; year=2023; month=czerwiec; task_id=3]
+Zadanie 3. (0–3)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+XII.R2) stosuje schemat Bernoullego.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 0,97 .
+2 pkt – poprawne zastosowanie wzoru na prawdopodobieństwo uzyskania 𝑘 sukcesów
+w 𝑛 próbach Bernoullego i zapisanie prawdopodobieństwa w postaci
+𝑃(𝐴) = (7
+0) ⋅ (
+1
+10)
+0
+⋅ (
+9
+10)
+7
++ (7
+1) ⋅ (
+1
+10)
+1
+⋅ (
+9
+10)
+6
++ (7
+2) ⋅ (
+1
+10)
+2
+⋅ (
+9
+10)
+5
+.
+1 pkt – ustalenie i zapisanie liczby prób (𝑛), liczby sukcesów (𝑘), prawdopodobieństwa
+sukcesu (𝑝) i porażki (𝑞) w pojedynczej próbie w schemacie Bernoullego: 𝑛 = 7,
+𝑘 ≤ 2, 𝑝 = 1
+10 , 𝑞 = 9
+10 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli zdający poprawnie zapisze 𝑃(𝑆7
+0) = (7
+0) ⋅ (
+1
+10)
+0
+⋅ (
+9
+10)
+7
+, 𝑃(𝑆7
+1) = (7
+1) ⋅ (
+1
+10)
+1
+⋅ (
+9
+10)
+6
+,
+oraz 𝑃(𝑆7
+2) = (7
+2) ⋅ (
+1
+10)
+2
+⋅ (
+9
+10)
+5
+, ale z dalszego rozwiązania nie wynika, że
+𝑃(𝐴) = 𝑃(𝑆7
+0) + 𝑃(𝑆7
+1) + 𝑃(𝑆7
+2), to otrzymuje co najwyżej 1 punkt za rozwiązanie.
+Przykładowe pełne rozwiązanie
+Określamy prawdopodobieństwo sukcesu (𝑝) i porażki (𝑞): 𝑝 = 1
+10 , 𝑞 = 1 − 𝑝 = 9
+10 .
+Niech 𝑆7
+𝑘 oznacza zdarzenie polegające na wystąpieniu awarii w godzinach porannych
+dokładnie w 𝑘 dniach spośród siedmiu rozpatrywanych (𝑘 ∈ {0, 1, 2}).
+Obliczamy prawdopodobieństwo 𝑃 wystąpienia awarii w godzinach porannych w co
+najwyżej dwóch dniach spośród siedmiu:
+𝑃(𝐴) = 𝑃(𝑆7
+0) + 𝑃(𝑆7
+1) + 𝑃(𝑆7
+2) =
+= (7
+0) ⋅ ( 1
+10)
+0
+⋅ ( 9
+10)
+7
++ (7
+1) ⋅ ( 1
+10)
+1
+⋅ ( 9
+10)
+6
++ (7
+2) ⋅ ( 1
+10)
+2
+⋅ ( 9
+10)
+5
+=
+= 97 + 7 ⋅ 96 + 21 ⋅ 95
+107 = 95 ⋅ 165
+107 = 9 743 085
+10 000 000 ≈ 0,97

@@ -1,0 +1,37 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=14; level=podstawowy; year=2026; month=maj; task_id=13.1]
+Zadanie 13.
+Funkcja liniowa 𝑓 jest określona wzorem 𝑓(𝑥) = 𝑎𝑥 + 𝑏, gdzie 𝑎 i 𝑏 są pewnymi
+liczbami rzeczywistymi. W kartezjańskim układzie współrzędnych (𝑥, 𝑦) przedstawiono
+fragment wykresu funkcji 𝑓. Każdy z punktów przecięcia wykresu funkcji 𝑓 z osiami układu
+współrzędnych ma obie współrzędne całkowite. Wykres funkcji 𝑓 jest nachylony do osi 𝑂𝑥
+układu współrzędnych pod kątem o mierze 𝛼 (zobacz rysunek).
+Zadanie 13.1. (0–1)
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Współczynnik 𝑎 we wzorze funkcji 𝑓 jest liczbą dodatnią. P F
+Współczynnik 𝑏 we wzorze funkcji 𝑓 jest liczbą dodatnią. P F
+1
+2
+3
+4
+𝑦
+5
+−1
+−2
+−3
+−4
+−5
+1
+2
+3
+4
+−1
+−2
+5
+0
+𝑥
+−5
+−4
+−3
+𝑦 = 𝑓(𝑥)
+𝛼

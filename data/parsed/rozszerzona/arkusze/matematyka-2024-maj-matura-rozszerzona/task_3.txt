@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=6; level=rozszerzony; year=2024; month=maj; task_id=3]
+Zadanie 3. (0–3)
+W pewnym zakładzie mleczarskim śmietana produkowana jest w 200-gramowych
+opakowaniach. Prawdopodobieństwo zdarzenia, że w losowo wybranym opakowaniu
+śmietana zawiera mniej niż 36% tłuszczu, jest równe 0,01. Kontroli poddajemy 10 losowo
+wybranych opakowań ze śmietaną.
+Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że wśród opakowań
+poddanych tej kontroli będzie co najwyżej jedno opakowanie ze śmietaną, która
+zawiera mniej niż 36% tłuszczu. Wynik zapisz w postaci ułamka dziesiętnego
+w zaokrągleniu do części tysięcznych. Zapisz obliczenia.
+3.
+0–1–
+2–3

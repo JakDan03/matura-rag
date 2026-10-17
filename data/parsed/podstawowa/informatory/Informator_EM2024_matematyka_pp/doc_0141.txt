@@ -1,0 +1,34 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=141; level=podstawowy; year=2024; section=A. 30% B. 34% C. 36% D. 43%]
+Informacja o egzaminie maturalnym z matematyki dla absolwentów niesłyszących 141
+Zadanie 27.
+Dana jest funkcja 𝑦 = 𝑓(𝑥). Wykres tej funkcji przedstawiono w kartezjańskim układzie
+współrzędnych (𝑥, 𝑦).
+Zadanie 27.1. (0–1)
+Zapisz w miejscu wykropkowanym zbiór wszystkich argumentów, dla których
+prawdziwa jest nierówność:
+𝒇(𝒙) > 𝟐
+................................ ................................ ................................ ................................ .................
+Zasady oceniania
+1 pkt – rozwiązanie poprawne.
+0 pkt – rozwiązanie niepoprawne lub niepełne albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+[−5, −1) ∪ (7,8]
+𝑦
+𝑥
+2
+4
+6
+8
+2
+4
+6
+8
+−2
+−4
+−6
+−8
+−2
+−4
+−6
+−8
+𝑦 = 𝑓(𝑥)

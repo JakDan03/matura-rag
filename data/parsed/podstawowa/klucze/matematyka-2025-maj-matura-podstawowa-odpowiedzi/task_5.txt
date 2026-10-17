@@ -1,0 +1,101 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=4, 5, 6, 7; level=podstawowy; year=2025; month=maj; task_id=5]
+Zadanie 5. (0–2)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+I.2) przeprowadza proste dowody dotyczące
+podzielności liczb całkowitych i reszt
+z dzielenia […].
+Zasady oceniania
+2 pkt – zapisanie, że 𝑛 = 2𝑙 + 1, oraz przekształcenie wyrażenia 3𝑛2 + 2𝑛 + 7 do
+postaci 4(3𝑙2 + 4𝑙 + 3)
+ALBO
+– przekształcenie wyrażenia 3𝑛2 + 2𝑛 + 7 do postaci sumy algebraicznej liczb
+podzielnych przez 4 oraz uzasadnienie, że każdy ze składników tej sumy jest
+podzielny przez 4,
+ALBO
+– rozpatrzenie przypadku, gdy 𝑛 = 4𝑙 + 1, tj. przekształcenie wyrażenia
+3𝑛2 + 2𝑛 + 7 do postaci 4(12𝑙2 + 8𝑙 + 3), oraz rozpatrzenie przypadku,
+gdy 𝑛 = 4𝑙 + 3, tj. przekształcenie wyrażenia 3𝑛2 + 2𝑛 + 7 do postaci
+4(12𝑙2 + 20𝑙 + 10),
+ALBO
+Zasady oceniania rozwiązań zadań
+– zapisanie, że liczba 3𝑛2 przy dzieleniu przez 4 daje resztę 3 oraz zapisanie, że
+liczba 2𝑛 przy dzieleniu przez 4 daje resztę 2 oraz zapisanie, że suma reszt
+z dzielenia przez 4 liczb: 3𝑛2, 2𝑛, 7, jest podzielna przez 4.
+1 pkt – zapisanie, że 𝑛 = 2𝑙 + 1, oraz przekształcenie wyrażenia 3𝑛2 + 2𝑛 + 7 do
+postaci 3(4𝑙2 + 4𝑙 + 1) + 2(2𝑙 + 1) + 7
+ALBO
+– przekształcenie wyrażenia 3𝑛2 + 2𝑛 + 7 do postaci sumy algebraicznej liczb
+podzielnych przez 4, w której podzielność przez 4 jednego ze składników nie
+wymaga uzasadnienia: 4(𝑛2 + 𝑛 + 2) − (𝑛 + 1)2, (3𝑛 − 1)(𝑛 + 1) + 8,
+4(𝑛2 + 𝑛 + 1) − (𝑛 + 3)(𝑛 − 1),
+ALBO
+– przekształcenie wyrażenia 3𝑛2 + 2𝑛 + 7 do postaci sumy algebraicznej liczb
+podzielnych przez 4: 2𝑛(𝑛 + 1) + (𝑛2 + 7), (𝑛 + 1)2 + 2(𝑛2 + 3), oraz
+uzasadnienie podzielności przez 4 jednego ze składników tej sumy,
+ALBO
+– rozpatrzenie przypadku, gdy 𝑛 = 4𝑙 + 1, tj. przekształcenie wyrażenia
+3𝑛2 + 2𝑛 + 7 do postaci 4(12𝑙2 + 8𝑙 + 3),
+ALBO
+– rozpatrzenie przypadku, gdy 𝑛 = 4𝑙 + 3, tj. przekształcenie wyrażenia
+3𝑛2 + 2𝑛 + 7 do postaci 4(12𝑙2 + 20𝑙 + 10),
+ALBO
+– zapisanie, że liczba 3𝑛2 przy dzieleniu przez 4 daje resztę 3 oraz zapisanie, że
+liczba 2𝑛 przy dzieleniu przez 4 daje resztę 2.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający sprawdza prawdziwość tezy tylko dla wybranych wartości 𝑛, to otrzymuje
+0 punktów za całe rozwiązanie.
+2. Jeżeli zdający wykazuje, że dla każdej liczby naturalnej nieparzystej 𝑛 wyrażenie
+3𝑛2 − 2𝑛 + 7 (zamiast 3𝑛2 + 2𝑛 + 7) jest podzielne przez 4, to otrzymuje 1 punkt.
+3. Jeżeli zdający przedstawia 𝑛 w postaci 2𝑙 + 1, a następnie przekształca wyrażenie
+3𝑛2 + 2𝑛 + 7 np. do postaci 4(3𝑙2 + 4𝑙 + 3) i kontynuuje rozumowanie, popełniając
+błędy we wnioskowaniu, to otrzymuje 1 punkt za całe rozwiązanie.
+4. Jeżeli zdający przedstawia 𝑛 w postaci 2𝑙 + 1, a następnie błędnie przekształca
+wyrażenie 3(2𝑙 + 1)2 + 2(2𝑙 + 1) + 7, ale uzyskuje całkowitą wielokrotność liczby 4
+postaci 4 ⋅ (𝑎 ⋅ 𝑙2 + 𝑏 ⋅ 𝑙 + 𝑐), gdzie 𝑎, 𝑏, 𝑐 ∈ ℤ i 𝑎 ≠ 0, to może otrzymać 1 punkt za
+całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Ponieważ liczba 𝑛 jest nieparzysta, więc zapisujemy ją w postaci 𝑛 = 2𝑙 + 1, gdzie 𝑙 ∈ ℤ
+i 𝑙 ≥ 0. Wówczas
+3𝑛2 + 2𝑛 + 7 = 3(2𝑙 + 1)2 + 2(2𝑙 + 1) + 7 = 3(4𝑙2 + 4𝑙 + 1) + 4𝑙 + 2 + 7 =
+= 12𝑙2 + 12𝑙 + 3 + 4𝑙 + 9 = 12𝑙2 + 16𝑙 + 12 = 4(3𝑙2 + 4𝑙 + 3)
+Ponieważ 𝑙 ∈ ℤ, więc również suma 3𝑙2 + 4𝑙 + 3 jest liczbą całkowitą.
+Zatem iloczyn 4(3𝑙2 + 4𝑙 + 3) jest podzielny przez 4. To należało wykazać.
+Sposób II
+Zapisujemy liczbę 3𝑛2 + 2𝑛 + 7 w postaci sumy algebraicznej liczb podzielnych przez 4,
+np.:
+3𝑛2 + 2𝑛 + 7 = 4𝑛2 − 𝑛2 + 4𝑛 − 2𝑛 + 8 − 1 = 4(𝑛2 + 𝑛 + 2) − (𝑛 + 1)2
+Liczba 4(𝑛2 + 𝑛 + 2) jest podzielna przez 4 dla dowolnej liczby całkowitej 𝑛.
+Liczba 𝑛 jest nieparzysta, zatem liczba 𝑛 + 1 jest parzysta. Stąd jej kwadrat jest liczbą
+podzielną przez 4. Zatem liczba 3𝑛2 + 2𝑛 + 7 jest podzielna przez 4 jako różnica liczb
+podzielnych przez 4. To należało wykazać.
+Sposób III
+Reszty z dzielenia liczby naturalnej nieparzystej przez 4 mogą być równe jedynie 1 lub 3.
+Rozważmy dwa przypadki.
+Przypadek pierwszy – gdy 𝑛 jest liczbą, która przy dzieleniu przez 4 daje resztę 1.
+Wtedy możemy ją zapisać w postaci 𝑛 = 4𝑙 + 1, gdzie 𝑙 ∈ ℤ i 𝑙 ≥ 0. Wówczas
+3𝑛2 + 2𝑛 + 7 = 3(4𝑙 + 1)2 + 2(4𝑙 + 1) + 7 = 3(16𝑙2 + 8𝑙 + 1) + 8𝑙 + 2 + 7 =
+= 48𝑙2 + 24𝑙 + 3 + 8𝑙 + 9 = 48𝑙2 + 32𝑙 + 12 = 4(12𝑙2 + 8𝑙 + 3)
+Ponieważ 𝑙 ∈ ℤ, więc również suma 12𝑙2 + 8𝑙 + 3 jest liczbą całkowitą. Zatem iloczyn
+4(12𝑙2 + 8𝑙 + 3) jest podzielny przez 4.
+Przypadek drugi – gdy 𝑛 jest liczbą, która przy dzieleniu przez 4 daje resztę 3.
+Wtedy możemy ją zapisać w postaci 𝑛 = 4𝑙 + 3, gdzie 𝑙 ∈ ℤ i 𝑙 ≥ 0. Wówczas
+3𝑛2 + 2𝑛 + 7 = 3(4𝑙 + 3)2 + 2(4𝑙 + 3) + 7 = 3(16𝑙2 + 24𝑙 + 9) + 8𝑙 + 6 + 7 =
+= 48𝑙2 + 72𝑙 + 27 + 8𝑙 + 13 = 48𝑙2 + 80𝑙 + 40 = 4(12𝑙2 + 20𝑙 + 10)
+Ponieważ 𝑙 ∈ ℤ, więc również suma 12𝑙2 + 20𝑙 + 10 jest liczbą całkowitą. Zatem iloczyn
+4(12𝑙2 + 20𝑙 + 10) jest podzielny przez 4. To należało wykazać.
+Zasady oceniania rozwiązań zadań
+Sposób IV
+Ponieważ liczba 𝑛 jest nieparzysta, więc liczba 𝑛2 przy dzieleniu przez 4 daje resztę 1.
+Stąd wynika, że liczba 3𝑛2 daje przy dzieleniu przez 4 resztę 3, a liczba 2𝑛 daje przy
+dzieleniu przez 4 resztę 2. Ponadto liczba 7 daje przy dzieleniu przez 4 resztę 3.
+Zatem reszta z dzielenia przez 4 liczby 3𝑛2 + 2𝑛 + 7 jest równa reszcie z dzielenia przez 4
+liczby 3 + 2 + 3 = 8. Liczba 8 jest podzielna przez 4, zatem liczba 3𝑛2 + 2𝑛 + 7 jest
+również podzielna przez 4. To należało wykazać.

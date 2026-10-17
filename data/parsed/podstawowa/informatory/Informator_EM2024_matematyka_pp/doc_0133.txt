@@ -1,0 +1,44 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=133; level=podstawowy; year=2024; section=1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno]
+Przykładowe zadania z rozwiązaniami 133
+Zadanie 65.
+Na wykresie słupkowym poniżej podano rozkład miesięcznych zarobków wszystkich
+pracowników w pewnej firmie ℱ. Na osi poziomej podano – wyrażone w tysiącach złotych –
+miesięczne wynagrodzenie netto pracowników firmy ℱ, a na osi pionowej przedstawiono
+liczbę osób, która osiąga podane zarobki.
+Zadanie 65.1. (0–1)
+Dokończ zdanie. Zaznacz odpowiedź A, B albo C oraz jej uzasadnienie 1., 2. albo 3.
+Dominantą miesięcznych zarobków w firmie ℱ jest
+A. 10 tys. zł,
+ponieważ
+1. tę wartość zarobków osiąga najwięcej osób
+w firmie ℱ.
+B. 4,5 tys. zł, 2. ta wartość zarobków jest największa w firmie ℱ.
+C. 4 tys. zł, 3. iloczyn tej wartości zarobków i liczby osób z takimi
+zarobkami jest największy w firmie ℱ.
+Wymaganie ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno
+matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów,
+tabel.
+Wymaganie szczegółowe
+XII. Rachunek prawdopodobieństwa i statystyka. Zdający:
+2) […] znajduje […] dominantę.
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+1,5 2 2,5 3 3,5 4 4,5 5 5,5 6 6,5 7 7,5 8 8,5 9 9,5 10
+Liczba osób
+Wysokość miesięcznych zarobków podana w tys. zł

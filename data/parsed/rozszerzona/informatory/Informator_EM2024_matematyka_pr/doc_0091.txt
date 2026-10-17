@@ -1,0 +1,42 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=91; level=rozszerzony; year=2024; section=|𝐺𝑃| = |𝐹𝐶|]
+Przykładowe zadania z rozwiązaniami 91
+|𝐵𝐺|2 + 42 = 52
+|𝐵𝐺| = 3
+Ponieważ 𝐺 jest rzutem prostokątnym wierzchołka 𝐶 na podstawę 𝐴𝐵, więc
+|𝐺𝑃| = |𝐹𝐶|
+Korzystamy z twierdzenia o okręgu wpisanym w czworokąt i otrzymujemy
+|𝐴𝐷| + |𝐵𝐶| = |𝐴𝐵| + |𝐶𝐷|
+4 + 5 = |𝐴𝑃| + |𝐹𝐶| + |𝐵𝐺| + |𝐹𝐶| + |𝐷𝐹|
+9 = 2 ⋅ |𝐴𝑃| + 2 ⋅ |𝐹𝐶| + 3
+6 = 2 ⋅ |𝑆𝑃| + 2 ⋅ |𝐹𝐶|
+|𝐹𝐶| = 1
+Zatem |𝑃𝐵| = |𝑃𝐺| + |𝐺𝐵| = 4.
+Stosujemy twierdzenie Pitagorasa do trójkąta 𝐵𝑃𝑆 celem obliczenia |𝐵𝑆|:
+|𝐵𝑃|2 + |𝑃𝑆|2 = |𝐵𝑆|2
+42 + 22 = |𝐵𝑆|2
+|𝐵𝑆| = 2√5
+Zatem trójkąt 𝐵𝑃𝑆 ma boki o długościach: |𝐵𝑃| = 4, |𝑃𝑆| = 2 i |𝐵𝑆| = 2√5.
+Punkt 𝑆 jest równooddalony od boków 𝐴𝐵 i 𝐵𝐶 trapezu jako środek okręgu wpisanego
+w trapez, więc leży na dwusiecznej kąta 𝐴𝐵𝐶. Zatem |∡𝑆𝐵𝐶| = |∡𝑃𝐵𝑆| = 𝛼.
+Obliczamy stosunki długości odpowiednich boków trójkątów 𝐵𝑃𝑆 oraz 𝐵𝑆𝐶 leżących przy
+kątach – odpowiednio – 𝑃𝐵𝑆 oraz 𝑆𝐵𝐶:
+|𝐵𝑆|
+|𝐵𝑃| = 2√5
+4 = √5
+2 oraz
+|𝐵𝐶|
+|𝐵𝑆| = 5
+2√5
+= √5
+2
+Ponieważ długości dwóch boków trójkąta 𝐵𝑃𝑆 są proporcjonalne do odpowiednich długości
+dwóch boków trójkąta 𝐵𝑆𝐶 i kąty między tymi parami boków mają równe miary, więc
+trójkąty 𝐵𝑃𝑆 i 𝐵𝑆𝐶 są podobne (na podstawie cechy bkb podobieństwa trójkątów).
+To kończy dowód.
+Każdy z obliczonych powyżej stosunków długości odpowiednich boków trójkątów 𝐵𝑃𝑆 oraz
+𝐵𝑆𝐶 jest równy skali podobieństwa tychże trójkątów.
+Skala podobieństwa trójkątów 𝐵𝑃𝑆 oraz 𝐵𝑆𝐶 jest równa 𝑘 =
+|𝐵𝐶|
+|𝐵𝑆| =
+√5
+2 .

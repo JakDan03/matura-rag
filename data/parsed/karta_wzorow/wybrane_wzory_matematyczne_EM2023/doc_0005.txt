@@ -1,0 +1,39 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=5; year=2023; section=3. LOGARYTMY]
+Strona 5 z 34
+Jeżeli 𝑎 < 0 oraz liczba 𝑛 jest nieparzysta, to √𝑎
+𝑛
+oznacza liczbę 𝑏 < 0 taką, że
+𝑏𝑛 = 𝑎.
+W zbiorze liczb rzeczywistych pierwiastki stopni parzystych z liczb ujemnych nie istnieją.
+• Niech 𝑚, 𝑛 będą liczbami całkowitymi dodatnimi. Definiujemy:
+− dla 𝑎 ≠ 0: 𝑎−𝑛 = 1
+𝑎𝑛 oraz 𝑎0 = 1
+− dla 𝑎 ≥ 0: 𝑎
+𝑚
+𝑛 = √𝑎𝑚𝑛
+− dla 𝑎 > 0: 𝑎– 𝑚
+𝑛 = 1
+√𝑎𝑚𝑛
+• Niech 𝑟, 𝑠 będą dowolnymi liczbami rzeczywistymi. Jeśli 𝑎 > 0 i 𝑏 > 0, to:
+Jeżeli wykładniki 𝑟, 𝑠 są liczbami całkowitymi, to powyższe wzory obowiązują dla
+wszystkich liczb 𝑎 ≠ 0 i 𝑏 ≠ 0.
+• Niech 𝑥, 𝑦 będą dowolnymi liczbami rzeczywistymi.
+Jeżeli 𝑎 ∈ (0, 1), to nierówność 𝑎𝑥 < 𝑎𝑦 jest równoważna nierówności 𝑥 > 𝑦.
+Jeżeli 𝑎 ∈ (1, +∞), to nierówność 𝑎𝑥 < 𝑎𝑦 jest równoważna nierówności 𝑥 < 𝑦.
+3. LOGARYTMY
+• Niech 𝑎 > 0 i 𝑎 ≠ 1. Logarytmem log𝑎 𝑏 liczby 𝑏 > 0 przy podstawie 𝑎 nazywamy
+wykładnik 𝑐 potęgi, do której należy podnieść 𝑎, aby otrzymać 𝑏:
+Równoważnie:
+• Dla dowolnych liczb rzeczywistych 𝑥 > 0, 𝑦 > 0 oraz 𝑟 prawdziwe są równości:
+𝑎𝑟 ⋅ 𝑎𝑠 = 𝑎𝑟+𝑠 (𝑎𝑟)𝑠 = 𝑎𝑟⋅𝑠 𝑎𝑟
+𝑎𝑠 = 𝑎𝑟−𝑠
+(𝑎 ⋅ 𝑏)𝑟 = 𝑎𝑟 ⋅ 𝑏𝑟 (𝑎
+𝑏)
+𝑟
+= 𝑎𝑟
+𝑏𝑟
+log𝑎 𝑏 = 𝑐 wtedy i tylko wtedy, gdy 𝑎𝑐 = 𝑏
+𝑎log𝑎 𝑏 = 𝑏
+log𝑎(𝑥 ⋅ 𝑦) = log𝑎 𝑥 + log𝑎 𝑦 log𝑎 𝑥𝑟 = 𝑟 ⋅ log𝑎 𝑥
+log𝑎 (𝑥
+𝑦) = log𝑎 𝑥 − log𝑎 𝑦

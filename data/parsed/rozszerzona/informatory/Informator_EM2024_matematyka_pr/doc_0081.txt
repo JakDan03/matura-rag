@@ -1,0 +1,18 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=81; level=rozszerzony; year=2024; section=|𝑃𝐺|= |𝑃𝐶|]
+Przykładowe zadania z rozwiązaniami 81
+Zadanie 25. (0–3)
+Dany jest sześcian 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 o krawędzi długości 𝑎. Punkt 𝑃 jest środkiem
+krawędzi 𝐶𝐺 tego sześcianu (zobacz rysunek poniżej).
+Oblicz odległość wierzchołka 𝑪 od płaszczyzny zawierającej punkty 𝑩, 𝑫 oraz 𝑷.
+Zapisz obliczenia.
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸
+𝐹
+𝐺
+𝐻
+𝑃
+|𝑃𝐺|= |𝑃𝐶|
+𝑎

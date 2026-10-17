@@ -1,0 +1,36 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=145; level=podstawowy; year=2024; section=ALBO]
+Informacja o egzaminie maturalnym z matematyki dla absolwentów niesłyszących 145
+Sposób 2.
+Wysokość maksymalna, na jakiej będzie środek piłki, jest równa współrzędnej 𝑦 wierzchołka
+paraboli. Wartość tę możemy wyznaczyć przekształcając wzór funkcji kwadratowej
+𝑦 = −0,174𝑥2 + 1,3𝑥 + 2,5 do postaci kanonicznej:
+𝑦 = −0,174(𝑥 − 𝑝)2 + 𝑞
+gdzie:
+ℎ𝑚𝑎𝑥 = 𝑦𝑤 = 𝑞
+𝑦 = −0,174𝑥2 + 1,3𝑥 + 2,5 = −0,174 (𝑥2 − 1,3
+0,174 𝑥) + 2,5 =
+= −0,174 ⋅ [(𝑥 − 1,3
+2 ⋅ 0,174)
+2
+− ( 1,3
+2 ⋅ 0,174)
+2
+] + 2,5 =
+= −0,174 ⋅ (𝑥 − 1,3
+2 ⋅ 0,174)
+2
++ 0,174 ⋅ ( 1,3
+2 ⋅ 0,174)
+2
++ 2,5
+Zatem:
+ℎ𝑚𝑎𝑥 = 𝑦𝑤 = 𝑞 = 0,174 ⋅ ( 1,3
+2 ⋅ 0,174)
+2
++ 2,5 ≈ 4,93 m
+Zadanie 32.3. (0–3)
+W opisanym rzucie piłka przeleciała przez obręcz kosza i upadła na podłogę. Przyjmij, że
+obręcz kosza nie miała siatki, a na drodze rzutu nie było żadnej przeszkody. Promień piłki
+wynosi 0,12 m.
+Oblicz współrzędną 𝒙 środka piłki w momencie, w którym piłka dotknęła podłogi.
+Zapisz wynik w zaokrągleniu do drugiego miejsca po przecinku.

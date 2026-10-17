@@ -1,0 +1,52 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=127; level=rozszerzony; year=2024; section=|𝑂𝐸|2 = |𝐵𝐸|2 − |𝑂𝐵|2]
+Informacja o egzaminie maturalnym z matematyki dla absolwentów niesłyszących 127
+|𝑂𝐸|2 = |𝐵𝐸|2 − |𝑂𝐵|2
+|𝑂𝐸|2 = 62
+4 𝑎2
+|𝑂𝐸| = √62
+2 𝑎
+Oznaczmy przez 𝐹 rzut prostokątny punktu 𝑆 na odcinek 𝑂𝐵.
+Ponieważ |∡𝑂𝐸𝐵| = |∡𝐹𝑆𝐵|, |∡𝑂𝐵𝐸| = |∡𝐹𝐵𝑆| i trójkąty 𝐵𝑂𝐸 oraz 𝐵𝐹𝑆 są
+prostokątne, więc są podobne (na mocy cechy kkk podobieństwa trójkątów). Trójkąty 𝐵𝑂𝐸
+i 𝐵𝐹𝑆 są podobne w skali 𝑘 =
+|𝐵𝐸|
+|𝐵𝑆| = 4𝑎
+2𝑎 = 2. Zatem 𝐹 jest środkiem odcinka 𝑂𝐵, więc
+|𝑂𝐹| = 1
+2 ⋅ |𝑂𝐵| = 𝑎√2
+4 oraz |𝑆𝐹| = 1
+2 ⋅ |𝑂𝐸| = √62
+4 𝑎
+Obliczamy długość odcinka 𝑂𝑆:
+|𝑂𝑆|2 = |𝑂𝐹|2 + |𝑆𝐹|2
+|𝑂𝑆|2 = (𝑎√2
+4 )
+2
++ (√62
+4 𝑎)
+2
+|𝑂𝑆| = 2𝑎
+Obliczamy stosunek pola przekroju 𝐴𝐶𝑆 do pola podstawy ostrosłupa:
+𝑃𝐴𝐶𝑆
+𝑃𝐴𝐵𝐶𝐷
+=
+1
+2 ⋅ 𝑎√2 ⋅ |𝑂𝑆|
+𝑎2 =
+1
+2 ⋅ 𝑎√2 ⋅ 2𝑎
+𝑎2 = √2
+Ponieważ
+cos|∡𝐹𝑆𝐵| = |𝐹𝑆|
+|𝐵𝑆| =
+√62
+4 𝑎
+2𝑎 = √62
+8
+i trójkąt 𝑂𝑆𝐵 jest równoramienny, więc 𝛼 = 2 ⋅ |∡𝐹𝑆𝐵|. Zatem
+cos 𝛼 = cos(2 ⋅ |∡𝐹𝑆𝐵|) = 2 cos2|∡𝐹𝑆𝐵| − 1 = 2 ⋅ (√62
+8 )
+2
+− 1 = 15
+16
+skąd 𝛼 ≈ 20°.

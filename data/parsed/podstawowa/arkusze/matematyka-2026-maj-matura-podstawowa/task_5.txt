@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=6; level=podstawowy; year=2026; month=maj; task_id=5]
+Zadanie 5. (0–1)
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Liczba naturalna 412 ⋅ 524 jest podzielna przez 20. P F
+Liczba naturalna 412 ⋅ 524 jest w zapisie dziesiętnym liczbą 25-cyfrową. P F

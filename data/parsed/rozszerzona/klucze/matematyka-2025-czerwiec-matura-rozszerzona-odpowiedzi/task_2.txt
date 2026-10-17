@@ -1,0 +1,145 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=4, 5, 6, 7; level=rozszerzony; year=2025; month=czerwiec; task_id=2]
+Zadanie 2. (0–3)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu
+Zdający:
+I.9) stosuje związek logarytmowania
+z potęgowaniem, posługuje się wzorami na
+logarytm iloczynu, logarytm ilorazu
+i logarytm potęgi.
+I.R) stosuje wzór na zamianę podstawy
+logarytmu.
+Zasady oceniania (dla sposobów I-IV)
+3 pkt – poprawne przekształcenia i przeprowadzenie pełnego rozumowania.
+2 pkt – przekształcenie wyrażenia
+log√2 27 + 2
+2 log2 14 − 2 lub log7 54, lub obydwu tych wyrażeń do
+takiej postaci, z której poprzez jednokrotne zastosowanie wzoru na logarytm iloczynu
+lub logarytm ilorazu, lub wzoru na zamianę podstawy logarytmu, lub wzoru na
+logarytm potęgi oraz ewentualne kilkukrotne przekształcenie wyrażenia wymiernego
+można otrzymać tezę
+ALBO
+– zapisanie jednego równania z 𝑎, 𝑏 oraz niewiadomą 𝑥, np.
+(𝑎 − 1)𝑥 = 𝑏
+2 + 1 (dla sposobu III),
+ALBO
+– zapisanie liczby 2 w postaci 7
+1
+𝑎 − 1
+oraz liczby 27 w postaci 2
+𝑏
+2
+(dla sposobu IV).
+1 pkt – zastosowanie wzoru na zamianę podstawy logarytmu lub na logarytm iloczynu, lub na
+logarytm ilorazu, np. log7 54 = log2 54
+log2 7 , log7 54 =
+log√2 54
+log√2 7 ,
+log√2 27 + 2 = log√2(27 ⋅ 2), 2 log2 14 − 2 = 2 log2 (14
+2 )
+ALBO
+– zapisanie liczb 7 oraz 27 jako potęg liczby 2: 7 = 2𝑎−1 i 27 = 2
+𝑏
+2
+oraz
+zapisanie równania 7𝑥 = 54 (dla sposobu III),
+ALBO
+– zapisanie liczby 2 w postaci 7
+1
+𝑎 − 1
+(dla sposobu IV).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Przekształcamy wyrażenie log7 54, stosując wzór na zamianę podstawy logarytmu,
+a następnie wzory na logarytm iloczynu oraz logarytm ilorazu:
+log7 54 = log2 54
+log2 7 = log2 27 + log2 2
+log2 14 − log2 2 =
+log√2 27
+log√2 2 + 1
+𝑎 − 1 =
+𝑏
+2 + 1
+𝑎 − 1 = 𝑏 + 2
+2𝑎 − 2
+Zasady oceniania rozwiązań zadań
+To należało wykazać.
+Sposób II
+Przekształcamy wyrażenie 𝑏 + 2
+2𝑎 − 2 , korzystając z założenia oraz ze wzoru zamianę
+podstawy logarytmu:
+𝑏 + 2
+2𝑎 − 2 =
+log√2 27 + 2
+2 log2 14 − 2 =
+log2 27
+log2 √2 + 2
+2 ⋅ (log2 14 − 1) = 2 ⋅ (log2 27 + 1)
+2 ⋅ (log2 14 − 1) = log2 27 + 1
+log2 14 − 1
+Stąd i ze wzorów na sumę logarytmów, różnicę logarytmów oraz wzoru na zamianę
+podstawy logarytmu otrzymujemy dalej
+log2 27 + 1
+log2 14 − 1 = log2 27 + log2 2
+log2 14 − log2 2 = log2 54
+log2 7 = log7 54
+Zatem log7 54 = 𝑏 + 2
+2𝑎 − 2 .
+To należało wykazać.
+Sposób III
+Korzystamy z definicji logarytmu oraz z założenia i otrzymujemy 2𝑎 = 14 oraz
+(√2)
+𝑏
+= 27. Stąd 7 = 2𝑎−1 oraz 27 = 2
+𝑏
+2 .
+Oznaczmy przez 𝑥 liczbę rzeczywistą taką, że 7𝑥 = 54. Wtedy
+2(𝑎−1)𝑥 = 2 ⋅ 27
+2(𝑎−1)𝑥 = 2 ⋅ 2
+𝑏
+2
+2(𝑎−1)𝑥 = 2
+𝑏
+2 + 1
+Stąd
+(𝑎 − 1)𝑥 = 𝑏
+2 + 1
+𝑥 = 𝑏 + 2
+2(𝑎 − 1)
+Zatem log7 54 = 𝑥 = 𝑏 + 2
+2𝑎 − 2 .
+To należało wykazać.
+Sposób IV
+Korzystamy z definicji logarytmu oraz z założenia i otrzymujemy 2𝑎 = 14 oraz
+(√2)
+𝑏
+= 27. Stąd 7 = 2𝑎−1, czyli 2 = 7
+1
+𝑎−1
+, oraz 27 = 2
+𝑏
+2 . Zatem
+54 = 27 ⋅ 2 = 2
+𝑏
+2 ⋅ 7
+1
+𝑎 − 1 = 7
+𝑏
+2(𝑎 − 1) ⋅ 7
+1
+𝑎 − 1 = 7
+𝑏
+2(𝑎 − 1) +
+1
+𝑎 − 1 = 7
+𝑏 + 2
+2𝑎 − 2
+czyli log7 54 = 𝑏 + 2
+2𝑎 − 2 .
+To należało wykazać.
+Zasady oceniania rozwiązań zadań

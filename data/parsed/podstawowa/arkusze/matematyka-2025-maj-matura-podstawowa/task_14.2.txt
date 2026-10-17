@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=15; level=podstawowy; year=2025; month=maj; task_id=14.2]
+Zadanie 14.
+Ciąg (𝑎𝑛) jest określony następująco:
+{𝑎1 = 2
+𝑎𝑛+1 = 2𝑎𝑛 + 1 dla każdej liczby naturalnej 𝑛 ≥ 1
+Zadanie 14.2. (0–1)
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Ciąg (𝑎𝑛) jest arytmetyczny. P F
+Ciąg (𝑎𝑛) jest geometryczny. P F

@@ -1,0 +1,56 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=18, 19, 20; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=20]
+Zadanie 20. (0–2)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VIII.8) korzysta z cech podobieństwa
+trójkątów.
+Zasady oceniania
+2 pkt – poprawna metoda i obliczenie długości odcinka 𝐵𝐸: |𝐵𝐸| = 20.
+1 pkt – obliczenie długości odcinka 𝐷𝐸: |𝐷𝐸| = 8
+ALBO
+– obliczenie długości odcinka 𝐴𝐸: |𝐴𝐸| = 16.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli zdający zapisze tylko |𝐵𝐸| = 20 albo stosując błędną metodę, uzyskuje |𝐵𝐸| = 20,
+to otrzymuje 0 punktów za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Trójkąty 𝐴𝐵𝐸 oraz 𝐷𝐶𝐸 są podobne na podstawie cechy kąt – kąt – kąt podobieństwa
+trójkątów. Stąd
+|𝐴𝐸|
+|𝐴𝐵| = |𝐷𝐸|
+|𝐶𝐷|
+|𝐴𝐸|
+12 = 24 − |𝐴𝐸|
+6
+|𝐴𝐸| = 48 − 2|𝐴𝐸|
+3|𝐴𝐸| = 48
+|𝐴𝐸| = 16
+Korzystamy z twierdzenia Pitagorasa i obliczamy długość odcinka 𝐵𝐸:
+|𝐵𝐸|2 = |𝐴𝐵|2 + |𝐴𝐸|2
+|𝐵𝐸|2 = 122 + 162
+|𝐵𝐸|2 = 400
+|𝐵𝐸| = 20
+Zasady oceniania rozwiązań zadań
+Sposób II
+Trójkąty 𝐴𝐵𝐸 jest podobny do trójkąta 𝐷𝐶𝐸 (na podstawie cechy kąt – kąt – kąt
+podobieństwa trójkątów) w skali 𝑘 = 12
+6 = 2.
+Stąd |𝐴𝐸| = 2|𝐷𝐸|.
+Obliczamy długość odcinka 𝐴𝐸:
+|𝐴𝐷| = 24
+|𝐴𝐸| + |𝐷𝐸| = 24
+2|𝐷𝐸| + |𝐷𝐸| = 24
+3|𝐷𝐸| = 24
+|𝐷𝐸| = 8
+|𝐴𝐸| = 2|𝐷𝐸| = 16
+Korzystamy z twierdzenia Pitagorasa i obliczamy długość odcinka 𝐵𝐸:
+|𝐵𝐸|2 = |𝐴𝐵|2 + |𝐴𝐸|2
+|𝐵𝐸|2 = 122 + 162
+|𝐵𝐸|2 = 400
+|𝐵𝐸| = 20

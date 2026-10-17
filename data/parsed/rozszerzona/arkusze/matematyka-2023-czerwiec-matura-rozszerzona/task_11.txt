@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=20, 21, 22; level=rozszerzony; year=2023; month=czerwiec; task_id=11]
+Zadanie 11. (0–5)
+Ciąg (𝑎, 𝑏, 𝑐) jest trzywyrazowym ciągiem geometrycznym o wyrazach dodatnich. Ciąg
+(2𝑎, 2𝑏, 𝑐 + 1) jest trzywyrazowym ciągiem arytmetycznym. Ponadto spełniony jest warunek
+𝑐 − 𝑏 = 6.
+Oblicz 𝒂, 𝒃 oraz 𝒄. Zapisz obliczenia.

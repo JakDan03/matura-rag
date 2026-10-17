@@ -1,0 +1,18 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=18; level=podstawowy; year=2025; month=czerwiec; task_id=20]
+Zadanie 20. (0–1)
+Na dziesięciokącie foremnym 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻𝐼𝐽 opisano okrąg o środku w punkcie 𝑆
+(zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Miara kąta wpisanego 𝐴𝐺𝐷 jest równa
+A. 18° B. 36° C. 54° D. 60°
+𝐵
+𝑆
+𝐴
+𝐶
+𝐷
+𝐹
+𝐸
+𝐺
+𝐻
+𝐼
+𝐽

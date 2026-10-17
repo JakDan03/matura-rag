@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=7; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=5]
+Zadanie 5. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Zbiorem wszystkich rozwiązań nierówności
+3(6 − 𝑥)
+17 ≤ 3
+jest przedział
+A. (−∞, −11) B. (−∞, −11] C. (−11, +∞) D. [−11, +∞)

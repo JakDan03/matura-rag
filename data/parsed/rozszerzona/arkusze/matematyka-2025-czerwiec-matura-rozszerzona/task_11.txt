@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=22; level=rozszerzony; year=2025; month=czerwiec; task_id=11]
+Zadanie 11. (0–6)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dany jest równoległobok 𝐴𝐵𝐶𝐷
+o wierzchołkach 𝐴 = (−8, −1) i 𝐷 = (−13, 9) oraz środku symetrii 𝑀 = (− 9
+2 , 1).
+Okrąg 𝒪 przechodzi przez początek tego układu i jest styczny do prostych zawierających
+boki 𝐴𝐵 i 𝐵𝐶 tego równoległoboku. Druga współrzędna środka okręgu 𝒪 jest liczbą
+ujemną.
+Wyznacz równanie okręgu 𝓞. Zapisz obliczenia.

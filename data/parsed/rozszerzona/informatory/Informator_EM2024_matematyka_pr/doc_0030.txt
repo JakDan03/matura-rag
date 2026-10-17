@@ -1,0 +1,60 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=30; level=rozszerzony; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+30 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymaganie szczegółowe
+VI. Ciągi. Zdający:
+1R) oblicza granice ciągów, korzystając z granic ciągów typu 1
+𝑛, √𝑎
+𝑛
+oraz twierdzeń
+o granicach sumy, różnicy, iloczynu i ilorazu ciągów zbieżnych, a także twierdzenia
+o trzech ciągach.
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody i poprawny wynik.
+1 pkt – określenie ciągów (𝑎𝑛) i (𝑐𝑛) takich, że lim
+𝑛→∞
+𝑎𝑛 = lim
+𝑛→∞
+𝑐𝑛 oraz
+𝑎𝑛 ≤ √6𝑛 + 7𝑛𝑛
+≤ 𝑐𝑛 dla prawie wszystkich 𝑛, oraz obliczenie granicy jednego
+z tych ciągów, np.: 𝑎𝑛 = √7𝑛𝑛
+i 𝑐𝑛 = √2 ⋅ 7𝑛𝑛
+oraz lim
+𝑛→∞
+𝑎𝑛 = 7.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Skorzystamy z twierdzenia o trzech ciągach.
+Rozważmy ciągi 𝑎𝑛 = √7𝑛𝑛
+oraz 𝑐𝑛 = √2 ⋅ 7𝑛𝑛
+określone dla każdego 𝑛 ∈ ℕ.
+Zauważmy, że 7𝑛 ≤ 6𝑛 + 7𝑛 ≤ 2 ⋅ 7𝑛 dla każdego 𝑛 ∈ ℕ, więc
+√7𝑛𝑛
+≤ √6𝑛 + 7𝑛𝑛
+≤ √2 ⋅ 7𝑛𝑛
+Ponadto lim
+𝑛→∞
+√7𝑛𝑛
+= 7 oraz lim
+𝑛→∞
+√2 ⋅ 7𝑛𝑛
+= lim
+𝑛→∞
+( √2
+𝑛
+⋅ 7) = 7 ⋅ lim
+𝑛→∞
+√2
+𝑛
+= 7 ⋅ 1 = 7 (gdyż
+lim
+𝑛→∞
+√2
+𝑛
+= 1) , więc na podstawie twierdzenia o trzech ciągach lim
+𝑛→∞ √6𝑛 + 7𝑛𝑛
+= 7.

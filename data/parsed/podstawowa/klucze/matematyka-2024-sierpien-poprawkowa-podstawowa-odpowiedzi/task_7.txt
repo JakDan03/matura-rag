@@ -1,0 +1,138 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=6, 7, 8, 9, 10; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=7]
+Zadanie 7. (0–3)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+III.5) rozwiązuje równania wielomianowe
+postaci 𝑊(𝑥) = 0 dla wielomianów […]
+takich, które dają się doprowadzić do
+postaci iloczynowej […] metodą
+grupowania.
+Zasady oceniania
+3 pkt – poprawna metoda rozwiązania równania i obliczenie wszystkich rozwiązań równania:
+(−5), (−√2), √2 .
+2 pkt – przekształcenie lewej strony równania do postaci iloczynu wielomianów stopnia co
+najwyżej drugiego oraz rozwiązanie jednego z równań wynikającego z tego
+rozkładu, np.:
+(𝑥 + 5)(𝑥2 − 2) = 0 i 𝑥 = −5,
+(𝑥 + 5)(𝑥2 − 2) = 0 i 𝑥 = −√2 oraz 𝑥 = √2
+ALBO
+– przekształcenie równania 𝑥3 + 5𝑥2 − 2𝑥 − 10 = 0 do postaci alternatywy dwóch
+równań: kwadratowego i liniowego oraz rozwiązanie jednego z nich, np.:
+(𝑥 + 5 = 0, 𝑥2 − 2 = 0) oraz 𝑥 = −5,
+(𝑥 + 5 = 0, 𝑥2 − 2 = 0) oraz (𝑥 = −√2, 𝑥 = √2),
+ALBO
+Zasady oceniania rozwiązań zadań
+– rozłożenie wielomianu 𝑊(𝑥) = 𝑥3 + 5𝑥2 − 2𝑥 − 10 na czynniki liniowe:
+𝑊(𝑥) = (𝑥 + 5)(𝑥 − √2)(𝑥 + √2),
+ALBO
+– przekształcenie równania 𝑥3 + 5𝑥2 − 2𝑥 − 10 = 0 do postaci alternatywy trzech
+równań liniowych: (𝑥 + 5 = 0, 𝑥 − √2 = 0, 𝑥 + √2 = 0),
+ALBO
+– obliczenie jednego z pierwiastków wielomianu 𝑊(𝑥) = 𝑥3 + 5𝑥2 − 2𝑥 − 10 oraz
+poprawne podzielenie wielomianu 𝑊 przez odpowiedni dwumian, np.
+𝑥 = −5 i (𝑥3 + 5𝑥2 − 2𝑥 − 10) ∶ (𝑥 + 5) = 𝑥2 − 2.
+1 pkt – zapisanie wielomianu 𝑊(𝑥) = 𝑥3 + 5𝑥2 − 2𝑥 − 10 w postaci iloczynu wielomianów
+stopnia co najwyżej drugiego, np. 𝑊(𝑥) = (𝑥 + 5)(𝑥2 − 2)
+ALBO
+– przekształcenie równania 𝑥3 + 5𝑥2 − 2𝑥 − 10 = 0 do postaci alternatywy dwóch
+równań: (𝑥 + 5 = 0, 𝑥2 − 2 = 0),
+ALBO
+– przekształcenie równania 𝑥3 + 5𝑥2 − 2𝑥 − 10 = 0 do postaci
+𝑥2(𝑥 + 5) − 2(𝑥 + 5) = 0 lub do postaci 𝑥2(𝑥 + 5) = 2(𝑥 + 5), lub do postaci
+𝑥(𝑥2 − 2) = −5(𝑥2 − 2) oraz zapisanie rozwiązania 𝑥 = −5,
+ALBO
+– zapisanie jednego z rozwiązań równania 𝑥3 + 5𝑥2 − 2𝑥 − 10 = 0 oraz zapisanie
+sprawdzenia, że ta liczba spełnia to równanie.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający zapisze tylko trzy poprawne rozwiązania równania, to otrzymuje 1 punkt za
+całe rozwiązanie.
+2. Jeżeli zdający uzyska trzy poprawne pierwiastki wielomianu, lecz traktuje równanie jako
+nierówność (podaje zbiór rozwiązań w postaci przedziału / sumy przedziałów), to
+otrzymuje 2 punkty za całe rozwiązanie.
+3. Jeżeli przy przekształcaniu lewej strony równania do postaci iloczynu zdający zapisuje
+czynnik (𝑥 + 5) z wykładnikiem 2, to może otrzymać co najwyżej 2 punkty za całe
+rozwiązanie (1 punkt za rozwiązanie równania (𝑥 + 5)2 = 0 i 1 punkt za rozwiązanie
+równania 𝑥2 − 2 = 0).
+4. Jeżeli zdający zamiast równania (𝑥 + 5)(𝑥2 − 2) = 0 zapisze (𝑥 + 5) ± (𝑥2 − 2) = 0,
+ale z dalszego rozwiązania wynika, że traktuje lewą stronę równania jak iloczyn i rozwiąże
+zadanie do końca, to może otrzymać co najwyżej 2 punkty za całe rozwiązanie (1 punkt
+za rozwiązanie równania 𝑥 + 5 = 0 i 1 punkt za rozwiązanie równania 𝑥2 − 2 = 0).
+5. Jeżeli zdający przy przekształcaniu równania do postaci (𝑥 + 5)(𝑥2 − 2) = 0 popełni
+błąd i zapisze:
+𝑥2(𝑥 − 5) − 2(𝑥 + 5) = 0
+lub
+𝑥2(𝑥 + 5) + 2(𝑥 + 5) = 0
+lub
+𝑥2(𝑥 + 5) − 2(𝑥 − 5) = 0
+lub
+𝑥(𝑥2 + 2) + 5(𝑥2 − 2) = 0
+lub
+𝑥(𝑥2 − 2) − 5(𝑥2 − 2) = 0
+lub
+𝑥(𝑥2 − 2) + 5(𝑥2 + 2) = 0
+a następnie:
+5.1. zapisze równanie (𝑥 + 5)(𝑥2 − 2) = 0 lub poprawną alternatywę
+(𝑥 + 5 = 0 lub 𝑥2 − 2 = 0) i konsekwentnie rozwiąże zadanie do końca, to
+otrzymuje co najwyżej 2 punkty za całe rozwiązanie (1 punkt za rozwiązanie
+równania 𝑥 + 5 = 0 i 1 punkt za rozwiązanie równania 𝑥2 − 2 = 0).
+5.2. zapisze równanie (𝑥 + 5)(𝑥2 + 2) = 0 lub błędną alternatywę
+(𝑥 + 5 = 0 lub 𝑥2 + 2 = 0) i rozwiąże poprawnie równanie 𝑥 + 5 = 0,
+to otrzymuje 1 punkt za całe rozwiązanie.
+5.3. zapisze równanie (𝑥 − 5)(𝑥2 − 2) = 0 lub błędną alternatywę
+(𝑥 − 5 = 0 lub 𝑥2 − 2 = 0) i rozwiąże poprawnie równanie 𝑥2 − 2 = 0,
+to otrzymuje 1 punkt za całe rozwiązanie.
+5.4. zapisze błędne równanie (w którym jedna ze stron jest równa 0, a druga jest
+iloczynem wielomianów stopni dodatnich), inne niż w uwagach 5.2 oraz 5.3, np.
+(𝑥 − 5)(𝑥 + 5)(𝑥2 ± 2) = 0 lub błędną alternatywę inną niż w uwagach 5.2
+oraz 5.3, np. (𝑥 − 5 = 0 lub 𝑥 + 5 = 0 lub 𝑥2 ± 2 = 0), to otrzymuje
+0 punktów za całe rozwiązanie.
+6. Jeżeli zdający, przekształcając równanie 𝑥3 + 5𝑥2 − 2𝑥 − 10 = 0, popełni jeden błąd
+(który nie jest błędem znaku) albo dwa błędy znaku i otrzyma równanie trzeciego stopnia,
+które ma trzy rozwiązania rzeczywiste, oraz konsekwentnie rozwiąże zadanie do końca, to
+otrzymuje 1 punkt za całe rozwiązanie.
+7. Jeżeli zdający dzieli obustronnie równanie 𝑥2(𝑥 + 5) = 2(𝑥 + 5) przez dwumian
+(𝑥 + 5) z podaniem odpowiedniego założenia i uzyska tylko dwa poprawne rozwiązania
+𝑥 = √2 oraz 𝑥 = −√2, to otrzymuje 2 punkty za całe rozwiązanie, a jeżeli uzyska tylko
+jedno z tych rozwiązań, to otrzymuje 1 punkt za całe rozwiązanie.
+8. Jeżeli zdający dzieli obustronnie równanie 𝑥2(𝑥 + 5) = 2(𝑥 + 5) przez dwumian
+(𝑥 + 5) bez podania odpowiedniego założenia i uzyska tylko dwa poprawne rozwiązania
+𝑥 = √2 oraz 𝑥 = −√2, to otrzymuje 1 punkt za całe rozwiązanie, a jeżeli uzyska tylko
+jedno z tych rozwiązań, to otrzymuje 0 punktów za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Przekształcamy równanie równoważnie i stosujemy metodę grupowania wyrazów:
+𝑥3 + 5𝑥2 − 2𝑥 − 10 = 0
+𝑥2(𝑥 + 5) − 2(𝑥 + 5) = 0
+(𝑥 + 5)(𝑥2 − 2) = 0
+Zasady oceniania rozwiązań zadań
+(𝑥 + 5)(𝑥 − √2)(𝑥 + √2) = 0
+𝑥 + 5 = 0 lub 𝑥 − √2 = 0 lub 𝑥 + √2 = 0
+𝑥 = −5 lub 𝑥 = √2 lub 𝑥 = −√2
+Rozwiązaniami równania są liczby: (−5), (−√2), √2 .
+Sposób II
+Przekształcamy równanie równoważnie i stosujemy metodę grupowania wyrazów:
+𝑥3 + 5𝑥2 − 2𝑥 − 10 = 0
+𝑥(𝑥2 − 2) + 5(𝑥2 − 2) = 0
+(𝑥 + 5)(𝑥2 − 2) = 0
+(𝑥 + 5)(𝑥 − √2)(𝑥 + √2) = 0
+𝑥 + 5 = 0 lub 𝑥 − √2 = 0 lub 𝑥 + √2 = 0
+𝑥 = −5 lub 𝑥 = √2 lub 𝑥 = −√2
+Rozwiązaniami równania są liczby: (−5), (−√2), √2 .
+Sposób III
+Obliczamy 𝑊(−5) = 0 i stwierdzamy, że liczba (−5) jest pierwiastkiem wielomianu
+𝑊(𝑥) = 𝑥3 + 5𝑥2 − 2𝑥 − 10.
+Zatem wielomian 𝑊 jest podzielny przez dwumian (𝑥 + 5). Dzielimy wielomian 𝑊 przez
+dwumian (𝑥 + 5) i otrzymujemy
+(𝑥3 + 5𝑥2 − 2𝑥 − 10) ∶ (𝑥 + 5) = 𝑥2 − 2
+Zatem 𝑊(𝑥) = (𝑥 + 5)(𝑥2 − 2) = (𝑥 + 5)(𝑥 − √2)(𝑥 + √2).
+Obliczamy pierwiastki wielomianu 𝑊:
+(𝑥 + 5)(𝑥 − √2)(𝑥 + √2) = 0
+𝑥 + 5 = 0 lub 𝑥 − √2 = 0 lub 𝑥 + √2 = 0
+𝑥 = −5 lub 𝑥 = √2 lub 𝑥 = −√2
+Rozwiązaniami równania są liczby: (−5), (−√2), √2 .

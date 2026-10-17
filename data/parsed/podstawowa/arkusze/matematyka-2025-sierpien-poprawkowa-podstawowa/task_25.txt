@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=23; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=25]
+Zadanie 25. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dany jest okrąg 𝒪 o równaniu
+𝒪: (𝑥 − 1)2 + (𝑦 + 3)2 = 4
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Okrąg 𝒪 nie ma punktów wspólnych z osią 𝑂𝑥 układu współrzędnych. P F
+Okrąg 𝒪 ma z osią 𝑂𝑦 układu współrzędnych dokładnie dwa punkty wspólne. P F

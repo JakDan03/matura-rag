@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=4; level=podstawowy; year=2026; month=maj; task_id=2]
+Zadanie 2. (0–1)
+Klient wpłacił do banku 10 000 zł na lokatę dwuletnią. Po każdym rocznym okresie
+oszczędzania bank dolicza odsetki w wysokości 6% od kwoty bieżącego kapitału
+znajdującego się na lokacie – zgodnie z procentem składanym.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Po dwóch latach oszczędzania łączna wartość doliczonych odsetek na tej lokacie (bez
+uwzględniania podatków) jest równa
+A. 1200 zł B. 1236 zł C. 1836 zł D. 3600 zł

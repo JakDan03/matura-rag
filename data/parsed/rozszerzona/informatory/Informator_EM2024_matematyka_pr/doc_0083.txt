@@ -1,0 +1,62 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=83; level=rozszerzony; year=2024; section=𝑃𝐶𝑃𝑆 = 1]
+Przykładowe zadania z rozwiązaniami 83
+oraz
+𝑃𝐶𝑃𝑆 = 1
+2 ⋅ |𝑃𝑆| ⋅ ℎ = 1
+2 ⋅ 1
+2 𝑎√3 ⋅ ℎ = √3
+4 𝑎ℎ
+więc
+√2
+8 𝑎2 = √3
+4 𝑎ℎ
+co daje ℎ =
+√6
+6 𝑎.
+Szukana odległość jest równa
+√6
+6 𝑎.
+Sposób 2. (z wykorzystaniem równości sinusów kąta)
+Oznaczmy przez:
+𝑆 – punkt przecięcia się przekątnych podstawy 𝐴𝐵𝐶𝐷 sześcianu,
+ℎ – wysokość trójkąta 𝐶𝑃𝑆 opuszczoną z wierzchołka 𝐶 na bok 𝑃𝑆,
+𝐾 – spodek wysokości trójkąta 𝐶𝑃𝑆 opuszczonej z wierzchołka 𝐶 na bok 𝑃𝑆.
+Stosujemy twierdzenie Pitagorasa do trójkąta 𝐶𝑃𝑆 i obliczamy długość boku 𝑃𝑆:
+|𝑃𝑆|2 = |𝐶𝑆|2 + |𝐶𝑃|2
+|𝑃𝑆|2 = (1
+2 𝑎√2)
+2
++ (1
+2 𝑎)
+2
+|𝑃𝑆| = √3
+2 𝑎
+Obliczamy wartość sinusa kąta 𝑆𝑃𝐶 w trójkącie prostokątnym 𝑆𝐶𝑃:
+sin|∡𝑆𝑃𝐶| =
+|𝐶𝑆|
+|𝑃𝑆| =
+1
+2 𝑎√2
+1
+2 𝑎√3
+= √2
+√3
+= √6
+3
+Zapisujemy sinus kąta 𝐾𝑃𝐶 jako stosunek długości odpowiednich boków w trójkącie
+prostokątnym 𝐶𝐾𝑃:
+sin|∡𝐾𝑃𝐶| = |𝐶𝐾|
+|𝐶𝑃| = ℎ
+1
+2 𝑎
+Ponieważ |∡𝑆𝑃𝐶| = |∡𝐾𝑃𝐶|, więc z ostatnich dwóch równości otrzymujemy
+ℎ
+1
+2 𝑎
+= √6
+3
+ℎ = √6
+6 𝑎
+Szukana odległość jest równa
+√6
+6 𝑎.

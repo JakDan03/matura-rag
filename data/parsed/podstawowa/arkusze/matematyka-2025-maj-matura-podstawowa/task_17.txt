@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=17; level=podstawowy; year=2025; month=maj; task_id=17]
+Zadanie 17. (0–1)
+Kąt 𝛼 jest ostry i spełnia warunek √3 tg 𝛼 = 2 sin 𝛼.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Cosinus kąta 𝛼 jest równy
+A. 1
+2 B.
+√2
+2 C.
+√3
+2 D.
+√3
+3

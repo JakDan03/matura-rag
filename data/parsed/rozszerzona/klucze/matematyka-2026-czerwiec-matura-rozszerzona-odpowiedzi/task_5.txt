@@ -1,0 +1,79 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=7, 8, 9; level=rozszerzony; year=2026; month=czerwiec; task_id=5]
+Zadanie 5. (0–3)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+VIII.11) przeprowadza dowody
+geometryczne.
+VIII.R1) stosuje własności czworokątów
+wpisanych w okrąg i opisanych na okręgu.
+Zasady oceniania (dla sposobu I)
+3 pkt – poprawne przekształcenia i przeprowadzenie pełnego rozumowania.
+2 pkt – zapisanie, że |∡𝐾𝐴𝐶| = |∡𝐾𝐵𝐶| oraz zapisanie wraz z uzasadnieniem, że na
+czworokącie 𝐷𝐵𝐿𝐾 można opisać okrąg
+ALBO
+– zapisanie wraz z uzasadnieniem, że na czworokącie 𝐷𝐵𝐿𝐾 można opisać okrąg
+oraz zapisanie wraz z uzasadnieniem, że |∡𝐾𝐵𝐿| = |∡𝐾𝐷𝐿|.
+1 pkt – zapisanie, że |∡𝐾𝐴𝐶| = |∡𝐾𝐵𝐶|
+ALBO
+– zapisanie wraz z uzasadnieniem, że na czworokącie 𝐷𝐵𝐿𝐾 można opisać okrąg.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania (dla sposobu II)
+3 pkt – poprawne przekształcenia i przeprowadzenie pełnego rozumowania.
+2 pkt – zapisanie wraz z uzasadnieniem, że na czworokącie 𝑀𝐷𝐿𝐶 można opisać okrąg
+oraz zapisanie, że |∡𝐶𝑀𝐿| = |∡𝐶𝐷𝐿|
+ALBO
+– zapisanie wraz z uzasadnieniem, że na czworokącie 𝑀𝐴𝐾𝐶 można opisać okrąg
+oraz zapisanie, że |∡𝐶𝑀𝐾| = |∡𝐶𝐴𝐾|,
+ALBO
+– zapisanie wraz z uzasadnieniem, że na czworokącie 𝑀𝐷𝐿𝐶 można opisać okrąg
+oraz zapisanie wraz z uzasadnieniem, że na czworokącie 𝑀𝐴𝐾𝐶 można opisać
+okrąg.
+1 pkt – zapisanie wraz z uzasadnieniem, że na czworokącie 𝑀𝐷𝐿𝐶 można opisać okrąg
+ALBO
+– zapisanie wraz z uzasadnieniem, że na czworokącie 𝑀𝐴𝐾𝐶 można opisać okrąg.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Ponieważ trójkąt 𝐴𝐵𝐶 jest równoramienny i 𝐶𝐷 jest osią symetrii tego trójkąta, więc
+|∡𝐾𝐴𝐶| = |∡𝐾𝐵𝐶| = |∡𝐾𝐵𝐿|.
+Ponieważ |∡𝐾𝐷𝐵| = 90° oraz |∡𝐵𝐿𝐾| = 90°, więc na czworokącie 𝐷𝐵𝐿𝐾 można opisać
+okrąg. W tym okręgu kąty wpisane 𝐾𝐷𝐿 i 𝐾𝐵𝐿 są oparte na tym samym łuku, więc mają
+równe miary. Zatem |∡𝐾𝐴𝐶| = |∡𝐾𝐵𝐿| = |∡𝐾𝐷𝐿|.
+To należało wykazać.
+Sposób II
+Niech 𝑀 będzie punktem przecięcia prostej 𝑝 z prostą 𝐴𝐵. Oznaczmy 𝛼 = |∡𝐵𝐶𝐷| oraz
+𝛽 = |∡𝐶𝑀𝐿|.
+Trójkąt 𝑀𝐶𝐿 jest prostokątny, więc środek okręgu opisanego na tym trójkącie jest środkiem
+odcinka 𝑀𝐶, a promień tego okręgu jest równy 1
+2 ⋅ |𝑀𝐶|. Trójkąt 𝑀𝐷𝐶 jest prostokątny,
+więc środek okręgu opisanego na tym trójkącie jest środkiem odcinka 𝑀𝐶, a promień tego
+okręgu jest równy 1
+2 ⋅ |𝑀𝐶|. Zatem na czworokącie 𝑀𝐷𝐿𝐶 można opisać okrąg. Oznaczmy
+ten okrąg przez ℴ1 (zobacz rysunek).
+Kąty 𝐿𝐶𝐷 oraz 𝐿𝑀𝐷 są wpisane w okrąg ℴ1 i oparte na tym samym łuku 𝐿𝐷, więc
+|∡𝐿𝐶𝐷| = |∡𝐿𝑀𝐷| = 𝛼. Ponieważ trójkąt 𝐴𝐵𝐶 jest równoramienny, więc
+|∡𝐾𝐶𝐴| = |∡𝐷𝐶𝐴| = 𝛼. Zatem |∡𝐾𝐶𝐴| = |∡𝐿𝑀𝐷| = |∡𝐾𝑀𝐴|, a ponieważ punkty 𝐶 oraz
+𝑀 są po tej samej stronie prostej 𝐴𝐾, więc na czworokącie 𝑀𝐴𝐾𝐶 można opisać okrąg.
+Oznaczmy ten okrąg przez ℴ2 (zobacz rysunek).
+𝐴
+𝐵
+𝐶
+𝐷
+𝐾
+𝐿
+𝑝
+𝑀
+ℴ1
+𝛼
+𝛽
+Zasady oceniania rozwiązań zadań
+Kąty wpisane 𝐾𝑀𝐶 oraz 𝐾𝐴𝐶 są oparte na tym samym łuku 𝐶𝐾 okręgu ℴ2, więc
+|∡𝐾𝐴𝐶| = |∡𝐾𝑀𝐶| i wobec |∡𝐾𝑀𝐶| = |∡𝐿𝑀𝐶| mamy |∡𝐾𝐴𝐶| = 𝛽.
+Kąty wpisane 𝐶𝐷𝐿 oraz 𝐿𝑀𝐶 są oparte na tym samym łuku 𝐶𝐿 okręgu ℴ1, więc
+|∡𝐶𝐷𝐿| = |∡𝐿𝑀𝐶| = 𝛽. Zatem |∡𝐾𝐴𝐶| = 𝛽 = |∡𝐶𝐷𝐿| = |∡𝐾𝐷𝐿|.
+To należało wykazać.

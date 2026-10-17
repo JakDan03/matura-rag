@@ -1,0 +1,4 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=39; level=podstawowy; year=2025; month=maj; task_id=12.1]
+Zadanie 12.1.
+1 pkt – zapisanie wzoru funkcji 𝑓 w postaci 𝑓(𝑥) = 𝑎(𝑥 − 𝑝)2 + 𝑞 oraz zapisanie
+𝑝 = 3 oraz 𝑞 = 6.

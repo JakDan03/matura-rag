@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=24; level=podstawowy; year=2024; month=maj; task_id=26]
+Zadanie 26. (0–1)
+Ostrosłup 𝐹1 jest podobny do ostrosłupa 𝐹2.
+Objętość ostrosłupa 𝐹1 jest równa 64.
+Objętość ostrosłupa 𝐹2 jest równa 512.
+Uzupełnij poniższe zdanie. Wpisz odpowiednią liczbę w wykropkowanym miejscu tak,
+aby zdanie było prawdziwe.
+Stosunek pola powierzchni całkowitej ostrosłupa 𝐹2 do pola powierzchni całkowitej
+ostrosłupa 𝐹1 jest równy ………. .

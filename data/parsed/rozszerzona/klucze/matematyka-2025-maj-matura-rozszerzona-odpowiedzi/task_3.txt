@@ -1,0 +1,378 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=5, 6, 7, 8, 9, 10, 11, 12; level=rozszerzony; year=2025; month=maj; task_id=3]
+Zadanie 3. (0–3)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+VII.R8) oblicza kąty trójkąta i długości jego
+boków przy odpowiednich danych
+(rozwiązuje trójkąty).
+Zasady oceniania (dla sposobów I oraz VI)
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 45°.
+2 pkt – zapisanie równania z jedną niewiadomą – jednym z kątów: 𝐶𝐴𝐷, 𝐵𝐴𝐷, 𝐶𝐷𝐴, 𝐴𝐷𝐵,
+w którym wszystkie funkcje trygonometryczne są tego samego argumentu, np.
+sin 60°⋅ cos 𝛼 − cos 60°⋅ sin 𝛼
+sin 𝛼 =
+√3 − 1
+2 , gdzie 𝛼 = |∡𝐶𝐴𝐷|,
+ALBO
+– obliczenie współczynnika kierunkowego prostej 𝐴𝐷: 2 − √3.
+1 pkt – zapisanie równania z jedną niewiadomą – jednym z kątów: 𝐶𝐴𝐷, 𝐵𝐴𝐷, 𝐶𝐷𝐴, 𝐴𝐷𝐵,
+np. sin(60° − 𝛼)
+sin 𝛼 =
+√3 − 1
+2 , gdzie 𝛼 = |∡𝐶𝐴𝐷|,
+ALBO
+– zapisanie związku |𝐵𝐷|
+|𝐶𝐷| =
+√3−1
+2 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania (dla sposobu II)
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 45°.
+2 pkt – wyznaczenie długości czterech spośród pięciu odcinków: 𝐵𝐷, 𝐶𝐷, 𝐶𝐸, 𝐷𝐸, 𝐴𝐸,
+w zależności od jednej zmiennej, np. |𝐶𝐷| = 𝑥 i |𝐵𝐷| =
+√3 − 1
+2 𝑥 i |𝐶𝐸| = 1
+2 𝑥
+i |𝐴𝐸| =
+√3
+2 𝑥
+ALBO
+– wyznaczenie długości odcinków: 𝐵𝐷, 𝐶𝐷, 𝐶𝐸, w zależności od długości odcinka 𝐴𝐸
+i tangensa kąta 𝐷𝐴𝐶, np. |𝐶𝐸| = 1
+√3 ⋅ |𝐴𝐸| ⋅ tg 𝛼 i |𝐶𝐷| = 2√3
+3 ⋅ |𝐴𝐸| ⋅ tg 𝛼
+i |𝐵𝐷| = |𝐴𝐸| −
+√3
+3 ⋅ |𝐴𝐸| ⋅ tg 𝛼, gdzie 𝛼 jest kątem 𝐷𝐴𝐶.
+1 pkt – zapisanie związku |𝐵𝐷|
+|𝐶𝐷| =
+√3 − 1
+2 ,
+ALBO
+– wyznaczenie długości dwóch odcinków spośród 𝐵𝐷, 𝐵𝐶 i 𝐶𝐷 w zależności od
+jednej zmiennej, np. |𝐶𝐷| = 𝑥 i |𝐵𝐷| =
+√3 − 1
+2 𝑥,
+ALBO
+– wyznaczenie długości boków trójkąta 𝐶𝐸𝐷 w zależności od jednej zmiennej, np.
+|𝐶𝐷| = 𝑥, |𝐶𝐸| = 1
+2 𝑥, |𝐷𝐸| =
+√3
+2 𝑥,
+ALBO
+– wyznaczenie długości odcinka 𝐶𝐸 (albo 𝐶𝐷) w zależności od długości odcinka 𝐴𝐸
+i tangensa kąta 𝐷𝐴𝐶: |𝐶𝐸| =
+√3
+3 ⋅ |𝐴𝐸| ⋅ tg 𝛼 (albo |𝐶𝐷| = 2√3
+3 ⋅ |𝐴𝐸| ⋅ tg 𝛼), gdzie
+𝛼 jest kątem 𝐷𝐴𝐶.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania (dla sposobów III–V)
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 45°.
+2 pkt – obliczenie |𝐵𝐷|
+|𝐷𝐹| oraz |𝐴𝐵|
+|𝐴𝐹| : |𝐵𝐷|
+|𝐷𝐹| = 2
+√3 oraz |𝐴𝐵|
+|𝐴𝐹| = 2
+√3
+ALBO
+– wyznaczenie długości odcinków 𝐴𝐷 oraz 𝐶𝐷 w zależności od jednej zmiennej, np.
+|𝐴𝐷| = √6𝑚 oraz |𝐶𝐷| = 2𝑚.
+1 pkt – wyznaczenie długości odcinków 𝐵𝐷 i 𝐶𝐷 w zależności od jednej zmiennej, np.
+|𝐶𝐷| = 2𝑚 i |𝐵𝐷| = (√3 − 1)𝑚.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Przyjmijmy następujące oznaczenia:
+𝑎 – długość boku trójkąta 𝐴𝐵𝐶,
+𝑏 – długość odcinka 𝐴𝐷,
+𝛼 – miara kąta 𝐷𝐴𝐶
+(zobacz rysunek).
+𝛼
+𝐴
+𝐵
+𝐶
+𝐷
+60° − 𝛼
+𝑎
+𝑏
+𝑎
+Zasady oceniania rozwiązań zadań
+Korzystając ze wzoru na pole trójkąta oraz uwzględniając warunki zadania, otrzymujemy:
+𝑃𝐴𝐵𝐷
+𝑃𝐴𝐷𝐶
+= √3 − 1
+2
+1
+2 ⋅ 𝑎 ⋅ 𝑏 ⋅ sin(60° − 𝛼)
+1
+2 ⋅ 𝑎 ⋅ 𝑏 ⋅ sin 𝛼
+= √3 − 1
+2
+sin(60° − 𝛼)
+sin 𝛼 = √3 − 1
+2
+Stąd i ze wzoru na sinus różnicy kątów otrzymujemy kolejno:
+sin 60° ⋅ cos 𝛼 − cos 60° ⋅ sin 𝛼
+sin 𝛼 = √3 − 1
+2
+sin 60° ⋅ cos 𝛼
+sin 𝛼 − cos 60° = √3 − 1
+2
+cos 𝛼
+sin 𝛼 = 1
+tg 𝛼 = 1
+𝛼 = 45°
+Zatem kąt 𝐷𝐴𝐶 ma miarę 45°.
+Sposób II
+Trójkąty 𝐴𝐵𝐷 i 𝐴𝐶𝐷 mają wspólną wysokość opuszczoną z wierzchołka 𝐴, więc
+𝑃𝐴𝐵𝐷
+𝑃𝐴𝐷𝐶
+=
+|𝐵𝐷|
+|𝐶𝐷|
+zatem
+|𝐵𝐷|
+|𝐶𝐷| = √3 − 1
+2
+Oznaczmy 𝑥 = |𝐶𝐷|. Wtedy |𝐵𝐷| =
+√3 −1
+2 𝑥. Niech 𝐸 będzie spodkiem wysokości
+trójkąta 𝐴𝐷𝐶 poprowadzonej z wierzchołka 𝐷 (zobacz rysunek).
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸
+𝑥
+√3 − 1
+2 𝑥
+Z własności trójkąta o kątach 30°, 60°, 90° otrzymujemy |𝐷𝐸| =
+√3
+2 𝑥 oraz |𝐸𝐶| = 1
+2 𝑥.
+Ponieważ |𝐴𝐸| + |𝐸𝐶| = |𝐶𝐷| + |𝐷𝐵|, więc
+|𝐴𝐸| + 1
+2 𝑥 = 𝑥 + √3 − 1
+2 𝑥
+|𝐴𝐸| = √3
+2 𝑥
+Zatem |𝐴𝐸| = |𝐷𝐸|. To oznacza, że trójkąt prostokątny 𝐷𝐸𝐴 jest równoramienny i kąt
+𝐷𝐴𝐶 ma miarę 45°.
+Sposób III (z twierdzenia o dwusiecznej)
+Niech 𝐹 będzie spodkiem wysokości trójkąta 𝐴𝐵𝐶 poprowadzonej z wierzchołka 𝐴.
+Trójkąty 𝐴𝐵𝐷 i 𝐴𝐷𝐶 mają wspólną wysokość 𝐴𝐹, więc stosunek pól tych trójkątów jest
+równy stosunkowi długości odpowiednich podstaw. Zatem |𝐵𝐷| = (√3 − 1)𝑚 oraz
+|𝐶𝐷| = 2𝑚, przy pewnym 𝑚 > 0 (zobacz rysunek).
+Wtedy |𝐴𝐵| = |𝐵𝐶| = (√3 + 1)𝑚, |𝐴𝐹| =
+(√3 + 1) ⋅ √3
+2 𝑚 oraz
+|𝐵𝐹| = 1
+2 ⋅ |𝐴𝐵| = √3 + 1
+2 𝑚. Stąd
+|𝐷𝐹| = |𝐵𝐹| − |𝐵𝐷| = √3 + 1
+2 𝑚 − (√3 − 1)𝑚 = 3 − √3
+2 𝑚
+Ponieważ |𝐵𝐷|
+|𝐷𝐹| =
+(√3 − 1)𝑚
+(3 – √3)𝑚
+2
+= 2
+√3 oraz |𝐴𝐵|
+|𝐴𝐹| =
+(√3 + 1)𝑚
+(√3 + 1) ⋅ √3𝑚
+2
+= 2
+√3 , więc półprosta 𝐴𝐷
+jest dwusieczną kąta 𝐵𝐴𝐹. To oznacza, że
+|∡𝐷𝐴𝐹| = 1
+2 ⋅ |∡𝐵𝐴𝐹| = 1
+2 ⋅ 30° = 15° oraz |∡𝐷𝐴𝐶| = 30° + |∡𝐷𝐴𝐹| = 45°.
+𝐴
+𝐵
+𝐶
+𝐷
+𝐹
+2𝑚
+(√3 − 1)𝑚
+Zasady oceniania rozwiązań zadań
+Sposób IV (z twierdzenia cosinusów i sinusów / dwukrotnie z twierdzenia cosinusów)
+Oznaczmy kąt 𝐶𝐴𝐷 przez 𝛼, natomiast długość odcinka 𝐴𝐷 oznaczmy przez 𝑏.
+Trójkąty 𝐴𝐵𝐷 i 𝐴𝐷𝐶 mają wspólną wysokość poprowadzoną z wierzchołka 𝐴 na
+prostą 𝐵𝐶, więc stosunek pól tych trójkątów jest równy stosunkowi długości odpowiednich
+podstaw. Zatem |𝐵𝐷| = (√3 − 1)𝑚 oraz |𝐶𝐷| = 2𝑚, przy pewnym 𝑚 > 0 (zobacz
+rysunek).
+Wtedy |𝐴𝐵| = |𝐵𝐶| = |𝐶𝐴| = (√3 + 1)𝑚.
+Stosujemy twierdzenie cosinusów do trójkąta 𝐴𝐷𝐶:
+𝑏2 = |𝐴𝐶|2 + |𝐶𝐷|2 − 2 ⋅ |𝐴𝐶| ⋅ |𝐶𝐷| ⋅ cos 60°
+𝑏2 = [(√3 + 1)𝑚]
+2
++ (2𝑚)2 − 2 ⋅ (√3 + 1)𝑚 ⋅ 2𝑚 ⋅ 1
+2
+𝑏2 = (4 + 2√3 + 4 − 2√3 − 2) ⋅ 𝑚2
+𝑏 = √6𝑚
+Stosujemy twierdzenie sinusów do trójkąta 𝐴𝐷𝐶 i otrzymujemy
+𝑏
+sin 60° = 2𝑚
+sin 𝛼
+√6𝑚
+sin 60° = 2𝑚
+sin 𝛼
+sin 𝛼 = √2
+2
+Zatem |∡𝐷𝐴𝐶| = 45°.
+Uwaga.
+Zamiast sin 𝛼 możemy też obliczyć cos 𝛼, korzystając po raz drugi z twierdzenia
+cosinusów dla trójkąta 𝐴𝐷𝐶:
+|𝐶𝐷|2 = |𝐴𝐶|2 + 𝑏2 − 2 ⋅ |𝐴𝐶| ⋅ 𝑏 ⋅ cos 𝛼
+(2𝑚)2 = [(√3 + 1)𝑚]
+2
++ (√6𝑚)
+2
+− 2 ⋅ (√3 + 1)𝑚 ⋅ √6𝑚 ⋅ cos 𝛼
+𝛼
+𝐴
+𝐵
+𝐶
+𝐷
+(√3 − 1)𝑚
+2𝑚
+𝑏
+2 ⋅ (√3 + 1)𝑚 ⋅ √6𝑚 ⋅ cos 𝛼 = [(√3 + 1)𝑚]
+2
++ (√6𝑚)
+2
+− (2𝑚)2
+cos 𝛼 = (3 + 2√3 + 1) + 6 − 4
+2√6 ⋅ (√3 + 1)
+= 6 + 2√3
+2√6 ⋅ (√3 + 1)
+= 2√3(√3 + 1)
+2√6 ⋅ (√3 + 1)
+= √2
+2
+Zatem |∡𝐷𝐴𝐶| = 45°.
+Sposób V (z twierdzenia Stewarta)
+Przyjmijmy następujące oznaczenia:
+𝑎 – długość boku trójkąta 𝐴𝐵𝐶,
+𝑏 – długość odcinka 𝐴𝐷,
+𝑥 – długość odcinka 𝐵𝐷,
+𝑦 – długość odcinka 𝐶𝐷,
+𝛼 – miara kąta 𝐷𝐴𝐶
+(zobacz rysunek).
+Trójkąty 𝐴𝐵𝐷 i 𝐴𝐷𝐶 mają wspólną wysokość poprowadzoną z wierzchołka 𝐴 na
+prostą 𝐵𝐶, więc stosunek pól tych trójkątów jest równy stosunkowi długości odpowiednich
+podstaw. Zatem 𝑥 = (√3 − 1)𝑚 oraz 𝑦 = 2𝑚, przy pewnym 𝑚 > 0.
+Wtedy 𝑎 = (√3 + 1)𝑚.
+Stosujemy twierdzenie Stewarta
+𝑎2 ⋅ 𝑥 + 𝑎2 ⋅ 𝑦 = (𝑥 + 𝑦)(𝑏2 + 𝑥𝑦)
+𝑎2 = 𝑏2 + 𝑥𝑦
+[(√3 + 1)𝑚]
+2
+= 𝑏2 + (√3 − 1)𝑚 ⋅ 2𝑚
+𝑏 = √6𝑚
+Stosujemy twierdzenie cosinusów do trójkąta 𝐴𝐷𝐶 i otrzymujemy:
+𝑦2 = 𝑏2 + 𝑎2 − 2𝑎𝑏 ⋅ cos 𝛼
+(2𝑚)2 = (√6𝑚)
+2
++ [(√3 + 1)𝑚]
+2
+− 2 ⋅ (√3 + 1)𝑚 ⋅ √6𝑚 ⋅ cos 𝛼
+4𝑚2 = 6𝑚2 + (4 + 2√3)𝑚2 − 2(3√2 + √6) ⋅ 𝑚2 ⋅ cos 𝛼
+𝛼
+𝐴
+𝐵
+𝐶
+𝐷
+𝑥
+𝑦
+𝑏
+𝑎
+Zasady oceniania rozwiązań zadań
+cos 𝛼 = (6 + 2√3)
+2(3√2 + √6)
+cos 𝛼 = √2(3√2 + √6)
+2(3√2 + √6)
+Zatem cos 𝛼 =
+√2
+2 i 𝛼 = 45°.
+Sposób VI (analitycznie)
+Przyjmijmy następujące oznaczenia:
+𝑎 – długość boku trójkąta 𝐴𝐵𝐶,
+𝛼 – miara kąta 𝐷𝐴𝐶,
+𝛽 – miara kąta 𝐵𝐴𝐷.
+Umieszczamy trójkąt 𝐴𝐵𝐶 w układzie współrzędnych tak, żeby 𝐴 = (0, 0), 𝐵 = (𝑎, 0) i 𝐶
+leżał w I ćwiartce układu współrzędnych. Wtedy 𝐶 = (𝑎
+2 , 𝑎√3
+2 ).
+Trójkąty 𝐴𝐵𝐷 i 𝐴𝐶𝐷 mają wspólną wysokość opuszczoną z wierzchołka 𝐴, więc
+𝑃𝐴𝐵𝐷
+𝑃𝐴𝐷𝐶
+=
+|𝐵𝐷|
+|𝐶𝐷|
+zatem
+|𝐵𝐷|
+|𝐶𝐷| = √3 − 1
+2
+Oznaczmy teraz rzuty prostokątne punktów 𝐶 i 𝐷 na oś odciętych przez – odpowiednio –
+𝐾 oraz 𝐿, a rzuty prostokątne punktów 𝐶 i 𝐷 na oś rzędnych przez – odpowiednio – 𝑀
+oraz 𝑁 (zobacz rysunek).
+Z twierdzenia Talesa otrzymujemy
+|𝐾𝐿|
+|𝐾𝐵| = |𝐶𝐷|
+|𝐵𝐶| = 2
+2 + √3 − 1 = √3 − 1 oraz |𝐴𝑁|
+|𝐴𝑀| = |𝐵𝐷|
+|𝐵𝐶| =
+√3 − 1
+2 + √3 − 1 = 2 − √3
+𝛼
+𝐴
+𝐵
+𝐶
+𝐷
+𝑎
+𝐾
+𝛽
+𝑥
+𝑦
+𝐿
+𝑀
+𝑁
+zatem
+|𝐾𝐿| = (√3 − 1) ⋅ |𝐾𝐵| = (√3 − 1) ⋅ 𝑎
+2 oraz |𝐴𝑁| = (2 − √3) ⋅ |𝐴𝑀| = (2 − √3) ⋅ 𝑎√3
+2
+Stąd
+𝐷 = (𝑎
+2 + (√3 − 1) ⋅ 𝑎
+2 , (2 − √3) ⋅ 𝑎√3
+2 ) = (𝑎√3
+2 , 𝑎√3(2 − √3)
+2 )
+Współczynnik kierunkowy prostej 𝐴𝐷 jest równy
+𝑎𝐴𝐷 =
+𝑎√3(2 − √3)
+2
+𝑎√3
+2
+= 2 − √3
+Zatem
+tg 𝛽 = 𝑎𝐴𝐷 = 2 − √3
+Ze wzoru na tangens różnicy kątów otrzymujemy
+tg 𝛼 = tg(60° − 𝛽) = tg 60° − tg 𝛽
+1 + tg 60° ⋅ tg 𝛽 = √3 − (2 − √3)
+1 + √3 ⋅ (2 − √3)
+= 2√3 − 2
+2√3 − 2
+= 1
+Zatem 𝛼 = 45°.

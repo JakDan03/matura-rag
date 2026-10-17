@@ -1,0 +1,41 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=82; level=podstawowy; year=2024; section=1. Zauważmy, że trójkąty 𝐴𝐵𝐸 i 𝐷𝐵𝐸 mają wspólny wierzchołek 𝐸, a ich podstawy 𝐷𝐵]
+82 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Przykładowe pełne rozwiązania
+Sposób 1.
+Skorzystamy ze związków:
+|𝐷𝐵|
+|𝐴𝐵| = 3
+4
+|𝐵𝐸|
+|𝐵𝐶| = 1
+5
+1. Zauważmy, że trójkąty 𝐴𝐵𝐸 i 𝐷𝐵𝐸 mają wspólny wierzchołek 𝐸, a ich podstawy 𝐷𝐵
+i 𝐴𝐵 leżą na jednej prostej. Zatem oba trójkąty mają tę samą wysokość opuszczoną
+z wierzchołka 𝐸. Stosunek pól tych trójkątów jest więc równy stosunkowi długości ich
+podstaw 𝐷𝐵 i 𝐴𝐵.
+𝑃𝐷𝐵𝐸
+𝑃𝐴𝐵𝐸
+= |𝐷𝐵|
+|𝐴𝐵| = 3
+4
+2. Trójkąty 𝐴𝐵𝐸 i 𝐴𝐵𝐶 mają wspólny wierzchołek 𝐴, a ich podstawy 𝐵𝐸 i 𝐵𝐶 leżą na
+jednej prostej. Zatem oba trójkąty mają tę samą wysokość opuszczoną z wierzchołka 𝐴.
+Stosunek pól tych trójkątów jest więc równy stosunkowi długości ich podstaw 𝐵𝐸 i 𝐵𝐶.
+𝑃𝐴𝐵𝐸
+𝑃𝐴𝐵𝐶
+=
+|𝐵𝐸|
+|𝐵𝐶| = 1
+5
+3. Z punktów 1. i 2. otrzymujemy:
+𝑃𝐷𝐵𝐸 = 3
+4 𝑃𝐴𝐵𝐸 = 3
+4 ⋅ 1
+5 ⋅ 𝑃𝐴𝐵𝐶 = 3
+4 ⋅ 1
+5 ⋅ 20 = 3
+𝐶
+𝐷
+𝐵
+𝐸
+𝐴

@@ -1,0 +1,28 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=116; level=podstawowy; year=2024; section=A. 44° B. 136° C. 134° D. 68°]
+116 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 59.
+Hania zaprojektowała i wykonała czapeczkę na bal urodzinowy
+młodszego brata. Czapeczka miała kształt powierzchni bocznej stożka
+o średnicy podstawy 𝑑 = 20 cm, wysokości 𝐻 = 25 cm i tworzącej 𝑙.
+Żeby wykonać czapeczkę, Hania najpierw narysowała na kartonie figurę
+płaską 𝐴𝐵𝑆 o kształcie wycinka koła o promieniu 𝑙 i środku 𝑆 (zobacz
+rysunek 1.). Następnie wycięła tę figurę z kartonu, odpowiednio ją
+wymodelowała i skleiła odcinek 𝑆𝐵 z odcinkiem 𝑆𝐴 (zobacz rysunek 2.).
+Do obliczeń przyjmij, że rzeczywiste figury są idealne.
+Zadanie 59.1. (0–1)
+Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.
+Kąt rozwarcia stożka, którego powierzchnią boczną jest czapeczka, ma miarę (w zaokrągleniu
+do 1°)
+A. 44° B. 136° C. 134° D. 68°
+Wskazówka: skorzystaj z tablic wartości funkcji trygonometrycznych.
+𝐴
+𝐵
+𝑆
+𝑙
+Rysunek 1.
+Rysunek 2.
+𝑆
+𝑙
+𝐻
+𝑑
+𝑂

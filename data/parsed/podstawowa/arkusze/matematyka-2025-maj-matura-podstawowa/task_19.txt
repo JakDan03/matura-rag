@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=19; level=podstawowy; year=2025; month=maj; task_id=19]
+Zadanie 19. (0–1)
+Punkty 𝐴, 𝐵 oraz 𝐶 leżą na okręgu o środku w punkcie 𝑂.
+Miara kąta 𝐵𝐶𝐴 jest równa 50° (zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Miara kąta ostrego 𝐴𝐵𝑂 jest równa
+A. 20° B. 35° C. 40° D. 50°
+𝐴
+𝐵
+𝐶
+𝑂
+50°

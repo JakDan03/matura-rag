@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=20; level=podstawowy; year=2025; month=czerwiec; task_id=22]
+Zadanie 22. (0–2)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dana jest prosta 𝑘 o równaniu
+𝑦 = 5𝑥 + 7. Prosta 𝑙 jest równoległa do prostej 𝑘 i przecina oś 𝑂𝑦 w punkcie (0, −4).
+Punkt o współrzędnych (𝑝, 2) należy do prostej 𝑙.
+Oblicz 𝒑. Zapisz obliczenia.

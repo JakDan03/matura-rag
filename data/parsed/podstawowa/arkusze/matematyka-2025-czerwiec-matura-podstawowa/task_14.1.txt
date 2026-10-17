@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=13; level=podstawowy; year=2025; month=czerwiec; task_id=14.1]
+Zadanie 14.
+Ciąg (𝑎𝑛) jest określony wzorem 𝑎𝑛 = 3𝑛2 − 3𝑛 dla każdej liczby naturalnej 𝑛 ≥ 1.
+Zadanie 14.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Suma 𝑆3 trzech początkowych kolejnych wyrazów ciągu (𝑎𝑛) jest równa
+A. 18 B. 24 C. 60 D. 90

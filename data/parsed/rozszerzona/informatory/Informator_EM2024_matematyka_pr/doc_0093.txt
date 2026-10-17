@@ -1,0 +1,27 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=93; level=rozszerzony; year=2024; section=2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów]
+Przykładowe zadania z rozwiązaniami 93
+Wymagania ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów
+praktycznych i teoretycznych.
+3. Tworzenie pomocniczych obiektów matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub rozwiązania problemu.
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Wymagania szczegółowe
+VII. Trygonometria. Zdający:
+1R) stosuje miarę łukową […].
+VIII. Planimetria. Zdający:
+2) […] stosuje twierdzenie odwrotne do twierdzenia Pitagorasa i twierdzenie
+cosinusów […];
+6) stosuje wzory na pole wycinka koła i długość łuku okręgu.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik.
+3 pkt – obliczenie miary łukowej kąta 𝐵𝑆𝑃 na siatce stożka i obliczenie długości odcinków
+𝐵𝑆 oraz 𝑃𝑆.
+2 pkt – obliczenie miary łukowej kąta 𝐵𝑆𝑃 na siatce stożka
+ALBO
+– obliczenie długości odcinków 𝐵𝑆 oraz 𝑃𝑆.
+1 pkt – zapisanie, że najkrótsza droga jest równa długości odcinka 𝑃𝐵 na siatce stożka.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.

@@ -1,0 +1,23 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=67; level=podstawowy; year=2024; section=2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów]
+Przykładowe zadania z rozwiązaniami 67
+Zadanie 38. (0–4)
+Powierzchnia magazynowa będzie się składała z dwóch identycznych prostokątnych działek
+połączonych wspólnym bokiem. Całość ma być ogrodzona płotem, przy czym obie działki
+będzie rozdzielał wspólny płot. W ogrodzeniu będą zamontowane dwie bramy wjazdowe,
+każda o szerokości 10 m (zobacz rysunek poniżej). Łączna długość płotu ogradzającego
+oraz rozdzielającego obie działki wyniesie 580 metrów, przy czym szerokości obu bram
+wjazdowych nie wliczają się w długość płotu.
+Oblicz wymiary 𝒙 oraz 𝒚 każdej z dwóch prostokątnych działek, tak aby całkowite
+pole powierzchni magazynowej było największe.
+Wymagania ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów
+praktycznych i teoretycznych.
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii podczas rozwiązywania zadań, również
+w sytuacjach nietypowych.
+𝑥
+𝑦
+𝑦
+10 m
+10 m

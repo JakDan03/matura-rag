@@ -1,0 +1,35 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=11; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=11]
+Zadanie 11. (0–1)
+Miejscem zerowym funkcji liniowej 𝑓 jest liczba 2, a punkt przecięcia wykresu funkcji 𝑓
+z osią 𝑂𝑦 kartezjańskiego układu współrzędnych (𝑥, 𝑦) ma współrzędne (0, 4) (zobacz
+rysunek).
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Współczynnik kierunkowy prostej, która jest wykresem funkcji 𝑓, jest
+równy (−2). P F
+Pole trójkąta ograniczonego osiami kartezjańskiego układu współrzędnych
+(𝑥, 𝑦) oraz wykresem funkcji 𝑓 jest równe 8. P F
+1
+2
+3
+4
+−1
+−2
+5
+0
+𝑥
+−5
+−4
+−3
+1
+2
+3
+4
+𝑦
+5
+−1
+−2
+−3
+−4
+−5
+𝑦 = 𝑓(𝑥)

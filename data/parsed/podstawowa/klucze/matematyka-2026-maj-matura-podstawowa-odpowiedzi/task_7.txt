@@ -1,0 +1,89 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=6, 7, 8; level=podstawowy; year=2026; month=maj; task_id=7]
+Zadanie 7. (0–2)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+I.2) przeprowadza proste dowody dotyczące
+podzielności liczb całkowitych i reszt
+z dzielenia […].
+Zasady oceniania
+2 pkt – przeprowadzenie pełnego rozumowania, tj.
+• uzasadnienie, że liczba 7𝑛2 + 21𝑛 jest podzielna przez 7 i przez 2
+LUB
+• rozpatrzenie przypadku, gdy 𝑛 = 2𝑘, tj. uzasadnienie, że liczba
+7 ⋅ (2𝑘)2 + 21 ⋅ (2𝑘) jest podzielna przez 14, oraz rozpatrzenie przypadku,
+gdy 𝑛 = 2𝑘 + 1, tj. uzasadnienie, że liczba 7 ⋅ (2𝑘 + 1)2 + 21 ⋅ (2𝑘 + 1) jest
+podzielna przez 14.
+1 pkt – uzasadnienie, że liczba 7𝑛2 + 21𝑛 jest podzielna przez 7
+ALBO
+– uzasadnienie, że liczba 7𝑛2 + 21𝑛 jest podzielna przez 2,
+ALBO
+– rozpatrzenie przypadku, gdy 𝑛 = 2𝑘, tj. uzasadnienie, że liczba
+7 ⋅ (2𝑘)2 + 21 ⋅ (2𝑘) jest podzielna przez 14,
+ALBO
+– rozpatrzenie przypadku, gdy 𝑛 = 2𝑘 + 1, tj. uzasadnienie, że liczba
+7 ⋅ (2𝑘 + 1)2 + 21 ⋅ (2𝑘 + 1) jest podzielna przez 14.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający sprawdza prawdziwość tezy tylko dla wybranych wartości 𝑛, to otrzymuje
+0 punktów za całe rozwiązanie.
+2. Jeżeli zdający wykazuje, że dla każdej liczby całkowitej 𝑛 wyrażenie 7𝑛2 − 21𝑛
+(zamiast 7𝑛2 + 21𝑛) jest podzielne przez 14, to może otrzymać co najwyżej 1 punkt za
+całe rozwiązanie.
+3. Jeżeli zdający przyjmuje np. 𝑛 = 14𝑘 + 𝑟, gdzie 𝑘 ∈ ℤ i 𝑟 jest resztą z dzielenia liczby
+𝑛 przez 14, i przeprowadzi pełne rozumowanie dla wszystkich przypadków, to otrzymuje
+2 punkty.
+Gdy przeprowadzi pełne rozumowanie dla co najmniej połowy przypadków, ale nie
+przeprowadzi pełnego rozumowania dla wszystkich przypadków, to otrzymuje 1 punkt za
+całe rozwiązanie.
+4. Jeżeli zdający zapisze równanie 7𝑛(𝑛 + 3) = 0 (lub 7(𝑛2 + 3𝑛) = 0), to nie uznaje się
+tego zapisu jako uzasadnienia podzielności wyrażenia 7𝑛2 + 21𝑛 przez 7.
+Zasady oceniania rozwiązań zadań
+Przykładowe pełne rozwiązania
+Sposób I
+Liczba 7𝑛2 + 21𝑛 jest podzielna przez 7 jako suma dwóch liczb podzielnych przez 7.
+Gdy liczba 𝑛 jest parzysta, to liczby 7𝑛2 oraz 21𝑛 są parzyste, więc liczba 7𝑛2 + 21𝑛
+jest parzysta jako suma dwóch liczb parzystych.
+Gdy liczba 𝑛 jest nieparzysta, to liczby 7𝑛2 oraz 21𝑛 są nieparzyste jako iloczyny liczb
+nieparzystych i w konsekwencji liczba 7𝑛2 + 21𝑛 jest parzysta jako suma dwóch liczb
+nieparzystych.
+Zatem liczba 7𝑛2 + 21𝑛 jest podzielna przez 2 i przez 7. Liczby 2 i 7 są względnie
+pierwsze, więc liczba 7𝑛2 + 21𝑛 jest podzielna przez 2 ⋅ 7 = 14. To należało wykazać.
+Sposób II
+Przedstawiamy liczbę 7𝑛2 + 21𝑛 w postaci iloczynu:
+7𝑛2 + 21𝑛 = 7𝑛(𝑛 + 3)
+Jeżeli liczba 𝑛 jest parzysta, to wtedy liczba 𝑛 + 3 jest nieparzysta.
+Jeżeli liczba 𝑛 jest nieparzysta, to wtedy liczba 𝑛 + 3 jest parzysta.
+Wynika stąd, że liczba 𝑛(𝑛 + 3) jest podzielna przez 2.
+Zatem liczba 7𝑛(𝑛 + 3) jest podzielna przez 7 ⋅ 2 = 14. To należało wykazać.
+Sposób III
+Rozważamy dwa przypadki: gdy liczba 𝑛 jest parzysta i gdy liczba 𝑛 jest nieparzysta.
+Parzystą liczbę 𝑛 możemy zapisać w postaci 𝑛 = 2𝑘, gdzie 𝑘 ∈ ℤ.
+Wtedy:
+7𝑛2 + 21𝑛 = 7 ⋅ (2𝑘)2 + 21 ⋅ (2𝑘) = 28𝑘2 + 42𝑘 = 14 ⋅ (2𝑘2 + 3𝑘)
+Ponieważ 𝑘 jest liczbą całkowitą, to liczba 2𝑘2 + 3𝑘 również jest całkowita, zatem iloczyn
+14 ⋅ (2𝑘2 + 3𝑘) jest podzielny przez 14.
+Nieparzystą liczbę 𝑛 możemy zapisać w postaci 𝑛 = 2𝑘 + 1, gdzie 𝑘 ∈ ℤ.
+Wtedy:
+7𝑛2 + 21𝑛 = 7 ⋅ (2𝑘 + 1)2 + 21 ⋅ (2𝑘 + 1) = 7(4𝑘2 + 4𝑘 + 1) + 42𝑘 + 21 =
+= 28𝑘2 + 28𝑘 + 7 + 42𝑘 + 21 = 28𝑘2 + 70𝑘 + 28 = 14 ⋅ (2𝑘2 + 5𝑘 + 2)
+Ponieważ 𝑘 jest liczbą całkowitą, to liczba 2𝑘2 + 5𝑘 + 2 również jest całkowita, zatem
+iloczyn 14 ⋅ (2𝑘2 + 5𝑘 + 2) jest podzielny przez 14. To należało wykazać.
+Sposób IV
+Przedstawiamy liczbę 7𝑛2 + 21𝑛 w postaci iloczynu:
+7𝑛2 + 21𝑛 = 7𝑛(𝑛 + 3)
+Rozważamy dwa przypadki: gdy liczba 𝑛 jest parzysta i gdy liczba 𝑛 jest nieparzysta.
+Parzystą liczbę 𝑛 możemy zapisać w postaci 𝑛 = 2𝑘, gdzie 𝑘 ∈ ℤ.
+Wtedy:
+7𝑛(𝑛 + 3) = 7 ⋅ 2𝑘 ⋅ (2𝑘 + 3) = 14 ⋅ 𝑘(2𝑘 + 3)
+Ponieważ 𝑘 jest liczbą całkowitą, to liczba 2𝑘 + 3 również jest całkowita, zatem iloczyn
+14 ⋅ 𝑘(2𝑘 + 3) jest podzielny przez 14.
+Nieparzystą liczbę 𝑛 możemy zapisać w postaci 𝑛 = 2𝑘 + 1, gdzie 𝑘 ∈ ℤ.
+Wtedy:
+7𝑛(𝑛 + 3) = 7(2𝑘 + 1)(2𝑘 + 1 + 3) = 14 ⋅ (2𝑘 + 1)(𝑘 + 2)
+Ponieważ 𝑘 jest liczbą całkowitą, to liczby 2𝑘 + 1 oraz 𝑘 + 2 również są całkowite,
+zatem iloczyn 14 ⋅ (2𝑘 + 1)(𝑘 + 2) jest podzielny przez 14. To należało wykazać.

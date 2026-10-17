@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=5, 6; level=rozszerzony; year=2023; month=czerwiec; task_id=2]
+Zadanie 2. (0–3)
+Wśród 𝑛 osób są Ania i jej dwaj znajomi. Wszystkie te 𝑛 osób ustawiamy w kolejkę jedna
+za drugą. Liczba wszystkich takich ustawień jest 12 razy większa od liczby wszystkich
+takich ustawień tych 𝑛 osób w kolejkę, w których Ania i jej dwaj znajomi zajmują trzy kolejne
+miejsca (w dowolnej kolejności).
+Oblicz 𝒏. Zapisz obliczenia.

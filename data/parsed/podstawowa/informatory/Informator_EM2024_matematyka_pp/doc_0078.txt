@@ -1,0 +1,28 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=78; level=podstawowy; year=2024; section=A. 100° B. 80° C. 50° D. 40°]
+78 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 43. (0–1)
+Dane są okrąg o środku 𝑆 oraz prosta 𝑘 styczna do okręgu w punkcie 𝐴.
+Odcinek 𝐴𝐵 jest cięciwą tego okręgu. Miara kąta ostrego pomiędzy prostą 𝑘 a cięciwą 𝐴𝐵
+jest równa 50°. Punkt 𝐶 leży na okręgu. Kąt wpisany 𝐵𝐶𝐴 jest ostry.
+Sytuację przedstawia rysunek poniżej.
+Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.
+Miara kąta wpisanego 𝐵𝐶𝐴 jest równa
+A. 100° B. 80° C. 50° D. 40°
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymaganie szczegółowe
+VIII. Planimetria. Zdający:
+5) stosuje własności kątów wpisanych i środkowych.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C
+𝐵
+𝑆
+𝐶
+𝐴
+𝑘
+50°

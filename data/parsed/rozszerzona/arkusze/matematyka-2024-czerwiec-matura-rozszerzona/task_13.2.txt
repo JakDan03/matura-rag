@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=26, 27; level=rozszerzony; year=2024; month=czerwiec; task_id=13.2]
+Zadanie 13.
+Rozważamy wszystkie ostrosłupy prawidłowe trójkątne, w których suma wysokości 𝐻
+ostrosłupa oraz promienia 𝑅 okręgu opisanego na podstawie tego ostrosłupa jest równa 6.
+Zadanie 13.2. (0–4)
+Objętość 𝑉 ostrosłupa w zależności od długości 𝑅 promienia okręgu opisanego na
+podstawie ostrosłupa jest określona wzorem
+𝑉(𝑅) = √3
+4 ⋅ (6𝑅2 − 𝑅3)
+dla 𝑅 ∈ (0, 6).
+Wyznacz długość promienia okręgu opisanego na podstawie tego z rozważanych
+ostrosłupów, którego objętość jest największa. Oblicz tę największą objętość. Zapisz
+obliczenia.

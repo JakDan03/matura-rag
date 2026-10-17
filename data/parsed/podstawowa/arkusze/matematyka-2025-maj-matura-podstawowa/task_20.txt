@@ -1,0 +1,14 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=20; level=podstawowy; year=2025; month=maj; task_id=20]
+Zadanie 20. (0–1)
+W trójkącie równoramiennym 𝐴𝐵𝐶 dane są: |𝐴𝐶| = |𝐵𝐶| = 4 i |𝐴𝐵| = 3.
+Na boku 𝐵𝐶, między punktami 𝐵 i 𝐶, wybrano taki punkt 𝐷, że trójkąty 𝐴𝐵𝐶 i 𝐵𝐷𝐴 są
+podobne (zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Odcinek 𝐵𝐷 ma długość
+A. 2 B. 2,25 C. 2,5 D. 3
+𝐴
+𝐵
+𝐷
+𝐶
+3
+4

@@ -1,0 +1,22 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=4; level=rozszerzony; year=2024; month=czerwiec; task_id=1]
+Zadanie 1. (0–2)
+W chwili początkowej (𝑡 = 0) zainicjowano pewną reakcję chemiczną, w której brał udział
+związek A.
+W wyniku tej reakcji masa 𝑚 związku A zmieniała się w czasie zgodnie z zależnością
+𝑚(𝑡) = 𝑎 ⋅ 2−0,05⋅𝑡 + 𝑏 dla 𝑡 ≥ 0
+gdzie:
+𝑚 – masa związku A wyrażona w gramach,
+𝑡 – czas wyrażony w sekundach (liczony od chwili 𝑡 = 0),
+𝑎, 𝑏 – współczynniki liczbowe.
+Masa początkowa związku A (tj. masa w chwili 𝑡 = 0) była równa 𝑚0 gramów.
+Po osiągnięciu stanu równowagi (tj. gdy 𝑡 → ∞) masa tego związku była równa 1
+9 jego
+masy początkowej (zobacz rysunek).
+Oblicz, po ilu sekundach (licząc od chwili zainicjowania tej reakcji) przereagowało
+𝟖𝟕, 𝟓 % masy początkowej tego związku. Zapisz obliczenia.
+𝑡
+0
+𝑚0
+𝑚
+1
+9 𝑚0

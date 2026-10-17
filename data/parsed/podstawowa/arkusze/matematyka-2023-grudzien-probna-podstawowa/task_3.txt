@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=5; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=3]
+Zadanie 3. (0–1)
+Pan Grzegorz wpłacił do banku pewną kwotę na lokatę dwuletnią. Po każdym rocznym
+okresie oszczędzania bank doliczał odsetki w wysokości 5% od kwoty bieżącego kapitału
+znajdującego się na lokacie. Po dwóch latach oszczędzania pan Grzegorz odebrał z tego
+banku wraz z odsetkami kwotę 4851 zł (bez uwzględnienia podatków).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Kwota wpłacona przez pana Grzegorza na tę lokatę była równa
+A. 4300 zł B. 4400 zł C. 4500 zł D. 4600 zł

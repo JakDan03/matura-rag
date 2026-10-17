@@ -1,0 +1,14 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=18; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=18]
+Zadanie 18. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dana jest prosta 𝑙 o równaniu
+𝑦 = 3
+2 𝑥 − 15
+2 . Prosta 𝑘 jest prostopadła do prostej 𝑙 i przechodzi przez punkt 𝑃 = (6, 0).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Prosta 𝑘 ma równanie
+A. 𝑦 = 3
+2 𝑥 + 6 B. 𝑦 = − 2
+3 𝑥 + 6
+C. 𝑦 = 3
+2 𝑥 − 9 D. 𝑦 = − 2
+3 𝑥 + 4

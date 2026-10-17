@@ -1,0 +1,34 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=106; level=podstawowy; year=2024; section=4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach]
+106 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 55. (0–4)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) przekątne równoległoboku 𝐴𝐵𝐶𝐷
+przecinają się w punkcie 𝑆 = (11
+2 , 17
+2 ). Bok 𝐴𝐵 tego równoległoboku zawiera się w prostej
+o równaniu 𝑦 = 𝑥 − 2, a bok 𝐴𝐷 zawiera się w prostej o równaniu 𝑦 = 3𝑥 − 6.
+Oblicz współrzędne wierzchołka 𝑩.
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Wymagania szczegółowe
+IX. Geometria analityczna na płaszczyźnie kartezjańskiej. Zdający:
+1) rozpoznaje wzajemne położenie prostych na płaszczyźnie na podstawie ich równań,
+w tym znajduje wspólny punkt dwóch prostych, jeśli taki istnieje;
+2) posługuje się równaniami prostych na płaszczyźnie, w postaci kierunkowej i ogólnej,
+w tym wyznacza równanie prostej o zadanych własnościach (takich, jak np.
+przechodzenie przez dwa dane punkty, znany współczynnik kierunkowy,
+równoległość do innej prostej).
+Zasady oceniania
+4 pkt – poprawna metoda obliczenia współrzędnych punktu 𝐵 oraz podanie poprawnego
+wyniku: 𝐵 = (4, 2).
+3 pkt – wyznaczenie równania prostej 𝐵𝐶: 𝑦 = 3𝑥 − 10
+ALBO
+– obliczenie współrzędnych punktu 𝐴: 𝐴 = (2, 0) oraz obliczenie współrzędnych
+środka 𝑀𝐴𝐵 boku 𝐴𝐵: 𝑀𝐴𝐵 = (3, 1).
+2 pkt – obliczenie współrzędnych punktu 𝐶: 𝐶 = (9, 17)
+ALBO
+– obliczenie współrzędnych środka 𝑀𝐴𝐵 boku 𝐴𝐵: 𝑀𝐴𝐵 = (3, 1),
+ALBO
+– obliczenie współrzędnych punktu 𝐴: 𝐴 = (2, 0) oraz wyznaczenie równania prostej
+𝑆𝑀𝐴𝐵 (gdzie 𝑀𝐴𝐵 jest środkiem boku 𝐴𝐵): 𝑦 = 3𝑥 − 8.

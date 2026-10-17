@@ -1,0 +1,32 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=25; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+Przykładowe zadania z rozwiązaniami 25
+Zadanie 13. (0–2)
+Dane są dwie liczby 𝑥 i 𝑦, takie że iloraz 𝑥
+𝑦 jest równy 1 + √5
+2 .
+Oblicz wartość wyrażenia 𝒙+𝒚
+𝒙
+.
+Wynik podaj w postaci 𝒂+√𝒃
+𝒄 , gdzie 𝒂, 𝒃, 𝒄 są liczbami całkowitymi dodatnimi.
+Wymaganie ogólne
+I. Sprawność rachunkowa.
+Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora,
+stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych
+oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach
+rzeczywistych i teoretycznych.
+Wymagania szczegółowe
+I. Liczby rzeczywiste. Zdający:
+1) wykonuje działania (dodawanie, odejmowanie, mnożenie, dzielenie, potęgowanie,
+pierwiastkowanie, logarytmowanie) w zbiorze liczb rzeczywistych.
+II. Wyrażenia algebraiczne. Zdający:
+1) stosuje wzory skróconego mnożenia na: (𝑎 + 𝑏)2, (𝑎 − 𝑏)2, 𝑎2 − 𝑏2.
+Zasady oceniania
+2 pkt – przekształcenie wyrażenia 𝑥+𝑦
+𝑥 do postaci 1+√5
+2 .
+1 pkt – przekształcenie wyrażenia 𝑥+𝑦
+𝑥 do postaci 1 + 2
+1+√5 lub 3+√5
+1+√5.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.

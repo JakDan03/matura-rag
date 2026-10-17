@@ -1,0 +1,34 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=130; level=rozszerzony; year=2024; section=|𝐸𝐶|2 = |𝐶𝑆|2 − |𝑆𝐸|2]
+130 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+|𝐴𝐶|
+sin |∡𝐴𝐵𝐶| = 2𝑅
+sin |∡𝐴𝐵𝐶| =
+|𝐴𝐶|
+2𝑅 = 16√2
+34√2
+= 8
+17
+Zadanie 27. (0–4)
+Celem wyprawy Tomka i Marka jest zdobycie
+szczytu 𝑆 pewnej góry. Wyprawę panowie
+rozpoczynają w punkcie 𝑃 położonym na
+północnym stoku góry, dokładnie na północ od
+szczytu, na wysokości 𝐻0 metrów n.p.m. Tomek i
+Marek chcą najpierw dojść do bazy 𝐵, znajdującej
+się dokładnie na południe od szczytu, na
+przeciwległym południowym stoku góry na
+wysokości 𝐻1 metrów n.p.m. Następnie z bazy
+chcą wejść na szczyt leżący na wysokości 𝐻2
+metrów n.p.m. (zobacz rysunek 1.).
+Oblicz długość najkrótszej drogi, jaką muszą
+pokonać, aby dojść do bazy. Zapisz obliczenia.
+Przyjmij, że góra jest stożkiem o kącie rozwarcia 𝛼.
+Wskazówka: Powierzchnia boczna stożka po rozcięciu
+wzdłuż tworzącej i rozłożeniu jest wycinkiem koła.
+Najkrótsza droga do bazy jest równa najkrótszej drodze
+z punktu 𝑃 do 𝐵 na wycinku koła.
+𝑆
+𝛼
+𝐵
+𝑃
+Rys. 1.

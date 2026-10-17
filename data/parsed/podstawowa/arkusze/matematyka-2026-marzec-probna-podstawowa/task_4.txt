@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=5; level=podstawowy; year=2026; month=marzec; term=probna; task_id=4]
+Zadanie 4. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba log8 √2
+5
+jest równa
+A. 1
+15 B. (−15) C. 3
+5 D. 5
+3

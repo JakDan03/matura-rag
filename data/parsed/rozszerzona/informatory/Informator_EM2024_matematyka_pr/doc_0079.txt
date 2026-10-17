@@ -1,0 +1,35 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=79; level=rozszerzony; year=2024; section=𝑃𝐴𝐵𝐶𝐷 = 17 ⋅ 7√10 ⋅ 9]
+Przykładowe zadania z rozwiązaniami 79
+Kąt 𝛼 jest kątem ostrym, więc
+sin 𝛼 = √1 − cos2 𝛼 = √1 − 2809
+2890 = √ 81
+2890 = 9
+17√10
+Obliczamy pole równoległoboku:
+𝑃𝐴𝐵𝐶𝐷 = |𝐶𝐷| ⋅ |𝐵𝐷| ⋅ sin 𝛼
+𝑃𝐴𝐵𝐶𝐷 = 17 ⋅ 7√10 ⋅ 9
+17√10
+= 63
+Pole czworokąta 𝐴𝐵𝐶𝐷 jest równe 63.
+Sposób 2.
+Niech 𝑥𝐷 , 𝑦𝐷 będą współrzędnymi punktu 𝐷, tj. 𝐷 = (𝑥𝐷, 𝑦𝐷).
+Wyrazimy współrzędne punktów 𝐵 i 𝐶 za pomocą współrzędnych punktu 𝐷.
+Ponieważ 𝐷𝐵⃗⃗⃗⃗⃗⃗ = −𝐵𝐷⃗⃗⃗⃗⃗⃗ = [21, 7], więc 𝐵 = (21 + 𝑥𝐷, 7 + 𝑦𝐷) i podobnie:
+𝐷𝐶⃗⃗⃗⃗⃗ = [15, 8], więc 𝐶 = (15 + 𝑥𝐷, 8 + 𝑦𝐷).
+Korzystamy ze wzoru na pole trójkąta (przy danych wierzchołkach trójkąta) w celu obliczenia
+pola trójkąta 𝐵𝐶𝐷:
+𝑃𝐵𝐶𝐷 = 1
+2 ⋅ |[(15 + 𝑥𝐷) − (21 + 𝑥𝐷)][𝑦𝐷 − (7 + 𝑦𝐷)] − [(8 + 𝑦𝐷) − (7 + 𝑦𝐷)][𝑥𝐷 − (21 + 𝑥𝐷)]|
+𝑃𝐵𝐶𝐷 = 1
+2 ⋅ |(−6) ⋅ (−7) − 1 ⋅ (−21)| = 63
+2
+Obliczamy pole równoległoboku 𝐴𝐵𝐶𝐷:
+𝑃𝐴𝐵𝐶𝐷 = 2 ⋅ 𝑃𝐵𝐶𝐷 = 63
+Pole równoległoboku 𝐴𝐵𝐶𝐷 jest równe 63.
+Sposób 3.
+Oznaczmy: 𝑎 = |𝐵𝐷|, 𝑏 = |𝐵𝐶| , 𝑐 = |𝐶𝐷|, 2𝑝 = 𝑎 + 𝑏 + 𝑐.
+Obliczamy długości boków trójkąta 𝐵𝐶𝐷:
+𝐵𝐶⃗⃗⃗⃗⃗ = 𝐵𝐷⃗⃗⃗⃗⃗⃗ + 𝐷𝐶⃗⃗⃗⃗⃗ = [−21, −7] + [15, 8] = [−6, 1]
+𝑏 = |𝐵𝐶| = √(−6)2 + 12 = √37
+𝑐 = |𝐶𝐷| = √152 + 82 = √289 = 17
+𝑎 = |𝐵𝐷| = √(−21)2 + (−7)2 = √490 = 7√10

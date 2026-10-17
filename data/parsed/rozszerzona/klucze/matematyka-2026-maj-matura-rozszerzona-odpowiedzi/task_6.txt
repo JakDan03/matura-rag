@@ -1,0 +1,129 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=21, 22, 23, 24; level=rozszerzony; year=2026; month=maj; task_id=6]
+Zadanie 6. (0–4)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+VI.7) wykorzystuje własności ciągów, w tym
+arytmetycznych i geometrycznych, do
+rozwiązywania zadań, również osadzonych
+w kontekście praktycznym.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: (−1 026 168).
+3 pkt – obliczenie liczby 𝑛 wyrazów ciągu arytmetycznego: 𝑛 = 1014.
+2 pkt – rozwiązanie równania z jedną niewiadomą 𝑟: 𝑟 = 0 oraz 𝑟 = −2
+ALBO
+– obliczenie różnicy ciągu arytmetycznego (𝑎𝑛) spełniającej warunki zadania:
+𝑟 = −2,
+ALBO
+– rozwiązanie równania z jedną niewiadomą 𝑞: 𝑞 = 1 oraz 𝑞 = 3,
+ALBO
+– obliczenie ilorazu ciągu geometrycznego (𝑎2 , 𝑎3 , 𝑎6) spełniającego warunki
+zadania: 𝑞 = 3,
+ALBO
+– obliczenie/zapisanie, że ciąg (𝑎2 , 𝑎3 , 𝑎6) nie jest stały i rozwiązanie równania
+z jedną niewiadomą 𝑎2: 𝑎2 = −1,
+ALBO
+– zapisanie równania z jedną niewiadomą 𝑛, np.
+(1 + 2 ⋅ −2026
+𝑛 − 1)
+2
+= (1 + −2026
+𝑛 − 1) (1 + 5 ⋅ −2026
+𝑛 − 1)
+1 pkt – zapisanie równania z jedną niewiadomą 𝑟, np. (1 + 2𝑟)2 = (1 + 𝑟)(1 + 5𝑟)
+ALBO
+– zapisanie równania z jedną niewiadomą 𝑞, np. 3𝑞 − 3 = 𝑞2 − 𝑞,
+ALBO
+– zapisanie równania z jedną niewiadomą 𝑎2 , np. 𝑎2 = 1 + 2𝑎2 (dla sposobu III),
+ALBO
+– wyznaczenie różnicy ciągu (𝑎𝑛) w zależności od liczby 𝑛 wyrazów ciągu
+arytmetycznego (𝑎𝑛): 𝑟 = −2026
+𝑛 − 1 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający myli ciąg arytmetyczny z ciągiem geometrycznym, to otrzymuje 0 punktów
+za całe rozwiązanie.
+2. Jeżeli zdający stosuje błędny wzór na 𝑛-ty wyraz ciągu arytmetycznego, to może otrzymać
+co najwyżej 2 punkty za całe rozwiązanie.
+3. Jeżeli zdający popełni błędy rachunkowe i otrzyma wartość 𝑛, która nie jest liczbą
+naturalną, to może otrzymać 2 punkty za całe rozwiązanie (traktujemy to jak obliczenie
+liczby wyrazów ciągu arytmetycznego z błędem rachunkowym). Zdający nie otrzymuje
+punktu za obliczenie sumy wyrazów ciągu arytmetycznego.
+4. a) Jeżeli zdający przyjmie, że 𝑟 = −2 i sprawdzi rachunkiem, że ta wartość spełnia
+warunki zadania, ale nie uzasadni, że jest to jedyna wartość 𝑟 spełniająca warunki
+zadania, to może otrzymać co najwyżej 2 punkty za całe rozwiązanie (za obliczenie 𝑛
+oraz za obliczenie sumy).
+b) Jeżeli zdający przyjmie bez uzasadnienia, że 𝑟 = −2 i na tym opiera swoje
+rozwiązanie, to otrzymuje 0 punktów.
+Przykładowe pełne rozwiązania
+Sposób I
+Niech 𝑟 oznacza różnicę ciągu arytmetycznego (𝑎𝑛). Ze wzoru na 𝑛-ty wyraz ciągu
+arytmetycznego i własności ciągu geometrycznego otrzymujemy: 𝑎2 = 1 + 𝑟,
+𝑎3 = 1 + 2𝑟, 𝑎6 = 1 + 5𝑟 oraz (𝑎3)2 = 𝑎2 ⋅ 𝑎6 . Stąd i z warunków zadania dostajemy:
+(𝑎3)2 = 𝑎2 ⋅ 𝑎6
+(1 + 2𝑟)2 = (1 + 𝑟)(1 + 5𝑟)
+0 = 2𝑟 + 𝑟2
+0 = 𝑟(2 + 𝑟)
+𝑟 = 0 ∨ 𝑟 = −2
+Dla 𝑟 = 0 warunki zadania nie są spełnione, ponieważ pierwszy i ostatni wyraz ciągu
+arytmetycznego (𝑎𝑛) nie są równe.
+Dla 𝑟 = −2 otrzymujemy 𝑎2 = −1, 𝑎3 = −3, 𝑎6 = −9. Ciąg (−1, −3, −9) jest
+geometryczny, więc warunki zadania są spełnione.
+Obliczamy liczbę 𝑛 wyrazów ciągu (𝑎𝑛):
+−2025 = 1 + (𝑛 − 1) ⋅ (−2)
+Zasady oceniania rozwiązań zadań
+𝑛 = 1014
+Obliczamy sumę 𝑆1014 wszystkich wyrazów ciągu (𝑎𝑛):
+𝑆1014 = 1 + (−2025)
+2 ⋅ 1014 = −1 026 168
+Sposób II
+Niech 𝑟 oznacza różnicę ciągu arytmetycznego (𝑎𝑛). Niech 𝑞 oznacza iloraz ciągu
+geometrycznego (𝑎2 , 𝑎3 , 𝑎6). Ciąg arytmetyczny (𝑎𝑛) jest malejący, więc ciąg
+(𝑎2 , 𝑎3 , 𝑎6) nie jest stały. Zatem 𝑞 ≠ 1 oraz 𝑎2 ≠ 0. Ze wzoru na 𝑛-ty wyraz ciągu
+geometrycznego i własności ciągu arytmetycznego otrzymujemy: 𝑎3 = 𝑎2 ⋅ 𝑞, 𝑎6 = 𝑎2 ⋅ 𝑞2
+oraz 3(𝑎3 − 𝑎2) = 𝑎6 − 𝑎3 . Stąd i z warunków zadania dostajemy:
+3(𝑎3 − 𝑎2) = 𝑎6 − 𝑎3
+3𝑎2 ⋅ 𝑞 − 3𝑎2 = 𝑎2 ⋅ 𝑞2 − 𝑎2 ⋅ 𝑞
+0 = 𝑎2 ⋅ (𝑞2 − 4𝑞 + 3)
+𝑎2 = 0 ∨ 𝑞2 − 4𝑞 + 3 = 0
+𝑎2 = 0 ∨ 𝑞 = 1 ∨ 𝑞 = 3
+Dla 𝑎2 = 0 oraz dla 𝑞 = 1 warunki zadania nie są spełnione, czyli 𝑞 = 3. Zatem
+𝑎3 = 3𝑎2 , 𝑎6 = 9𝑎2 .
+Korzystamy z własności ciągu arytmetycznego i obliczamy 𝑎2:
+𝑎1 + 𝑎3
+2 = 𝑎2
+1 + 3𝑎2
+2 = 𝑎2
+𝑎2 = −1
+Ponieważ 𝑎1 = 1 i 𝑎2 = −1, więc różnica ciągu arytmetycznego jest równa (−2).
+Obliczamy liczbę 𝑛 wyrazów ciągu (𝑎𝑛):
+−2025 = 1 + (𝑛 − 1) ⋅ (−2)
+𝑛 = 1014
+Obliczamy sumę 𝑆1014 wszystkich wyrazów ciągu (𝑎𝑛):
+𝑆1014 = 1 + (−2025)
+2 ⋅ 1014 = −1 026 168
+Sposób III
+Niech 𝑟 oznacza różnicę ciągu arytmetycznego (𝑎𝑛). Ze wzoru na 𝑛-ty wyraz ciągu
+arytmetycznego i własności ciągu geometrycznego otrzymujemy: 𝑎3 = 𝑎2 + 𝑟,
+𝑎6 = 𝑎2 + 4𝑟 oraz (𝑎3)2 = 𝑎2 ⋅ 𝑎6 . Stąd i z warunków zadania dostajemy:
+(𝑎3)2 = 𝑎2 ⋅ 𝑎6
+(𝑎2 + 𝑟)2 = 𝑎2 ⋅ (𝑎2 + 4𝑟)
+𝑎2
+2 + 2𝑎2𝑟 + 𝑟2 = 𝑎2
+2 + 4𝑎2𝑟
+0 = 𝑟(2𝑎2 − 𝑟)
+𝑟 = 0 ∨ 𝑟 = 2𝑎2
+Dla 𝑟 = 0 warunki zadania nie są spełnione, ponieważ pierwszy i ostatni wyraz ciągu
+arytmetycznego (𝑎𝑛) nie są równe.
+Dla 𝑟 = 2𝑎2 otrzymujemy 𝑎2 = 1 + 2𝑎2 . Stąd 𝑎2 = −1, więc 𝑟 = −2. Zatem 𝑎3 = −3
+oraz 𝑎6 = −9. Ciąg (−1, −3, −9) jest geometryczny, więc warunki zadania są spełnione.
+Obliczamy liczbę 𝑛 wyrazów ciągu (𝑎𝑛):
+−2025 = 1 + (𝑛 − 1) ⋅ (−2)
+𝑛 = 1014
+Obliczamy sumę 𝑆1014 wszystkich wyrazów ciągu (𝑎𝑛):
+𝑆1014 = 1 + (−2025)
+2 ⋅ 1014 = −1 026 168

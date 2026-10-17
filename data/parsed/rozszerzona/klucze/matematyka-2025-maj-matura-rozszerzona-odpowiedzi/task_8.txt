@@ -1,0 +1,145 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=25, 26, 27, 28; level=rozszerzony; year=2025; month=maj; task_id=8]
+Zadanie 8. (0–5)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+IX.R2) znajduje punkty wspólne dwóch
+okręgów;
+IX.R3) zna pojęcie wektora i oblicza jego
+współrzędne oraz długość, dodaje wektory
+i mnoży wektor przez liczbę, oba te
+działania wykonuje zarówno analitycznie,
+jak i geometrycznie.
+Zasady oceniania
+5 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝐴 = (16
+5 , − 13
+5 ), 𝐵 = (−1, −2)
+oraz 𝑀 = ( 2
+5 , − 11
+5 ).
+4 pkt – zapisanie równania [𝑥𝑀 − 16
+5 , 𝑦𝑀 − (− 13
+5 )] = −2 ⋅ [𝑥𝑀 − (−1), 𝑦𝑀 − (−2)]
+ALBO
+– zapisanie układu równań z dwiema niewiadomymi, który pozwala obliczyć
+współrzędne punktu 𝑀, np. √(−1 − 𝑥𝑀)2 + (−2 − 𝑦𝑀)2 = √2 oraz
+√(𝑥𝑀 − 3,2)2 + (𝑦𝑀 + 2,6)2 = 2√2,
+ALBO
+– obliczenie współrzędnych punktów 𝐴 oraz 𝐵: 𝐴 = (16
+5 , − 13
+5 ) i 𝐵 = (−1, −2)
+oraz zapisanie równości 𝑥𝑀 = 1
+3 𝑥𝐴 + 2
+3 𝑥𝐵 oraz 𝑦𝑀 = 1
+3 𝑦𝐴 + 2
+3 𝑦𝐵 .
+3 pkt – obliczenie współrzędnych punktów 𝐴 oraz 𝐵: 𝐴 = (16
+5 , − 13
+5 ) oraz
+𝐵 = (−1, −2)
+ALBO
+– zapisanie równania z jedną niewiadomą, pozwalającego obliczyć pierwsze (lub
+drugie) współrzędne punktów przecięcia okręgów, np.
+(−7𝑦 − 15 − 2)2 + (𝑦 − 4)2 = 45 oraz zapisanie równości 𝑥𝑀 = 1
+3 𝑥𝐴 + 2
+3 𝑥𝐵 oraz
+𝑦𝑀 = 1
+3 𝑦𝐴 + 2
+3 𝑦𝐵 .
+2 pkt – zapisanie równania z jedną niewiadomą, pozwalającego obliczyć pierwsze (lub
+drugie) współrzędne punktów przecięcia okręgów, np.
+(−7𝑦 − 15 − 2)2 + (𝑦 − 4)2 = 45,
+ALBO
+– wyznaczenie równania prostej 𝐴𝐵, np. 2𝑥 + 14𝑦 = −30 oraz zapisanie równości
+𝑥𝑀 = 1
+3 𝑥𝐴 + 2
+3 𝑥𝐵 oraz 𝑦𝑀 = 1
+3 𝑦𝐴 + 2
+3 𝑦𝐵 ,
+ALBO
+– zapisanie współrzędnych punktu 𝐵: 𝐵 = (−1, −2) i sprawdzenie rachunkiem, że
+punkt 𝐵 jest punktem przecięcia okręgów oraz wyznaczenie równania prostej 𝐴𝐵,
+ALBO
+– zapisanie współrzędnych punktu 𝐵: 𝐵 = (−1, −2) i sprawdzenie rachunkiem, że
+punkt 𝐵 jest punktem przecięcia okręgów oraz obliczenie współrzędnych środka
+odcinka 𝐴𝐵: (11
+10 , − 23
+10).
+1 pkt – wyznaczenie równania prostej 𝐴𝐵, np. 2𝑥 + 14𝑦 = −30
+ALBO
+– zapisanie równości 𝑥𝑀 = 1
+3 𝑥𝐴 + 2
+3 𝑥𝐵 oraz 𝑦𝑀 = 1
+3 𝑦𝐴 + 2
+3 𝑦𝐵 ,
+ALBO
+– zapisanie współrzędnych punktu 𝐵: 𝐵 = (−1, −2) i sprawdzenie rachunkiem, że
+punkt 𝐵 jest punktem przecięcia okręgów oraz zapisanie/obliczenie współczynnika
+kierunkowego prostej przechodzącej przez środki okręgów: 7.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający błędnie identyfikuje punkt 𝐴 jako (−1, −2), to może otrzymać co najwyżej
+4 punkty za całe rozwiązanie.
+2. Jeżeli zdający popełni błędy rachunkowe i otrzyma punkty 𝐴 oraz 𝐵, których pierwsze
+współrzędne są liczbami dodatnimi, i konsekwentnie do popełnionych błędów rozwiązuje
+zadanie do końca, rozważając dwa przypadki, to może otrzymać co najwyżej 4 punkty za
+całe rozwiązanie.
+3. Jeżeli zdający popełni błędy rachunkowe i otrzyma punkty 𝐴 oraz 𝐵, których pierwsze
+współrzędne są liczbami ujemnymi, to może otrzymać co najwyżej 3 punkty za całe
+rozwiązanie (trzeci punkt otrzymuje za zapisanie równości 𝑥𝑀 = 1
+3 𝑥𝐴 + 2
+3 𝑥𝐵 oraz
+𝑦𝑀 = 1
+3 𝑦𝐴 + 2
+3 𝑦𝐵).
+Zasady oceniania rozwiązań zadań
+Przykładowe pełne rozwiązanie
+Obliczamy współrzędne punktów 𝐴 oraz 𝐵, w których przecinają się okręgi 𝒪1 oraz 𝒪2:
+{ (𝑥 − 1)2 + (𝑦 + 3)2 = 5
+(𝑥 − 2)2 + (𝑦 − 4)2 = 45
+{ (𝑥 − 1)2 + (𝑦 + 3)2 − (𝑥 − 2)2 − (𝑦 − 4)2 = 5 − 45
+(𝑥 − 2)2 + (𝑦 − 4)2 = 45
+{ 𝑥2 − 2𝑥 + 1 + 𝑦2 + 6𝑦 + 9 − 𝑥2 + 4𝑥 − 4 − 𝑦2 + 8𝑦 − 16 = −40
+(𝑥 − 2)2 + (𝑦 − 4)2 = 45
+{ 2𝑥 + 14𝑦 = −30 /: 2
+(𝑥 − 2)2 + (𝑦 − 4)2 = 45
+{ 𝑥 + 7𝑦 = −15
+(𝑥 − 2)2 + (𝑦 − 4)2 = 45
+{ 𝑥 = −7𝑦 − 15
+(𝑥 − 2)2 + (𝑦 − 4)2 = 45
+{ 𝑥 = −7𝑦 − 15
+(−7𝑦 − 15 − 2)2 + (𝑦 − 4)2 = 45
+{ 𝑥 = −7𝑦 − 15
+50𝑦2 + 230𝑦 + 260 = 0
+Stąd
+𝑦 = − 13
+5 lub 𝑦 = −2
+Gdy 𝑦 = − 13
+5 to wtedy 𝑥 = −7 ⋅ (− 13
+5 ) − 15 = 16
+5 .
+Gdy 𝑦 = −2 to wtedy 𝑥 = −7 ⋅ (−2) − 15 = −1.
+Ponieważ pierwsza współrzędna punktu 𝐴 jest dodatnia, więc 𝐴 = (16
+5 , − 13
+5 )
+oraz 𝐵 = (−1, −2).
+Oznaczmy przez 𝑥𝑀 i 𝑦𝑀 odpowiednie współrzędne punktu 𝑀, tj. 𝑀 = (𝑥𝑀, 𝑦𝑀). Wtedy
+𝐴𝑀⃗⃗⃗⃗⃗⃗ = −2 ⋅ 𝐵𝑀⃗⃗⃗⃗⃗⃗
+[𝑥𝑀 − 16
+5 , 𝑦𝑀 − (− 13
+5 )] = −2 ⋅ [𝑥𝑀 − (−1), 𝑦𝑀 − (−2)]
+[𝑥𝑀 − 16
+5 , 𝑦𝑀 + 13
+5 ] = [−2𝑥𝑀 − 2, −2𝑦𝑀 − 4]
+𝑥𝑀 − 16
+5 = −2𝑥𝑀 − 2 ∧ 𝑦𝑀 + 13
+5 = −2𝑦𝑀 − 4
+𝑥𝑀 = 2
+5 ∧ 𝑦𝑀 = − 11
+5
+Zatem 𝑀 = (2
+5 , − 11
+5 ).

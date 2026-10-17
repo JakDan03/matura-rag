@@ -1,0 +1,22 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=123; level=podstawowy; year=2024; section=KOMBINATORYKA, RACHUNEK PRAWDOPODOBIEŃSTWA I STATYSTYKA]
+Przykładowe zadania z rozwiązaniami 123
+KOMBINATORYKA, RACHUNEK PRAWDOPODOBIEŃSTWA I STATYSTYKA
+Zadanie 62. (0–2)
+Pojedynczy znak w piśmie Braille’a dla niewidomych jest kombinacją od 1 do 6 wypukłych
+punktów, które mogą zajmować miejsca ułożone w dwóch kolumnach po trzy miejsca
+w każdej kolumnie. Poniżej podano przykład napisu w piśmie Braille’a. Czarne kropki
+w znaku oznaczają wypukłości, a białe kropki oznaczają brak wypukłości. Pojedynczy znak
+w piśmie Braille’a musi zawierać co najmniej jeden punkt wypukły.
+Oblicz, ile różnych pojedynczych znaków można zapisać w piśmie Braille’a.
+Wymagania ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno
+matematycznym, jak i popularnonaukowym […].
+III. Wykorzystanie i interpretowanie reprezentacji.
+2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów
+praktycznych i teoretycznych.
+Wymagania szczegółowe
+XI. Kombinatoryka. Zdający:
+1) zlicza obiekty w prostych sytuacjach kombinatorycznych;
+2) zlicza obiekty, stosując reguły mnożenia i dodawania (także łącznie) […].
+m a t u r y

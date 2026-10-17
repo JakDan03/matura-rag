@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=7; level=podstawowy; year=2024; month=czerwiec; task_id=7]
+Zadanie 7. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Układ równań { 𝑥 − 2𝑦 = 3
+−4𝑥 + 8𝑦 = −12
+A. nie ma rozwiązań.
+B. ma dokładnie jedno rozwiązanie.
+C. ma dokładnie dwa rozwiązania.
+D. ma nieskończenie wiele rozwiązań.

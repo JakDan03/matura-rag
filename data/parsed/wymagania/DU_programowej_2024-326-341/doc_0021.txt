@@ -1,0 +1,12 @@
+Dział XI. Kombinatoryka.
+Poziom: podstawowy
+Zakres podstawowy. Uczeń:
+1) zlicza obiekty w prostych sytuacjach kombinatorycznych;
+2) zlicza obiekty, stosując reguły mnożenia i dodawania (także łącznie) dla dowolnej liczby
+czynności, np.:
+a) obliczenie, ile jest czterocyfrowych nieparzystych liczb całkowitych dodatnich
+takich, że w ich zapisie dziesiętnym występuje dokładnie jedna cyfra 1 i dokładnie
+jedna cyfra 2,
+b) obliczenie, ile jest czterocyfrowych parzystych liczb całkowitych dodatnich takich,
+że w ich zapisie dziesiętnym występuje dokładnie jedna cyfra 0 i dokładnie jedna
+cyfra 1.

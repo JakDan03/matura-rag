@@ -1,0 +1,162 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=10, 11, 12, 13, 14; level=rozszerzony; year=2024; month=maj; task_id=6]
+Zadanie 6. (0–3)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+XI.R1) oblicza liczbę możliwych sytuacji,
+spełniających określone kryteria,
+z wykorzystaniem reguły mnożenia
+i dodawania (także łącznie) oraz wzorów na
+liczbę: permutacji, kombinacji i wariacji,
+również w przypadkach wymagających
+rozważenia złożonego modelu zliczania
+elementów.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 11 040.
+2 pkt – zapisanie 𝐿1 : (5
+3) ⋅ (5
+2) ⋅ 5! oraz zapisanie liczby zbiorów czteroelementowych
+złożonych z trzech cyfr nieparzystych i jednej cyfry parzystej różnej od zera: (5
+3) ⋅ (4
+1)
+ALBO
+– zapisanie 𝐿2 : (5
+3) ⋅ (4
+1) ⋅ 4! oraz zapisanie liczby zbiorów pięcioelementowych
+złożonych z trzech cyfr nieparzystych i dwóch cyfr parzystych: (5
+3) ⋅ (5
+2),
+ALBO
+– zapisanie 𝑃 : 4 ⋅ (4
+1) ⋅ (5
+3) ⋅ 4! oraz zapisanie liczby ciągów pięciowyrazowych
+w jednym z przypadków, w których pierwszy wyraz jest cyfrą nieparzystą, np. liczba
+ciągów postaci (𝑛, 𝑝, 𝑛, 𝑝, 𝑛) jest równa 5 ⋅ 5 ⋅ 4 ⋅ 4 ⋅ 3,
+ALBO
+Zasady oceniania rozwiązań zadań
+– zapisanie 𝑁: 5 ⋅ (5
+2) ⋅ (4
+2) ⋅ 4! oraz zapisanie liczby ciągów pięciowyrazowych
+w jednym z przypadków, w których pierwszy wyraz jest cyfrą parzystą różną od zera,
+np. liczba ciągów postaci (𝑝, 𝑛, 𝑛, 𝑝, 𝑛) jest równa 4 ⋅ 5 ⋅ 4 ⋅ 4 ⋅ 3,
+ALBO
+– zapisanie 𝑍+: 4 ⋅ 4 ⋅ 4 ⋅ 5 ⋅ 4 ⋅ 3 oraz zapisanie liczby ciągów pięciowyrazowych
+w jednym z przypadków, w których żaden wyraz nie jest równy zero, np. liczba
+ciągów postaci (𝑛, 𝑛, 𝑛, 𝑝, 𝑝), gdzie 𝑝 ∈ {2, 4, 6, 8}, jest równa 5 ⋅ 4 ⋅ 3 ⋅ 4 ⋅ 3,
+ALBO
+– zapisanie 𝑍−: 10 ⋅ 4 ⋅ 3 ⋅ 5 ⋅ 4 ⋅ 3 oraz zapisanie liczby ciągów pięciowyrazowych
+w jednym z przypadków, w których jeden z wyrazów jest równy zero, np. liczba
+ciągów postaci (𝑝, 𝑛, 𝑛, 𝑛, 0), gdzie 𝑝 ∈ {2, 4, 6, 8}, jest równa 4 ⋅ 5 ⋅ 4 ⋅ 3 ⋅ 1.
+1 pkt – zapisanie 𝐿1 (lub 𝐿2), np. 𝐿1 = (5
+3) ⋅ (5
+2) ⋅ 5!, 𝐿2 = (5
+3) ⋅ (4
+1) ⋅ 4!
+ALBO
+– zapisanie 𝑃 (lub 𝑁), np. 𝑃 = 4 ⋅ (4
+1) ⋅ (5
+3) ⋅ 4!, 𝑁 = 5 ⋅ (5
+2) ⋅ (4
+2) ⋅ 4!,
+ALBO
+– zapisanie 𝑍+ (lub 𝑍−), np. 𝑍+ = 4 ⋅ 4 ⋅ 4 ⋅ 5 ⋅ 4 ⋅ 3 = 3 840,
+𝑍− = 10 ⋅ 4 ⋅ 3 ⋅ 5 ⋅ 4 ⋅ 3 = 7 200,
+ALBO
+– zapisanie liczby zbiorów pięcioelementowych złożonych z trzech cyfr nieparzystych
+i dwóch cyfr parzystych: (5
+3) ⋅ (5
+2) oraz zapisanie liczby zbiorów czteroelementowych
+złożonych z trzech cyfr nieparzystych i jednej cyfry parzystej różnej od zera: (5
+3) ⋅ (4
+1),
+ALBO
+– zapisanie liczby ciągów pięciowyrazowych w jednym z przypadków, w których
+pierwszy wyraz jest cyfrą nieparzystą (np. liczba ciągów postaci (𝑛, 𝑝, 𝑛, 𝑝, 𝑛) jest
+równa 5 ⋅ 5 ⋅ 4 ⋅ 4 ⋅ 3) oraz zapisanie liczby ciągów pięciowyrazowych w jednym
+z przypadków, w których pierwszy wyraz jest cyfrą parzystą różną od zera (np. liczba
+ciągów postaci (𝑝, 𝑛, 𝑛, 𝑝, 𝑛) jest równa 4 ⋅ 5 ⋅ 4 ⋅ 4 ⋅ 3).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli zdający rozpatruje liczby inne niż pięciocyfrowe, to otrzymuje 0 punktów.
+Przykładowe pełne rozwiązania
+Sposób I
+Niech 𝐿1 będzie liczbą wszystkich ciągów pięcioelementowych, których:
+• wyrazy są cyframi, parami różnymi
+• trzy wyrazy są liczbami nieparzystymi, a dwa są liczbami parzystymi.
+Aby wygenerować taki ciąg należy wybrać trzy cyfry spośród pięciu nieparzystych, dwie cyfry
+spośród dwóch parzystych i wybrane pięć cyfr ustawić w ciąg. Zatem
+𝐿1 = (5
+3) ⋅ (5
+2) ⋅ 5!
+Niech 𝐿2 będzie liczbą wszystkich ciągów pięcioelementowych, których:
+• wyrazy są cyframi, parami różnymi
+• pierwszy wyraz jest zerem, a wśród pozostałych wyrazów są trzy cyfry nieparzyste
+i jedna cyfra parzysta.
+Aby wygenerować taki ciąg należy wybrać trzy cyfry spośród pięciu nieparzystych oraz jedną
+cyfrę spośród cyfr: 2, 4, 6, 8, i wybrane cztery cyfry ustawić w ciąg. Następnie na początku
+ciągu ustawić cyfrę 0. Zatem
+𝐿2 = (5
+3) ⋅ (4
+1) ⋅ 4!
+Wszystkich liczb naturalnych pięciocyfrowych, o różnych cyfrach, w których dokładnie trzy
+cyfry są nieparzyste, a pozostałe są parzyste, jest
+𝐿1 − 𝐿2 = (5
+3) ⋅ (5
+2) ⋅ 5! − (5
+3) ⋅ (4
+1) ⋅ 4! = 10 ⋅ 10 ⋅ 120 − 10 ⋅ 4 ⋅ 24 = 11 040
+Sposób II
+Niech 𝑃 będzie liczbą wszystkich ciągów pięcioelementowych, których:
+• wyrazy są cyframi, parami różnymi
+• pierwszy wyraz jest cyfrą parzystą różną od zera, a wśród pozostałych wyrazów są
+trzy cyfry nieparzyste i jedna cyfra parzysta.
+Pierwszy wyraz takiego ciągu można ustalić na cztery sposoby (wybieramy jedną cyfrę
+parzystą spośród 2, 4, 6, 8). Pozostałe wyrazy można ustalić poprzez wybór jednej cyfry
+parzystej spośród czterech, trzech cyfr nieparzystych spośród pięciu, a następnie ustawienie
+wybranych czterech cyfr na ostatnich czterech pozycjach w ciągu. Zatem
+𝑃 = 4 ⋅ (4
+1) ⋅ (5
+3) ⋅ 4!
+Niech 𝑁 będzie liczbą wszystkich ciągów pięcioelementowych, których:
+• wyrazy są cyframi, parami różnymi
+• pierwszy wyraz jest cyfrą nieparzystą, a wśród pozostałych wyrazów są dwie cyfry
+nieparzyste i dwie cyfry parzyste.
+Pierwszy wyraz takiego ciągu można ustalić na pięć sposobów (wybieramy jedną cyfrę
+nieparzystą spośród pięciu). Pozostałe wyrazy można ustalić poprzez wybór dwóch cyfr
+parzystych spośród pięciu, dwóch cyfr nieparzystych spośród czterech, a następnie
+ustawienie wybranych czterech cyfr na ostatnich czterech pozycjach w ciągu. Zatem
+𝑁 = 5 ⋅ (5
+2) ⋅ (4
+2) ⋅ 4!
+Wszystkich liczb naturalnych pięciocyfrowych, o różnych cyfrach, w których dokładnie trzy
+cyfry są nieparzyste, a pozostałe są parzyste, jest
+𝑃 + 𝑁 = 4 ⋅ (4
+1) ⋅ (5
+3) ⋅ 4! + 5 ⋅ (5
+2) ⋅ (4
+2) ⋅ 4! = 4 ⋅ 4 ⋅ 10 ⋅ 24 + 5 ⋅ 10 ⋅ 6 ⋅ 24 = 11 040
+Zasady oceniania rozwiązań zadań
+Sposób III
+Rozważmy dwa przypadki:
+1. Gdy w zapisie liczby występuje cyfra zero. Cyfrę tę możemy wstawić na jedno z 4 miejsc.
+Miejsce dla drugiej, różnej od zera cyfry parzystej możemy wybrać na 4 sposoby, a na
+wybranym miejscu możemy wstawić jedną z pozostałych 4 cyfr parzystych. Na pierwsze
+z pozostałych trzech wolnych miejsc możemy wstawić jedną z 5 cyfr nieparzystych, na
+drugie z pozostałych dwóch wolnych miejsc możemy wstawić jedną z pozostałych 4 cyfr
+nieparzystych, a na ostatnim wolnym miejscu – jedną z pozostałych 3 cyfr nieparzystych.
+Zatem liczba 𝑍+ wszystkich rozpatrywanych liczb w tym przypadku jest równa
+𝑍+ = 4 ⋅ 4 ⋅ 4 ⋅ 5 ⋅ 4 ⋅ 3 = 3 840
+2. Gdy w zapisie liczby nie występuje cyfra zero. Dwa miejsca dla cyfr parzystych możemy
+wybrać na (5
+2) = 10 sposobów. Na pierwsze z wybranych dwóch miejsc możemy
+wstawić jedną z 4 cyfr parzystych, a na drugie – jedną z 3. Na pierwsze z pozostałych
+trzech wolnych miejsc możemy wstawić jedną z 5 cyfr nieparzystych, na drugie
+z pozostałych dwóch wolnych miejsc możemy wstawić jedną z pozostałych 4 cyfr
+nieparzystych, a na ostatnim wolnym miejscu – jedną z pozostałych 3 cyfr nieparzystych.
+Zatem liczba 𝑍− wszystkich rozpatrywanych liczb w tym przypadku jest równa
+𝑍− = 10 ⋅ 4 ⋅ 3 ⋅ 5 ⋅ 4 ⋅ 3 = 7 200
+Stąd wszystkich rozważanych liczb jest 𝑍+ + 𝑍− = 3 840 + 7 200 = 11 040.

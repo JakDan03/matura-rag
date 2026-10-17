@@ -1,0 +1,16 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=128; level=rozszerzony; year=2024; section=ALBO]
+128 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Zadanie 23. (0–3)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) trapez 𝐴𝐵𝐶𝐷 jest wpisany w okrąg
+o środku w punkcie 𝑆 = (19, −11) i promieniu 17√2. Odcinek 𝐴𝐵 jest dłuższą podstawą
+tego trapezu. Jego przekątna 𝐴𝐶 jest zawarta w prostej o równaniu 𝑦 = 𝑥. Wierzchołek 𝐴
+trapezu ma obie współrzędne ujemne.
+Oblicz sinus kąta 𝑨𝑩𝑪. Zapisz obliczenia.
+Zasady oceniania
+dla rozwiązań sposobami 1. oraz 2.
+3 pkt – zastosowanie poprawnej metody i poprawny wynik.
+2 pkt – obliczenie długości odcinka 𝐴𝐶.
+1 pkt – obliczenie współrzędnych wierzchołków 𝐴 i 𝐶 trapezu
+ALBO
+– obliczenie odległości środka okręgu od prostej zawierającej przekątną 𝐴𝐶 trapezu.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.

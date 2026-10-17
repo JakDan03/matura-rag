@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=11, 12; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=11.2]
+Zadanie 11.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) przedstawiono fragment wykresu funkcji
+kwadratowej 𝑓 (zobacz rysunek). Wierzchołek paraboli, która jest wykresem funkcji 𝑓, oraz
+punkty przecięcia paraboli z osiami układu współrzędnych mają współrzędne całkowite.
+Zadanie 11.2. (0–1)
+Zapisz poniżej w postaci przedziału zbiór wszystkich argumentów, dla których
+funkcja 𝒇 przyjmuje wartości ujemne.
+................................ ................................ ................................ ................................ .................

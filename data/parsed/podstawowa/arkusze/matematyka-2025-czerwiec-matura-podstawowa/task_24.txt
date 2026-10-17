@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=22; level=podstawowy; year=2025; month=czerwiec; task_id=24]
+Zadanie 24. (0–4)
+Pole powierzchni całkowitej prostopadłościanu jest równe 94,5.
+Długości trzech krawędzi wychodzących z tego samego wierzchołka prostopadłościanu
+tworzą ciąg geometryczny o ilorazie równym 4.
+Oblicz objętość tego prostopadłościanu. Zapisz obliczenia.

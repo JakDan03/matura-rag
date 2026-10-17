@@ -1,0 +1,36 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=75; level=podstawowy; year=2024; section=3. Trójkąt 𝐴𝐷𝐶 o bokach 2𝑟, 𝑟, √3𝑟 jest połową trójkąta równobocznego, zatem:]
+Przykładowe zadania z rozwiązaniami 75
+3. Trójkąt 𝐴𝐷𝐶 o bokach 2𝑟, 𝑟, √3𝑟 jest połową trójkąta równobocznego, zatem:
+|∡𝐶𝐴𝐷| = 30° , |∡𝐴𝐷𝐶| = 60°
+4. Zauważmy, że |𝐷𝐵| = |𝐷𝐶| = 𝑟, zatem trójkąt 𝐷𝐵𝐶 jest równoramienny. Z tego
+i poprzedniego faktu wynika, że
+|∡𝐶𝐷𝐵| = 180° − 60° = 120°, |∡𝐷𝐵𝐶| = 30°, |∡𝐵𝐶𝐷| = 30°
+Z omówionych kroków 1.–4. wynika, że kąty w trójkącie 𝐴𝐵𝐶 mają miary:
+|∡𝐶𝐴𝐵| = 30°, |∡𝐴𝐵𝐶| = 30°, |∡𝐵𝐶𝐴| = 120°
+𝐶
+𝐴
+𝐵
+𝑆
+√3𝑟
+30°
+60°
+𝐷
+𝑟
+𝑟
+𝑟
+𝑟
+𝐶
+𝐴
+𝐵
+𝑆
+𝐷
+30°
+30°
+120°
+𝐶
+𝐴
+𝐵
+𝑆
+120°
+30°
+30°

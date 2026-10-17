@@ -1,0 +1,22 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=11, 12; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=12.1]
+Zadanie 12.1. (0–2)
+Wymaganie ogólne Wymagania szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście,
+zarówno matematycznym, jak
+i popularnonaukowym, a także w formie
+wykresów, diagramów, tabel.
+Zdający:
+V.3) odczytuje i interpretuje wartości funkcji
+określonych za pomocą […] wykresów,
+wzorów […];
+V.4) odczytuje z wykresu funkcji: […]
+miejsca zerowe […].
+Zasady oceniania
+2 pkt – poprawne uzupełnienie dwóch zdań.
+1 pkt – poprawne uzupełnienie jednego zdania.
+0 pkt – brak spełnienia powyższych kryteriów.
+Rozwiązanie
+1. Miejscem zerowym funkcji 𝑓 jest liczba 1.
+2. Wartość wyrażenia 𝑓(−2) + 3 ⋅ 𝑓(2) jest równa 0.

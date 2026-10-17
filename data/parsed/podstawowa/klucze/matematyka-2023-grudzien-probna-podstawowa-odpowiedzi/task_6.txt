@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=7, 8; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=6]
+Zadanie 6. (0–1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+IV.1) rozwiązuje układy równań liniowych
+z dwiema niewiadomymi […].
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C

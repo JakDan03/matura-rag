@@ -1,0 +1,312 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=39, 40, 41, 42, 43, 44, 45, 46, 47; level=rozszerzony; year=2026; month=maj; task_id=10]
+Zadanie 10. (0–5)
+Wymagania ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+3. Tworzenie pomocniczych obiektów
+matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub
+rozwiązania problemu.
+Zdający:
+III.R5) analizuje równania i nierówności
+liniowe z parametrami oraz równania
+i nierówności kwadratowe z parametrami
+[…].
+Zasady oceniania (dla sposobu I)
+5 pkt – zastosowanie poprawnej metody i poprawny wynik: (1, +∞).
+4 pkt – rozwiązanie pięciu warunków 1) – 5) określonych w kryterium za 1 punkt.
+3 pkt – rozwiązanie czterech spośród warunków 1) – 5) określonych w kryterium za 1 punkt.
+2 pkt – rozwiązanie trzech spośród warunków 1) – 5) określonych w kryterium za 1 punkt.
+1 pkt – zapisanie wszystkich warunków 1) – 5):
+1) 𝑓(𝑝) < 0 (lub 𝑞 < 0, lub Δ > 0),
+2) 𝑝 > −2,
+3) 𝑝 < 2,
+4) 𝑓(−2) > 0,
+5) 𝑓(2) > 0,
+ALBO
+– rozwiązanie jednego z warunków 1) – 5):
+1) 𝑓(𝑝) < 0 (lub 𝑞 < 0, lub Δ > 0): 𝑚 ∈ (0, +∞),
+2) 𝑝 > −2: 𝑚 ∈ (−∞, − 1
+2) ∪ (0, +∞),
+3) 𝑝 < 2: 𝑚 ∈ (−∞, 0) ∪ (1
+2 , +∞),
+4) 𝑓(−2) > 0: 𝑚 ∈ ℝ,
+5) 𝑓(2) > 0: 𝑚 ∈ (−∞, 1
+4) ∪ (1, +∞).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający rozwiązuje warunek ∆ ≥ 0, to za tę część rozwiązania otrzymuje
+0 punktów.
+2. Jeżeli zdający:
+a) nie rozwiąże wszystkich warunków 1) – 5) określonych w kryterium za 1 punkt albo
+b) podczas rozwiązywania warunków 1) – 5) popełni błędy rachunkowe i otrzyma zbiory
+rozwiązań, których część wspólna jest zbiorem pustym, albo
+c) popełni błąd, który nie jest rachunkowy,
+to może otrzymać co najwyżej 3 punkty za całe rozwiązanie.
+Zasady oceniania (dla sposobu II)
+5 pkt – zastosowanie poprawnej metody i poprawny wynik: (1, +∞).
+4 pkt – rozwiązanie pięciu warunków I) – V) określonych w kryterium za 2 punkty
+ALBO
+– spełnienie warunków I) oraz III), oraz IV), oraz zapisanie 𝑥1 < 𝑥2.
+3 pkt – spełnienie czterech spośród warunków I) – V) określonych w kryterium za 2 punkty
+ALBO
+– spełnienie warunków I) oraz III), oraz zapisanie 𝑥1 < 𝑥2 ,
+ALBO
+– spełnienie warunków I) oraz IV), oraz zapisanie 𝑥1 < 𝑥2 ,
+ALBO
+– spełnienie warunków III) oraz IV), oraz zapisanie 𝑥1 < 𝑥2.
+2 pkt – spełnienie warunku I) i jednego z warunków II) – V):
+I) wyznaczenie wszystkich wartości parametru 𝑚, dla których funkcja 𝑓 ma
+dokładnie dwa miejsca zerowe oraz wyznaczenie miejsc zerowych 𝑥1 oraz 𝑥2
+funkcji 𝑓 w zależności od 𝑚: 𝑚 ∈ (0, +∞) i 𝑥1 = 1 − √𝑚
+𝑚 oraz 𝑥2 = 1+ √𝑚
+𝑚 ,
+II) rozwiązanie nierówności 𝑥1 < 2: 𝑚 ∈ (1
+4 , +∞),
+III) rozwiązanie nierówności −2 < 𝑥1 : 𝑚 ∈ (0 , +∞),
+IV) rozwiązanie nierówności 𝑥2 < 2: 𝑚 ∈ (1 , +∞),
+V) rozwiązanie nierówności −2 < 𝑥2 : 𝑚 ∈ (0 , +∞),
+ALBO
+– spełnienie trzech spośród warunków II) – V).
+1 pkt – wyznaczenie wszystkich wartości parametru 𝑚, dla których funkcja 𝑓 ma dokładnie
+dwa miejsca zerowe: 𝑚 ∈ (0, +∞)
+ALBO
+– wyznaczenie miejsc zerowych funkcji 𝑓 w zależności od 𝑚: 𝑥1 = 1 − √𝑚
+𝑚 oraz
+𝑥2 = 1+ √𝑚
+𝑚 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania rozwiązań zadań
+Uwagi:
+1. Jeżeli zdający rozwiązuje warunek ∆ ≥ 0, to za tę część rozwiązania otrzymuje
+0 punktów.
+2. Jeżeli zdający:
+a) nie rozwiąże wszystkich warunków I) – V) określonych w kryterium za 1 punkt albo
+b) podczas rozwiązywania warunków I) – V) popełni błędy rachunkowe i otrzyma zbiory
+rozwiązań, których część wspólna jest zbiorem pustym, albo
+c) popełni błąd, który nie jest rachunkowy,
+to może otrzymać co najwyżej 3 punkty za całe rozwiązanie.
+Zasady oceniania (dla sposobu III)
+5 pkt – zastosowanie poprawnej metody i poprawny wynik: (1, +∞).
+4 pkt – rozwiązanie pięciu warunków A) – E) określonych w kryterium za 1 punkt.
+3 pkt – rozwiązanie czterech warunków spośród warunków A) – E) określonych w kryterium
+za 1 punkt.
+2 pkt – rozwiązanie trzech warunków spośród warunków A) – E) określonych w kryterium za
+1 punkt.
+1 pkt – zapisanie warunków A) – E):
+A) Δ > 0,
+B) 𝑥1 + 2 + 𝑥2 + 2 > 0,
+C) 𝑥1 ⋅ 𝑥2 + 2(𝑥1 + 𝑥2) + 4 > 0,
+D) 2 − 𝑥1 + 2 − 𝑥2 > 0,
+E) 𝑥1 ⋅ 𝑥2 − 2(𝑥1 + 𝑥2) + 4 > 0,
+ALBO
+– rozwiązanie jednego z warunków A) – E):
+A) Δ > 0: 𝑚 ∈ (0, +∞),
+B) 𝑥1 + 2 + 𝑥2 + 2 > 0: 𝑚 ∈ (−∞, − 1
+2) ∪ (0, +∞),
+C) 𝑥1 ⋅ 𝑥2 + 2(𝑥1 + 𝑥2) + 4 > 0: 𝑚 ≠ 0,
+D) 2 − 𝑥1 + 2 − 𝑥2 > 0: 𝑚 ∈ (−∞, 0) ∪ (1
+2 , +∞),
+E) 𝑥1 ⋅ 𝑥2 − 2(𝑥1 + 𝑥2) + 4 > 0: 𝑚 ∈ (−∞, 0) ∪ (0, 1
+4) ∪ (1, +∞).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający rozwiązuje warunek ∆ ≥ 0, to za tę część rozwiązania otrzymuje
+0 punktów.
+2. Jeżeli zdający:
+a) nie rozwiąże wszystkich warunków A) – E) określonych w kryterium za 1 punkt albo
+b) podczas rozwiązywania warunków A) – E) popełni błędy rachunkowe i otrzyma zbiory
+rozwiązań, których część wspólna jest zbiorem pustym, albo
+c) popełni błąd, który nie jest rachunkowy,
+to może otrzymać co najwyżej 3 punkty za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I (poprzez interpretację geometryczną)
+Ponieważ 𝑚 ≠ 0, więc współczynnik przy 𝑥2 jest dodatni. Zatem parabola, która jest
+wykresem funkcji 𝑓, ma ramiona skierowane ku górze.
+Stąd funkcja 𝑓 ma dokładnie dwa miejsca zerowe należące do przedziału (−2, 2) tylko
+wtedy, gdy spełnione będą następujące warunki:
+1) 𝑓(𝑝) < 0 (lub 𝑞 < 0, lub Δ > 0)
+2) 𝑝 > −2
+3) 𝑝 < 2
+4) 𝑓(−2) > 0
+5) 𝑓(2) > 0.
+Rozwiązujemy warunek 1):
+𝑓(𝑝) < 0
+𝑓 ( 1
+𝑚) < 0
+𝑚2 ⋅ ( 1
+𝑚)
+2
+− 2𝑚 ⋅ 1
+𝑚 − 𝑚 + 1 < 0
+−𝑚 < 0 ∧ 𝑚 ≠ 0
+𝑚 ∈ (0, +∞)
+Warunki 2) oraz 3) można rozwiązać za pomocą nierówności podwójnej:
+𝑝 ∈ (−2, 2)
+−2 < − −2𝑚
+2𝑚2 < 2
+−2 < 1
+𝑚 < 2
+1
+|𝑚| < 2
+|𝑚| > 1
+2 ∧ 𝑚 ≠ 0
+𝑚 ∈ (−∞, − 1
+2) ∪ (1
+2 , +∞)
+Rozwiązujemy warunek 4):
+𝑓(−2) > 0
+𝑚2 ⋅ (−2)2 − 2𝑚 ⋅ (−2) − 𝑚 + 1 > 0
+4𝑚2 + 3𝑚 + 1 > 0
+Zasady oceniania rozwiązań zadań
+(2𝑚 + 3
+4)
+2
++ 7
+16 > 0
+𝑚 ∈ ℝ
+Rozwiązujemy warunek 5):
+𝑓(2) > 0
+𝑚2 ⋅ 22 − 2𝑚 ⋅ 2 − 𝑚 + 1 > 0
+4𝑚2 − 5𝑚 + 1 > 0
+4(𝑚 − 1) (𝑚 − 1
+4) > 0
+𝑚 ∈ (−∞, 1
+4) ∪ (1, +∞)
+Wyznaczamy wszystkie wartości parametru 𝑚, które jednocześnie spełniają warunki 1) – 5)
+oraz 𝑚 ≠ 0: 𝑚 ∈ (1, +∞).
+Funkcja 𝑓 ma dwa różne miejsca zerowe należące do przedziału (−2, 2) tylko wtedy, gdy
+𝑚 ∈ (1, +∞).
+Sposób II (poprzez wyznaczenie miejsc zerowych)
+Przy 𝑚 ≠ 0 funkcja 𝑓 ma dokładnie dwa miejsca zerowe 𝑥1 , 𝑥2 należące do przedziału
+(−2, 2), gdy spełnione są następujące warunki:
+I) Δ > 0
+II) 𝑥1 < 2
+III) −2 < 𝑥1
+IV) 𝑥2 < 2
+V) −2 < 𝑥2 .
+Rozwiązujemy nierówność 𝑏2 − 4𝑎𝑐 > 0:
+(−2𝑚)2 − 4 ⋅ 𝑚2 ⋅ (−𝑚 + 1) > 0
+4𝑚3 > 0
+𝑚 ∈ (0, +∞)
+Wtedy miejsca zerowe są równe:
+𝑥1 = 2𝑚 − 2𝑚 ⋅ √𝑚
+2𝑚2 = 1 − √𝑚
+𝑚
+oraz
+𝑥2 = 2𝑚 + 2𝑚 ⋅ √𝑚
+2𝑚2 = 1 + √𝑚
+𝑚
+Rozwiązujemy nierówność −2 < 𝑥1 < 2:
+−2 < 1 − √𝑚
+𝑚 < 2
+(−2𝑚 < 1 − √𝑚 ∧ 𝑚 > 0) ∧ (1 − √𝑚 < 2𝑚 ∧ 𝑚 > 0)
+(2𝑚 − √𝑚 + 1 > 0 ∧ 𝑚 > 0) ∧ (2𝑚 + √𝑚 − 1 > 0 ∧ 𝑚 > 0)
+(2 (√𝑚 − 1
+4)
+2
++ 7
+8 > 0 ∧ 𝑚 > 0) ∧ (2(√𝑚 + 1) (√𝑚 − 1
+2) > 0 ∧ 𝑚 > 0)
+𝑚 > 0 ∧ ((√𝑚 < −1 ∨ √𝑚 > 1
+2) ∧ 𝑚 > 0)
+𝑚 > 0 ∧ (𝑚 > 1
+4 ∧ 𝑚 > 0)
+𝑚 ∈ (1
+4 , +∞)
+Rozwiązujemy nierówność −2 < 𝑥2 < 2:
+−2 < 1 + √𝑚
+𝑚 < 2
+(−2𝑚 < 1 + √𝑚 ∧ 𝑚 > 0) ∧ (1 + √𝑚 < 2𝑚 ∧ 𝑚 > 0)
+(2𝑚 + √𝑚 + 1 > 0 ∧ 𝑚 > 0) ∧ (2𝑚 − √𝑚 − 1 > 0 ∧ 𝑚 > 0)
+(2 (√𝑚 + 1
+4)
+2
++ 7
+8 > 0 ∧ 𝑚 > 0) ∧ (2(√𝑚 − 1) (√𝑚 + 1
+2) > 0 ∧ 𝑚 > 0)
+𝑚 > 0 ∧ ((√𝑚 < − 1
+2 ∨ √𝑚 > 1) ∧ 𝑚 > 0)
+𝑚 > 0 ∧ (𝑚 > 1 ∧ 𝑚 > 0)
+𝑚 ∈ (1, +∞)
+Wyznaczamy wszystkie wartości parametru 𝑚, które jednocześnie spełniają warunki I) – V)
+oraz 𝑚 ≠ 0: 𝑚 ∈ (1, +∞).
+Funkcja 𝑓 ma dwa różne miejsca zerowe należące do przedziału (−2, 2) tylko wtedy, gdy
+𝑚 ∈ (1, +∞).
+Uwaga.
+Wszystkie wartości 𝑚, dla których funkcja 𝑓 ma dokładnie dwa miejsca zerowe oraz te
+miejsca zerowe, można wyznaczyć również następująco.
+𝑓(𝑥) = 𝑚2𝑥2 − 2𝑚𝑥 − 𝑚 + 1
+Zasady oceniania rozwiązań zadań
+𝑓(𝑥) = (𝑚𝑥 − 1)2 − 𝑚
+(𝑚𝑥 − 1)2 − 𝑚 = 0
+(𝑚𝑥 − 1)2 = 𝑚
+Dla 𝑚 ≤ 0 to równanie nie ma rozwiązań rzeczywistych, natomiast dla 𝑚 > 0
+otrzymujemy:
+𝑚𝑥 − 1 = −√𝑚 ∨ 𝑚𝑥 − 1 = √𝑚
+𝑥1 = 1 − √𝑚
+𝑚 ∨ 𝑥2 = 1 + √𝑚
+𝑚
+Zatem funkcja 𝑓 ma dokładnie dwa miejsca zerowe tylko wtedy, gdy 𝑚 ∈ (0 + ∞).
+Sposób III (poprzez wzory Viète’a)
+Przy 𝑚 ≠ 0 funkcja 𝑓 ma dokładnie dwa miejsca zerowe 𝑥1 , 𝑥2 należące do przedziału
+(−2, 2), gdy spełnione są następujące warunki:
+Δ > 0 ∧ 0 < 2 − 𝑥1 ∧ 0 < 2 − 𝑥2 ∧ 0 < 𝑥1 + 2 ∧ 0 < 𝑥2 + 2
+Liczby 2 − 𝑥1 oraz 2 − 𝑥2 są dodatnie tylko wówczas, gdy ich suma i iloczyn są dodatnie.
+Liczby 𝑥1 + 2 oraz 𝑥2 + 2 są dodatnie tylko wówczas, gdy ich suma i iloczyn są dodatnie.
+Zatem przy 𝑚 ≠ 0 funkcja 𝑓 ma dokładnie dwa miejsca zerowe 𝑥1 , 𝑥2 należące do
+przedziału (−2, 2) tylko wówczas, gdy spełnione są poniższe warunki:
+A) Δ > 0
+B) 𝑥1 + 2 + 𝑥2 + 2 > 0
+C) 𝑥1 ⋅ 𝑥2 + 2(𝑥1 + 𝑥2) + 4 > 0
+D) 2 − 𝑥1 + 2 − 𝑥2 > 0
+E) 𝑥1 ⋅ 𝑥2 − 2(𝑥1 + 𝑥2) + 4 > 0.
+Rozwiązujemy warunek A), tj. nierówność 𝑏2 − 4𝑎𝑐 > 0:
+(−2𝑚)2 − 4 ⋅ 𝑚2 ⋅ (−𝑚 + 1) > 0
+4𝑚3 > 0
+𝑚 ∈ (0, +∞)
+Rozwiązujemy warunek B), stosując wzory Viète’a:
+𝑥1 + 2 + 𝑥2 + 2 > 0
+2𝑚
+𝑚2 + 4 > 0
+4𝑚2 + 2𝑚 > 0 ∧ 𝑚 ≠ 0
+2𝑚(2𝑚 + 1) > 0 ∧ 𝑚 ≠ 0
+𝑚 ∈ (−∞, − 1
+2) ∪ (0, +∞)
+Rozwiązujemy warunek C), stosując wzory Viète’a:
+𝑥1 ⋅ 𝑥2 + 2(𝑥1 + 𝑥2) + 4 > 0
+−𝑚 + 1
+𝑚2 + 2 ⋅ 2𝑚
+𝑚2 + 4 > 0
+−𝑚 + 1 + 4𝑚 + 4𝑚2 > 0 ∧ 𝑚 ≠ 0
+4𝑚2 + 3𝑚 + 1 > 0 ∧ 𝑚 ≠ 0
+(2𝑚 + 3
+4)
+2
++ 7
+16 > 0 ∧ 𝑚 ≠ 0
+𝑚 ≠ 0
+Rozwiązujemy warunek D), stosując wzory Viète’a:
+2 − 𝑥1 + 2 − 𝑥2 > 0
+4 − 2𝑚
+𝑚2 > 0
+4𝑚2 − 2𝑚 > 0 ∧ 𝑚 ≠ 0
+2𝑚(2𝑚 − 1) > 0 ∧ 𝑚 ≠ 0
+𝑚 ∈ (−∞, 0) ∪ (1
+2 , +∞)
+Rozwiązujemy warunek E), stosując wzory Viète’a:
+𝑥1 ⋅ 𝑥2 − 2(𝑥1 + 𝑥2) + 4 > 0
+−𝑚 + 1
+𝑚2 − 2 ⋅ 2𝑚
+𝑚2 + 4 > 0
+−𝑚 + 1 − 4𝑚 + 4𝑚2 > 0 ∧ 𝑚 ≠ 0
+4𝑚2 − 5𝑚 + 1 > 0 ∧ 𝑚 ≠ 0
+(4𝑚 − 1)(𝑚 − 1) > 0 ∧ 𝑚 ≠ 0
+𝑚 ∈ (−∞, 0) ∪ (0, 1
+4) ∪ (1, +∞)
+Wyznaczamy wszystkie wartości parametru 𝑚, które jednocześnie spełniają warunki A) – E)
+oraz 𝑚 ≠ 0: 𝑚 ∈ (1, +∞).
+Zasady oceniania rozwiązań zadań

@@ -1,0 +1,15 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=25, 26; level=rozszerzony; year=2025; month=maj; task_id=12.2]
+Zadanie 12.
+Rozważamy wszystkie stożki, których wysokość jest większa od 5, a odległość środka
+podstawy od tworzącej jest równa 5.
+Zadanie 12.2. (0–4)
+Objętość 𝑉 stożka, jako funkcja wysokości ℎ stożka, wyraża się wzorem
+𝑉(ℎ) = 𝜋
+3 ⋅ 25ℎ3
+ℎ2 − 25
+dla ℎ ∈ (5, +∞).
+Wyznacz wysokość tego z rozważanych stożków, którego objętość jest najmniejsza.
+Oblicz tę najmniejszą objętość. Zapisz obliczenia.
+12.2.
+0–1–
+2–3–4

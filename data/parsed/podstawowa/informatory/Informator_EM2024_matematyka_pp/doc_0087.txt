@@ -1,0 +1,54 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=87; level=podstawowy; year=2024; section=1. Wysokości trzech trójkątów: 𝐶𝐴𝑊1, 𝐴𝐵𝑊2, 𝐵𝐶𝑊3, opuszczone z wierzchołków 𝑊1,]
+Przykładowe zadania z rozwiązaniami 87
+Przykładowe pełne rozwiązania
+Sposób 1.
+1. Wysokości trzech trójkątów: 𝐶𝐴𝑊1, 𝐴𝐵𝑊2, 𝐵𝐶𝑊3, opuszczone z wierzchołków 𝑊1,
+𝑊2, 𝑊3 oznaczymy odpowiednio jako: ℎ1, ℎ2, ℎ3.
+Zapiszemy wzory na pola powierzchni tych trójkątów:
+𝑃1 = 1
+2 ⋅ ℎ1 ⋅ |𝐶𝐴| 𝑃2 = 1
+2 ⋅ ℎ2 ⋅ |𝐴𝐵| 𝑃3 = 1
+2 ⋅ ℎ3 ⋅ |𝐵𝐶|
+2. Zapiszemy związki wynikające z podobieństwa trójkątów:
+Δ𝐶𝐴𝑊1 ∼ Δ𝐴𝐵𝑊2 , zatem ℎ2
+ℎ1
+= |𝐴𝐵|
+|𝐶𝐴| , więc ℎ2 = ℎ1 ⋅ |𝐴𝐵|
+|𝐶𝐴|
+Δ𝐶𝐴𝑊1 ∼ Δ𝐵𝐶𝑊3 , zatem ℎ3
+ℎ1
+= |𝐵𝐶|
+|𝐶𝐴| , więc ℎ3 = ℎ1 ⋅ |𝐵𝐶|
+|𝐶𝐴|
+3. Ponownie zapiszemy wzory na pola trójkątów, wykorzystując powyższe zależności:
+𝑃1 = 1
+2 ⋅ ℎ1 ⋅ |𝐶𝐴| 𝑃2 = 1
+2 ⋅ ℎ1 ⋅
+|𝐴𝐵|2
+|𝐶𝐴| 𝑃3 = 1
+2 ⋅ ℎ1 ⋅
+|𝐵𝐶|2
+|𝐶𝐴|
+4. Obliczymy sumę 𝑃1 + 𝑃2.
+𝑃1 + 𝑃2 = 1
+2 ⋅ ℎ1 ⋅ |𝐶𝐴| + 1
+2 ⋅ ℎ1 ⋅
+|𝐴𝐵|2
+|𝐶𝐴| = 1
+2 ⋅ ℎ1 ⋅ (|𝐶𝐴| +
+|𝐴𝐵|2
+|𝐶𝐴| )
+𝑃1 + 𝑃2 = 1
+2 ⋅ ℎ1 ⋅
+|𝐶𝐴|2 + |𝐴𝐵|2
+|𝐶𝐴|
+5. Wykorzystamy twierdzenie Pitagorasa dla trójkąta 𝐴𝐵𝐶:
+Ponieważ
+|𝐶𝐴|2 + |𝐴𝐵|2 = |𝐵𝐶|2
+to
+𝑃1 + 𝑃2 = 1
+2 ⋅ ℎ1 ⋅ |𝐵𝐶|2
+|𝐶𝐴|
+6. Prawa strona powyższego równania, na mocy pkt 3., jest równa 𝑃3:
+𝑃1 + 𝑃2 = 𝑃3
+To kończy dowód.

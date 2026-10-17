@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=16; level=podstawowy; year=2025; month=maj; task_id=15]
+Zadanie 15. (0–3)
+Wyznacz wartość 𝒎, dla której trzywyrazowy ciąg
+(𝟐𝒎 + 𝟏𝟏, 𝒎𝟐 + 𝟑, 𝟓 − 𝒎)
+jest arytmetyczny i malejący. Zapisz obliczenia.
+15.
+0–1–
+2–3

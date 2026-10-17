@@ -1,0 +1,40 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=8, 9; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=5]
+Zadanie 5. (0–3)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+XII.R1) […] stosuje wzór Bayesa, stosuje
+twierdzenie o prawdopodobieństwie
+całkowitym.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 0,49.
+2 pkt – zastosowanie twierdzenia Bayesa i zapisanie 𝑃(𝐵1|𝐴) = 0,35 ⋅ 0,7
+0,7 ⋅ 0,35+0,4 ⋅ 0,65 .
+1 pkt – zapisanie prawdopodobieństw: 𝑃(𝐵1) = 0,35 i 𝑃(𝐴|𝐵1) = 0, 7 oraz
+𝑃(𝐵2) = 0,65, oraz 𝑃(𝐴|𝐵2) = 0,4.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Zbiór zdarzeń elementarnych Ω to zbiór osób w badanej społeczności.
+Przyjmijmy następujące oznaczenia zdarzeń:
+𝐴 – losowo wybrana osoba dobrze włada językiem niemieckim,
+𝐵1 – losowo wybrana osoba ma wyższe wykształcenie,
+𝐵2 – losowo wybrana osoba nie ma wyższego wykształcenia.
+Zgodnie z warunkami zadania 𝐵1 ∪ 𝐵2 = Ω, 𝐵1 ∩ 𝐵2 = ∅ oraz
+𝑃(𝐵1) = 0,35
+𝑃(𝐵2) = 0,65
+𝑃(𝐴) > 0
+Niech 𝐵1|𝐴 oznacza zdarzenie: losowo wybrana osoba ma wyższe wykształcenie, pod
+warunkiem, że dobrze włada językiem niemieckim.
+Z warunków zadania
+𝑃(𝐴|𝐵1) = 0,7
+𝑃(𝐴|𝐵2) = 0,4
+Obliczamy 𝑃(𝐵1|𝐴), korzystając z twierdzenia Bayesa:
+𝑃(𝐵1|𝐴) = 𝑃(𝐵1) ⋅ 𝑃(𝐴|𝐵1)
+𝑃(𝐴|𝐵1) ⋅ 𝑃(𝐵1) + 𝑃(𝐴|𝐵2) ⋅ 𝑃(𝐵2) = 0,35 ⋅ 0,7
+0,7 ⋅ 0,35 + 0,4 ⋅ 0,65 =
+= 0, (4851) ≈ 0,49
+Zasady oceniania rozwiązań zadań

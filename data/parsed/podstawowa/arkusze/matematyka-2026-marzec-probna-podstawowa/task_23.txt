@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=21; level=podstawowy; year=2026; month=marzec; term=probna; task_id=23]
+Zadanie 23. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) proste 𝑘 oraz 𝑙 są określone równaniami
+𝑘: (𝑚 − 1)𝑥 + 3𝑦 + 5 = 0
+𝑙: 6𝑥 + 𝑦 + 7 = 0
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Proste 𝑘 oraz 𝑙 są równoległe, gdy liczba 𝑚 jest równa
+A. 6 B. 7 C. 18 D. 19

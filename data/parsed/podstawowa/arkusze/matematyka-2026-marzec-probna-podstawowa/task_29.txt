@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=28; level=podstawowy; year=2026; month=marzec; term=probna; task_id=29]
+Zadanie 29. (0–1)
+Ze zbioru wszystkich liczb naturalnych dwucyfrowych losujemy jedną liczbę.
+Zdarzenie 𝐴 polega na tym, że wylosujemy liczbę, która jest wielokrotnością liczby 34.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Prawdopodobieństwo zdarzenia 𝐴 jest równe
+A. 1
+89 B. 2
+89 C. 1
+90 D. 2
+90

@@ -1,0 +1,57 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=23, 24; level=rozszerzony; year=2026; month=czerwiec; task_id=10]
+Zadanie 10. (0–4)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VII.R6) rozwiązuje równania
+trygonometryczne.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝜋
+6 + 2𝜋𝑘 oraz 5𝜋
+6 + 2𝜋𝑘, oraz
+2𝜋
+3 + 2𝜋𝑘, oraz − 2𝜋
+3 + 2𝜋𝑘, gdzie 𝑘 ∈ ℤ.
+3 pkt – rozwiązanie równania sin 𝑥 = 1
+2 w zbiorze ℝ, np.
+𝑥 = 𝜋
+6 + 2𝜋𝑘 oraz 𝑥 = 5𝜋
+6 + 2𝜋𝑘, gdzie 𝑘 ∈ ℤ
+ALBO
+– rozwiązanie równania cos 𝑥 = − 1
+2 w zbiorze ℝ, np.
+𝑥 = 2𝜋
+3 + 2𝜋𝑘 oraz 𝑥 = − 2𝜋
+3 + 2𝜋𝑘, gdzie 𝑘 ∈ ℤ.
+2 pkt – przekształcenie równania do postaci alternatywy dwóch elementarnych równań
+trygonometrycznych: sin 𝑥 = 1
+2 lub cos 𝑥 = − 1
+2 .
+1 pkt – zastosowanie wzoru na sinus podwojonego argumentu i zapisanie równania
+w postaci sin 𝑥 + 2 sin 𝑥 cos 𝑥 − cos 𝑥 = 1
+2 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Przekształcamy równanie sin 𝑥 + sin(2𝑥) − cos 𝑥 = 1
+2 równoważnie, stosując wzór na
+sinus podwojonego argumentu:
+sin 𝑥 + sin(2𝑥) − cos 𝑥 = 1
+2
+sin 𝑥 + 2 sin 𝑥 cos 𝑥 − cos 𝑥 − 1
+2 = 0
+sin 𝑥 (1 + 2 cos 𝑥) − 1
+2 ⋅ (2 cos 𝑥 + 1) = 0
+(sin 𝑥 − 1
+2) (2 cos 𝑥 + 1) = 0
+sin 𝑥 = 1
+2 ∨ cos 𝑥 = − 1
+2
+𝑥 = 𝜋
+6 + 2𝜋𝑘 ∨ 𝑥 = 5𝜋
+6 + 2𝜋𝑘 ∨ 𝑥 = 2𝜋
+3 + 2𝜋𝑘 ∨ 𝑥 = − 2𝜋
+3 + 2𝜋𝑘
+gdzie 𝑘 ∈ ℤ.

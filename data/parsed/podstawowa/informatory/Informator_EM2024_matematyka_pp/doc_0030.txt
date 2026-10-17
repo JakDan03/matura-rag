@@ -1,0 +1,28 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=30; level=podstawowy; year=2024; section=1. Wartość wyrażenia 𝑊(𝑥) jest określona dla każdej liczby rzeczywistej 𝑥. P F]
+30 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 16. (0–1)
+Dane jest wyrażenie 𝑊(𝑥) = 2𝑥2
+𝑥2 − 4 ⋅ 𝑥 − 2
+𝑥 .
+Oceń prawdziwość poniższych zdań. Zaznacz P, jeśli zdanie jest prawdziwe, albo F –
+jeśli jest fałszywe.
+1. Wartość wyrażenia 𝑊(𝑥) jest określona dla każdej liczby rzeczywistej 𝑥. P F
+2. Jeżeli wartość wyrażenia 𝑊(𝑥) jest określona, to 𝑊(𝑥) = 2𝑥
+𝑥 + 2 . P F
+Wymagania ogólne
+IV. Rozumowanie i argumentacja.
+3. Dobieranie argumentów do uzasadnienia poprawności rozwiązywania problemów,
+tworzenie ciągu argumentów gwarantujących poprawność rozwiązania
+i skuteczność w poszukiwaniu rozwiązań zagadnienia.
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymagania szczegółowe
+II. Wyrażenia algebraiczne. Zdający:
+1) stosuje wzory skróconego mnożenia na: (𝑎 + 𝑏)2, (𝑎 − 𝑏)2, 𝑎2 − 𝑏2;
+4) mnoży i dzieli wyrażenia wymierne.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+FP

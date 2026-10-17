@@ -1,0 +1,102 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=14; level=podstawowy; year=2024; month=czerwiec; task_id=15.1]
+Zadanie 15.
+Funkcja kwadratowa 𝑓 jest określona wzorem 𝑓(𝑥) = −(𝑥 + 1)2 + 4.
+Zadanie 15.1. (0–1)
+Na jednym z rysunków A–D przedstawiono, w kartezjańskim układzie współrzędnych (𝑥, 𝑦),
+fragment wykresu funkcji 𝑦 = 𝑓(𝑥).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Fragment wykresu funkcji 𝑦 = 𝑓(𝑥) przedstawiono na rysunku
+A. B.
+C. D.
+1
+2
+3
+4
+5
+−5
+−4
+−3
+−2
+−1
+0
+𝑦
+𝑥
+5
+4
+3
+2
+1
+−1
+−2
+−3
+−4
+−5
+1
+2
+3
+4
+5
+−5
+−4
+−3
+−2
+−1
+0
+𝑦
+𝑥
+5
+4
+3
+2
+1
+−1
+−2
+−3
+−4
+−5
+1
+2
+3
+4
+5
+−5
+−4
+−3
+−2
+−1
+0
+𝑦
+𝑥
+5
+4
+3
+2
+1
+−1
+−2
+−3
+−4
+−5
+1
+2
+3
+4
+5
+−5
+−4
+−3
+−2
+−1
+0
+𝑦
+𝑥
+5
+4
+3
+2
+1
+−1
+−2
+−3
+−4
+−5

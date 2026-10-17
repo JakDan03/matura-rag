@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=16; level=podstawowy; year=2024; month=maj; task_id=15]
+Zadanie 15. (0–1)
+Ciąg (𝑎𝑛) jest określony wzorem 𝑎𝑛 = (−1)𝑛 ⋅ (𝑛 − 5) dla każdej liczby
+naturalnej 𝑛 ≥ 1.
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Pierwszy wyraz ciągu (𝑎𝑛) jest dwa razy większy od trzeciego wyrazu tego
+ciągu. P F
+Wszystkie wyrazy ciągu (𝑎𝑛) są dodatnie. P F

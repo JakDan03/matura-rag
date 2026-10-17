@@ -1,0 +1,52 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=10, 11; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=11]
+Zadanie 11. (0–2)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+IV.2) stosuje układy równań do
+rozwiązywania zadań tekstowych.
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody i poprawny wynik: 51 kg.
+1 pkt – zapisanie układu dwóch równań z dwiema niewiadomymi pozwalającego obliczyć 𝑥
+oraz 𝑦, np.
+𝑥 + 𝑦 = 75 oraz 11𝑥 + 7,98𝑦 = 752,52
+ALBO
+– zapisanie równania z jedną niewiadomą pozwalającego obliczyć 𝑥, np.
+11𝑥 + 7,98 ⋅ (75 − 𝑥) = 752,52,
+ALBO
+– zapisanie równania z jedną niewiadomą pozwalającego obliczyć 𝑦, np.
+11 ⋅ (75 − 𝑦) + 7,98𝑦 = 752,52,
+ALBO
+– zapisanie różnicy 752,52 − 75 ⋅ 7,98 oraz zapisanie różnicy 11 − 7,98,
+ALBO
+– zapisanie różnicy 75 ⋅ 11 − 752,52 oraz zapisanie różnicy 11 − 7,98.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający sprawdza warunki zadania dla wybranych par liczb 𝑥 oraz 𝑦 i wskaże
+właściwą odpowiedź, ale nie uzasadni, że jest to jedyne rozwiązanie zadania, to otrzymuje
+1 punkt za całe rozwiązanie.
+2. Jeżeli zdający w rozwiązaniu używa wartości przybliżonych i otrzymuje wynik różny od 51,
+to może otrzymać co najwyżej 1 punkt za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Po uwzględnieniu warunków zadania otrzymujemy:
+𝑥 + 𝑦 = 75 oraz 11𝑥 + 7,98𝑦 = 752,52
+Z pierwszego z tych równań wyznaczamy 𝑦 = 75 − 𝑥 i podstawiamy w miejsce 𝑦 do
+drugiego z równań, w wyniku czego otrzymujemy:
+11𝑥 + 7,98 ⋅ (75 − 𝑥) = 752,52
+11𝑥 + 598,5 − 7,98𝑥 = 752,52
+Zasady oceniania rozwiązań zadań
+3,02𝑥 = 154,02
+𝑥 = 51
+Właściciel restauracji kupił 51 kilogramów pomidorów malinowych.
+Sposób II
+Gdyby właściciel restauracji kupił tylko pomidory cherry, to zapłaciłby za nie
+75 ⋅ 7,98 = 598,50 złotych, a więc o 752,52 − 598,50 = 154,02 złotych mniej niż zapłacił
+w rzeczywistości.
+Jeden kilogram pomidorów malinowych kosztuje o 11 − 7,98 = 3,02 złotych więcej niż
+jeden kilogram pomidorów cherry.
+Zatem właściciel restauracji kupił 154,02 ∶ 3,02 = 51 kilogramów pomidorów malinowych.

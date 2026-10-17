@@ -1,0 +1,117 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=26, 27, 28, 29; level=rozszerzony; year=2023; month=czerwiec; task_id=12]
+Zadanie 12. (0–5)
+Wymagania egzaminacyjne 2023 i 2024
+Wymagania ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VIII.R1) stosuje własności czworokątów
+wpisanych w okrąg i opisanych na okręgu.
+Zasady oceniania
+5 pkt – poprawna metoda rozwiązania oraz poprawny wynik: |𝐴𝐵| = 2√10, |𝐵𝐶| = 3√6,
+|𝐶𝐷| = √10, |𝐴𝐷| = 2√6.
+4 pkt – obliczenie długości boków 𝐴𝐵 i 𝐴𝐷: |𝐴𝐵| = 2√10 i |𝐴𝐷| = 2√6 oraz spełnienie
+jednego z poniższych kryteriów I–III:
+I. obliczenie długości odcinka 𝐶𝐸: |𝐶𝐸| = 3,
+II. wyznaczenie skali podobieństwa trójkątów 𝐷𝐸𝐶 i 𝐴𝐸𝐵:
+1
+2 ,
+III. obliczenie długości jednego z boków tego czworokąta i zapisanie wyrażenia
+arytmetycznego opisującego długości pozostałych boków w zależności od długości
+tego obliczonego boku.
+3 pkt – obliczenie długości boków 𝐴𝐵 i 𝐴𝐷: |𝐴𝐵| = 2√10 i |𝐴𝐷| = 2√6.
+2 pkt – obliczenie wysokości 𝐴𝑃 trójkąta 𝐴𝑆𝐸: |𝐴𝑃| = √15
+ALBO
+– obliczenie długości odcinka 𝐶𝐸: |𝐶𝐸| = 3,
+ALBO
+– wyznaczenie skali podobieństwa trójkątów 𝐷𝐸𝐶 i 𝐴𝐸𝐵:
+1
+2 ,
+ALBO
+– obliczenie długości odcinków 𝐷𝐸, 𝐵𝐸, 𝐴𝐸: |𝐷𝐸| = 2, |𝐵𝐸| = 6 i |𝐴𝐸| = 4 oraz
+zapisanie układu równań prowadzącego do wyznaczenia długości boków 𝑎 oraz 𝑑:
+𝑎2 + 𝑑2 = 82, 𝑎2 = 62 + 42 − 2 ∙ 6 ∙ 4 ∙ cos 𝛽 oraz
+𝑑2 = 22 + 42 − 2 ∙ 2 ∙ 4 ∙ cos(180° − 𝛽).
+1 pkt – obliczenie długości odcinków 𝐷𝐸, 𝐵𝐸 oraz 𝐴𝐸: |𝐷𝐸| = 2, |𝐵𝐸| = 6 oraz |𝐴𝐸| = 4
+ALBO
+– zapisanie, że trójkąty 𝐷𝐸𝐶 oraz 𝐴𝐸𝐵 (albo trójkąty 𝐵𝐸𝐶 oraz 𝐴𝐸𝐷) są podobne,
+ALBO
+– zapisanie równości wynikającej z twierdzenia o odcinkach siecznych:
+|𝐴𝐸| ∙ |𝐶𝐸| = |𝐵𝐸| ∙ |𝐷𝐸|.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeśli zdający zapisze, że |𝐷𝐸| = 1 i konsekwentnie rozwiąże zadanie do końca, to może
+otrzymać co najwyżej 3 punkty.
+Zasady oceniania rozwiązań zadań
+Przykładowe pełne rozwiązanie
+Ponieważ trójkąty 𝐴𝐵𝐷 i 𝐵𝐶𝐷 są prostokątne, to ich wspólna przeciwprostokątna 𝐵𝐷 jest
+średnicą okręgu opisanego na czworokącie 𝐴𝐵𝐶𝐷. Zatem |𝐵𝐷| = 8. Stąd i z warunków
+|𝐵𝐸| = 3 ∙ |𝐷𝐸| oraz |𝐵𝐷| = 2 ∙ |𝐴𝐸| otrzymujemy |𝐷𝐸| = 2, |𝐵𝐸| = 6 i |𝐴𝐸| = 4.
+Oznaczmy przez 𝑆 środek okręgu opisanego na czworokącie 𝐴𝐵𝐶𝐷. Prowadzimy
+wysokość 𝐴𝑃 trójkąta 𝐴𝑆𝐸 i przyjmijmy pozostałe oznaczenia jak na rysunku.
+Ponieważ |𝐴𝐸| = 4 = |𝐴𝑆|, więc trójkąt 𝐴𝑆𝐸 jest równoramienny. Zatem spodek 𝑃
+wysokości trójkąta 𝐴𝑆𝐸 jest środkiem podstawy 𝐸𝑆 tego trójkąta. Stąd wynika, że
+|𝐸𝑃| = |𝑃𝑆| = 1.
+Z twierdzenia Pitagorasa dla trójkąta 𝐴𝑆𝑃 otrzymujemy
+|𝐴𝑆|2 = |𝐴𝑃|2 + |𝑃𝑆|2
+42 = ℎ2 + 12
+ℎ2 = 15
+Z twierdzenia Pitagorasa dla trójkątów 𝐴𝐵𝑃 i 𝐴𝐷𝑃 otrzymujemy
+|𝐴𝐵|2 = |𝐴𝑃|2 + |𝑃𝐵|2 oraz |𝐴𝐷|2 = |𝐴𝑃|2 + |𝑃𝐷|2
+𝑎2 = ℎ2 + 52 oraz 𝑑2 = ℎ2 + 32
+𝑎2 = 15 + 25 oraz 𝑑2 = 15 + 9
+𝑎 = √40 = 2√10 oraz 𝑑 = √24 = 2√6
+Kąty 𝐷𝐶𝐴 i 𝐴𝐵𝐷 są równe, gdyż są to kąty wpisane oparte na tym samym łuku 𝐴𝐷. Kąty
+𝐷𝐸𝐶 i 𝐵𝐸𝐴 są równe, gdyż są to kąty wierzchołkowe. Zatem trójkąty 𝐷𝐸𝐶 i 𝐵𝐸𝐴 są
+podobne (cecha kkk). Wynika stąd, że
+|𝐶𝐷|
+|𝐷𝐸| = |𝐴𝐵|
+|𝐴𝐸|
+𝑐
+2 = 2√10
+4
+𝑐 = √10
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸
+𝑆
+𝑃
+𝑎
+𝑏
+𝑐
+𝑑
+ℎ
+4
+4
+4
+Z twierdzenia Pitagorasa dla trójkąta 𝐵𝐶𝐷 otrzymujemy
+|𝐵𝐷|2 = |𝐶𝐷|2 + |𝐵𝐶|2
+82 = 𝑐2 + 𝑏2
+64 = (√10)
+2
++ 𝑏2
+𝑏 = √54 = 3√6
+Uwagi:
+1. Długości boków 𝐶𝐷 i 𝐵𝐶 można obliczyć, wykorzystując twierdzenie o odcinkach
+siecznych. Wynika z niego, że |𝐴𝐸| ∙ |𝐶𝐸| = |𝐵𝐸| ∙ |𝐷𝐸|, więc |𝐶𝐸| = 3. Ponieważ
+cos ∡𝐴𝐸𝑃 =
+|𝐸𝑃|
+|𝐴𝐸| =
+1
+4 , to z twierdzenia cosinusów wynika, że
+|𝐶𝐷|2 = 22 + 32 − 2 ∙ 2 ∙ 3 ∙
+1
+4 = 10 oraz |𝐵𝐶|2 = 62 + 32 + 2 ∙ 6 ∙ 3 ∙
+1
+4 = 54.
+2. Po wyznaczeniu odcinków |𝐷𝐸| = 2, |𝐵𝐸| = 6 i |𝐴𝐸| = 4 można wyznaczyć długości
+boków 𝑎 oraz 𝑑, korzystając z twierdzenia cosinusów. Przyjmując 𝛽 = ∡𝐴𝐸𝐵, możemy
+zapisać układ trzech równań: 𝑎2 + 𝑑2 = 82, 𝑎2 = 62 + 42 − 2 ∙ 6 ∙ 4 ∙ cos 𝛽 oraz
+𝑑2 = 22 + 42 − 2 ∙ 2 ∙ 4 ∙ cos(180° − 𝛽). Wtedy cos 𝛽 =
+1
+4 oraz 𝑎 = 2√10 i 𝑑 = 2√6.
+Zasady oceniania rozwiązań zadań

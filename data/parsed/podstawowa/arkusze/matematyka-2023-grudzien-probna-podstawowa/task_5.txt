@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=6; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=5]
+Zadanie 5. (0–2)
+Wykaż, że dla każdej liczby całkowitej nieparzystej 𝒏 liczba 𝟑𝒏𝟐 + 𝟒𝒏 + 𝟏 jest
+podzielna przez 𝟒.
+5.
+0–1–2

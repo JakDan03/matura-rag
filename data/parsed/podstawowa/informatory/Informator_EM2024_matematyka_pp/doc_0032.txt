@@ -1,0 +1,34 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=32; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+32 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 18. (0–3)
+Dane jest równanie
+2
+2𝑥 + 1 = 𝑥 − 1
+𝑥 + 2
+Wyznacz dziedzinę tego równania. Rozwiąż to równanie.
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymagania szczegółowe
+III. Równania i nierówności. Zdający:
+1) przekształca równania i nierówności w sposób równoważny, w tym np. przekształca
+równoważnie równanie 5
+𝑥 + 1 = 𝑥 + 3
+2𝑥−1
+;
+4) rozwiązuje równania i nierówności kwadratowe.
+Zasady oceniania
+Część I (Wyznaczenie dziedziny równania)
+1 pkt – poprawne wyznaczenie dziedziny równania: 𝑥 ≠ − 1
+2 i 𝑥 ≠ −2.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Część II (Rozwiązanie równania)
+2 pkt – poprawna metoda rozwiązania równania i obliczenie wszystkich rozwiązań równania:
+(−1), 5
+2.
+1 pkt – poprawne przekształcenie równania 2
+2𝑥+1 = 𝑥−1
+𝑥+2 do równania kwadratowego, np.
+2(𝑥 + 2) = (2𝑥 + 1)(𝑥 − 1).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.

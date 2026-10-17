@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=7; level=podstawowy; year=2026; month=marzec; term=probna; task_id=7]
+Zadanie 7. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Równanie 2𝑥(𝑥2 − 3)(𝑥2 + 2𝑥 + 3) = 0 w zbiorze liczb rzeczywistych ma dokładnie
+A. jedno rozwiązanie.
+B. dwa rozwiązania.
+C. trzy rozwiązania.
+D. pięć rozwiązań.

@@ -1,0 +1,36 @@
+MATEMATYKA
+ZAKRES PODSTAWOWY I ROZSZERZONY
+Cele kształcenia – wymagania ogólne
+I. Sprawność rachunkowa.
+Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie
+praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz
+wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach
+rzeczywistych i teoretycznych.
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno
+matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów,
+tabel.
+2. Używanie języka matematycznego do tworzenia tekstów matematycznych, w tym do
+opisu prowadzonych rozumowań i uzasadniania wniosków, a także do przedstawiania
+danych.
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów
+praktycznych i teoretycznych.
+3. Tworzenie pomocniczych obiektów matematycznych na podstawie istniejących, w celu
+przeprowadzenia argumentacji lub rozwiązania problemu.
+4. Wskazywanie konieczności lub możliwości modyfikacji modelu matematycz nego w
+przypadkach wymagających specjalnych zastrzeżeń, dodatkowych założeń, rozważenia
+szczególnych uwarunkowań.
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.
+2. Dostrzeganie regularności, podobieństw oraz analogii, formułowanie wniosków na ich
+podstawie i uzasadnianie ich poprawności.
+3. Dobieranie argumentów do uzasadnienia poprawności rozwiązywania problemów,
+tworzenie ciągu argumentów gwarantujących poprawność rozwiązania i skuteczność w
+poszukiwaniu rozwiązań zagadnienia.
+4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Treści nauczania – wymagania szczegółowe

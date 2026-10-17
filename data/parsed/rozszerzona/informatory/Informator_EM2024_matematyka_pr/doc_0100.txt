@@ -1,0 +1,37 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=100; level=rozszerzony; year=2024; section=2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów]
+100 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+𝑆𝑛
+1 – oznacza wygranie przez ojca jednej partii szachów,
+𝑆𝑛
+2 – oznacza wygranie przez ojca dwóch partii szachów,
+⋮
+𝑆𝑛
+𝑛 – oznacza wygranie przez ojca 𝑛 partii szachów.
+Korzystamy ze schematu Bernoullego. Prawdopodobieństwo wygrania przez pana Nowaka
+co najmniej jednej partii szachów jest równe
+𝑃(𝑆𝑛
+1 ∪ 𝑆𝑛
+2 ∪ 𝑆𝑛
+3 ∪ … ∪ 𝑆𝑛
+𝑛) = 1 − 𝑃(𝑆𝑛
+0)
+Zatem
+1 − 𝑃(𝑆𝑛
+0) > 0,95
+1 − (𝑛
+0) ⋅ (0,4)0 ⋅ (0,6)𝑛 > 0,95
+1 − (0,6)𝑛 > 0,95
+(0,6)𝑛 < 0,05
+𝑛 ≥ 6
+Pan Nowak musi rozegrać z synem co najmniej sześć partii.
+Zadanie 30. (0–3)
+Pewna choroba dotyka 0,2% całej populacji i w początkowym stadium nie daje widocznych
+objawów chorobowych. W ramach profilaktyki stosuje się pewien test przesiewowy, który
+daje wynik pozytywny lub negatywny. Prawdopodobieństwo tego, że test wykonany na
+osobie chorej da wynik pozytywny (oznaczający chorobę), jest równe 0,99. Ponadto
+wiadomo, że prawdopodobieństwo tego, że test wykonany na osobie zdrowej da wynik
+negatywny, jest równe 0,98.
+Pan X poddał się testowi, który dał wynik pozytywny. Pozytywny wynik oznacza podejrzenie
+choroby.
+Oblicz prawdopodobieństwo tego, że pan X jest rzeczywiście chory. Wynik zapisz
+w postaci ułamka dziesiętnego w zaokrągleniu do części setnych. Zapisz obliczenia.

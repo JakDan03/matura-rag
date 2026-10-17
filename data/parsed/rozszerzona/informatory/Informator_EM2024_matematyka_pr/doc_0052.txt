@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=52; level=rozszerzony; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+52 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Zadanie 18.
+Rozpatrujemy wszystkie takie prostopadłościany, w których suma długości wszystkich
+krawędzi jest równa 80, pole powierzchni całkowitej jest równe 256 i długości wszystkich
+krawędzi są nie mniejsze niż 4.
+Zadanie 18.1. (0–4)
+Wykaż, że układ równań
+𝟒𝒂 + 𝟒𝒃 + 𝟒𝒄 = 𝟖𝟎 (1)
+𝟐𝒂𝒃 + 𝟐𝒃𝒄 + 𝟐𝒄𝒂 = 𝟐𝟓𝟔 (2)
+z niewiadomymi 𝒂 oraz 𝒃 ma rozwiązanie, które jest parą liczb rzeczywistych nie
+mniejszych od 𝟒 wtedy i tylko wtedy, gdy 𝒄 ∈ [𝟒, 28
+3 ].

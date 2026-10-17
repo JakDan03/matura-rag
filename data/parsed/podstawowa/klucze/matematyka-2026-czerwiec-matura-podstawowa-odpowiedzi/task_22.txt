@@ -1,0 +1,247 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=18, 19, 20, 21, 22, 23, 24; level=podstawowy; year=2026; month=czerwiec; task_id=22]
+Zadanie 22. (0–3)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+IX.1) rozpoznaje wzajemne położenie
+prostych na płaszczyźnie na podstawie ich
+równań, w tym znajduje wspólny punkt
+dwóch prostych, jeśli taki istnieje.
+SP X. Oś liczbowa. Układ współrzędnych na
+płaszczyźnie.
+4) znajduje środek odcinka, którego końce
+mają dane współrzędne (całkowite lub
+wymierne) oraz znajduje współrzędne
+drugiego końca odcinka, gdy dany jest
+jeden koniec i środek.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑆 = (11, 18).
+2 pkt – obliczenie współrzędnych punktu 𝐵: 𝐵 = (16, 17)
+ALBO
+– obliczenie współrzędnych środka 𝑀𝐷𝐶 boku 𝐷𝐶: 𝑀𝐷𝐶 = (12, 22),
+ALBO
+– obliczenie współrzędnych środka 𝑀𝐴𝐷 boku 𝐴𝐷 oraz obliczenie współrzędnych
+środka 𝑀𝐾𝐷 odcinka 𝐾𝐷: 𝑀𝐴𝐷 = (5, 15), 𝑀𝐾𝐷 = (8, 33
+2 ),
+ALBO
+– obliczenie współrzędnych wektora 𝐴𝐷⃗⃗⃗⃗⃗ (lub 1
+2 ⋅ 𝐴𝐷⃗⃗⃗⃗⃗ ):
+𝐴𝐷⃗⃗⃗⃗⃗ = [2, 8] (lub 1
+2 ⋅ 𝐴𝐷⃗⃗⃗⃗⃗ = [1, 4]),
+ALBO
+– wyznaczenie równań dwóch prostych przecinających się w punkcie 𝑆, np.
+𝑦 = 4𝑥 − 26 (równanie prostej równoległej do 𝐴𝐷) oraz
+𝑦 = 1
+2 𝑥 + 25
+2 (równanie prostej równoległej do 𝐴𝐵),
+ALBO
+– zapisanie układu równań pozwalającego obliczyć jedną ze współrzędnych punktu 𝑆,
+np.:
+𝑥𝐵 + 6
+2 = 𝑥𝑆 oraz
+1
+2 𝑥𝐵 + 9 + 19
+2 = 4𝑥𝑆 − 26,
+𝑥𝐵 + 6
+2 = 𝑥𝑆 oraz 𝑦𝐵 + 19
+2 = 𝑦𝑆 oraz 𝑦𝐵 = 1
+2 𝑥𝐵 + 9 oraz 𝑦𝑆 = 4𝑥𝑆 − 26.
+1 pkt – obliczenie współrzędnych punktu 𝐴: 𝐴 = (4, 11)
+ALBO
+Zasady oceniania rozwiązań zadań
+– obliczenie współrzędnych środka 𝑀𝐾𝐷 odcinka 𝐾𝐷: 𝑀𝐾𝐷 = (8, 33
+2 ),
+ALBO
+– wyznaczenie równania prostej przechodzącej przez punkt 𝑆, np.
+𝑦 = 4𝑥 − 26 (równanie prostej równoległej do 𝐴𝐷),
+ALBO
+– zapisanie zależności między odpowiednimi współrzędnymi punktów 𝐵, 𝐷 oraz 𝑆:
+𝑥𝐵 + 6
+2 = 𝑥𝑆 oraz 𝑦𝐵 + 19
+2 = 𝑦𝑆 oraz zapisanie współrzędnych punktu 𝐵
+w zależności od jednej zmiennej (𝑥𝐵 lub 𝑦𝐵), np. 𝐵 = (𝑥𝐵, 1
+2 𝑥𝐵 + 9).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli jedynym błędem zdającego jest:
+a) zastosowanie niepoprawnego wzoru na współczynnik kierunkowy prostej,
+b) zastosowanie niepoprawnego związku między współczynnikami kierunkowymi
+prostych równoległych,
+c) zastosowanie niepoprawnego wzoru na współrzędne środka odcinka,
+i rozwiązanie zostanie doprowadzone konsekwentnie do końca, to zdający może otrzymać
+1 punkt za całe rozwiązanie. Jeżeli zdający popełni więcej niż jeden z wymienionych błędów
+a)–c), to otrzymuje 0 punktów za całe rozwiązanie, o ile nie nabył prawa do innej liczby
+punktów.
+Przykładowe pełne rozwiązania
+Sposób I
+Punkt 𝐴 jest punktem wspólnym prostych 𝐴𝐵 i 𝐴𝐷, zatem współrzędne tego punktu są
+rozwiązaniem układu równań:
+{ 𝑦 = 1
+2 𝑥 + 9
+𝑦 = 4𝑥 − 5
+Stąd:
+1
+2 𝑥 + 9 = 4𝑥 − 5
+7
+2 𝑥 = 14
+𝑥 = 4
+𝑦 = 11
+Zatem 𝐴 = (4, 11).
+Punkt 𝐾 jest środkiem odcinka 𝐴𝐵, więc:
+4 + 𝑥𝐵
+2 = 10 oraz 11 + 𝑦𝐵
+2 = 14
+𝑥𝐵 = 16 oraz 𝑦𝐵 = 17
+Zatem 𝐵 = (16, 17).
+Punkt 𝑆 = (𝑥𝑆, 𝑦𝑆) jest środkiem odcinka 𝐵𝐷, więc:
+𝑥𝑆 = 16 + 6
+2 = 11 oraz 17 + 19
+2 = 18
+Zatem 𝑆 = (11, 18).
+Sposób II
+Punkt 𝐴 jest punktem wspólnym prostych 𝐴𝐵 i 𝐴𝐷, zatem współrzędne tego punktu są
+rozwiązaniem układu równań:
+{
+𝑦 = 1
+2 𝑥 + 9
+𝑦 = 4𝑥 − 5
+Stąd:
+1
+2 𝑥 + 9 = 4𝑥 − 5
+7
+2 𝑥 = 14
+𝑥 = 4
+𝑦 = 11
+Zatem 𝐴 = (4, 11).
+Prosta 𝑆𝐾 jest równoległa do prostej 𝐴𝐷, zatem współczynnik kierunkowy prostej 𝑆𝐾 jest
+równy 4. Wyznaczamy równanie prostej 𝑆𝐾:
+𝑦 = 4(𝑥 − 10) + 14
+𝑦 = 4𝑥 − 26
+Oznaczmy przez 𝑀𝐴𝐷 środek odcinka 𝐴𝐷. Obliczmy współrzędne punktu 𝑀𝐴𝐷:
+𝑀𝐴𝐷 = (4 + 6
+2 , 11 + 19
+2 ) = (5, 15)
+Prosta 𝑆𝑀𝐴𝐷 jest równoległa do prostej 𝐴𝐵, zatem współczynnik kierunkowy prostej 𝑆𝑀𝐴𝐷
+jest równy 1
+2
+. Wyznaczamy równanie prostej 𝑆𝑀𝐴𝐷:
+𝑦 = 1
+2 (𝑥 − 5) + 15
+𝑦 = 1
+2 𝑥 + 25
+2
+Zasady oceniania rozwiązań zadań
+Punkt 𝑆 jest punktem wspólnym prostych 𝑆𝐾 i 𝑆𝑀𝐴𝐷, zatem współrzędne tego punktu są
+rozwiązaniem układu równań:
+{
+𝑦 = 4𝑥 − 26
+𝑦 = 1
+2 𝑥 + 25
+2
+Stąd:
+4𝑥 − 26 = 1
+2 𝑥 + 25
+2
+7
+2 𝑥 = 77
+2
+𝑥 = 11
+𝑦 = 18
+Zatem 𝑆 = (11, 18).
+Sposób III
+Prosta 𝑆𝐾 jest równoległa do prostej 𝐴𝐷, zatem współczynnik kierunkowy prostej 𝑆𝐾 jest
+równy 4. Wyznaczamy równanie prostej 𝑆𝐾:
+𝑦 = 4(𝑥 − 10) + 14
+𝑦 = 4𝑥 − 26
+Punkt 𝑆 leży na prostej o równaniu 𝑦 = 4𝑥 − 26, stąd 𝑦𝑆 = 4𝑥𝑆 − 26.
+Punkt 𝐵 leży na prostej o równaniu 𝑦 = 1
+2 𝑥 + 9, stąd 𝑦𝐵 = 1
+2 𝑥𝐵 + 9.
+Punkt 𝑆 jest środkiem odcinka 𝐵𝐷, więc:
+𝑥𝐵 + 𝑥𝐷
+2 = 𝑥𝑆 oraz 𝑦𝐵 + 𝑦𝐷
+2 = 𝑦𝑆
+Zatem:
+𝑥𝐵 + 6
+2 = 𝑥𝑆 oraz
+1
+2 𝑥𝐵 + 9 + 19
+2 = 4𝑥𝑆 − 26
+𝑥𝐵 = 2𝑥𝑆 − 6 oraz 1
+2 𝑥𝐵 + 28 = 8𝑥𝑆 − 52
+Stąd otrzymujemy:
+1
+2 (2𝑥𝑆 − 6) + 28 = 8𝑥𝑆 − 52
+𝑥𝑆 − 3 + 28 = 8𝑥𝑆 − 52
+7𝑥𝑆 = 77
+𝑥𝑆 = 11
+Wtedy:
+𝑦𝑆 = 4𝑥𝑆 − 26 = 4 ⋅ 11 − 26 = 18
+Zatem 𝑆 = (11, 18).
+Sposób IV
+Punkt 𝐴 jest punktem wspólnym prostych 𝐴𝐵 i 𝐴𝐷, zatem współrzędne tego punktu są
+rozwiązaniem układu równań:
+{ 𝑦 = 1
+2 𝑥 + 9
+𝑦 = 4𝑥 − 5
+Stąd:
+1
+2 𝑥 + 9 = 4𝑥 − 5
+7
+2 𝑥 = 14
+𝑥 = 4
+𝑦 = 11
+Zatem 𝐴 = (4, 11).
+Zauważmy, że 𝐾𝑆⃗⃗⃗⃗⃗ = 1
+2 ⋅ 𝐴𝐷⃗⃗⃗⃗⃗ . Obliczamy współrzędne wektorów 𝐾𝑆⃗⃗⃗⃗⃗ oraz 1
+2 ⋅ 𝐴𝐷⃗⃗⃗⃗⃗ :
+𝐾𝑆⃗⃗⃗⃗⃗ = [𝑥𝑆 − 10, 𝑦𝑆 − 14]
+1
+2 ⋅𝐴𝐷⃗⃗⃗⃗⃗ = 1
+2 ⋅ [6 − 4, 19 − 11] = 1
+2 ⋅ [2, 8] = [1, 4]
+Stąd:
+𝑥𝑆 − 10 = 1 oraz 𝑦𝑆 − 14 = 4
+𝑥𝑆 = 11 oraz 𝑦𝑆 = 18
+Zatem 𝑆 = (11, 18).
+Sposób V
+Prosta 𝑆𝐾 jest równoległa do prostej 𝐴𝐷, zatem współczynnik kierunkowy prostej 𝑆𝐾 jest
+równy 4. Wyznaczamy równanie prostej 𝑆𝐾:
+𝑦 = 4(𝑥 − 10) + 14
+𝑦 = 4𝑥 − 26
+Oznaczmy przez 𝑀𝐾𝐷 środek odcinka 𝐾𝐷. Obliczmy współrzędne punktu 𝑀𝐾𝐷:
+𝑀𝐾𝐷 = (10 + 6
+2 , 14 + 19
+2 ) = (8, 33
+2 )
+Zasady oceniania rozwiązań zadań
+Prosta 𝑆𝑀𝐾𝐷 jest równoległa do prostej 𝐴𝐵, zatem współczynnik kierunkowy prostej 𝑆𝑀𝐾𝐷
+jest równy 1
+2
+. Wyznaczamy równanie prostej 𝑆𝑀𝐾𝐷:
+𝑦 = 1
+2 (𝑥 − 8) + 33
+2
+𝑦 = 1
+2 𝑥 + 25
+2
+Punkt 𝑆 jest punktem wspólnym prostych 𝑆𝐾 i 𝑆𝑀𝐾𝐷, zatem współrzędne tego punktu są
+rozwiązaniem układu równań:
+{
+𝑦 = 4𝑥 − 26
+𝑦 = 1
+2 𝑥 + 25
+2
+Stąd:
+4𝑥 − 26 = 1
+2 𝑥 + 25
+2
+7
+2 𝑥 = 77
+2
+𝑥 = 11
+𝑦 = 18
+Zatem 𝑆 = (11, 18).

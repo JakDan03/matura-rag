@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=20; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=22.1]
+Zadanie 22.
+Dany jest trójkąt 𝐴𝐵𝐶, w którym |𝐴𝐵| = 6, |𝐴𝐶| = 4 oraz |∡𝐶𝐴𝐵| = 60° (zobacz
+rysunek).
+Zadanie 22.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole trójkąta 𝐴𝐵𝐶 jest równe
+A. 6 B. 6√3 C. 12 D. 12√3

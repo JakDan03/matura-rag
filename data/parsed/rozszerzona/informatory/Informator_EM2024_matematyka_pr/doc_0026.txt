@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=26; level=rozszerzony; year=2024; section=FUNKCJE, CIĄGI, TRYGONOMETRIA,]
+26 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+FUNKCJE, CIĄGI, TRYGONOMETRIA,
+OPTYMALIZACJA I RACHUNEK RÓŻNICZKOWY
+Zadanie 7. (0–3)
+Funkcja 𝑓 jest określona wzorem 𝑓(𝑥) = 3𝑥
+𝑥+1 dla każdego 𝑥 ∈ (−1, +∞).
+Wykaż, że 𝒇 jest funkcją rosnącą.
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.
+Wymagania szczegółowe
+V. Funkcje. Zdający:
+3R) dowodzi monotoniczności funkcji zadanej wzorem […].
+XIII. Optymalizacja i rachunek różniczkowy. Zdający:
+5R) stosuje pochodną do badania monotoniczności funkcji.

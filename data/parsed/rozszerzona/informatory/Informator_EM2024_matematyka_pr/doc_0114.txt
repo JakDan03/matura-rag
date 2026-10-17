@@ -1,0 +1,30 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=114; level=rozszerzony; year=2024; section=|𝐷𝐾| + |𝐾𝐴| = |𝐷′𝐾| + |𝐾𝐴| ≥ |𝐷′𝐴| = |𝐷𝐾′| + |𝐾′𝐴|]
+114 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Przykładowe pełne rozwiązanie
+Rozpatrzmy sieć dróg złożoną z odcinków 𝐴𝐾, 𝐾𝐿, 𝐿𝐶, 𝐵𝐿 i 𝐷𝐾 (zobacz rysunek 1.).
+Prowadzimy prostą 𝑝 równoległą do 𝐴𝐷 i przechodzącą przez 𝐾 i zaznaczamy na niej
+punkt 𝐾’ taki, że |𝐴𝐾′| = |𝐷𝐾′|.
+Prowadzimy prostą równoległą do 𝐵𝐶 i przechodzącą przez 𝐿 i zaznaczamy na niej
+punkt 𝐿’ taki, że |𝐵𝐿′| = |𝐶𝐿′| (zobacz rysunek 2.).
+Pokażemy, że sieć dróg z węzłami 𝐾 i 𝐿 można zastąpić siecią krótszą – z węzłami 𝐾’
+oraz 𝐿’.
+Niech 𝐷’ będzie punktem symetrycznym do punktu 𝐷 względem prostej 𝑝. Wówczas
+punkty 𝐷’, 𝐾’ oraz 𝐴 są współliniowe, więc
+|𝐷𝐾| + |𝐾𝐴| = |𝐷′𝐾| + |𝐾𝐴| ≥ |𝐷′𝐴| = |𝐷𝐾′| + |𝐾′𝐴|
+𝐴
+𝐶
+𝐷
+𝐵
+𝐾
+𝐿
+Rysunek 2.
+𝐾′
+𝐿′
+𝑝
+𝐴
+𝐶
+𝐷
+𝐵
+𝐾
+𝐿
+Rysunek 1.

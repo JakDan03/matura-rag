@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=12; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=11.2]
+Zadanie 11.
+Pusta bańka na mleko o pojemności 10 litrów ma masę 6,5 kg.
+Jeden litr mleka ma masę 1,03 kg.
+Niech 𝑥 oznacza liczbę litrów mleka w tej bańce, a 𝑓(𝑥) oznacza wyrażoną
+w kilogramach masę bańki wraz z mlekiem, gdzie 𝑥 ∈ [0, 10].
+Zadanie 11.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Największa wartość funkcji 𝑓 jest równa
+A. 16,8 B. 15,8 C. 11,3 D. 10,3

@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=6; level=rozszerzony; year=2026; month=czerwiec; task_id=3]
+Zadanie 3. (0–3)
+Funkcja 𝑓 jest określona wzorem 𝑓(𝑥) = 𝑎𝑥2 + 𝑥
+𝑥 − 1 dla każdej liczby rzeczywistej 𝑥 ≠ 1.
+Wyznacz wszystkie wartości 𝒂, dla których pochodna funkcji 𝒇 w punkcie 𝒙 = 𝒂
+jest równa (− 𝟏
+𝟐 𝒂). Zapisz obliczenia.
+3.
+0–1–
+2–3

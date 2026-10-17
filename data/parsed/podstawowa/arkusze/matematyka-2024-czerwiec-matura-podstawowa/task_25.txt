@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=24; level=podstawowy; year=2024; month=czerwiec; task_id=25]
+Zadanie 25. (0–1)
+Ostrosłup prawidłowy ma 2024 ściany boczne.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba wszystkich krawędzi tego ostrosłupa jest równa
+A. 2025 B. 2026 C. 4048 D. 4052

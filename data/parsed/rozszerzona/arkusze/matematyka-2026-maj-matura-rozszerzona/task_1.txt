@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=4; level=rozszerzony; year=2026; month=maj; task_id=1]
+Zadanie 1. (0–2)
+Oblicz granicę
+𝐥𝐢𝐦
+𝒏→+∞
+(𝒏 + 𝟐
+𝒏 − 𝟏)
+𝟏
+𝟐 𝒏𝟑 − 𝟒𝒏 + 𝟕
+Zapisz obliczenia.
+1.
+0–1–2

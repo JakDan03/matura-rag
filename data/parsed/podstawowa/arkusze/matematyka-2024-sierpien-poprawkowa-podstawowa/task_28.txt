@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=27; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=28]
+Zadanie 28. (0–1)
+W tabeli zestawiono liczbę punktów uzyskanych przez 32 uczniów pewnej klasy za
+rozwiązanie jednego z zadań testu z matematyki.
+Liczba punktów 0 1 2 3 4 5
+Liczba uczniów 2 2 5 6 11 6
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Średnia arytmetyczna liczby punktów uzyskanych za rozwiązanie tego zadania przez
+uczniów tej klasy jest równa
+A. 2,5 B. 3,25 C. 3,31 D. 4

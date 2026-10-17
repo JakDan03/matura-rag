@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=14; level=podstawowy; year=2026; month=marzec; term=probna; task_id=14]
+Zadanie 14. (0–3)
+Ciąg (𝑎𝑛) jest określony wzorem 𝑎𝑛 = 3𝑛 + 9
+𝑛 + 1 dla każdej liczby naturalnej 𝑛 ≥ 1.
+Wyznacz wszystkie wartości 𝒙, dla których trzywyrazowy ciąg
+(𝒂𝟓
+, 𝟐𝒙𝟐
+, 𝟑𝒙𝟐 + 𝟓)
+jest arytmetyczny. Zapisz obliczenia.
+14.
+0–1–
+2–3

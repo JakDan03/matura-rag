@@ -1,0 +1,81 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=4, 5, 6; level=podstawowy; year=2025; month=czerwiec; task_id=5]
+Zadanie 5. (0–3)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+I.2) przeprowadza proste dowody dotyczące
+podzielności liczb całkowitych i reszt
+z dzielenia […].
+Zasady oceniania
+3 pkt – przeprowadzenie pełnego rozumowania.
+2 pkt – zapisanie liczb 𝑎 oraz 𝑏 w postaciach: 𝑎 = 5𝑘 + 1, gdzie 𝑘 ∈ ℤ, oraz 𝑏 = 5𝑙 + 4,
+gdzie 𝑙 ∈ ℤ, oraz zapisanie różnicy 𝑎2 − 𝑏2 w postaci
+25𝑘2 + 10𝑘 + 1 − 25𝑙2 − 40𝑙 − 16
+ALBO
+– zapisanie liczb 𝑎 oraz 𝑏 w postaciach: 𝑎 = 5𝑘 + 1, gdzie 𝑘 ∈ ℤ, oraz 𝑏 = 5𝑙 + 4,
+gdzie 𝑙 ∈ ℤ, oraz zapisanie różnicy 𝑎2 − 𝑏2 w postaci
+(5𝑘 + 1 − 5𝑙 − 4)(5𝑘 + 1 + 5𝑙 + 4),
+ALBO
+– zapisanie, że suma 𝑎 + 𝑏 jest podzielna przez 5,
+ALBO
+– zapisanie, że jeśli liczba całkowita daje przy dzieleniu przez 5 resztę 1, to jej
+kwadrat przy dzieleniu przez 5 też daje resztę 1, oraz zapisanie, że jeśli liczba
+Zasady oceniania rozwiązań zadań
+całkowita daje przy dzieleniu przez 5 resztę 4, to jej kwadrat przy dzieleniu przez 5
+daje resztę 1.
+1 pkt – zapisanie liczby 𝑎 w postaci 𝑎 = 5𝑘 + 1, gdzie 𝑘 ∈ ℤ
+ALBO
+– zapisanie liczby 𝑏 w postaci 𝑏 = 5𝑙 + 4, gdzie 𝑙 ∈ ℤ,
+ALBO
+– zapisanie, że jeśli liczba całkowita daje przy dzieleniu przez 5 resztę 1, to jej
+kwadrat przy dzieleniu przez 5 też daje resztę 1,
+ALBO
+– zapisanie, że jeśli liczba całkowita daje przy dzieleniu przez 5 resztę 4, to jej
+kwadrat przy dzieleniu przez 5 daje resztę 1.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający sprawdza prawdziwość tezy tylko dla wybranych wartości 𝑎 i 𝑏, to
+otrzymuje 0 punktów za całe rozwiązanie.
+2. Jeżeli zdający zapisze liczby 𝑎 i 𝑏 w postaciach: 𝑎 = 5𝑘 + 1 i 𝑏 = 5𝑘 + 4, gdzie 𝑘 ∈ ℤ,
+to otrzymuje 1 punkt za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Ponieważ liczba całkowita 𝑎 przy dzieleniu przez 5 daje resztę 1, natomiast liczba
+całkowita 𝑏 przy dzieleniu przez 5 daje resztę 4, więc liczby 𝑎 i 𝑏 możemy zapisać
+w postaci: 𝑎 = 5𝑘 + 1, gdzie 𝑘 ∈ ℤ, oraz 𝑏 = 5𝑙 + 4, gdzie 𝑙 ∈ ℤ.
+Wtedy
+𝑎2 − 𝑏2 = (5𝑘 + 1)2 − (5𝑙 + 4)2 = 25𝑘2 + 10𝑘 + 1 − 25𝑙2 − 40𝑙 − 16 =
+= 25𝑘2 + 10𝑘 − 25𝑙2 − 40𝑙 − 15 = 5 ⋅ (5𝑘2 + 2𝑘 − 5𝑙2 − 8𝑙 − 3)
+Liczba 5𝑘2 + 2𝑘 − 5𝑙2 − 8𝑙 − 3 jest całkowita, co oznacza, że liczba 𝑎2 − 𝑏2 jest
+podzielna przez 5.
+To należało wykazać.
+Sposób II
+Ponieważ liczba całkowita 𝑎 przy dzieleniu przez 5 daje resztę 1, natomiast liczba
+całkowita 𝑏 przy dzieleniu przez 5 daje resztę 4, więc liczby 𝑎 i 𝑏 możemy zapisać
+w postaci: 𝑎 = 5𝑘 + 1, gdzie 𝑘 ∈ ℤ, oraz 𝑏 = 5𝑙 + 4, gdzie 𝑙 ∈ ℤ.
+Wtedy
+𝑎2 − 𝑏2 = (𝑎 − 𝑏)(𝑎 + 𝑏) = (5𝑘 + 1 − 5𝑙 − 4)(5𝑘 + 1 + 5𝑙 + 4) =
+= (5𝑘 − 5𝑙 − 3)(5𝑘 + 5𝑙 + 5) = 5 ⋅ (5𝑘 − 5𝑙 − 3)(𝑘 + 𝑙 + 1)
+Liczba (5𝑘 − 5𝑙 − 3)(𝑘 + 𝑙 + 1) jest całkowita, co oznacza, że liczba 𝑎2 − 𝑏2 jest
+podzielna przez 5.
+To należało wykazać.
+Sposób III
+Ponieważ liczba całkowita 𝑎 przy dzieleniu przez 5 daje resztę 1, natomiast liczba
+całkowita 𝑏 przy dzieleniu przez 5 daje resztę 4, więc suma 𝑎 + 𝑏 jest podzielna
+przez 5 (ponieważ suma reszt z dzielenia przez 5 liczb 𝑎 oraz 𝑏 jest podzielna przez 5).
+Zatem liczba 𝑎2 − 𝑏2 = (𝑎 + 𝑏)(𝑎 − 𝑏) jest podzielna przez 5.
+To należało wykazać.
+Sposób IV
+Liczba całkowita 𝑎 przy dzieleniu przez 5 daje resztę 1, więc liczba 𝑎2 przy dzieleniu
+przez 5 również daje resztę 1. Liczba całkowita 𝑏 przy dzieleniu przez 5 daje resztę 4,
+więc liczba 𝑏2 przy dzieleniu przez 5 daje resztę 1.
+Zatem liczby 𝑎2 i 𝑏2 możemy zapisać w postaci: 𝑎2 = 5𝑘 + 1, gdzie 𝑘 ∈ ℤ,
+oraz 𝑏2 = 5𝑙 + 1, gdzie 𝑙 ∈ ℤ.
+Wtedy
+𝑎2 − 𝑏2 = 5𝑘 + 1 − 5𝑙 − 1 = 5𝑘 − 5𝑙 = 5 ⋅ (𝑘 − 𝑙)
+Liczba 𝑘 − 𝑙 jest całkowita, co oznacza, że liczba 𝑎2 − 𝑏2 jest podzielna przez 5.
+To należało wykazać.

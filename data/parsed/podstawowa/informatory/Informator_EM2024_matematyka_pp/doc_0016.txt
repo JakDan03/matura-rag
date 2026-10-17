@@ -1,0 +1,35 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=16; level=podstawowy; year=2024; section=ALBO]
+16 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+1 pkt – zapisanie liczb 𝑎 i 𝑏 w postaci: 𝑎 = 3𝑘 + 1 oraz 𝑏 = 3𝑘 + 2, gdzie
+𝑘 ∈ {0, 1, 2, 3, 4, … }
+ALBO
+– zapisanie liczby 𝑎2 + 11𝑎𝑏 + 𝑏2 w postaci 9𝑎𝑏 + (𝑎 + 𝑏)2.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób 1.
+Krok 1. dowodu
+Dwie kolejne liczby naturalne a i b, niepodzielne przez 3, można zapisać w postaci:
+𝑎 = 3𝑘 + 1 oraz 𝑏 = 3𝑘 + 2, gdzie 𝑘 ∈ {0, 1, 2, 3, 4, … }
+Krok 2. dowodu
+Zapiszemy liczbę 𝑎2 + 11𝑎𝑏 + 𝑏2 z wykorzystaniem zapisu z krok 1. dowodu:
+𝑎2 + 11𝑎𝑏 + 𝑏2 = (3𝑘 + 1)2 + 11(3𝑘 + 1)(3𝑘 + 2) + (3𝑘 + 2)2 =
+= 9𝑘2 + 6𝑘 + 1 + 11(9𝑘2 + 9𝑘 + 2) + 9𝑘2 + 12𝑘 + 4 =
+= 18𝑘2 + 18𝑘 + 5 + 99𝑘2 + 99𝑘 + 22 =
+= 117𝑘2 + 117𝑘 + 27 =
+= 9 ⋅ (13𝑘2 + 13𝑘 + 3)
+Krok 3. dowodu
+Liczbę 𝑎2 + 11𝑎𝑏 + 𝑏2 zapisaliśmy jako iloczyn liczby 9 oraz liczby 13𝑘2 + 13𝑘 + 3.
+Dlatego, aby udowodnić podzielność przez 9, wystarczy wykazać, że drugi czynnik
+w rozkładzie jest liczbą całkowitą.
+Ponieważ 𝑘 ∈ {0, 1, 2, 3, 4, … }, to 13𝑘2 oraz 13𝑘 są liczbami całkowitymi. Suma liczb
+całkowitych oraz liczby 3 jest liczbą całkowitą. To kończy dowód.
+Sposób 2.
+Przekształcamy równoważnie wyrażenie 𝑎2 + 11𝑎𝑏 + 𝑏2:
+𝑎2 + 11𝑎𝑏 + 𝑏2 = 9𝑎𝑏 + 𝑎2 + 2𝑎𝑏 + 𝑏2 = 9𝑎𝑏 + (𝑎 + 𝑏)2
+Liczba 9𝑎𝑏 jest podzielna przez 9 dla dowolnych liczb naturalnych 𝑎 i 𝑏.
+Liczba 𝑎 przy dzieleniu przez 3 daje resztę 1.
+Liczba 𝑏 przy dzieleniu przez 3 daje resztę 2.
+Stąd liczba 𝑎 + 𝑏 jest podzielna przez 3.
+Liczba (𝑎 + 𝑏)2 jest podzielna przez 9 jako kwadrat liczby podzielnej przez 3.
+Zatem liczba 𝑎2 + 11𝑎𝑏 + 𝑏2 = 9𝑎𝑏 + (𝑎 + 𝑏)2 jest podzielna przez 9 jako suma dwóch
+liczb podzielnych przez 9. To należało udowodnić.

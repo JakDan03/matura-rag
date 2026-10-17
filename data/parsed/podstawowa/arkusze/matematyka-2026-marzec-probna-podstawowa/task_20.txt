@@ -1,0 +1,15 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=18; level=podstawowy; year=2026; month=marzec; term=probna; task_id=20]
+Zadanie 20. (0–1)
+Punkty 𝐴, 𝐵, 𝐶 oraz 𝐷 leżą na okręgu o środku w punkcie 𝑂. Punkt 𝐾 jest punktem
+przecięcia cięciwy 𝐴𝐶 i średnicy 𝐵𝐷. Kąt 𝐶𝑂𝐵 jest prosty, a kąt 𝐴𝐾𝐷 ma miarę 78°
+(zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Miara kąta ostrego 𝐵𝐷𝐴 jest równa
+A. 45° B. 51° C. 57° D. 78°
+𝐴
+𝐵
+𝐶
+𝐷
+𝑂
+𝐾
+78°

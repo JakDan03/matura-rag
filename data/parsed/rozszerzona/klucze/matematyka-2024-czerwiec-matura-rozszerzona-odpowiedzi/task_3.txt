@@ -1,0 +1,51 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=6, 7, 8; level=rozszerzony; year=2024; month=czerwiec; task_id=3]
+Zadanie 3. (0–3)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+XIII.R2) stosuje definicję pochodnej funkcji,
+podaje interpretację geometryczną
+pochodnej;
+XIII.R3) oblicza pochodną funkcji potęgowej
+o wykładniku rzeczywistym oraz oblicza
+pochodną, korzystając z twierdzeń
+o pochodnej sumy, różnicy, iloczynu
+i ilorazu.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑥0 = 7 oraz 𝑦 = −𝑥 + 12 (lub
+𝑦 = −(𝑥 − 7) + 5).
+2 pkt – obliczenie odciętej punktu 𝑃 i wyznaczenie pochodnej funkcji 𝑓: 𝑥0 = 7 oraz
+𝑓′(𝑥) = 2⋅(𝑥 − 4) − (2𝑥 + 1)⋅1
+(𝑥 − 4)2 .
+1 pkt – obliczenie odciętej punktu 𝑃: 𝑥0 = 7
+ALBO
+– wyznaczenie pochodnej funkcji 𝑓: 𝑓′(𝑥) = 2⋅(𝑥 − 4) − (2𝑥 + 1)⋅1
+(𝑥 − 4)2 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli zdający błędnie stosuje wzór na pochodną ilorazu funkcji, to może otrzymać co
+najwyżej 1 punkt za całe rozwiązanie.
+Przykładowe pełne rozwiązanie
+Obliczamy odciętą 𝑥0 punktu 𝑃:
+5 = 2𝑥0 + 1
+𝑥0 − 4
+5𝑥0 − 20 = 2𝑥0 + 1
+𝑥0 = 7
+Wyznaczamy pochodną funkcji 𝑓:
+𝑓′(𝑥) = 2(𝑥 − 4) − (2𝑥 + 1) ⋅ 1
+(𝑥 − 4)2
+𝑓′(𝑥) = −9
+(𝑥 − 4)2
+Zasady oceniania rozwiązań zadań
+Wyznaczamy równanie kierunkowe 𝑦 = 𝑎𝑥 + 𝑏 stycznej do wykresu funkcji 𝑓
+w punkcie 𝑃. Obliczamy współczynnik kierunkowy 𝑎 w równaniu stycznej:
+𝑎 = 𝑓′(7) = −1
+Obliczamy współczynnik 𝑏 w równaniu stycznej:
+5 = −1 ∙ 7 + 𝑏
+𝑏 = 12
+Styczna ma równanie 𝑦 = −𝑥 + 12.

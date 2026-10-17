@@ -1,0 +1,54 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=9, 10, 11; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=9]
+Zadanie 9. (0–2)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+III.4) rozwiązuje […] nierówności
+kwadratowe.
+Zasady oceniania
+2 pkt – spełnienie warunku określonego w zasadach oceniania za 1 pkt oraz zapisanie
+zbioru rozwiązań nierówności: 𝑥 ∈ [−1, 7]
+ALBO
+– spełnienie warunku określonego w zasadach oceniania za 1 pkt oraz
+przedstawienie zbioru rozwiązań nierówności w postaci graficznej z poprawnie
+zaznaczonymi końcami przedziałów.
+1 pkt – obliczenie lub podanie pierwiastków trójmianu kwadratowego 𝑥2 − 6𝑥 − 7:
+𝑥1 = −1 oraz 𝑥2 = 7.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający, obliczając pierwiastki trójmianu 𝑥2 − 6𝑥 − 7, popełni błędy (ale otrzyma
+dwa różne pierwiastki) i konsekwentnie do popełnionych błędów zapisze zbiór rozwiązań
+nierówności, to otrzymuje 1 punkt za całe rozwiązanie.
+2. Jeżeli zdający wyznacza pierwiastki trójmianu kwadratowego w przypadku, gdy błędnie
+obliczony przez zdającego wyróżnik Δ jest ujemny, to otrzymuje 0 punktów za całe
+rozwiązanie.
+3. Jeżeli zdający rozpatruje inny niż podany w zadaniu trójmian kwadratowy, który nie wynika
+z błędu przekształcenia (np. 𝑥2 − 6𝑥), i w konsekwencji rozpatruje inną nierówność (np.
+𝑥2 − 6𝑥 ≤ 0), to otrzymuje 0 punktów za całe rozwiązanie.
+4. Akceptowane jest zapisanie pierwiastków trójmianu w postaci 𝑎 + 𝑏√𝑐, gdzie 𝑎, 𝑏, 𝑐 są
+liczbami wymiernymi.
+5. Jeżeli zdający poda zbiór rozwiązań w postaci graficznej z poprawnie zaznaczonymi
+końcami przedziałów i jednocześnie zapisze niewłaściwy przedział jako zbiór rozwiązań
+(np. 𝑥 ∈ (−1, 7)), to otrzymuje 1 punkt za całe rozwiązanie.
+Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki
+Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań nierówności
+w postaci [7, −1], to otrzymuje 2 punkty.
+Przykładowe pełne rozwiązanie
+Zapisujemy nierówność w postaci 𝑥2 − 6𝑥 − 7 ≤ 0 i obliczamy miejsca zerowe funkcji
+𝑦 = 𝑥2 − 6𝑥 − 7.
+Obliczamy wyróżnik trójmianu 𝑥2 − 6𝑥 − 7:
+Δ = (−6)2 − 4 ⋅ 1 ⋅ (−7) = 64
+Stąd
+𝑥1 = −(−6) − √64
+2 ⋅ 1 = −1
+𝑥2 = −(−6) + √64
+2 ⋅ 1 = 7
+Szkicujemy wykres funkcji 𝑦 = 𝑥2 − 6𝑥 − 7.
+Odczytujemy argumenty, dla których funkcja przyjmuje wartości niedodatnie.
+Zbiorem rozwiązań nierówności jest przedział [−1, 7].
+−1 7 𝑥
+Zasady oceniania rozwiązań zadań

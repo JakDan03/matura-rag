@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=27; level=podstawowy; year=2024; month=czerwiec; task_id=29]
+Zadanie 29. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wszystkich liczb naturalnych czterocyfrowych parzystych, w których zapisie dziesiętnym
+występują tylko cyfry 2, 4, 7 (np.: 7272, 2222, 7244), jest
+A. 16 B. 27 C. 54 D. 81

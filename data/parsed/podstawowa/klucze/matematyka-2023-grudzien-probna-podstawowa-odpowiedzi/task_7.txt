@@ -1,0 +1,18 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=8; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=7]
+Zadanie 7. (0–1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+II.1) stosuje wzory skróconego mnożenia
+na: (𝑎 + 𝑏)2, (𝑎 − 𝑏)2, 𝑎2 − 𝑏2;
+II.5) mnoży i dzieli wyrażenia wymierne.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C

@@ -81,7 +81,16 @@ storage/indexes/openai/text-embedding-3-small/
 
 Przy pierwszym uruchomieniu trzeba kliknąć przycisk tworzenia bazy. PDF-y są parsowane stronami przez `pypdf`; każda niepusta strona staje się dokumentem z metadanymi nazwy pliku, numeru strony, typu dokumentu i sekcji. Indeks zapisuje także metadane parsera i hash plików z `data/`. Po dodaniu lub zmianie PDF albo zmianie wersji parsera aplikacja wykryje nieaktualność i pozwoli utworzyć nową wersję. Indeksy nie powinny być przechowywane w repozytorium, dlatego katalog `storage/` jest ignorowany przez Git.
 
-Do ręcznej kontroli wyniku parsowania można użyć funkcji `export_parsed_documents` z `src.rag.pdf_parser`. Zapisuje ona plik tekstowy dla każdej niepustej strony oraz `manifest.json` z metadanymi, ale nie tworzy embeddingów.
+Sparsowane dokumenty są przechowywane w repozytorium w `data/parsed/`: jeden plik tekstowy na zadanie (`task_<numer>.txt`) lub stronę (`doc_<numer>.txt`) oraz `manifest.json` z metadanymi. Struktura katalogów odwzorowuje `data/`. Aplikacja czyta te pliki zamiast ponownie parsować PDF-y, więc ręczne poprawki w plikach tekstowych (np. wzorów, ułamków, indeksów) są używane przy budowie indeksu i w dokumentach źródłowych. PDF-y bez wpisu w manifeście są nadal parsowane przy ładowaniu dokumentów. Zmiany w `data/parsed/` nie zmieniają hasha indeksu, więc indeks wektorowy trzeba przebudować ręcznie, jeśli poprawki mają trafić do RAG; aplikacja po edycji wymaga restartu.
+
+Do wygenerowania `data/parsed/` służy skrypt:
+
+```bash
+python scripts/export_parsed.py            # wszystkie PDF-y, istniejące pliki zostają
+python scripts/export_parsed.py --force    # nadpisuje także pliki z ręcznymi poprawkami
+```
+
+Parser usuwa z arkuszy i kluczy stopki oraz nagłówki stron (`Strona X z Y`, kody `MMAP-…`, `Brudnopis`).
 
 ## Prompty i role
 

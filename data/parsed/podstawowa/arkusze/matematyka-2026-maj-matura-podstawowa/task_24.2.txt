@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=25; level=podstawowy; year=2026; month=maj; task_id=24.2]
+Zadanie 24.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) punkty 𝐴 = (0, −3), 𝐵 = (2, 1) oraz
+𝐶 = (0, 2) są wierzchołkami trójkąta prostokątnego.
+Zadanie 24.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Środek okręgu opisanego na trójkącie 𝐴𝐵𝐶 ma współrzędne
+A. (2
+3 , 0) B. (− 1
+2 , 0) C. (0, − 2
+3) D. (0, − 1
+2)

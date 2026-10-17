@@ -1,0 +1,20 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=15, 16; level=podstawowy; year=2025; month=maj; task_id=12.3]
+Zadanie 12.3. (0–1)
+Wymaganie ogólne Wymagania szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście,
+zarówno matematycznym, jak
+i popularnonaukowym, a także w formie
+wykresów, diagramów, tabel.
+Zdający:
+V.12) na podstawie wykresu funkcji
+𝑦 = 𝑓(𝑥) szkicuje wykresy funkcji […]
+𝑦 = 𝑓(𝑥) + 𝑏;
+V.4) odczytuje z wykresu funkcji: […]
+miejsca zerowe […].
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+Suma 𝑥1 + 𝑥2 jest równa 6.

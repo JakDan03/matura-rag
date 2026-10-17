@@ -1,0 +1,45 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=50; level=podstawowy; year=2024; section=1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno]
+50 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 30. (0–1)
+Dana jest funkcja kwadratowa 𝑦 = 𝑓(𝑥), której fragment wykresu przedstawiono
+w kartezjańskim układzie współrzędnych (𝑥, 𝑦) na rysunku poniżej.
+Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych, jeżeli wiadomo, że
+jeden ze wzorów podanych w odpowiedziach A–D to wzór funkcji 𝒇.
+Funkcja kwadratowa 𝑦 = 𝑓(𝑥) jest określona wzorem
+A. 𝑦 = −(𝑥 + 5)2 − 6
+B. 𝑦 = −(𝑥 + 5)2 + 6
+C. 𝑦 = −(𝑥 − 5)2 − 6
+D. 𝑦 = −(𝑥 − 5)2 + 6
+Wymaganie ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno
+matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów,
+tabel.
+Wymaganie szczegółowe
+V. Funkcje. Zdający:
+9) wyznacza wzór funkcji kwadratowej na podstawie informacji o tej funkcji lub o jej
+wykresie.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+B
+𝑦
+𝑥
+2
+4
+6
+8
+2
+4
+6
+8
+−2
+−4
+−6
+−8
+−2
+−4
+−6
+−8
+𝑦 = 𝑓(𝑥)

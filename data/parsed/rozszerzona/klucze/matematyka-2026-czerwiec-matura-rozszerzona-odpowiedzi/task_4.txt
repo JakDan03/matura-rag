@@ -1,0 +1,95 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=5, 6, 7; level=rozszerzony; year=2026; month=czerwiec; task_id=4]
+Zadanie 4. (0–3)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+II.1) stosuje wzory skróconego mnożenia
+na: (𝑎 + 𝑏)2, (𝑎 − 𝑏)2, 𝑎2 − 𝑏2.
+Zasady oceniania
+3 pkt – poprawne przekształcenia i przeprowadzenie pełnego rozumowania.
+2 pkt – przekształcenie nierówności do postaci, z której można bezpośrednio wnioskować
+o prawdziwości nierówności, np. 0 ≤ (𝑥 − 𝑦)2 + (𝑥 − 1)2 + (𝑦 − 1)2
+(dla sposobu I)
+ALBO
+– przekształcenie nierówności do postaci uporządkowanej nierówności kwadratowej ze
+względu na niewiadomą 𝑥 (lub niewiadomą 𝑦) oraz wyznaczenie i przeprowadzenie
+analizy znaku wyróżnika odpowiedniego trójmianu kwadratowego, np. poprzez
+zapisanie wyróżnika w postaci, z której można bezpośrednio wnioskować o jego
+znaku, lub poprzez naszkicowanie poprawnego wykresu trójmianu −3𝑦2 + 6𝑦 − 3
+(dla sposobu II),
+ALBO
+– przekształcenie nierówności do postaci 0 ≤ (𝑥 − 1)2 − (𝑥 − 1)(𝑦 − 1) + (𝑦 − 1)2
+(dla sposobu III).
+1 pkt – pomnożenie obu stron nierówności przez 2 i przekształcenie nierówności do postaci,
+w której występuje co najmniej jeden z następujących kwadratów: (𝑥 − 𝑦)2 lub
+(𝑥 − 1)2, lub (𝑦 − 1)2, np. (𝑥 − 𝑦)2 + 𝑥2 + 𝑦2 − 2𝑥 − 2𝑦 + 2 ≥ 0 (dla sposobu I)
+ALBO
+– przekształcenie nierówności do postaci uporządkowanej nierówności kwadratowej ze
+względu na niewiadomą 𝑥 (lub niewiadomą 𝑦) oraz wyznaczenie wyróżnika
+odpowiedniego trójmianu kwadratowego, np. 0 ≤ 𝑥2 − (𝑦 + 1)𝑥 + (𝑦2 − 𝑦 + 1)
+oraz Δ = −3𝑦2 + 6𝑦 − 3 (dla sposobu II),
+ALBO
+– przekształcenie nierówności do postaci 0 ≤ [(𝑥 − 1) − (𝑦 − 1)]2 + (𝑥 − 1)(𝑦 − 1)
+(dla sposobu III).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Przekształcamy nierówność równoważnie i otrzymujemy:
+𝑥𝑦 + 𝑥 + 𝑦 ≤ 𝑥2 + 𝑦2 + 1
+2𝑥𝑦 + 2𝑥 + 2𝑦 ≤ 2𝑥2 + 2𝑦2 + 2
+0 ≤ 𝑥2 − 2𝑥𝑦 + 𝑦2 + 𝑥2 − 2𝑥 + 1 + 𝑦2 − 2𝑦 + 1
+0 ≤ (𝑥 − 𝑦)2 + (𝑥 − 1)2 + (𝑦 − 1)2
+Wszystkie składniki sumy (𝑥 − 𝑦)2 + (𝑥 − 1)2 + (𝑦 − 1)2 są nieujemne jako kwadraty
+liczb rzeczywistych, więc nierówność 0 ≤ (𝑥 − 𝑦)2 + (𝑥 − 1)2 + (𝑦 − 1)2 jest prawdziwa
+dla każdej liczby rzeczywistej 𝑥 i dla każdej liczby rzeczywistej 𝑦. Zatem nierówność
+𝑥𝑦 + 𝑥 + 𝑦 ≤ 𝑥2 + 𝑦2 + 1 jest również prawdziwa dla każdej liczby rzeczywistej 𝑥 i dla
+każdej liczby rzeczywistej 𝑦.
+To należało wykazać.
+Sposób II
+Przekształcamy nierówność równoważnie i otrzymujemy:
+𝑥𝑦 + 𝑥 + 𝑦 ≤ 𝑥2 + 𝑦2 + 1
+0 ≤ 𝑥2 − (𝑦 + 1)𝑥 + (𝑦2 − 𝑦 + 1)
+Wyróżnik Δ trójmianu 𝑥2 − (𝑦 + 1)𝑥 + (𝑦2 − 𝑦 + 1) zmiennej 𝑥 jest równy
+Δ = (𝑦 + 1)2 − 4(𝑦2 − 𝑦 + 1) = −3𝑦2 + 6𝑦 − 3 = −3(𝑦 − 1)2
+Wyróżnik jest niedodatni jako iloczyn liczby ujemnej i liczby nieujemnej (𝑦 − 1)2. Ponadto
+współczynnik przy 𝑥2 jest dodatni, więc trójmian 𝑥2 − (𝑦 + 1)𝑥 + (𝑦2 − 𝑦 + 1) przyjmuje
+tylko wartości nieujemne. Zatem nierówność 0 ≤ 𝑥2 − (𝑦 + 1)𝑥 + (𝑦2 − 𝑦 + 1) jest
+prawdziwa dla każdej liczby rzeczywistej 𝑥 i dla każdej liczby rzeczywistej 𝑦, więc również
+nierówność 𝑥𝑦 + 𝑥 + 𝑦 ≤ 𝑥2 + 𝑦2 + 1 jest prawdziwa dla każdej liczby rzeczywistej 𝑥
+i dla każdej liczby rzeczywistej 𝑦.
+To należało wykazać.
+Sposób III
+Przekształcamy nierówność równoważnie i otrzymujemy:
+𝑥𝑦 + 𝑥 + 𝑦 ≤ 𝑥2 + 𝑦2 + 1
+0 ≤ 𝑥2 + 𝑦2 − 2𝑥𝑦 + 𝑥𝑦 − 𝑥 − 𝑦 + 1
+0 ≤ (𝑥 − 𝑦)2 + 𝑥(𝑦 − 1) − (𝑦 − 1)
+0 ≤ (𝑥 − 𝑦)2 + (𝑥 − 1)(𝑦 − 1)
+0 ≤ [(𝑥 − 1) − (𝑦 − 1)]2 + (𝑥 − 1)(𝑦 − 1)
+0 ≤ (𝑥 − 1)2 − 2(𝑥 − 1)(𝑦 − 1) + (𝑦 − 1)2 + (𝑥 − 1)(𝑦 − 1)
+0 ≤ (𝑥 − 1)2 − (𝑥 − 1)(𝑦 − 1) + (𝑦 − 1)2
+Tę nierówność możemy równoważnie zapisać w postaci
+0 ≤ 𝑎2 − 𝑎𝑏 + 𝑏2
+gdzie 𝑎 = 𝑥 − 1 oraz 𝑏 = 𝑦 − 1. Zauważmy teraz, że 𝑎2 − 𝑎𝑏 + 𝑏2 = (𝑎 − 1
+2 𝑏)
+2
++ 3
+4 𝑏2.
+Zasady oceniania rozwiązań zadań
+Ponieważ kwadrat każdej liczby rzeczywistej jest liczbą nieujemną, więc (𝑎 − 1
+2 𝑏)
+2
+≥ 0
+oraz 3
+4 𝑏2 ≥ 0. Zatem suma (𝑎 − 1
+2 𝑏)
+2
++ 3
+4 𝑏2 jest nieujemna jako suma liczb
+nieujemnych. To oznacza, że nierówność 0 ≤ 𝑎2 − 𝑎𝑏 + 𝑏2 jest prawdziwa dla każdej
+liczby rzeczywistej 𝑎 i każdej liczby rzeczywistej 𝑏. Tym samym nierówność
+𝑥𝑦 + 𝑥 + 𝑦 ≤ 𝑥2 + 𝑦2 + 1 jest również prawdziwa dla każdej liczby rzeczywistej 𝑥 i dla
+każdej liczby rzeczywistej 𝑦. To należało wykazać.

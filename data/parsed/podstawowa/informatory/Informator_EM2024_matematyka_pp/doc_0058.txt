@@ -1,0 +1,41 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=58; level=podstawowy; year=2024; section=2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów]
+58 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 33.
+Czas 𝑇 połowicznego rozpadu izotopu promieniotwórczego to czas, po którym liczba jąder
+danego izotopu (a zatem i masa tego izotopu) zmniejsza się o połowę – tzn. połowa jąder
+danego izotopu przemienia się w inne jądra. Liczba jąder 𝑁(𝑡) izotopu promieniotwórczego
+pozostających w próbce po czasie 𝑡, licząc od chwili 𝑡0 = 0, wyraża się zależnością
+wykładniczą:
+𝑁(𝑡) = 𝑁0 ⋅ (1
+2)
+𝑡
+𝑇
+gdzie 𝑁0 jest liczbą jąder izotopu promieniotwórczego w chwili początkowej 𝑡0 = 0.
+Zadanie 33.1. (0–1)
+Na poniższych rysunkach 1.–4. przedstawiono wykresy zależności, z których dokładnie jeden
+poprawnie ilustruje 𝑁(𝑡).
+Rysunek 1. Rysunek 2.
+Rysunek 3. Rysunek 4.
+Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.
+Wykres zależności wykładniczej 𝑁(𝑡) – opisanej we wstępie do zadania – przedstawiono na
+A. rysunku 1. B. rysunku 2. C. rysunku 3. D. rysunku 4.
+𝑁
+𝑡
+(0,0)
+𝑁0
+𝑇
+𝑁
+𝑡
+(0,0)
+𝑁0
+𝑇
+𝑁
+𝑡
+(0,0)
+𝑁0
+𝑇
+𝑁
+𝑡
+(0,0)
+𝑁0
+𝑇

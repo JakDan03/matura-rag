@@ -1,0 +1,34 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=112; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+112 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymagania szczegółowe
+X. Stereometria. Zdający:
+2) posługuje się pojęciem kąta między prostą a płaszczyzną oraz pojęciem kąta
+dwuściennego między półpłaszczyznami;
+3) rozpoznaje w graniastosłupach i ostrosłupach kąty między odcinkami (np.
+krawędziami, krawędziami i przekątnymi) oraz kąty między ścianami, oblicza miary
+tych kątów.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C
+Zadanie 57.2. (0–4)
+W prostopadłościanie 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 dane są:
+tg 𝛽 = 9
+7 |𝐵𝐺| = 2√130 |𝐵𝐻| = 2√194
+gdzie odcinek 𝐵𝐻 jest przekątną prostopadłościanu, odcinek 𝐵𝐺 jest przekątną ściany
+bocznej 𝐵𝐶𝐺𝐹, 𝛽 jest miarą kąta 𝐺𝐵𝐶. Sytuację ilustruje rysunek poniżej.
+Oblicz pole powierzchni całkowitej prostopadłościanu 𝑨𝑩𝑪𝑫𝑬𝑭𝑮𝑯.
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸
+𝐹
+𝐺
+𝐻
+𝛽

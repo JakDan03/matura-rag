@@ -1,0 +1,39 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=10; level=podstawowy; year=2025; month=czerwiec; task_id=10]
+Zadanie 10. (0–4)
+Funkcja 𝑓 jest określona następująco:
+𝑓(𝑥) = {
+−𝑥 − 2 dla 𝑥 ∈ (−5, −2]
+0 dla 𝑥 ∈ (−2, 1]
+𝑥 dla 𝑥 ∈ (1, 3]
+Wykres funkcji 𝑦 = 𝑓(𝑥) przedstawiono w kartezjańskim układzie współrzędnych (𝑥, 𝑦)
+na rysunku poniżej.
+Uzupełnij zdania. Wpisz odpowiednie przedziały w wykropkowanych miejscach, aby
+zdania były prawdziwe.
+1. Dziedziną funkcji 𝑓 jest przedział ……………… .
+2. Zbiorem wartości funkcji 𝑓 jest przedział ……………… .
+3. Zbiorem wszystkich miejsc zerowych funkcji 𝑓 jest przedział ……………… .
+4. Zbiorem wszystkich rozwiązań nierówności 𝑓(𝑥) < 𝑓(−3) jest przedział ……………… .
+1
+2
+3
+4
+−1
+−2
+5
+0
+𝑥
+−5
+−4
+−3
+1
+2
+3
+4
+𝑦
+5
+−1
+−2
+−3
+−4
+−5
+𝑦 = 𝑓(𝑥)

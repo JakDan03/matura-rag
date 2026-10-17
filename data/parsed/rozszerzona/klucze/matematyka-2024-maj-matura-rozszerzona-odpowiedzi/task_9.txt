@@ -1,0 +1,433 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=32, 33, 34, 35, 36, 37, 38, 39, 40; level=rozszerzony; year=2024; month=maj; task_id=9]
+Zadanie 9. (0–4)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VIII.7) stosuje twierdzenia: Talesa,
+o dwusiecznej kąta […].
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑃𝐴𝐺𝐹 = 1
+12 𝑎2 i 𝑃𝐶𝐸𝐹𝐺 = 1
+6 𝑎2.
+3 pkt – obliczenie pola trójkąta 𝐴𝐺𝐹: 𝑃𝐴𝐺𝐹 = 1
+12 𝑎2
+ALBO
+– obliczenie pola czworokąta 𝐶𝐸𝐹𝐺: 𝑃𝐶𝐸𝐹𝐺 = 1
+6 𝑎2.
+2 pkt – obliczenie długości jednego z odcinków 𝐹𝐺, 𝐷𝐹, 𝐴𝐹, 𝐹𝐸, 𝐵𝐹:
+|𝐹𝐺| = 𝑎√2
+6 , |𝐷𝐹| = 𝑎√2
+3 , |𝐴𝐹| = 𝑎√5
+3 , |𝐹𝐸| = 𝑎√5
+6 , |𝐵𝐹| = 2𝑎√2
+3
+ALBO
+– zapisanie, że trójkąty 𝐴𝐺𝐹 i 𝐹𝐷𝐸 mają równe pola oraz zapisanie związku między
+polami trójkątów 𝐴𝐹𝐷 i 𝐸𝐹𝐺: 𝑃𝐴𝐹𝐷 = 4 ⋅ 𝑃𝐸𝐹𝐺 ,
+ALBO
+– zapisanie, że trójkąty 𝐴𝐺𝐹 i 𝐹𝐷𝐸 mają równe pola oraz zapisanie związku między
+polami trójkątów 𝐴𝐷𝐹 i 𝐸𝐷𝐹: 𝑃𝐴𝐹𝐷 = 2 ⋅ 𝑃𝐸𝐷𝐹 ,
+ALBO
+– zapisanie, że trójkąty 𝐴𝐹𝐷 i 𝐵𝐸𝐹 mają równe pola oraz zapisanie związku między
+polami trójkątów 𝐴𝐵𝐹 i 𝐸𝐷𝐹: 𝑃𝐴𝐵𝐹 = 4 ⋅ 𝑃𝐸𝐷𝐹 ,
+ALBO
+– zapisanie układu równań pozwalającego obliczyć pole trójkąta 𝐴𝐺𝐹, np.:
+𝑥 + 𝑦 = 1
+8 𝑎2 oraz 𝑥 + 4𝑦 = 1
+4 𝑎2, gdzie 𝑥 = 𝑃𝐴𝐺𝐹 = 𝑃𝐹𝐷𝐸 , 𝑦 = 𝑃𝐸𝐹𝐺 ,
+ALBO
+– obliczenie współrzędnych punktów 𝐸 i 𝐹: 𝐸 = (1
+2 𝑎 , 𝑎) oraz 𝐹 = (1
+3 𝑎 , 2
+3 𝑎),
+ALBO
+– narysowanie kwadratu 𝐴𝐵𝐶𝐷 na siatce kwadratowej 12 x 12 oraz wyznaczenie pól
+trójkątów 𝐴𝐵𝐹 i 𝐴𝐵𝐺: 𝑃𝐴𝐵𝐹 = 1
+2 ⋅ 12𝑚 ⋅ 8𝑚 oraz 𝑃𝐴𝐵𝐺 = 1
+2 ⋅ 12𝑚 ⋅ 6𝑚, gdzie
+𝑚 = 1
+12 𝑎.
+1 pkt – zapisanie wraz z uzasadnieniem, że |𝐷𝐹| ∶ |𝐹𝐺| = 2 ∶ 1
+ALBO
+– zapisanie wraz z uzasadnieniem, że |𝐴𝐹| ∶ |𝐹𝐸| = 2 ∶ 1,
+ALBO
+– zapisanie wraz z uzasadnieniem, że |𝐵𝐹| ∶ |𝐹𝐷| = 2 ∶ 1,
+ALBO
+Zasady oceniania rozwiązań zadań
+– zapisanie, że trójkąt 𝐴𝐵𝐹 jest podobny do trójkąta 𝐸𝐷𝐹 w skali 2 ∶ 1,
+ALBO
+– zapisanie, że trójkąt 𝐴𝐹𝐷 jest podobny do trójkąta 𝐸𝐹𝐺 w skali 2 ∶ 1,
+ALBO
+– zapisanie, że trójkąt 𝐴𝐹𝐺 jest podobny do trójkąta 𝐴𝐸𝑄 w skali 2 ∶ 3, gdzie 𝑄 to
+rzut prostokątny punktu 𝐸 na przekątną 𝐴𝐶,
+ALBO
+– obliczenie długości odcinka 𝐴𝐺 i dowolnej funkcji trygonometrycznej kąta 𝐸𝐴𝐶, np.
+|𝐴𝐺| = 𝑎√2
+2 oraz cos ∡𝐸𝐴𝐶 = 3√10
+10 ,
+ALBO
+– zapisanie, że trójkąty 𝐴𝐺𝐹 i 𝐹𝐷𝐸 (lub 𝐴𝐹𝐷 i 𝐵𝐸𝐹) mają równe pola,
+ALBO
+– umieszczenie kwadratu 𝐴𝐵𝐶𝐷 w układzie współrzędnych oraz wyznaczenie równań
+prostych 𝐴𝐸 i 𝐵𝐷, np. 𝑦 = 2𝑥 oraz 𝑦 = −𝑥 + 𝑎,
+ALBO
+– narysowanie kwadratu 𝐴𝐵𝐶𝐷 na siatce kwadratowej 12 x 12.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający popełnia błąd, przyjmując, że punkt 𝐹 dzieli odcinek 𝐴𝐸 lub 𝐷𝐺, lub 𝐵𝐷
+w stosunku innym niż 2 ∶ 1, i na tym opiera rozwiązanie, to otrzymuje 0 punktów za całe
+rozwiązanie.
+2. Jeżeli zdający przyjmuje, że punkt 𝐹 dzieli odcinek 𝐴𝐸 lub 𝐷𝐺, lub 𝐵𝐷 w poprawnym
+stosunku 2 ∶ 1 bez uzasadnienia, to może otrzymać co najwyżej 3 punkty za całe
+rozwiązanie (brak uzasadnienia traktujemy na równi z błędem rachunkowym).
+3. Jeżeli zdający popełnia błąd, przyjmując, że miara kąta 𝐷𝐴𝐸 jest równa 30° (lub miara
+kąta 𝐷𝐸𝐴 jest równa 60°) i na tym opiera swoje rozwiązanie, to otrzymuje 0 punktów,
+o ile nie nabył praw do innej punktacji.
+Przykładowe pełne rozwiązania
+Sposób I (poprzez środek ciężkości trójkąta)
+Punkt 𝐹 jest środkiem ciężkości trójkąta 𝐴𝐶𝐷, więc |𝐷𝐹| ∶ |𝐹𝐺| = 2 ∶ 1, czyli
+|𝐹𝐺| = 1
+3 |𝐷𝐺|
+Trójkąty 𝐴𝐺𝐹 i 𝐴𝐺𝐷 mają wspólną wysokość 𝐴𝐺 oraz pole trójkąta 𝐴𝐺𝐷 jest
+równe 1
+4 𝑎2, więc
+𝑃𝐴𝐺𝐹 = 1
+3 ⋅ 𝑃𝐴𝐺𝐷 = 1
+3 ⋅ 1
+4 𝑎2 = 1
+12 𝑎2
+Zatem
+𝑃𝐶𝐸𝐹𝐺 = 𝑃𝐴𝐶𝐸 − 𝑃𝐴𝐺𝐹 = 1
+4 ⋅ 𝑃𝐴𝐵𝐶𝐷 − 1
+12 ⋅ 𝑃𝐴𝐵𝐶𝐷 = 1
+6 𝑎2
+Sposób II (poprzez długości boków 𝐴𝐺 i 𝐹𝐺)
+Stosujemy twierdzenie Pitagorasa do trójkąta 𝐴𝐷𝐸 i wyznaczamy długość odcinka 𝐴𝐸:
+|𝐴𝐸|2 = |𝐴𝐷|2 + |𝐷𝐸|2
+|𝐴𝐸|2 = 𝑎2 + (1
+2 𝑎)
+2
+|𝐴𝐸| = √5𝑎
+2
+Stosujemy twierdzenie o dwusiecznej do trójkąta 𝐴𝐷𝐸 i wyznaczamy |𝐴𝐹|:
+|𝐴𝐹|
+|𝐹𝐸| =
+|𝐴𝐷|
+|𝐷𝐸|
+|𝐴𝐹|
+|𝐹𝐸| = 𝑎
+1
+2 𝑎
+|𝐴𝐹|
+|𝐴𝐸| − |𝐴𝐹| = 2
+|𝐴𝐹|
+√5𝑎
+2 − |𝐴𝐹|
+= 2
+|𝐴𝐹| = √5𝑎 − 2 ⋅ |𝐴𝐹|
+|𝐴𝐹| = √5𝑎
+3
+Wyznaczamy długość odcinka 𝐹𝐺:
+|𝐹𝐺|2 = |𝐴𝐹|2 − |𝐴𝐺|2
+|𝐹𝐺|2 = (√5𝑎
+3 )
+2
+− (√2𝑎
+2 )
+2
+|𝐹𝐺| = √2𝑎
+6
+Obliczamy pole 𝑃𝐴𝐺𝐹 trójkąta 𝐴𝐺𝐹:
+𝑃𝐴𝐺𝐹 = 1
+2 ⋅ |𝐴𝐺| ⋅ |𝐹𝐺| = 1
+2 ⋅ √2𝑎
+2 ⋅ √2𝑎
+6 = 𝑎2
+12
+Obliczamy pole 𝑃𝐴𝐶𝐸 trójkąta 𝐴𝐶𝐸:
+𝑃𝐴𝐶𝐸 = 1
+2 ⋅ |𝐸𝐶| ⋅ |𝐴𝐷| = 1
+2 ⋅ 1
+2 𝑎 ⋅ 𝑎 = 𝑎2
+4
+Obliczamy pole 𝑃𝐶𝐸𝐹𝐺 czworokąta 𝐶𝐸𝐹𝐺:
+Zasady oceniania rozwiązań zadań
+𝑃𝐶𝐸𝐹𝐺 = 𝑃𝐴𝐶𝐸 − 𝑃𝐴𝐺𝐹 = 𝑎2
+4 − 𝑎2
+12 = 𝑎2
+6
+Sposób III (poprzez pole trójkąta 𝐴𝐷𝐹)
+Stosujemy twierdzenie o dwusiecznej do trójkąta 𝐴𝐷𝐸 i otrzymujemy
+|𝐴𝐷|
+|𝐷𝐸| = |𝐴𝐹|
+|𝐹𝐸|
+2 =
+|𝐴𝐹|
+|𝐹𝐸|
+Wysokość trójkąta 𝐹𝐷𝐸 poprowadzona z wierzchołka 𝐷 na bok 𝐹𝐸 jest jednocześnie
+wysokością trójkąta 𝐴𝐷𝐹, więc stosunek pól tych trójkątów jest równy
+𝑃𝐴𝐷𝐹
+𝑃𝐹𝐷𝐸
+=
+|𝐴𝐹|
+|𝐹𝐸| = 2
+Stąd i z tego, że pole trójkąta 𝐴𝐷𝐸 jest równe 1
+4 𝑎2 , otrzymujemy
+𝑃𝐴𝐷𝐹 = 2
+3 ⋅ 𝑃𝐴𝐷𝐸 = 2
+3 ⋅ 1
+4 𝑎2 = 1
+6 𝑎2
+oraz
+𝑃𝐹𝐷𝐸 = 1
+3 ⋅ 𝑃𝐴𝐷𝐸 = 1
+3 ⋅ 1
+4 𝑎2 = 1
+12 𝑎2
+Zatem
+𝑃𝐴𝐺𝐹 = 𝑃𝐴𝐷𝐺 − 𝑃𝐴𝐷𝐹 = 1
+4 𝑎2 − 1
+6 𝑎2 = 1
+12 𝑎2
+oraz
+𝑃𝐶𝐸𝐹𝐺 = 𝑃𝐺𝐷𝐶 − 𝑃𝐹𝐷𝐸 = 1
+4 𝑎2 − 1
+12 𝑎2 = 1
+6 𝑎2
+Sposób IV (poprzez pole trójkąta 𝐷𝐸𝐹)
+Trójkąty 𝐴𝐷𝐸 i 𝐴𝐷𝐺 mają wspólną podstawę 𝐴𝐷, a wysokości tych trójkątów opuszczone
+na bok 𝐴𝐷 są równe. Zatem 𝑃𝐴𝐷𝐸 = 𝑃𝐴𝐷𝐺. Stąd pola trójkątów 𝐴𝐺𝐹 i 𝐹𝐷𝐸 są równe:
+𝑃𝐴𝐺𝐹 = 𝑃𝐹𝐷𝐸 .
+Ponieważ pola trójkątów 𝐴𝐷𝐺 i 𝐺𝐷𝐶 są równe i 𝑃𝐴𝐺𝐹 = 𝑃𝐹𝐷𝐸 , więc 𝑃𝐴𝐷𝐹 = 𝑃𝐶𝐸𝐹𝐺.
+Stosujemy twierdzenie o dwusiecznej do trójkąta 𝐴𝐷𝐸 i otrzymujemy
+|𝐴𝐷|
+|𝐷𝐸| =
+|𝐴𝐹|
+|𝐹𝐸|
+2 = |𝐴𝐹|
+|𝐹𝐸|
+Wysokość trójkąta 𝐹𝐷𝐸 poprowadzona z wierzchołka 𝐷 na bok 𝐹𝐸 jest jednocześnie
+wysokością trójkąta 𝐴𝐷𝐹, więc stosunek pól tych trójkątów jest równy
+𝑃𝐴𝐷𝐹
+𝑃𝐹𝐷𝐸
+=
+|𝐴𝐹|
+|𝐹𝐸| = 2
+Stąd i z tego, że pole trójkąta 𝐴𝐷𝐸 jest równe 1
+4 𝑎2 , otrzymujemy
+𝑃𝐴𝐷𝐹 = 2
+3 ⋅ 𝑃𝐴𝐷𝐸 = 2
+3 ⋅ 1
+4 𝑎2 = 1
+6 𝑎2
+oraz
+𝑃𝐹𝐷𝐸 = 1
+3 ⋅ 𝑃𝐴𝐷𝐸 = 1
+3 ⋅ 1
+4 𝑎2 = 1
+12 𝑎2
+Zatem
+𝑃𝐴𝐺𝐹 = 𝑃𝐹𝐷𝐸 = 1
+12 𝑎2
+oraz
+𝑃𝐶𝐸𝐹𝐺 = 𝑃𝐴𝐷𝐹 = 1
+6 𝑎2
+Sposób V (poprzez odcinek 𝑀𝑁)
+Oznaczmy przez 𝑀 i 𝑁 punkty przecięcia prostej równoległej do 𝐴𝐷 i przechodzącej
+przez punkt 𝐹 z bokami – odpowiednio – 𝐴𝐵 i 𝐶𝐷 kwadratu (zobacz rysunek).
+Trójkąty 𝐴𝐵𝐹 i 𝐸𝐷𝐹 są podobne (cecha kkk), a skala tego podobieństwa jest
+równa
+|𝐴𝐵|
+|𝐷𝐸| = 2. Zatem
+|𝐹𝑀| = 2
+3 𝑎 oraz |𝐹𝑁| = 1
+3 𝑎
+Stąd
+𝑃𝐴𝐵𝐹 = 1
+2 ⋅ |𝐴𝐵| ⋅ |𝐹𝑀| = 1
+2 ⋅ 𝑎 ⋅ 2
+3 𝑎 = 1
+3 𝑎2
+Ponieważ 𝑃𝐴𝐵𝐺 = 1
+4 𝑃𝐴𝐵𝐶𝐷 = 1
+4 𝑎2 oraz 𝑃𝐴𝐺𝐹 = 𝑃𝐴𝐵𝐹 − 𝑃𝐴𝐵𝐺, więc
+𝑃𝐴𝐺𝐹 = 𝑃𝐴𝐵𝐹 − 𝑃𝐴𝐵𝐺 = 1
+3 𝑎2 − 1
+4 𝑎2 = 1
+12 𝑎2
+Obliczamy pole trójkąta 𝐸𝐷𝐹:
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸
+𝐹
+𝐺
+𝑎
+𝑀
+𝑁
+Zasady oceniania rozwiązań zadań
+𝑃𝐸𝐷𝐹 = 1
+2 ⋅ |𝐷𝐸| ⋅ |𝐹𝑁| = 1
+2 ⋅ 1
+2 𝑎 ⋅ 1
+3 𝑎 = 1
+12 𝑎2
+Ponieważ 𝑃𝐶𝐷𝐺 = 1
+4 𝑃𝐴𝐵𝐶𝐷 = 1
+4 𝑎2 oraz 𝑃𝐶𝐸𝐹𝐺 = 𝑃𝐶𝐷𝐺 − 𝑃𝐸𝐷𝐹 , więc
+𝑃𝐶𝐸𝐹𝐺 = 𝑃𝐶𝐷𝐺 − 𝑃𝐸𝐷𝐹 = 1
+4 𝑎2 − 1
+12 𝑎2 = 1
+6 𝑎2
+Sposób VI (poprzez trójkąty 𝐴𝐸𝑄 i 𝐴𝐺𝐹)
+Oznaczmy przez 𝑃 środek boku 𝐵𝐶, a przez 𝑄 – punkt przecięcia przekątnej 𝐴𝐶
+i odcinka 𝑃𝐸 (zobacz rysunek).
+Trójkąty 𝐴𝐹𝐺 i 𝐴𝐸𝑄 są podobne (cecha kkk), a skala tego podobieństwa jest równa
+|𝐴𝐺|
+|𝐴𝑄| =
+1
+2 |𝐴𝐶|
+3
+4 |𝐴𝐶|
+= 2
+3
+Zatem
+𝑃𝐴𝐺𝐹 = (2
+3)
+2
+⋅ 𝑃𝐴𝑄𝐸 = 4
+9 ⋅ 1
+2 ⋅ 3
+4 𝑎√2 ⋅ 1
+4 𝑎√2 = 1
+12 𝑎2
+Wobec tego
+𝑃𝐶𝐸𝐹𝐺 = 𝑃𝐴𝐶𝐸 − 𝑃𝐴𝐺𝐹 = 1
+4 𝑎2 − 1
+12 𝑎2 = 1
+6 𝑎2
+Sposób VII (poprzez pola trójkątów w trapezie 𝐴𝐷𝐸𝐺)
+Trójkąty 𝐴𝐷𝐸 i 𝐴𝐷𝐺 mają wspólną podstawę 𝐴𝐷, a wysokości tych trójkątów opuszczone
+na bok 𝐴𝐷 są równe. Zatem 𝑃𝐴𝐷𝐸 = 𝑃𝐴𝐷𝐺 . Stąd
+𝑃𝐴𝐺𝐹 = 𝑃𝐴𝐺𝐷 − 𝑃𝐴𝐹𝐷 = 𝑃𝐴𝐷𝐸 − 𝑃𝐴𝐹𝐷 = 𝑃𝐹𝐷𝐸
+Oznaczmy 𝑥 = 𝑃𝐴𝐺𝐹 = 𝑃𝐹𝐷𝐸 oraz 𝑦 = 𝑃𝐸𝐹𝐺 .
+Trójkąty 𝐴𝐹𝐷 i 𝐸𝐹𝐺 są podobne (cecha kkk), a skala tego podobieństwa jest
+równa
+|𝐴𝐷|
+|𝐸𝐺| = 2. Zatem
+𝑃𝐴𝐹𝐷 = 22 ⋅ 𝑃𝐸𝐹𝐺 = 4𝑦
+(zobacz rysunek).
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸
+𝐹
+𝐺
+𝑎
+𝑄
+𝑃
+Pola trójkątów 𝐷𝐸𝐺 i 𝐴𝐺𝐷 stanowią – odpowiednio – ósmą i czwartą część pola
+kwadratu 𝐴𝐵𝐶𝐷. Otrzymujemy zatem układ równań
+𝑥 + 𝑦 = 1
+8 𝑎2 oraz 𝑥 + 4𝑦 = 1
+4 𝑎2
+Stąd
+3𝑦 = 1
+8 𝑎2
+𝑦 = 1
+24 𝑎2
+Zatem
+𝑥 = 1
+8 𝑎2 − 𝑦 = 1
+8 𝑎2 − 1
+24 𝑎2 = 1
+12 𝑎2
+Wobec tego
+𝑃𝐶𝐸𝐹𝐺 = 𝑃𝐺𝐶𝐸 + 𝑃𝐸𝐹𝐺 = 𝑥 + 2𝑦 = 1
+12 𝑎2 + 2 ⋅ 1
+24 𝑎2 = 1
+6 𝑎2
+Sposób VIII (w układzie współrzędnych)
+Umieszczamy kwadrat 𝐴𝐵𝐶𝐷 w układzie współrzędnych tak, że 𝐴 = (0, 0), 𝐵 = (𝑎, 0),
+𝐶 = (𝑎, 𝑎) oraz 𝐷 = (0, 𝑎), gdzie 𝑎 > 0 (zobacz rysunek).
+Wtedy 𝐺 = (0 + 𝑎
+2 , 0 + 𝑎
+2 ) = (1
+2 𝑎 , 1
+2 𝑎) oraz 𝐸 = (1
+2 𝑎 , 𝑎).
+Prosta 𝐴𝐸 ma równanie postaci 𝑦 = 𝑎
+1
+2𝑎 𝑥, czyli 𝑦 = 2𝑥.
+Prosta 𝐵𝐷 ma równanie postaci 𝑦 = 𝑎
+−𝑎 𝑥 + 𝑎, czyli 𝑦 = −𝑥 + 𝑎.
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸
+𝐹
+𝐺
+𝑎
+𝑦
+4𝑦
+𝑥
+𝑥
+Zasady oceniania rozwiązań zadań
+Wyznaczamy współrzędne punktu 𝐹 przecięcia prostych 𝐴𝐸 i 𝐵𝐷, rozwiązując układ
+równań 𝑦 = 2𝑥 i 𝑦 = −𝑥 + 𝑎. Stąd
+2𝑥 = −𝑥 + 𝑎
+𝑥 = 1
+3 𝑎
+więc 𝑦 = 2
+3 𝑎 oraz 𝐹 = (1
+3 𝑎 , 2
+3 𝑎).
+Obliczamy pola trójkątów 𝐴𝐺𝐹 i 𝐴𝐶𝐸:
+𝑃𝐴𝐺𝐹 = 1
+2 ⋅ |1
+2 𝑎 ⋅ 2
+3 𝑎 − 1
+2 𝑎 ⋅ 1
+3 𝑎 | = 1
+12 𝑎2
+oraz
+𝑃𝐴𝐶𝐸 = 1
+2 ⋅ |𝑎 ⋅ 𝑎 − 𝑎 ⋅ 1
+2 𝑎 | = 1
+4 𝑎2
+Zatem
+𝑃𝐶𝐸𝐹𝐺 = 𝑃𝐴𝐶𝐸 − 𝑃𝐴𝐺𝐹 = 1
+4 𝑎2 − 1
+12 𝑎2 = 1
+6 𝑎2
+Sposób IX (poprzez punkty kratowe)
+Kwadrat 𝐴𝐵𝐶𝐷 umieszczamy na sieci złożonej z przystających kwadratów o boku
+𝑚 = 1
+12 𝑎 (jak na rysunku).
+Wtedy
+𝑃𝐴𝐵𝐹 = 1
+2 ⋅ 12𝑚 ⋅ 8𝑚 = 48𝑚2
+oraz
+𝑃𝐴𝐵𝐺 = 1
+2 ⋅ 12𝑚 ⋅ 6𝑚 = 36𝑚2
+Zatem
+𝑃𝐴𝐺𝐹 = 𝑃𝐴𝐵𝐹 − 𝑃𝐴𝐵𝐺 = 12𝑚2 = 12 ⋅ ( 1
+12 𝑎)
+2
+= 1
+12 𝑎2
+oraz
+𝑃𝐶𝐸𝐹𝐺 = 𝑃𝐶𝐷𝐺 − 𝑃𝐷𝐹𝐸 = 1
+2 ⋅ 12𝑚 ⋅ 6𝑚 − 1
+2 ⋅ 6𝑚 ⋅ 4𝑚 = 24𝑚2 = 24 ⋅ ( 1
+12 𝑎)
+2
+= 1
+6 𝑎2

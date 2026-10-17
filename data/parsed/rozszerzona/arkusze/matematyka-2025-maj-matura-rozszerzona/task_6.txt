@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=12; level=rozszerzony; year=2025; month=maj; task_id=6]
+Zadanie 6. (0–4)
+Ciąg (𝑎𝑛), określony dla każdej liczby naturalnej 𝑛 ≥ 1, jest geometryczny i zbieżny.
+W tym ciągu 𝑎1 + 𝑎3 = 20 i 𝑎1
+2 + 𝑎3
+2 = 328.
+Oblicz sumę wszystkich wyrazów tego ciągu. Rozważ wszystkie przypadki.
+Zapisz obliczenia.
+6.
+0–1–
+2–3–4

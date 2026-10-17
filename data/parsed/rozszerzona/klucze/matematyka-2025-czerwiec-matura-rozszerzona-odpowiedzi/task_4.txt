@@ -1,0 +1,153 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=9, 10, 11, 12; level=rozszerzony; year=2025; month=czerwiec; task_id=4]
+Zadanie 4. (0–3)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+VIII.11) przeprowadza dowody
+geometryczne.
+Zasady oceniania (dla sposobów I – III)
+3 pkt – poprawne przekształcenia i przeprowadzenie pełnego rozumowania.
+2 pkt – wyznaczenie długości odcinka 𝐶𝐿 (lub 𝐿𝐵) w zależności od długości odcinka 𝐷𝑀,
+np. |𝐶𝐿| = 𝑎 − 1
+2 ⋅ |𝐷𝑀|, |𝐿𝐵| = 1
+2 ⋅ |𝐷𝑀| oraz uzasadnienie, że trójkąty 𝑀𝐷𝑁
+i 𝐾𝐵𝐿 są podobne (dla sposobu I)
+ALBO
+– uzasadnienie, że trójkąty 𝑀𝐷𝑁 i 𝐾𝐵𝐿 są podobne oraz zapisanie długości
+odcinków 𝐷𝐸 oraz 𝐹𝐿 za pomocą jednej zmiennej (lub zapisanie związku między
+nimi), np. |𝐷𝐸| = 2𝑥 i |𝐹𝐿| = 1
+2 𝑥 (dla sposobu II).
+ALBO
+– wyznaczenie współrzędnych wierzchołków trapezu 𝐾𝐿𝑀𝑁 w zależności od 𝑎 oraz
+parametru 𝑐: 𝐾 = (5𝑎−𝑐
+2 , 0) oraz 𝐿 = (2𝑎, 𝑐 − 𝑎) oraz 𝑀 = (2𝑐 − 2𝑎, 𝑎)
+oraz 𝑁 = (0, 5𝑎 − 4𝑐) (dla sposobu III).
+1 pkt – uzasadnienie, że trójkąty 𝑀𝐷𝑁 i 𝐾𝐵𝐿 są podobne (dla sposobów I oraz II)
+ALBO
+– wyznaczenie długości odcinka 𝐶𝐿 (lub 𝐿𝐵) w zależności od długości odcinka 𝐷𝑀,
+np. |𝐶𝐿| = 𝑎 − 1
+2 ⋅ |𝐷𝑀|, |𝐿𝐵| = 1
+2 ⋅ |𝐷𝑀| (dla sposobu I),
+ALBO
+– zapisanie długości odcinków 𝐷𝐸 oraz 𝐹𝐿 za pomocą jednej zmiennej (lub
+zapisanie związku między nimi), np. |𝐷𝐸| = 2𝑥 i |𝐹𝐿| = 𝑥 (dla sposobu II),
+ALBO
+– umieszczenie prostokąta 𝐴𝐵𝐶𝐷 w układzie współrzędnych i zapisanie
+współrzędnych jego wierzchołków, np. 𝐴 = (0, 0) i 𝐵 = (2𝑎, 0) i 𝐶 = (2𝑎, 𝑎)
+i 𝐷 = (0, 𝑎) oraz zapisanie równania prostej 𝑀𝐿: 𝑦 = − 1
+2 𝑥 + 𝑐 (dla sposobu III).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Oznaczmy przez 𝑎 długość boku 𝐴𝐷. Wtedy |𝐴𝐵| = 2𝑎.
+Kąty 𝐷𝑀𝑁 i 𝐵𝐾𝐿 są naprzemianległe oraz 𝑀𝑁 ∥ 𝐾𝐿, więc te kąty mają równe miary.
+Zatem trójkąty prostokątne 𝑀𝐷𝑁 i 𝐾𝐵𝐿 są podobne (na podstawie cechy kkk
+podobieństwa trójkątów).
+Ponieważ 𝑀𝐿 ∥ 𝐷𝐵, więc korzystając z twierdzenia Talesa, otrzymujemy
+|𝐷𝑀|
+|𝐿𝐵| =
+|𝑀𝐶|
+|𝐿𝐶|
+|𝐷𝑀|
+|𝐿𝐵| = 2𝑎 − |𝐷𝑀|
+𝑎 − |𝐿𝐵|
+|𝐷𝑀| ⋅ 𝑎 − |𝐷𝑀| ⋅ |𝐿𝐵| = 2 ⋅ |𝐿𝐵| ⋅ 𝑎 − |𝐿𝐵| ⋅ |𝐷𝑀|
+|𝐿𝐵| = 1
+2 ⋅ |𝐷𝑀|
+Z warunków zadania wynika, że 𝑀𝑁 ⊥ 𝐷𝐵, więc z rachunku kątów dostajemy
+|∡𝐷𝑁𝑀| = |∡𝐶𝐷𝐵|, więc trójkąty prostokątne 𝑀𝐷𝑁 oraz 𝐵𝐶𝐷 są podobne (na podstawie
+cechy kkk podobieństwa trójkątów). Zatem |𝐷𝑀|
+|𝐷𝑁| = |𝐵𝐶|
+|𝐶𝐷|, czyli |𝐷𝑀|
+|𝐷𝑁| = 1
+2 .
+Stąd i ze związku |𝐿𝐵| = 1
+2 ⋅ |𝐷𝑀| otrzymujemy |𝐿𝐵| = 1
+4 ⋅ |𝐷𝑁|, co oznacza, że trójkąt
+𝑀𝐷𝑁 jest podobny do trójkąta 𝐾𝐵𝐿 w skali 4. Ponieważ stosunek pól figur podobnych jest
+równy kwadratowi skali podobieństwa, więc stosunek pola trójkąta 𝑀𝐷𝑁 do pola trójkąta
+𝐾𝐵𝐿 jest równy 16. To należało wykazać.
+Sposób II
+Przyjmijmy następujące oznaczenia:
+𝐸 – punkt przecięcia przekątnej 𝐷𝐵 z bokiem 𝑀𝑁 trapezu 𝐾𝐿𝑀𝑁,
+𝐹 – punkt przecięcia przekątnej 𝐷𝐵 z bokiem 𝐾𝐿 trapezu 𝐾𝐿𝑀𝑁,
+2𝑥 – długość odcinka 𝐷𝐸 (zobacz rysunek).
+Ponieważ 𝑀𝐿 ∥ 𝐷𝐵, więc trójkąty 𝐷𝐸𝑀 oraz 𝐹𝐵𝐿 są prostokątne. Trójkąty prostokątne
+𝑀𝐷𝐸 i 𝐵𝐷𝐶 mają wspólny kąt ostry, więc są podobne (cecha kkk podobieństwa trójkątów).
+Zatem |𝑀𝐸|
+|𝐷𝐸| = |𝐵𝐶|
+|𝐶𝐷| = 1
+2, więc |𝑀𝐸| = 1
+2 ⋅ |𝐷𝐸| = 𝑥.
+Czworokąt 𝑀𝐸𝐹𝐿 jest prostokątem, więc |𝐹𝐿| = |𝑀𝐸| = 𝑥.
+𝐴
+𝐵
+𝐶
+𝐷
+𝐾
+𝐿
+𝑀
+𝑁
+𝐸
+𝐹
+2𝑥
+Zasady oceniania rozwiązań zadań
+Z rachunku kątów mamy |∡𝐹𝐿𝐵| = |∡𝑀𝐷𝐸|, więc trójkąty prostokątne 𝑀𝐷𝐸 i 𝐾𝐿𝐵 są
+podobne (na podstawie cechy kkk podobieństwa trójkątów). Zatem |𝐹𝐵|
+|𝐹𝐿| = |𝑀𝐸|
+|𝐷𝐸| = 1
+2 , czyli
+|𝐹𝐵| = 1
+2 ⋅ |𝐹𝐿| = 1
+2 𝑥.
+Kąty 𝐷𝑀𝑁 i 𝐵𝐾𝐿 są naprzemianległe oraz 𝑀𝑁 ∥ 𝐾𝐿, więc te kąty mają równe miary.
+Zatem trójkąty prostokątne 𝑀𝐷𝑁 i 𝐾𝐵𝐿 są podobne (na podstawie cechy kkk
+podobieństwa trójkątów). Ponieważ stosunek odpowiednich wysokości tych trójkątów jest
+równy |𝐷𝐸|
+|𝐹𝐵| = 2𝑥
+1
+2𝑥 = 4, więc trójkąt 𝑀𝐷𝑁 jest podobny do trójkąta 𝐾𝐵𝐿 w skali 4.
+Ponieważ stosunek pól figur podobnych jest równy kwadratowi skali podobieństwa, więc
+stosunek pola trójkąta 𝑀𝐷𝑁 do pola trójkąta 𝐾𝐵𝐿 jest równy 16. To należało wykazać.
+Sposób III
+Oznaczmy przez 𝑎 długość boku 𝐴𝐷. Wtedy |𝐴𝐵| = 2𝑎.
+Umieszczamy prostokąt 𝐴𝐵𝐶𝐷 w kartezjańskim układzie współrzędnych (𝑥, 𝑦) tak, że
+𝐴 = (0, 0), 𝐵 = (2𝑎, 0), 𝐶 = (2𝑎, 𝑎), 𝐷 = (0, 𝑎).
+Ponieważ stosunek |𝐴𝐷|
+|𝐴𝐵| = 1
+2 oraz 𝑀𝐿 ∥ 𝐵𝐷, więc prosta 𝑀𝐿 ma równanie
+𝑦 = − 1
+2 𝑥 + 𝑐, przy pewnym 𝑐 ∈ (𝑎, 2𝑎).
+Wtedy 𝑀 = (2𝑐 − 2𝑎, 𝑎) oraz 𝐿 = (2𝑎, 𝑐 − 𝑎).
+Wyznaczamy równania prostych 𝑀𝑁 oraz 𝐾𝐿, które są prostopadłe do 𝑀𝐿:
+𝑀𝑁: 𝑦 = 2(𝑥 − 2𝑐 + 2𝑎) + 𝑎
+𝐾𝐿: 𝑦 = 2(𝑥 − 2𝑎) + 𝑐 − 𝑎
+Stąd 𝑁 = (0, 5𝑎 − 4𝑐) oraz 𝐾 = (5𝑎−𝑐
+2 , 0).
+Wyznaczamy długości boków trójkątów 𝑀𝐷𝑁 i 𝐾𝐵𝐿:
+|𝑁𝐷| = |𝑎 − (5𝑎 − 4𝑐)| = 4 ⋅ |𝑐 − 𝑎|
+|𝐷𝑀| = |2𝑐 − 2𝑎 − 0| = 2 ⋅ |𝑐 − 𝑎|
+|𝐾𝐵| = |2𝑎 − 5𝑎 − 𝑐
+2 | = 1
+2 ⋅ |𝑐 − 𝑎|
+|𝐵𝐿| = |𝑐 − 𝑎 − 0| = |𝑐 − 𝑎|
+Wyznaczamy stosunek pól trójkątów 𝑀𝐷𝑁 i 𝐾𝐵𝐿:
+𝑃Δ𝑀𝐷𝑁
+𝑃Δ𝐾𝐵𝐿
+=
+1
+2 ⋅ |𝑁𝐷| ⋅ |𝐷𝑀|
+1
+2 ⋅ |𝐾𝐵| ⋅ |𝐵𝐿|
+=
+1
+2 ⋅ 4 ⋅ |𝑐 − 𝑎| ⋅ 2 ⋅ |𝑐 − 𝑎|
+1
+2 ⋅ 1
+2 ⋅ |𝑐 − 𝑎| ⋅ |𝑐 − 𝑎|
+= 16
+To należało wykazać.

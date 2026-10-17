@@ -1,0 +1,84 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=26, 27, 28; level=podstawowy; year=2026; month=czerwiec; task_id=27]
+Zadanie 27. (0–4)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+X.4) rozpoznaje w walcach […] kąt między
+odcinkami oraz kąt między odcinkami
+i płaszczyznami […];
+X.5) oblicza objętości i pola powierzchni […]
+walca […] również z wykorzystaniem
+trygonometrii.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawne wyniki: 𝑉 = 18𝜋√3,
+𝑃𝑐 = 18𝜋 + 12𝜋√3.
+3 pkt – obliczenie objętości walca: 𝑉 = 18𝜋√3
+ALBO
+– obliczenie pola powierzchni całkowitej walca: 𝑃𝑐 = 18𝜋 + 12𝜋√3.
+2 pkt – zapisanie promienia podstawy walca (lub średnicy podstawy walca): 𝑟 = 3
+(lub 2𝑟 = 6) oraz zapisanie wysokości walca: 𝐻 = 2√3
+ALBO
+– obliczenie kwadratu promienia podstawy walca (lub kwadratu średnicy podstawy
+walca): 𝑟2 = 9 (lub (2𝑟)2 = 36) oraz zapisanie wysokości walca: 𝐻 = 2√3.
+1 pkt – zapisanie promienia podstawy walca (lub średnicy podstawy walca): 𝑟 = 3
+(lub 2𝑟 = 6)
+ALBO
+– zapisanie wysokości walca: 𝐻 = 2√3,
+ALBO
+– zapisanie układu równań pozwalającego obliczyć 𝑟 oraz 𝐻, np.:
+𝐻 = 𝑥 oraz 2𝑟 = 𝑥√3 oraz 2𝑥 = 4√3,
+𝐻
+4√3
+= sin 30° oraz 2𝑟
+4√3
+= cos 30° .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli jedynym błędem zdającego jest:
+a) zastosowanie niepoprawnej definicji jednej funkcji trygonometrycznej,
+b) błędne zastosowanie twierdzenia Pitagorasa,
+c) zastosowanie niepoprawnej tożsamości √𝑥2 + 𝑦2 = 𝑥 + 𝑦,
+d) błędne zastosowanie własności trójkąta o kątach 30°, 60°, 90° (tzn. zapisanie,
+że średnica podstawy walca jest równa 2√3 i wysokość walca jest równa 6),
+Zasady oceniania rozwiązań zadań
+i rozwiązanie zostanie doprowadzone konsekwentnie do końca, to zdający może otrzymać
+co najwyżej 2 punkty za całe rozwiązanie (za konsekwentne obliczenie objętości i pola
+powierzchni całkowitej walca).
+Jeżeli zdający popełni więcej niż jeden z wymienionych błędów a)–d), to otrzymuje
+0 punktów za całe rozwiązanie, o ile nie nabył prawa do innej liczby punktów.
+Przykładowe pełne rozwiązanie
+Przyjmujemy oznaczenia jak na rysunku:
+𝑟 – promień podstawy walca,
+𝐻 – wysokość walca.
+Zauważamy, że kąt 𝐷𝐴𝐵 jest prosty
+oraz 𝑟 > 0 i 𝐻 > 0.
+W trójkącie prostokątnym 𝐴𝐵𝐷 mamy:
+sin 30° = |𝐴𝐷|
+|𝐵𝐷| = 𝐻
+4√3
+Zatem:
+𝐻 = 4√3 ⋅ sin 30° = 4√3 ⋅ 1
+2 = 2√3
+Ponadto:
+cos 30° = |𝐴𝐵|
+|𝐵𝐷| = 2𝑟
+4√3
+= 𝑟
+2√3
+Stąd:
+𝑟 = 2√3 ⋅ cos 30° = 2√3 ⋅ √3
+2 = 3
+Obliczamy objętość 𝑉 walca:
+𝑉 = 𝜋𝑟2𝐻 = 𝜋 ⋅ 32 ⋅ 2√3 = 18𝜋√3
+Obliczamy pole powierzchni całkowitej 𝑃𝑐 walca:
+𝑃𝑐 = 2𝜋𝑟2 + 2𝜋𝑟𝐻 = 2𝜋 ⋅ 32 + 2𝜋 ⋅ 3 ⋅ 2√3 = 18𝜋 + 12𝜋√3
+𝐷
+𝐵
+𝐴
+30°
+4√3
+𝐻
+2𝑟

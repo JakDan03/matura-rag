@@ -1,0 +1,59 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=11; year=2023; section=9. TRYGONOMETRIA]
+Strona 11 z 34
+• Wybrane granice:
+lim
+𝑛→∞
+(1 + 1
+𝑛)
+𝑛
+= 𝑒
+lim
+𝑛→∞ √𝑛
+𝑛
+= 1
+lim
+𝑛→∞ √𝑎
+𝑛
+= 1 dla każdego 𝑎 > 0
+lim
+𝑛→∞
+𝑞𝑛 = 0 dla każdego 𝑞 ∈ (−1, 1)
+lim
+𝑛→∞
+1
+𝑛𝑘 = 0 dla każdego 𝑘 > 0
+lim
+𝑛→∞
+𝑛𝑘 = +∞ dla każdego 𝑘 > 0
+9. TRYGONOMETRIA
+• Definicje funkcji trygonometrycznych kąta ostrego w trójkącie prostokątnym
+• Definicje funkcji trygonometrycznych dowolnego kąta
+sin 𝛼 = 𝑎
+𝑐
+cos 𝛼 = 𝑏
+𝑐
+tg 𝛼 = 𝑎
+𝑏
+𝜶
+𝑀(𝑥, 𝑦)
+𝑥
+𝑥
+𝑦
+𝑦
+𝑂
+𝑟
+𝛼
+𝐴
+𝐵
+𝐶
+𝑎
+𝑏
+𝑐
+sin 𝛼 = 𝑦
+𝑟
+cos 𝛼 = 𝑥
+𝑟
+tg 𝛼 = 𝑦
+𝑥 , o ile 𝑥 ≠ 0
+gdzie
+𝑟 = |𝑂𝑀| = √𝑥2 + 𝑦2 > 0

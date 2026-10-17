@@ -1,0 +1,63 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=12, 13, 14; level=podstawowy; year=2026; month=marzec; term=probna; task_id=14]
+Zadanie 14. (0–3)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VI.1) oblicza wyrazy ciągu określonego
+wzorem ogólnym;
+VI.7) wykorzystuje własności ciągów […]
+arytmetycznych […] do rozwiązywania
+zadań […].
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑥 = −3 oraz 𝑥 = 3.
+2 pkt – zapisanie równania z niewiadomą 𝑥, np.:
+4 + 3𝑥2 + 5
+2 = 2𝑥2
+2𝑥2 − 4 = 3𝑥2 + 5 − 2𝑥2
+ALBO
+– zapisanie układu dwóch niezależnych równań z niewiadomymi 𝑥 oraz 𝑟, np.
+2𝑥2 = 4 + 𝑟 oraz 3𝑥2 + 5 = 4 + 2𝑟.
+1 pkt – obliczenie piątego wyrazu ciągu (𝑎𝑛): 𝑎5 = 4,
+ALBO
+Zasady oceniania rozwiązań zadań
+– zapisanie równania z dwiema niewiadomymi 𝑥 oraz 𝑎5, np.:
+𝑎5 + 3𝑥2 + 5
+2 = 2𝑥2
+2𝑥2 − 𝑎5 = 3𝑥2 + 5 − 2𝑥2
+ALBO
+– zapisanie układu dwóch niezależnych równań z niewiadomymi 𝑥, 𝑟 oraz 𝑎5 , np.
+2𝑥2 = 𝑎5 + 𝑟 oraz 3𝑥2 + 5 = 𝑎5 + 2𝑟.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Obliczamy piąty wyraz ciągu (𝑎𝑛):
+𝑎5 = 3 ⋅ 5 + 9
+5 + 1 = 24
+6 = 4
+Z warunków zadania wynika, że liczby 4, 2𝑥2, 3𝑥2 + 5 są kolejnymi wyrazami ciągu
+arytmetycznego. Z własności ciągu arytmetycznego otrzymujemy:
+4 + 3𝑥2 + 5
+2 = 2𝑥2
+3𝑥2 + 9 = 4𝑥2
+𝑥2 = 9
+Zatem 𝑥 = −3 lub 𝑥 = 3.
+Sposób II
+Obliczamy piąty wyraz ciągu (𝑎𝑛):
+𝑎5 = 3 ⋅ 5 + 9
+5 + 1 = 24
+6 = 4
+Z warunków zadania wynika, że liczby 4, 2𝑥2, 3𝑥2 + 5 są kolejnymi wyrazami ciągu
+arytmetycznego. Z własności ciągu arytmetycznego otrzymujemy:
+{ 2𝑥2 = 4 + 𝑟
+3𝑥2 + 5 = 4 + 2𝑟
+gdzie 𝑟 jest różnicą ciągu arytmetycznego.
+Z pierwszego z tych równań wyznaczamy 𝑟 = 2𝑥2 − 4 i podstawiamy w miejsce 𝑟 do
+drugiego z równań. Stąd otrzymujemy:
+3𝑥2 + 5 = 4 + 2(2𝑥2 − 4)
+3𝑥2 + 5 = 4 + 4𝑥2 − 8
+𝑥2 = 9
+Zatem 𝑥 = −3 lub 𝑥 = 3.
+Próbny egzamin maturalny z matematyki na poziomie podstawowym – marzec 2026 r.

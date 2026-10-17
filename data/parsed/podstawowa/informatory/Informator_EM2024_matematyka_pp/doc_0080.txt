@@ -1,0 +1,27 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=80; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+80 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 45. (0–3)
+Dany jest trójkąt 𝐴𝐵𝐶. Na boku 𝐴𝐵 tego trójkąta wybrano punkt 𝐷, taki, że |𝐴𝐷| = 1
+4 |𝐴𝐵|,
+a na boku 𝐵𝐶 wybrano taki punkt 𝐸, że |𝐵𝐸| = 1
+5 |𝐵𝐶| (zobacz rysunek poniżej).
+Pole trójkąta 𝐴𝐵𝐶 jest równe 20.
+Oblicz pole trójkąta 𝑫𝑩𝑬.
+Wymagania ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów
+praktycznych i teoretycznych.
+Wymagania szczegółowe
+VII. Trygonometria. Zdający:
+3) stosuje […] wzór na pole trójkąta 𝑃 =
+1
+2 ⋅ 𝑎 ⋅ 𝑏 ⋅ sin 𝛾.
+VIII. Planimetria. Zdający:
+8) korzysta z cech podobieństwa trójkątów.
+𝐶
+𝐷
+𝐵
+𝐴
+𝐸

@@ -1,0 +1,40 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=118; level=rozszerzony; year=2024; section=|𝐷𝐾| + |𝐾𝐴| = |𝐷′𝐾| + |𝐾𝐴| ≥ |𝐷′𝐴| = |𝐷𝐾′| + |𝐾′𝐴|]
+118 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Przykładowe pełne rozwiązania
+Sposób 1.
+Niech 𝑑1 będzie odległością (w km) zastępu „Tropiciele” od miejscowości 𝐴.
+Wyznaczamy zależność 𝑑1 od czasu 𝑡 (w godzinach), jaki upłynął od chwili wyruszenia
+zastępu z miejscowości 𝐴:
+𝑑1(𝑡) = 4𝑡 dla 𝑡 ∈ [0, 5],
+gdzie 4 to prędkość (w km/h) marszu „Tropicieli”.
+Niech 𝑑2 będzie odległością (w km) zastępu „Korsarze” od miejscowości 𝐴.
+Wyznaczamy zależność 𝑑2 od czasu 𝑡 (w godzinach), jaki upłynął od chwili wyruszenia
+zastępu z miejscowości 𝐵:
+𝑑2(𝑡) = 15 − 2𝑡 dla 𝑡 ∈ [0, 15
+2 ],
+gdzie 2 to prędkość (w km/h) marszu „Korsarzy”.
+Odległość między zastępami badamy do momentu, gdy pierwszy z nich dotrze do celu.
+Odległość 𝑑 między zastępami w chwili 𝑡 jest równa
+𝑑(𝑡) = √𝑑1
+2(𝑡) + 𝑑2
+2(𝑡) = √16𝑡2 + (15 − 2𝑡)2 dla 𝑡 ∈ [0, 5].
+Badamy, dla jakiego argumentu 𝑡 ∈ [0, 5] funkcja 𝑑 osiąga wartość najmniejszą.
+Ponieważ funkcja 𝑔(𝑥) = √𝑥 jest funkcją rosnącą w przedziale [0, +∞), więc funkcja 𝑑
+osiąga wartość najmniejszą wtedy, gdy funkcja
+𝑓(𝑡) = 16𝑡2 + (15 − 2𝑡)2 = 20𝑡2 − 60𝑡 + 225 określona dla 𝑡 ∈ [0, 5]
+osiąga wartość najmniejszą.
+Korzystamy z własności funkcji kwadratowej i obliczamy argument, dla którego funkcja 𝑓
+osiąga wartość najmniejszą:
+𝑡 = − −60
+2⋅20 = 1,5 ∈ [0, 5]
+więc funkcja 𝑓 osiąga wartość najmniejszą dla 𝑡 = 1,5. Zatem funkcja 𝑑 osiąga wartość
+najmniejszą dla argumentu 𝑡 = 1,5.
+Odległość między zastępami harcerzy będzie najmniejsza po upływie półtorej godziny, czyli
+o godzinie 10:30.
+Sposób 2.
+Niech 𝑑1 będzie odległością (w km) zastępu „Tropiciele” od miejscowości 𝐴.
+Wyznaczamy zależność 𝑑1 od czasu 𝑡 (w godzinach), jaki upłynął od chwili wyruszenia
+zastępu z miejscowości 𝐴:
+𝑑1(𝑡) = 4𝑡 dla 𝑡 ∈ [0, 5],
+gdzie 4 to prędkość (w km/h) marszu „Tropicieli”.
+Niech 𝑑2 będzie odległością (w km) zastępu „Korsarze” od miejscowości 𝐴.

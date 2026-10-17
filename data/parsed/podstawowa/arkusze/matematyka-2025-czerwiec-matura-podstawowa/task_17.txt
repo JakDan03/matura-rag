@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=15; level=podstawowy; year=2025; month=czerwiec; task_id=17]
+Zadanie 17. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba sin3 25° + sin 25° ⋅ cos2 25°
+cos 25° jest równa
+A. sin 25° B. cos 25° C. tg 25° D. 1

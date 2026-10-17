@@ -1,0 +1,34 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=129; level=podstawowy; year=2024; section=2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów]
+Przykładowe zadania z rozwiązaniami 129
+Zadanie 64. (0–4)
+Spośród wszystkich czterocyfrowych całkowitych liczb dodatnich losujemy jedną liczbę.
+Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że wylosowana liczba
+będzie parzysta, a w jej zapisie dziesiętnym wystąpią dokładnie jedna cyfra 𝟐
+i dokładnie jedna cyfra 𝟑.
+Wymagania ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów
+praktycznych i teoretycznych.
+IV. Rozumowanie i argumentacja.
+2. Dostrzeganie regularności, podobieństw oraz analogii, formułowanie wniosków na
+ich podstawie i uzasadnianie ich poprawności.
+Wymagania szczegółowe
+XI. Kombinatoryka. Zdający:
+2) zlicza obiekty, stosując reguły mnożenia i dodawania (także łącznie) […].
+XII. Rachunek prawdopodobieństwa i statystyka. Zdający:
+1) oblicza prawdopodobieństwo w modelu klasycznym.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑃(𝐴) = 1
+25
+.
+3 pkt – poprawna metoda obliczenia, ile jest wszystkich całkowitych liczb czterocyfrowych
+dodatnich oraz ile pośród nich jest liczb parzystych, w których zapisie dziesiętnym
+występują dokładnie jedna cyfra 2 i dokładnie jedna cyfra 3 oraz podanie
+poprawnych wyników: |Ω| = 9 000, |𝐴| = 360.
+2 pkt – poprawna metoda obliczenia, ile jest czterocyfrowych, dodatnich liczb parzystych,
+w których zapisie dziesiętnym występują dokładnie jedna cyfra 2 i dokładnie jedna
+cyfra 3, oraz podanie poprawnego wyniku: |𝐴| = 360
+ALBO
+– zapisanie |Ω| = 9 000 oraz rozpisanie zbioru zdarzeń sprzyjających z poprawnie
+określonymi wszystkimi możliwymi pozycjami cyfr 2 i 3,
+ALBO

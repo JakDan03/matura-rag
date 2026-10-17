@@ -1,0 +1,37 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=32; level=rozszerzony; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+32 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Wymagania szczegółowe
+XIII. Optymalizacja i rachunek różniczkowy. Zdający:
+3R) […] podaje interpretację geometryczną i fizyczną pochodnej;
+4R) oblicza pochodną funkcji potęgowej o wykładniku rzeczywistym […];
+5R) stosuje pochodną do badania monotoniczności funkcji;
+6R) rozwiązuje zadania optymalizacyjne z zastosowaniem pochodnej.
+Zasady oceniania
+4 pkt – poprawna metoda wyznaczenia najmniejszej odległości, na jaką Syzyf zbliży się do
+wierzchołka góry, i poprawna metoda wyznaczenia największej wartości prędkości,
+z jaką wtaczany jest kamień, wraz z poprawnymi wynikami liczbowymi.
+3 pkt – zapisanie, że prędkość jest pochodną funkcji położenia i wyznaczenie ekstremów
+funkcji 𝑥′.
+2 pkt – zbadanie monotoniczności funkcji 𝑥 i wyznaczenie ekstremów funkcji 𝑥.
+1 pkt – wyznaczenie pochodnej funkcji 𝑥.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Najpierw wyznaczymy najmniejszą odległość, na jaką Syzyf zbliży się do wierzchołka góry.
+Wyznaczamy pochodną funkcji 𝑥:
+𝑥′(𝑡) = −3𝑡2 + 33𝑡 + 180 dla 𝑡 ∈ [0, 24]
+i obliczamy jej miejsca zerowe:
+𝑥′(𝑡) = 0
+−3𝑡2 + 33𝑡 + 180 = 0
+𝑡2 − 11𝑡 − 60 = 0
+Δ = 361
+𝑡1 = 15 𝑡2 < 0
+Ponieważ:
+𝑥′(𝑡) > 0 dla 𝑡 ∈ [0,15)
+𝑥′(𝑡) < 0 dla 𝑡 ∈ (15, 24]
+więc
+funkcja 𝑥 jest rosnąca w przedziale [0, 15]
+funkcja 𝑥 jest malejąca w przedziale [15, 24].
+Zatem funkcja 𝑥 przyjmuje wartość największą dla argumentu 15 i 𝑥(15) = 3037,5.
+Najmniejsza odległość, na jaką Syzyf zbliży się do wierzchołka góry, jest równa
+4000 − 3037,5 = 962,5 metrów.
+Obliczamy największą wartość prędkości, z jaką Syzyf wtacza kulę.

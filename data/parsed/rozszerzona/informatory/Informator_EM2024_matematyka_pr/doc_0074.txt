@@ -1,0 +1,33 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=74; level=rozszerzony; year=2024; section=4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach]
+74 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Ponieważ 𝑥𝑃 > 0 i 𝑦𝑃 > 0, więc
+𝑚 + 1 > 0 i 2(𝑚 + 1) > 0
+co daje 𝑚 ∈ (−1, +∞).
+Uwzględniamy warunki zadania 𝑦𝑃 ≥ 𝑥𝑃
+2 i 2 < − 8
+(𝑦𝑃)2 + 8
+𝑥𝑃
+:
+2(𝑚 + 1) ≥ (𝑚 + 1)2 i 2 < − 8
+[2(𝑚 + 1)]2 + 8
+𝑚 + 1
+2(𝑚 + 1) ≥ (𝑚 + 1)2 i 2 < − 2
+(𝑚 + 1)2 + 8
+𝑚 + 1
+−(𝑚 + 1)(𝑚 − 1) ≥ 0 i 2(𝑚 + 1)2
+(𝑚 + 1)2 + 2
+(𝑚 + 1)2 − 8(𝑚 + 1)
+(𝑚 + 1)2 < 0
+𝑚 ∈ [−1, 1] i
+2𝑚2 − 4𝑚 − 4
+(𝑚 + 1)2 < 0
+𝑚 ∈ [−1, 1] i 2𝑚2 − 4𝑚 − 4 < 0 i 𝑚 ≠ −1
+𝑚 ∈ [−1, 1] i 𝑚 ∈ (1 − √3, 1 + √3) i 𝑚 ≠ −1
+𝑚 ∈ (1 − √3, 1]
+Ponieważ 𝑚 ∈ (−1, +∞) i 𝑚 ∈ (1 − √3, 1], więc ostatecznie 𝑚 ∈ (1 − √3, 1].
+Zadanie 23. (0–3)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) trapez 𝐴𝐵𝐶𝐷 jest wpisany w okrąg
+o środku w punkcie 𝑆 = (19, −11) i promieniu 17√2. Wierzchołek 𝐴 trapezu ma obie
+współrzędne ujemne, a odcinek 𝐴𝐵 jest dłuższą z podstaw tego trapezu. Przekątna 𝐴𝐶
+trapezu 𝐴𝐵𝐶𝐷 jest zawarta w prostej o równaniu 𝑦 = 𝑥.
+Oblicz sinus kąta 𝑨𝑩𝑪. Zapisz obliczenia.

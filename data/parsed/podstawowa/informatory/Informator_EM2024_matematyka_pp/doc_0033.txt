@@ -1,0 +1,61 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=33; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+Przykładowe zadania z rozwiązaniami 33
+Przykładowe pełne rozwiązania
+Równanie 2
+2𝑥+1 = 𝑥−1
+𝑥+2 ma sens liczbowy dla 𝑥 ≠ − 1
+2 i 𝑥 ≠ −2.
+Przekształcamy równanie:
+2
+2𝑥 + 1 = 𝑥 − 1
+𝑥 + 2
+2(𝑥 + 2) = (2𝑥 + 1)(𝑥 − 1)
+2𝑥 + 4 = 2𝑥2 − 2𝑥 + 𝑥 − 1
+2𝑥2 − 3𝑥 − 5 = 0
+Sposób 1. rozwiązania równania 2𝑥2 − 3𝑥 − 5 = 0.
+Obliczamy wyróżnik Δ trójmianu kwadratowego 2𝑥2 − 3𝑥 − 5 (zobacz w Wybranych
+wzorach matematycznych):
+Δ = (−3)2 − 4 ⋅ 2 ⋅ (−5) = 9 + 40 = 49
+Stąd
+𝑥1 = −(−3) − √49
+2 ⋅ 2 = −1
+𝑥2 = −(−3) + √49
+2 ⋅ 2 = 5
+2
+Sposób 2. rozwiązania równania 2𝑥2 − 3𝑥 − 5 = 0.
+Rozwiążemy równanie kwadratowe, wykorzystując metodę dopełnienia wyrażenia do
+pełnego kwadratu. Przekształcimy równoważnie trójmian kwadratowy 2𝑥2 − 3𝑥 − 5:
+2𝑥2 − 3𝑥 − 5 = 2 (𝑥2 − 3
+2 𝑥) − 5 = 2 [(𝑥 − 3
+4)
+2
+− 9
+16] − 5 = 2 (𝑥 − 3
+4)
+2
+− 9
+8 − 5 =
+= 2 (𝑥 − 3
+4)
+2
+− 49
+8
+Przekształcamy równoważnie równanie 2𝑥2 − 3𝑥 − 5 = 0, otrzymując:
+2 (𝑥 − 3
+4)
+2
+− 49
+8 = 0
+2 (𝑥 − 3
+4)
+2
+= 49
+8
+(𝑥 − 3
+4)
+2
+= 49
+16
+|𝑥 − 3
+4| = 7
+4

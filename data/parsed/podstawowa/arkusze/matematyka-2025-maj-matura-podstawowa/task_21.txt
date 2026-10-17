@@ -1,0 +1,14 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=21; level=podstawowy; year=2025; month=maj; task_id=21]
+Zadanie 21. (0–1)
+Dany jest trójkąt 𝐴𝐵𝐶, w którym |𝐴𝐵| = 11, |𝐵𝐶| = 12 oraz |∡𝐴𝐵𝐶| = 60° (zobacz
+rysunek).
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Trójkąt 𝐴𝐵𝐶 jest równoramienny. P F
+Pole trójkąta 𝐴𝐵𝐶 jest równe 33√3 . P F
+60°
+𝐴
+𝐵
+𝐶
+11
+12

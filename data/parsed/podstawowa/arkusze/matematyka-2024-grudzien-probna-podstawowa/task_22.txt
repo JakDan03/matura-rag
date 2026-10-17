@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=21; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=22]
+Zadanie 22. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dana jest prosta 𝑘 o równaniu
+𝑦 = −7𝑥 + 3. Prosta 𝑙 jest równoległa do prostej 𝑘 i przecina oś 𝑂𝑦 w punkcie (0, 6).
+Punkt o współrzędnych (1, 𝑝) należy do prostej 𝑙.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba 𝑝 jest równa
+A. (−4) B. (−1) C. 5
+7 D. 7

@@ -1,0 +1,58 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=114; level=podstawowy; year=2024; section=1. Wyznaczymy zależność między 𝑏 oraz 𝑐 w trójkącie 𝐵𝐶𝐺:]
+114 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Przykładowe pełne rozwiązanie
+Wprowadźmy oznaczenia dla odcinków (jak na rysunku obok) –
+długości krawędzi prostopadłościanu oznaczmy przez 𝑎, 𝑏, 𝑐,
+a przekątną prostopadłościanu i przekątną ściany 𝐵𝐶𝐺𝐹 oznaczmy
+przez 𝑑 oraz 𝑒. Warunki zadania zapiszmy jako:
+tg 𝛽 = 9
+7 𝑒 = 2√130 𝑑 = 2√194
+1. Wyznaczymy zależność między 𝑏 oraz 𝑐 w trójkącie 𝐵𝐶𝐺:
+tg 𝛽 = 𝑐
+𝑏 = 9
+7
+, stąd 𝑐 = 9
+7 𝑏
+2. Zastosujemy twierdzenie Pitagorasa dla trójkąta prostokątnego
+𝐵𝐶𝐺, w celu obliczenia 𝑏 i 𝑐:
+𝑏2 + 𝑐2 = 𝑒2
+Wykorzystamy związek z pkt. 1:
+𝑏2 + (9
+7 𝑏)
+2
+= (2√130)
+2
+130
+49 𝑏2 = 520
+𝑏2 = 196
+zatem
+𝑏 = 14 oraz 𝑐 = 9
+7 ⋅ 14 = 18
+3. Zauważmy, że trójkąt 𝐵𝐺𝐻 jest prostokątny (kąt prosty jest przy wierzchołku 𝐺).
+Zastosujemy twierdzenie Pitagorasa dla trójkąta prostokątnego 𝐵𝐺𝐻, w celu obliczenia 𝑎.
+𝑒2 + 𝑎2 = 𝑑2
+(2√130)
+2
++ 𝑎2 = (2√194)
+2
+𝑎2 = 256
+𝑎 = 16
+4. Obliczymy pole powierzchni całkowitej prostopadłościanu:
+𝑃𝑐 = 2𝑎𝑏 + 2𝑏𝑐 + 2𝑎𝑐
+𝑃𝑐 = 2 ⋅ 16 ⋅ 14 + 2 ⋅ 14 ⋅ 18 + 2 ⋅ 16 ⋅ 18
+𝑃𝑐 = 1528
+𝐶
+𝐸
+𝐺
+𝐻
+𝐹
+𝐷
+𝛽
+𝐴
+𝐵
+𝑎
+𝑏
+𝑐
+𝑑
+𝑒
+𝑎

@@ -1,0 +1,15 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=19; level=podstawowy; year=2024; month=maj; task_id=21]
+Zadanie 21. (0–1)
+Dany jest równoległobok o bokach długości 3 i 4 oraz o kącie między nimi o mierze 120°.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole tego równoległoboku jest równe
+A. 12 B. 12√3 C. 6 D. 6√3
+𝑒
+𝑎
+𝑀
+𝑏
+𝐾
+𝑑
+𝑐
+𝐿
+𝑁

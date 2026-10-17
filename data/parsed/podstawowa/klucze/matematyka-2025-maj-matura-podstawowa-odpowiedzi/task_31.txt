@@ -1,0 +1,182 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=33, 34, 35, 36, 37, 38; level=podstawowy; year=2025; month=maj; task_id=31]
+Zadanie 31. (0–4)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+XIII) rozwiązuje zadania optymalizacyjne
+w sytuacjach dających się opisać funkcją
+kwadratową.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawne wyniki, np.
+𝑃(𝑥) = −2𝑥2 + 22𝑥 + 88 oraz 𝐷 = (0, 11) oraz 𝑥 = 11
+2
+.
+3 pkt – wyznaczenie poprawnego wzoru na pole powierzchni całkowitej prostopadłościanu
+𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 w zależności od zmiennej 𝑥 oraz wyznaczenie dziedziny 𝐷 tej
+funkcji, np. 𝑃(𝑥) = −2𝑥2 + 22𝑥 + 88 oraz 𝐷 = (0, 11),
+ALBO
+– wyznaczenie poprawnego wzoru na pole powierzchni całkowitej prostopadłościanu
+𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 w zależności od zmiennej 𝑥 (bez wyznaczonej dziedziny funkcji 𝑃)
+oraz prawidłowe obliczenie pierwszej współrzędnej wierzchołka wykresu funkcji 𝑃,
+np. 𝑃(𝑥) = −2𝑥2 + 22𝑥 + 88 oraz 𝑥 = 11
+2
+.
+2 pkt – wyznaczenie poprawnego wzoru na pole powierzchni całkowitej prostopadłościanu
+𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 w zależności od zmiennej 𝑥 (bez wyznaczonej dziedziny funkcji 𝑃),
+np. 𝑃(𝑥) = −2𝑥2 + 22𝑥 + 88,
+ALBO
+– zapisanie zależności między długościami krawędzi 𝐵𝐹 i 𝐴𝐵 prostopadłościanu
+oraz wyznaczenie zakresu zmienności 𝑥, np.
+𝑥 + 4 + |𝐵𝐹| = 15 oraz 𝑥 ∈ (0, 11).
+1 pkt – zapisanie zależności między długościami krawędzi 𝐵𝐹 i 𝐴𝐵 prostopadłościanu, np.
+𝑥 + 4 + |𝐵𝐹| = 15,
+ALBO
+– zapisanie wzoru na pole powierzchni całkowitej prostopadłościanu w zależności od
+długości 𝑥 krawędzi 𝐴𝐵 oraz długości krawędzi 𝐵𝐹:
+𝑃 = 2 ⋅ (4𝑥 + 𝑥 ⋅ |𝐵𝐹| + 4 ⋅ |𝐵𝐹|),
+ALBO
+– wyznaczenie zakresu zmienności 𝑥: 𝑥 ∈ (0, 11).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający zapisze jedynie zakres zmienności 𝑥: 𝑥 ∈ (0, 11) oraz zapisze, że
+szukaną wartością 𝑥 jest liczba 11
+2 , to otrzymuje 1 punkt za całe rozwiązanie. Jeżeli
+zdający zapisze jedynie, że szukaną wartością 𝑥 jest liczba 11
+2 , to otrzymuje 0 punktów
+za całe rozwiązanie.
+2. Jeżeli zdający nie zapisze pola powierzchni całkowitej prostopadłościanu jako funkcji 𝑃
+zmiennej 𝑥, a jedynie obliczy wartości pola dla wybranych długości krawędzi i na tej
+podstawie wskaże największą wartość pola, to za całe rozwiązanie otrzymuje 0 punktów,
+o ile nie nabył prawa do innej liczby punktów (np. za zapisanie zależności między
+długościami krawędzi 𝐵𝐹 i 𝐴𝐵 prostopadłościanu: 𝑥 + 4 + |𝐵𝐹| = 15).
+3. Jeżeli zdający przyjmuje, że ściany 𝐴𝐵𝐹𝐸 oraz 𝐵𝐶𝐺𝐹 są przystającymi prostokątami
+i na tym opiera swoje rozwiązanie, to może otrzymać co najwyżej 2 punkty za całe
+rozwiązanie (za zapisanie zależności między długościami krawędzi 𝐴𝐵 i 𝐵𝐹 oraz za
+wyznaczenie dziedziny funkcji).
+4. Jeżeli zdający zamiast funkcji 𝑃(𝑥) rozważa w całym rozwiązaniu funkcję postaci
+1
+2 ⋅ 𝑃(𝑥) albo funkcję pola powierzchni całkowitej w zależności od długości krawędzi 𝐵𝐹,
+to może otrzymać co najwyżej 3 punkty za całe rozwiązanie (za związek między
+długościami krawędzi 𝐴𝐵 i 𝐵𝐹, za wyznaczenie dziedziny funkcji i za poprawne
+wyznaczenie argumentu, dla którego pole powierzchni całkowitej jest największe).
+5. Jeżeli zdający stosuje rachunek różniczkowy i nie uzasadni, że w punkcie będącym
+miejscem zerowym pochodnej funkcji 𝑃 jest największa wartość funkcji 𝑃, to może
+Zasady oceniania rozwiązań zadań
+otrzymać co najwyżej 3 punkty za całe rozwiązanie.
+Za poprawne uzasadnienie, że w punkcie będącym miejscem zerowym pochodnej
+funkcji 𝑃 jest największa wartość funkcji 𝑃, można uznać sytuację, gdy zdający bada
+znak pochodnej (np. szkicuje wykres funkcji, która w ten sam sposób jak pochodna
+zmienia znak, i zaznacza na rysunku, np. znakami „+” i „-”, znak pochodnej), oraz:
+– opisuje przedziały monotoniczności funkcji 𝑃 (słownie lub graficznie – np. przy użyciu
+strzałek)
+LUB
+– zapisuje, że dla wyznaczonego miejsca zerowego pochodnej, funkcja 𝑃 ma maksimum
+lokalne i jest to jednocześnie jej największa wartość,
+LUB
+– zapisuje, że dla wyznaczonego miejsca zerowego pochodnej, funkcja 𝑃 ma maksimum
+lokalne i jest to jedyne ekstremum tej funkcji.
+Przykładowe pełne rozwiązanie
+Przyjmijmy oznaczenia jak na rysunku.
+Suma długości wszystkich trzech krawędzi prostopadłościanu wychodzących z wierzchołka 𝐵
+jest równa 15, zatem
+|𝐴𝐵| + |𝐵𝐶| + |𝐵𝐹| = 15
+𝑥 + 4 + |𝐵𝐹| = 15
+|𝐵𝐹| = 11 − 𝑥
+Pole 𝑃 powierzchni całkowitej prostopadłościanu 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 jest równe
+𝑃 = 2 ⋅ (|𝐴𝐵| ∙ |𝐵𝐶| + |𝐴𝐵| ⋅ |𝐵𝐹| + |𝐵𝐶| ⋅ |𝐵𝐹|)
+Ponieważ |𝐴𝐵| = 𝑥, |𝐵𝐶| = 4, |𝐵𝐹| = 11 − 𝑥, więc wzór funkcji 𝑃 zmiennej 𝑥 ma
+postać
+𝐴
+𝐵
+𝐶
+𝐷
+𝐺
+𝐻
+𝐸
+𝐹
+𝑥
+4
+𝑃(𝑥) = 2 ⋅ [𝑥 ⋅ 4 + 𝑥 ⋅ (11 − 𝑥) + 4 ⋅ (11 − 𝑥)]
+𝑃(𝑥) = 2 ⋅ (4𝑥 + 11𝑥 − 𝑥2 + 44 − 4𝑥)
+𝑃(𝑥) = 2 ⋅ (−𝑥2 + 11𝑥 + 44)
+𝑃(𝑥) = −2𝑥2 + 22𝑥 + 88
+Wyznaczamy dziedzinę funkcji 𝑃. Z warunków zadania wynika, że:
+|𝐴𝐵| = 𝑥 > 0 oraz |𝐵𝐹| = 11 − 𝑥 > 0
+Zatem
+𝑥 > 0 oraz 𝑥 < 11
+Zmienna 𝑥 może przyjmować wartości z przedziału 𝐷 = (0, 11).
+Wykresem funkcji 𝑃 jest fragment paraboli skierowanej ramionami do dołu.
+Obliczamy pierwszą współrzędną wierzchołka tej paraboli:
+𝑝 = −22
+2 ⋅ (−2) = −22
+−4 = 11
+2 ∈ (0, 11)
+Zatem funkcja 𝑃 przyjmuje wartość największą dla argumentu 11
+2
+.
+Spośród rozważanych prostopadłościanów największe pole powierzchni całkowitej ma ten,
+w którym 𝑥 = 11
+2
+.
+Zasady oceniania rozwiązań zadań
+Ocena prac osób ze stwierdzoną dyskalkulią
+Obowiązują zasady oceniania stosowane przy sprawdzaniu prac zdających bez stwierdzonej
+dyskalkulii z dodatkowym uwzględnieniem:
+I. ogólnych zasad oceniania zadań otwartych w przypadku arkuszy osób ze
+stwierdzoną dyskalkulią (punkty 1.–12.);
+II. dodatkowych szczegółowych zasad oceniania zadań otwartych w przypadku arkuszy
+osób ze stwierdzoną dyskalkulią – egzamin maturalny z matematyki, poziom
+podstawowy, termin główny 2025.
+I. Ogólne zasady oceniania zadań otwartych w przypadku arkuszy osób ze stwierdzoną
+dyskalkulią
+1. Nie należy traktować jako błędy merytoryczne pomyłek, wynikających z:
+• błędnego przepisania
+• przestawienia cyfr
+• zapisania innej cyfry, ale o podobnym wyglądzie
+• przestawienia położenia przecinka
+• przestawienia położenia znaku liczby.
+2. W przypadku błędów, wynikających ze zmiany znaku liczby, należy w każdym zadaniu
+oddzielnie przeanalizować, czy zdający opanował inne umiejętności, poza
+umiejętnościami rachunkowymi, oceniane w zadaniu. W przypadku opanowania
+badanych umiejętności zdający powinien otrzymać przynajmniej 1 punkt.
+3. We wszystkich zadaniach otwartych, w których wskazano poprawną metodę
+rozwiązania, części lub całości zadania, zdającemu należy przyznać przynajmniej
+1 punkt, zgodnie z kryteriami do poszczególnych zadań.
+4. Jeśli zdający przedstawia nieprecyzyjne zapisy, na przykład pomija nawiasy lub
+zapisuje nawiasy w niewłaściwych miejscach, ale przeprowadza poprawne
+rozumowanie lub stosuje właściwą strategię, to może otrzymać przynajmniej 1 punkt
+za rozwiązanie zadania.
+5. W przypadku zadania wymagającego wyznaczenia pierwiastków trójmianu
+kwadratowego zdający może otrzymać 1 punkt, jeżeli przedstawi poprawną metodę
+wyznaczania pierwiastków trójmianu kwadratowego, przy podanych w treści zadania
+wartościach liczbowych.
+6. W przypadku zadania wymagającego rozwiązania nierówności kwadratowej zdający
+może otrzymać 1 punkt, jeżeli stosuje poprawny algorytm rozwiązywania nierówności
+kwadratowej, przy podanych w treści zadania wartościach liczbowych.
+7. W przypadku zadania wymagającego stosowania własności funkcji kwadratowej
+zdający może otrzymać 1 punkt za wykorzystanie konkretnych własności funkcji
+kwadratowej, istotnych przy poszukiwaniu rozwiązania.
+8. W przypadku zadania wymagającego zastosowania własności ciągów arytmetycznych
+lub geometrycznych zdający może otrzymać 1 punkt, jeżeli przedstawi wykorzystanie
+takiej własności ciągu, która umożliwia znalezienie rozwiązania zadania.
+9. W przypadku zadania wymagającego analizowania figur geometrycznych na
+płaszczyźnie kartezjańskiej zdający może otrzymać punkty, jeżeli przy poszukiwaniu
+rozwiązania przedstawi poprawne rozumowanie, wykorzystujące własności figur
+geometrycznych lub zapisze zależności, pozwalające rozwiązać zadanie.
+10. W przypadku zadania z rachunku prawdopodobieństwa zdający może otrzymać
+przynajmniej 1 punkt, jeśli przy wyznaczaniu liczby zdarzeń elementarnych
+sprzyjających rozważanemu zdarzeniu przyjmuje określoną regularność lub podaje
+prawidłową metodę wyznaczenia tej liczby zdarzeń elementarnych.
+11. W przypadku zadania z geometrii zdający może otrzymać przynajmniej 1 punkt, jeżeli
+podaje poprawną metodę wyznaczenia długości odcinka potrzebnej do znalezienia
+rozwiązania.
+12. W przypadku zadania wymagającego przeprowadzenia dowodu (z zakresu algebry lub
+geometrii), jeśli w przedstawionym rozwiązaniu zdający powoła się na własność, która
+wyznacza istotny postęp, prowadzący do przeprowadzenia dowodu, to może otrzymać
+1 punkt.
+II. Dodatkowe szczegółowe zasady oceniania zadań otwartych w przypadku arkuszy osób
+ze stwierdzoną dyskalkulią

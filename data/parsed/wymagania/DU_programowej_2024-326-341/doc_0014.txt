@@ -1,0 +1,24 @@
+Dział VII. Trygonometria.
+Poziom: podstawowy
+Zakres podstawowy. Uczeń:
+1) wykorzystuje definicje funkcji: sinus, cosinus i tangens dla kątów od 0° do 180°, w
+szczególności wyznacza wartości funkcji trygonometrycznych dla kątów 30°, 45°, 60°;
+2) korzysta z wzorów sin2 𝛼𝛼 + cos 2 𝛼𝛼 = 1 , tg 𝛼𝛼 =
+sin 𝛼𝛼
+cos 𝛼𝛼;
+3) stosuje twier dzenie cosinusów oraz wzór na pole trójkąta 𝑃𝑃 =
+2 ⋅ 𝑎𝑎 ⋅ 𝑏𝑏 ⋅ sin 𝛾𝛾;
+4) oblicza kąty trójkąta prostokątnego i długości jego boków przy odpowiednich danych
+(rozwiązuje trójkąty prostokątne, w tym z wykorzystaniem funkcji trygonometrycznych).
+Zakres rozszer zony. Uczeń spełnia wymagania określone dla zakresu podstawowego, a
+ponadto:
+1) stosuje miarę łukową, zamienia stopnie na radiany i odwrotnie;
+2) posługuje się wykresami funkcji trygonometrycznych: sinus, cosinus, tangens;
+3) wykorzystuje okresowość funkcji trygonometrycznych;
+4) stosuje wzory redukcyjne dla funkcji trygonometrycznych;
+5) korzysta z wzorów na sinus, cosinus i tangens sumy i różnicy kątów, a także na funkcje
+trygonometryczne kątów podwojonych;
+6) rozwiązuje równania trygonometryczne;
+7) sto suje twierdzenie sinusów;
+8) oblicza kąty trójkąta i długości jego boków przy odpowiednich danych (rozwiązuje
+trójkąty).

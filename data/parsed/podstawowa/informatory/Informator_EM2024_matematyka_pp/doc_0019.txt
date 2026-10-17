@@ -1,0 +1,24 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=19; level=podstawowy; year=2024; section=1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów]
+Przykładowe zadania z rozwiązaniami 19
+Zadanie 7. (0–2)
+Udowodnij, że liczba 𝟑𝟒𝟓 + 𝟗𝟐𝟐 + 𝟐𝟕𝟏𝟒 jest podzielna przez 𝟑𝟕.
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.
+Wymagania szczegółowe
+I. Liczby rzeczywiste. Zdający:
+2) przeprowadza proste dowody dotyczące podzielności liczb całkowitych i reszt
+z dzielenia […];
+4) stosuje związek pierwiastkowania z potęgowaniem oraz prawa działań na potęgach
+i pierwiastkach.
+Zasady oceniania
+2 pkt – przekształcenie wyrażenia 345 + 922 + 2714 do postaci 342 ⋅ 37.
+1 pkt – przekształcenie wyrażenia 345 + 922 + 2714 do postaci 345 + 344 + 342.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Korzystając z własności działań na potęgach, otrzymujemy
+345 + 922 + 2714 = 345 + (32)22 + (33)14 = 345 + 344 + 342
+Wyłączamy wspólny czynnik przed nawias
+345 + 344 + 342 = 342(33 + 32 + 1) = 342 ⋅ 37
+Liczba 342 jest liczbą całkowitą, zatem liczba 345 + 922 + 2714 jest podzielna przez 37.

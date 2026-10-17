@@ -1,0 +1,18 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=50; level=rozszerzony; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+50 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Zadanie 17. (0–3)
+Ciąg (𝑎𝑛) jest określony wzorem
+𝑎𝑛 = (𝑛 + 5)2 ⋅ ( 𝑝 + 1
+(𝑛 + 1)(𝑛 + 2) + 2𝑝 + 2
+(𝑛 + 2)(𝑛 + 3))
+dla każdej liczby naturalnej 𝑛 ≥ 1.
+Wyznacz wszystkie wartości parametru 𝒑, dla których granica ciągu (𝒂𝒏) jest
+równa 𝟏𝟐. Zapisz obliczenia.
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymaganie szczegółowe
+VI. Ciągi. Zdający:
+1R) oblicza granice ciągów, korzystając z […] twierdzeń o granicach sumy, różnicy,
+iloczynu i ilorazu ciągów zbieżnych […].

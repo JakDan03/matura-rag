@@ -1,0 +1,20 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=10; level=podstawowy; year=2024; month=maj; task_id=10]
+Zadanie 10. (0–1)
+W październiku 2022 roku założono dwa sady, w których posadzono łącznie 1960 drzew.
+Po roku stwierdzono, że uschło 5% drzew w pierwszym sadzie i 10% drzew w drugim
+sadzie. Uschnięte drzewa usunięto, a nowych nie dosadzano.
+Liczba drzew, które pozostały w drugim sadzie, stanowiła 60% liczby drzew, które
+pozostały w pierwszym sadzie.
+Niech 𝑥 oraz 𝑦 oznaczają liczby drzew posadzonych – odpowiednio – w pierwszym
+i drugim sadzie.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Układem równań, którego poprawne rozwiązanie prowadzi do obliczenia liczby 𝑥 drzew
+posadzonych w pierwszym sadzie oraz liczby 𝑦 drzew posadzonych w drugim sadzie, jest
+A. { 𝑥 + 𝑦 = 1960
+0,6 ⋅ 0,95𝑥 = 0,9𝑦
+B. { 𝑥 + 𝑦 = 1960
+0,95𝑥 = 0,6 ⋅ 0,9𝑦
+C. { 𝑥 + 𝑦 = 1960
+0,05𝑥 = 0,6 ⋅ 0,1𝑦
+D. { 𝑥 + 𝑦 = 1960
+0,4 ⋅ 0,95𝑥 = 0,9𝑦

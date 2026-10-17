@@ -1,0 +1,183 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=8, 9, 10, 11, 12; level=podstawowy; year=2024; month=czerwiec; task_id=10]
+Zadanie 10. (0–3)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+III.5) rozwiązuje równania wielomianowe
+postaci 𝑊(𝑥) = 0 dla wielomianów […]
+takich, które dają się doprowadzić do
+postaci iloczynowej […] metodą
+grupowania.
+Zasady oceniania
+3 pkt – poprawna metoda rozwiązania równania i obliczenie wszystkich rozwiązań równania:
+(− 1
+2), 1
+2, 3
+ALBO
+– wyznaczenie wszystkich rozwiązań równania: (− 1
+2), 1
+2, 3, oraz stwierdzenie, że
+są to jedyne rozwiązania równania.
+2 pkt – przekształcenie lewej strony równania do postaci iloczynu wielomianów stopnia co
+najwyżej drugiego oraz rozwiązanie jednego z równań wynikającego z tego
+rozkładu, np.:
+(𝑥 − 3)(4𝑥2 − 1) = 0 i 𝑥 = 3,
+(𝑥 − 3)(4𝑥2 − 1) = 0 i 𝑥 = − 1
+2 oraz 𝑥 = 1
+2
+ALBO
+– przekształcenie równania 4𝑥3 − 12𝑥2 − 𝑥 + 3 = 0 do postaci alternatywy dwóch
+równań: kwadratowego i liniowego oraz rozwiązanie jednego z nich, np.:
+(𝑥 − 3 = 0, 4𝑥2 − 1 = 0) oraz 𝑥 = 3,
+(𝑥 − 3 = 0, 4𝑥2 − 1 = 0) oraz (𝑥 = − 1
+2, 𝑥 = 1
+2),
+ALBO
+– rozłożenie wielomianu 𝑊(𝑥) = 4𝑥3 − 12𝑥2 − 𝑥 + 3 na czynniki liniowe, np.
+𝑊(𝑥) = (𝑥 − 3)(2𝑥 − 1)(2𝑥 + 1) ,
+ALBO
+– przekształcenie równania 4𝑥3 − 12𝑥2 − 𝑥 + 3 = 0 do postaci alternatywy trzech
+równań liniowych: (𝑥 − 3 = 0, 2𝑥 − 1 = 0, 2𝑥 + 1 = 0),
+ALBO
+– obliczenie jednego z pierwiastków wielomianu 𝑊(𝑥) = 4𝑥3 − 12𝑥2 − 𝑥 + 3 oraz
+poprawne podzielenie wielomianu 𝑊 przez odpowiedni dwumian, np.
+𝑥 = 3 i (4𝑥3 − 12𝑥2 − 𝑥 + 3) ∶ (𝑥 − 3) = 4𝑥2 − 1 ,
+1 pkt – zapisanie wielomianu 𝑊(𝑥) = 4𝑥3 − 12𝑥2 − 𝑥 + 3 w postaci iloczynu wielomianów
+stopnia co najwyżej drugiego, np. 𝑊(𝑥) = (𝑥 − 3)(4𝑥2 − 1)
+ALBO
+Zasady oceniania rozwiązań zadań
+– przekształcenie równania 4𝑥3 − 12𝑥2 − 𝑥 + 3 = 0 do postaci alternatywy dwóch
+równań: (𝑥 − 3 = 0, 4𝑥2 − 1 = 0),
+ALBO
+– przekształcenie równania 4𝑥3 − 12𝑥2 − 𝑥 + 3 = 0 do postaci
+4𝑥2(𝑥 − 3) − (𝑥 − 3) = 0 lub do postaci 4𝑥2(𝑥 − 3) = 𝑥 − 3 oraz zapisanie
+rozwiązania 𝑥 = 3,
+ALBO
+– zapisanie jednego z rozwiązań równania 4𝑥3 − 12𝑥2 − 𝑥 + 3 = 0 oraz zapisanie
+sprawdzenia, że ta liczba spełnia to równanie.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający zapisze tylko trzy poprawne rozwiązania równania, to otrzymuje 1 punkt za
+całe rozwiązanie.
+2. Jeżeli zdający uzyska trzy poprawne pierwiastki wielomianu, lecz traktuje równanie jako
+nierówność (podaje zbiór rozwiązań w postaci przedziału / sumy przedziałów), to
+otrzymuje 2 punkty za całe rozwiązanie.
+3. Jeżeli przy przekształcaniu lewej strony równania do postaci iloczynu zdający zapisuje
+czynnik (𝑥 − 3) z wykładnikiem 2, to może otrzymać co najwyżej 2 punkty za całe
+rozwiązanie (1 punkt za rozwiązanie równania (𝑥 − 3)2 = 0 i 1 punkt za rozwiązanie
+równania 4𝑥2 − 1 = 0).
+4. Jeżeli zdający zamiast równania (𝑥 − 3)(4𝑥2 − 1) = 0 zapisze (𝑥 − 3) ± (4𝑥2 − 1) = 0,
+ale z dalszego rozwiązania wynika, że traktuje lewą stronę równania jak iloczyn i rozwiąże
+zadanie do końca, to może otrzymać co najwyżej 2 punkty za całe rozwiązanie (1 punkt
+za rozwiązanie równania 𝑥 − 3 = 0 i 1 punkt za rozwiązanie równania 4𝑥2 − 1 = 0).
+5. Jeżeli zdający przy przekształcaniu równania do postaci (𝑥 − 3)(4𝑥2 − 1) = 0 popełni
+błąd i zapisze:
+4𝑥2(𝑥 + 3) − (𝑥 − 3) = 0
+lub
+4𝑥2(𝑥 − 3) + (𝑥 − 3) = 0
+lub
+4𝑥2(𝑥 − 3) − (𝑥 + 3) = 0
+lub
+𝑥(4𝑥2 + 1) − 3(4𝑥2 − 1) = 0
+lub
+𝑥(4𝑥2 − 1) + 3(4𝑥2 − 1) = 0
+lub
+𝑥(4𝑥2 − 1) − 3(4𝑥2 + 1) = 0
+a następnie
+5.1. zapisze równanie (𝑥 − 3)(4𝑥2 − 1) = 0 lub poprawną alternatywę
+(𝑥 − 3 = 0 lub 4𝑥2 − 1 = 0) i konsekwentnie rozwiąże zadanie do końca, to
+otrzymuje co najwyżej 2 punkty za całe rozwiązanie (1 punkt za rozwiązanie
+równania 𝑥 − 3 = 0 i 1 punkt za rozwiązanie równania 4𝑥2 − 1 = 0).
+5.2. zapisze równanie (𝑥 − 3)(4𝑥2 + 1) = 0 lub błędną alternatywę
+(𝑥 − 3 = 0 lub 4𝑥2 + 1 = 0) i zapisze rozwiązanie 𝑥 = 3,
+to otrzymuje 1 punkt za całe rozwiązanie.
+5.3. zapisze równanie (𝑥 + 3)(4𝑥2 − 1) = 0 lub błędną alternatywę
+(𝑥 + 3 = 0 lub 4𝑥2 − 1 = 0) i zapisze oba rozwiązania równania 4𝑥2 − 1 = 0:
+𝑥 = − 1
+2 oraz 𝑥 = 1
+2 to otrzymuje 1 punkt za całe rozwiązanie.
+5.4. zapisze błędne równanie (w którym jedna ze stron jest równa 0, a druga jest
+iloczynem wielomianów stopni dodatnich), inne niż w uwagach 5.2 oraz 5.3, np.
+(𝑥 − 3)(𝑥 + 3)(4𝑥2 ± 1) = 0 lub błędną alternatywę inną niż w uwagach 5.2
+oraz 5.3, np. (𝑥 − 3 = 0 lub 𝑥 + 3 = 0 lub 4𝑥2 ± 1 = 0), to otrzymuje
+0 punktów za całe rozwiązanie.
+6. Jeżeli zdający, przekształcając równanie 4𝑥3 − 12𝑥2 − 𝑥 + 3 = 0, popełni jeden błąd
+(który nie jest błędem znaku) albo dwa błędy znaku i otrzyma równanie trzeciego stopnia,
+które ma trzy rozwiązania rzeczywiste, oraz konsekwentnie rozwiąże zadanie do końca, to
+otrzymuje 1 punkt za całe rozwiązanie.
+7. Jeżeli zdający dzieli obustronnie równanie 4𝑥2(𝑥 − 3) = 𝑥 − 3 przez dwumian
+(𝑥 − 3) z podaniem odpowiedniego założenia i uzyska tylko dwa poprawne rozwiązania
+𝑥 = − 1
+2 oraz 𝑥 = 1
+2, to otrzymuje 2 punkty za całe rozwiązanie, a jeżeli uzyska tylko
+jedno z tych rozwiązań, to otrzymuje 1 punkt za całe rozwiązanie.
+8. Jeżeli zdający dzieli obustronnie równanie 4𝑥2(𝑥 − 3) = 𝑥 − 3 przez dwumian
+(𝑥 − 3) bez podania odpowiedniego założenia i uzyska tylko dwa poprawne rozwiązania
+𝑥 = − 1
+2 oraz 𝑥 = 1
+2, to otrzymuje 1 punkt za całe rozwiązanie, a jeżeli uzyska tylko
+jedno z tych rozwiązań, to otrzymuje 0 punktów za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Przekształcamy równanie równoważnie i stosujemy metodę grupowania wyrazów:
+4𝑥3 − 12𝑥2 − 𝑥 + 3 = 0
+4𝑥2(𝑥 − 3) − (𝑥 − 3) = 0
+(𝑥 − 3)(4𝑥2 − 1) = 0
+(𝑥 − 3)(2𝑥 − 1)(2𝑥 + 1) = 0
+𝑥 − 3 = 0 lub 2𝑥 − 1 = 0 lub 2𝑥 + 1 = 0
+𝑥 = 3 lub 𝑥 = 1
+2 lub 𝑥 = − 1
+2
+Rozwiązaniami równania są liczby: (− 1
+2), 1
+2, 3.
+Sposób II
+Przekształcamy równanie równoważnie i stosujemy metodę grupowania wyrazów:
+Zasady oceniania rozwiązań zadań
+4𝑥3 − 12𝑥2 − 𝑥 + 3 = 0
+𝑥(4𝑥2 − 1) − 3(4𝑥2 − 1) = 0
+(4𝑥2 − 1)(𝑥 − 3) = 0
+(2𝑥 − 1)(2𝑥 + 1)(𝑥 − 3) = 0
+2𝑥 − 1 = 0 lub 2𝑥 + 1 = 0 lub 𝑥 − 3 = 0
+𝑥 = 1
+2 lub 𝑥 = − 1
+2 lub 𝑥 = 3
+Rozwiązaniami równania są liczby: (− 1
+2), 1
+2, 3.
+Sposób III
+Obliczamy 𝑊(3) = 0 i stwierdzamy, że liczba 3 jest pierwiastkiem wielomianu
+𝑊(𝑥) = 4𝑥3 − 12𝑥2 − 𝑥 + 3.
+Zatem wielomian 𝑊 jest podzielny przez dwumian (𝑥 − 3). Dzielimy wielomian 𝑊 przez
+dwumian (𝑥 − 3) i otrzymujemy
+(4𝑥3 − 12𝑥2 − 𝑥 + 3) ∶ (𝑥 − 3) = 4𝑥2 − 1
+Zatem 𝑊(𝑥) = (𝑥 − 3)(4𝑥2 − 1) = (𝑥 − 3)(2𝑥 − 1)(2𝑥 + 1).
+Obliczamy pierwiastki wielomianu 𝑊(𝑥):
+(𝑥 − 3)(2𝑥 − 1)(2𝑥 + 1) = 0
+𝑥 − 3 = 0 lub 2𝑥 − 1 = 0 lub 2𝑥 + 1 = 0
+𝑥 = 3 lub 𝑥 = 1
+2 lub 𝑥 = − 1
+2
+Rozwiązaniami równania są liczby: (− 1
+2), 1
+2, 3.
+Sposób IV
+Obliczamy 𝑊(3) = 0 i stwierdzamy, że liczba 3 jest pierwiastkiem wielomianu
+𝑊(𝑥) = 4𝑥3 − 12𝑥2 − 𝑥 + 3.
+Obliczamy 𝑊 (1
+2) = 0 i stwierdzamy, że liczba 1
+2 jest pierwiastkiem wielomianu
+𝑊(𝑥) = 4𝑥3 − 12𝑥2 − 𝑥 + 3.
+Obliczamy 𝑊 (− 1
+2) = 0 i stwierdzamy, że liczba (− 1
+2) jest pierwiastkiem wielomianu
+𝑊(𝑥) = 4𝑥3 − 12𝑥2 − 𝑥 + 3.
+Ponieważ 𝑊 jest wielomianem stopnia trzeciego, więc ma co najwyżej trzy pierwiastki
+rzeczywiste. Oznacza to, że jedynymi rozwiązaniami równania 4𝑥3 − 12𝑥2 − 𝑥 + 3 = 0 są
+liczby: (− 1
+2), 1
+2, 3.

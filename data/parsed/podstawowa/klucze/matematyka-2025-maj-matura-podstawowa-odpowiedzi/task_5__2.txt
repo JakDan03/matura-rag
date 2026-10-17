@@ -1,0 +1,4 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=38; level=podstawowy; year=2025; month=maj; task_id=5]
+Zadanie 5.
+1 pkt – zapisanie, że 𝑛 = 2𝑙 + 1, oraz przekształcenie wyrażenia 3𝑛2 + 2𝑛 + 7 do
+postaci 3(2𝑙 + 1)2 + 2(2𝑙 + 1) + 7.

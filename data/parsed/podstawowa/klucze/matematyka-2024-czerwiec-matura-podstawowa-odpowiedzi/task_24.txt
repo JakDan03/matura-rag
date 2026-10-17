@@ -1,0 +1,199 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=29, 30, 31, 32, 33, 34; level=podstawowy; year=2024; month=czerwiec; task_id=24]
+Zadanie 24. (0–4)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+3. Dobieranie argumentów do uzasadnienia
+poprawności rozwiązywania problemów,
+tworzenie ciągu argumentów,
+gwarantujących poprawność rozwiązania
+i skuteczność w poszukiwaniu rozwiązań
+zagadnienia.
+Zdający:
+IX.1) […] znajduje wspólny punkt dwóch
+prostych […];
+IX.2) posługuje się równaniem prostej na
+płaszczyźnie w postaci kierunkowej, w tym
+wyznacza równanie prostej o zadanych
+własnościach […];
+IX.3) oblicza odległość dwóch punktów
+w układzie współrzędnych.
+Zasady oceniania
+4 pkt – poprawna metoda obliczenia współrzędnych punktu 𝑃 oraz długość odcinka 𝐴𝑃
+oraz poprawne wyniki: 𝑃 = (9
+4 , 0), |𝐴𝑃| = 5√41
+4
+.
+3 pkt – obliczenie współrzędnych punktu 𝑃: 𝑃 = (9
+4 , 0) .
+2 pkt – wyznaczenie równania symetralnej odcinka 𝐴𝐵 : 𝑦 = 4
+3 𝑥 − 3
+ALBO
+– zapisanie układu równań z dwiema niewiadomymi, np.
+√(𝑥𝑝 − 2)
+2
++ (𝑦𝑝 − 8)
+2
+= √(𝑥𝑝 − 10)
+2
++ (𝑦𝑝 − 2)
+2
+i 𝑦𝑝 = 0
+ALBO
+– zapisanie równania, w którym niewiadomą jest pierwsza współrzędna wierzchołka 𝑃,
+wynikającego z prostopadłości odpowiednich wektorów, np.
+(−4) ∙ (𝑥𝑝 − 6) + 3 ∙ (−5) = 0
+1 pkt – zapisanie współrzędnych środka 𝑀 odcinka 𝐴𝐵: 𝑀 = (6, 5)
+ALBO
+– wyznaczenie współczynnika kierunkowego prostej 𝐴𝐵: 𝑎𝐴𝐵 = − 3
+4
+,
+ALBO
+– zapisanie równania prostej 𝐴𝐵 w postaci ogólnej: 3𝑥 + 4𝑦 − 38 = 0 ,
+ALBO
+– zapisanie drugiej współrzędnej punktu 𝑃 np.: 𝑦𝑝 = 0, 𝑃 = (𝑥𝑝, 0) ,
+ALBO
+– zapisanie równości |𝐴𝑃| = |𝐵𝑃| w zależności od współrzędnych punktu
+𝑃 = (𝑥𝑝, 𝑦𝑝), np.
+√(𝑥𝑝 − 2)
+2
++ (𝑦𝑝 − 8)
+2
+= √(𝑥𝑝 − 10)
+2
++ (𝑦𝑝 − 2)
+2
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający rozważa punkt 𝑃 leżący na osi 𝑂𝑥 i w rozwiązaniu popełnia tylko błędy
+rachunkowe, które nie przekreślają poprawności rozumowania, to za całe rozwiązanie
+może otrzymać co najwyżej 3 punkty.
+2. Jeżeli zdający rysuje w układzie współrzędnych symetralną odcinka 𝐴𝐵 i odczytuje
+współrzędne punktu 𝑃 i zapisuje 𝑃 = (9
+4 , 0) oraz sprawdzi rachunkowo, że
+|𝐴𝑃| = |𝐵𝑃|, to za tę część rozwiązania otrzymuje 3 punkty (jeżeli tego sprawdzenia nie
+wykona, to otrzymuje za tę część rozwiązania 2 punkty, a gdy odczyta błędne
+współrzędne punktu 𝑃, to otrzymuje 0 punktów).
+3. Jeżeli zdający nie sporządzi rysunku i zapisze tylko 𝑃 = (9
+4 , 0), to otrzymuje 0 punktów;
+jeżeli zdający nie sporządzi rysunku, lecz zapisze 𝑃 = (9
+4 , 0) i dalej kontynuuje
+rozwiązanie, to może otrzymać co najwyżej 1 punkt.
+4. Jeżeli jedynym błędem zdającego jest:
+a) zastosowanie niepoprawnego wzoru na współczynnik kierunkowy prostej
+b) zastosowanie niepoprawnego związku między współczynnikami kierunkowymi
+prostych prostopadłych
+c) zastosowanie niepoprawnego wzoru na współrzędne środka odcinka
+d) zastosowanie niepoprawnego warunku prostopadłości wektorów
+e) zastosowanie niepoprawnego wzoru na odległość dwóch punktów
+w kartezjańskim układzie współrzędnych
+f) zastosowanie niepoprawnych własności symetralnej
+g) przyjęcie, że wierzchołek 𝑃 leży poza osią 𝑂𝑥,
+i rozwiązanie zostanie doprowadzone konsekwentnie do końca, to zdający może otrzymać
+2 punkty za całe rozwiązanie, o ile nie nabył prawa do innej liczby punktów.
+Jeżeli zdający popełni więcej niż jeden z wymienionych błędów a)–g), to otrzymuje
+0 punktów za całe rozwiązanie, o ile nie nabył prawa do innej liczby punktów.
+5. Jeżeli zdający rozważa dwa różne położenia punktu 𝑃 na osi 𝑂𝑥 i nie odrzuca
+niewłaściwego rozwiązania, to otrzymuje co najwyżej 3 punkty.
+Zasady oceniania rozwiązań zadań
+Przykładowe pełne rozwiązania
+Sposób I
+Obliczamy współczynnik kierunkowy prostej 𝐴𝐵:
+𝑎𝐴𝐵 = 2 − 8
+10 − 2 = − 3
+4
+Zatem współczynnik kierunkowy symetralnej 𝑘 odcinka 𝐴𝐵 jest równy
+𝑎𝑘 = 4
+3
+Symetralna 𝑘 przechodzi przez środek 𝑀 odcinka 𝐴𝐵. Obliczamy współrzędne punktu 𝑀:
+𝑀 = (2 + 10
+2 , 8 + 2
+2 ) = (6, 5)
+Zatem prosta 𝑘 ma równanie postaci
+𝑦 = 4
+3 (𝑥 − 6) + 5
+𝑦 = 4
+3 𝑥 − 3
+Punkt 𝑃 jest punktem przecięcia symetralnej 𝑘 z osią 𝑂𝑥, więc współrzędne
+punktu 𝑃 = (𝑥𝑝, 𝑦𝑝) spełniają równania
+𝑦𝑝 = 4
+3 𝑥𝑝 − 3 oraz 𝑦𝑝 = 0
+Stąd otrzymujemy:
+0 = 4
+3 𝑥𝑝 − 3 oraz 𝑦𝑝 = 0
+𝑥𝑝 = 9
+4 oraz 𝑦𝑝 = 0
+Zatem 𝑃 = (9
+4 , 0)
+Obliczamy długość odcinka 𝐴𝑃:
+|𝐴𝑃| = √(9
+4 − 2)
+2
++ (0 − 8)2 = √(1
+4)
+2
++ (−8)2 = √ 1
+16 + 64 = √1025
+16 = 5√41
+4
+Sposób II
+Ponieważ punkt 𝑃 leży na osi 𝑂𝑥, więc jego współrzędne są równe 𝑃 = (𝑥𝑝, 0).
+Ponieważ punkt 𝑃 leży na symetralnej odcinka 𝐴𝐵, więc |𝐴𝑃| = |𝐵𝑃|.
+Stąd i ze wzoru na odległość między dwoma punktami otrzymujemy równanie
+√(𝑥𝑝 − 2)
+2
++ (0 − 8)2 = √(𝑥𝑝 − 10)
+2
++ (0 − 2)2
+(𝑥𝑝 − 2)
+2
++ (0 − 8)2 = (𝑥𝑝 − 10)
+2
++ (0 − 2)2
+𝑥𝑝
+2 − 4𝑥𝑝 + 4 + 64 = 𝑥𝑝
+2 − 20𝑥𝑝 + 100 + 4
+16𝑥𝑝 = 36
+𝑥𝑝 = 9
+4
+Zatem 𝑃 = (9
+4 , 0).
+Obliczamy długość odcinka 𝐴𝑃:
+|𝐴𝑃| = √(9
+4 − 2)
+2
++ (0 − 8)2 = √(1
+4)
+2
++ (−8)2 = √ 1
+16 + 64 = √1025
+16 = 5√41
+4
+Zasady oceniania rozwiązań zadań
+Sposób III
+Ponieważ punkt 𝑃 leży na osi 𝑂𝑥, więc jego współrzędne są równe 𝑃 = (𝑥𝑝, 0).
+Obliczamy współrzędne środka 𝑀 odcinka 𝐴𝐵:
+𝑀 = (2 + 10
+2 , 8 + 2
+2 ) = (6, 5)
+Obliczamy współrzędne wektorów 𝑀𝐴⃗⃗⃗⃗⃗⃗ oraz 𝑀𝑃⃗⃗⃗⃗⃗⃗ :
+𝑀𝐴⃗⃗⃗⃗⃗⃗ = [2 − 6, 8 − 5] = [−4, 3]
+𝑀𝑃⃗⃗⃗⃗⃗⃗ = [𝑥𝑝 − 6, 0 − 5] = [𝑥𝑝 − 6, −5]
+Wektor 𝑀𝐴⃗⃗⃗⃗⃗⃗ jest prostopadły do wektora 𝑀𝑃⃗⃗⃗⃗⃗⃗ , zatem
+−4 ∙ (𝑥𝑝 − 6) + 3 ∙ (−5) = 0
+−4𝑥𝑝 + 24 − 15 = 0
+𝑥𝑝 = 9
+4
+Zatem punkt 𝑃 ma współrzędne 𝑃 = (9
+4 , 0).
+Obliczamy długość odcinka 𝐴𝑃:
+|𝐴𝑃| = √(9
+4 − 2)
+2
++ (0 − 8)2 = √(1
+4)
+2
++ (−8)2 = √ 1
+16 + 64 = √1025
+16 = 5√41
+4

@@ -1,0 +1,36 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=100; level=podstawowy; year=2024; section=2) Dostrzeganie regularności, podobieństw oraz analogii, formułowanie wniosków na ich]
+100 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 50. (0–1)
+Proste 𝑘 i 𝑙 przecinają się w punkcie 𝐴. Proste 𝑚, 𝑛 i 𝑠 są wzajemnie równoległe
+i przecinają obie proste 𝑘 i 𝑙 w punktach 𝐵, 𝐶, 𝐷, 𝐸, 𝐹, 𝐺 (zobacz rysunek poniżej),
+w taki sposób, że: |𝐵𝐶| = 30, |𝐶𝐷| = 20, |𝐺𝐹| = 21.
+Oblicz długość odcinka 𝑭𝑬.
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+2) Dostrzeganie regularności, podobieństw oraz analogii, formułowanie wniosków na ich
+podstawie i uzasadnianie ich poprawności.
+Wymaganie szczegółowe
+VIII. Planimetria. Zdający:
+7) stosuje twierdzenie Talesa.
+Zasady oceniania
+1 pkt – poprawna metoda rozwiązania oraz zapisanie wyniku |𝐹𝐸| = 14.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Zastosujemy twierdzenie Talesa:
+|𝐺𝐹|
+|𝐵𝐶| = |𝐹𝐸|
+|𝐶𝐷| , stąd 21
+30 = |𝐹𝐸|
+20 , zatem |𝐹𝐸| = 14
+𝐴
+𝐸
+𝑠
+𝑙
+𝑛
+𝐹
+𝑚
+𝐺
+𝐵
+𝑘
+𝐷
+𝐶

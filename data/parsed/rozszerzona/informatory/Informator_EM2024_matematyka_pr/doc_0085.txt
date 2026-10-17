@@ -1,0 +1,59 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=85; level=rozszerzony; year=2024; section=|𝑃𝑆|2 = |𝐶𝑆|2 + |𝐶𝑃|2]
+Przykładowe zadania z rozwiązaniami 85
+|𝑃𝑆|2 = (1
+2 𝑎√2)
+2
++ (1
+2 𝑎)
+2
+|𝑃𝑆| = √3
+2 𝑎
+Trójkąty 𝑆𝐾𝐶 oraz 𝑃𝐾𝐶 są prostokątne i mają wspólny bok 𝐾𝐶, więc
+ℎ2 = |𝑆𝐶|2 − |𝑆𝐾|2 i ℎ2 = |𝑃𝐶|2 − |𝐾𝑃|2
+ℎ2 = (𝑎√2
+2 )
+2
+− (|𝑃𝑆| − 𝑥)2 i ℎ2 = (𝑎
+2)
+2
+− 𝑥2
+ℎ2 = (𝑎√2
+2 )
+2
+− (√3
+2 𝑎 − 𝑥)
+2
+i ℎ2 = (𝑎
+2)
+2
+− 𝑥2
+(𝑎√2
+2 )
+2
+− (√3
+2 𝑎 − 𝑥)
+2
+= (𝑎
+2)
+2
+− 𝑥2
+skąd otrzymujemy 𝑥 =
+√3
+6 𝑎.
+Podstawiamy 𝑥 =
+√3
+6 𝑎 do równania ℎ2 = (𝑎
+2)
+2
+− 𝑥2 i otrzymujemy
+ℎ2 = (𝑎
+2)
+2
+− (√3
+6 𝑎)
+2
+ℎ = √6
+6 𝑎
+Szukana odległość jest równa
+√6
+6 𝑎.

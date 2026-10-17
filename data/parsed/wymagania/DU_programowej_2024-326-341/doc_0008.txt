@@ -1,0 +1,6 @@
+Dział IV. Układy równań.
+Poziom: podstawowy
+Zakres podstawowy. Uczeń:
+1) rozwiązuje układy równań liniowych z dwiema niewiadomymi, podaje interpretację
+geometryczną układów oznaczonych, nieoznaczonych i sprzecznych;
+2) stosuje układy równań do rozwiązywania zadań tekstowych.

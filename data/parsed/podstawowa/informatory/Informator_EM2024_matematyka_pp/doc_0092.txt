@@ -1,0 +1,47 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=92; level=podstawowy; year=2024; section=|𝐵𝐷|2 = |𝐷𝐴|2 + |𝐴𝐵|2 = 22 + 42 = 20]
+92 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+|𝐶𝐸| = 4
+√5
+= 4√5
+5
+Długość odcinka 𝐶𝐸 jest równa 4√5
+5
+.
+Sposób 3.
+Ponieważ |∡𝐵𝐷𝐴| = 𝛼, więc |∡𝐴𝐵𝐷| = 90° − 𝛼.
+Zatem |∡𝐶𝐵𝐷| = 90° − |∡𝐴𝐵𝐷| = 90° − (90° − 𝛼) = 𝛼.
+Oznaczmy: |𝐶𝐸| = 𝑥.
+Ponieważ tg 𝛼 = 2, więc |𝐶𝐸|
+|𝐵𝐸| = 𝑥
+|𝐵𝐸| = 2.
+Stąd |𝐵𝐸| = 𝑥
+2
+.
+Zastosujemy twierdzenie Pitagorasa dla trójkąta 𝐵𝐸𝐶:
+𝑥2 + (𝑥
+2)
+2
+= 22
+𝑥2 + 𝑥2
+4 = 4
+5𝑥2
+4 = 4
+𝑥2 = 16
+5
+𝐶
+𝐵
+𝐷
+𝐸
+𝐴
+𝑥
+𝑥
+2
+2
+𝐶
+𝐴
+𝐵
+𝐷
+𝐸
+𝛼
+𝛼
+90° − 𝛼

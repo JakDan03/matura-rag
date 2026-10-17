@@ -1,0 +1,15 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=139; level=rozszerzony; year=2024; section=𝐾 ∈ {𝐶, 𝐷, 𝐸, 𝐹, 𝐺}).]
+Informacja o egzaminie maturalnym z matematyki dla absolwentów niesłyszących 139
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik.
+3 pkt – obliczenie liczby wszystkich najkrótszych dróg z 𝐴 do 𝐾 (gdzie
+𝐾 ∈ {𝐶, 𝐷, 𝐸, 𝐹, 𝐺}).
+2 pkt – zapisanie, że liczba wszystkich najkrótszych dróg z 𝐴 do 𝐵 przechodzących przez
+punkt 𝐾 (gdzie 𝐾 ∈ {𝐶, 𝐷, 𝐸, 𝐹, 𝐺}) jest iloczynem liczby wszystkich najkrótszych
+dróg z 𝐴 do 𝐾 i liczby wszystkich najkrótszych dróg z 𝐾 do 𝐵.
+1 pkt – zapisanie, że każda najkrótsza droga z 𝐴 do 𝐵 musi przechodzić przez jeden
+z punktów 𝐶– 𝐺.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+W poniższym rozwiązaniu przez 𝑛(𝐾, 𝐿) rozumieć będziemy liczbę wszystkich najkrótszych
+dróg z punktu 𝐾 do punktu 𝐿.

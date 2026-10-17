@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=24; level=podstawowy; year=2026; month=maj; task_id=22]
+Zadanie 22. (0–1)
+W okrąg 𝒪 o promieniu 9√3 wpisano trójkąt równoboczny 𝒯.
+Uzupełnij zdanie. Wpisz odpowiednią liczbę w wykropkowanym miejscu, aby zdanie
+było prawdziwe.
+Bok trójkąta 𝒯 ma długość ……… .

@@ -1,0 +1,18 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=109; level=podstawowy; year=2024; section=3. Dobieranie argumentów do uzasadnienia poprawności rozwiązywania problemów,]
+Przykładowe zadania z rozwiązaniami 109
+Zadanie 56. (0–4)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) punkty 𝐴 = (2, 8) oraz 𝐵 = (10, 2) są
+wierzchołkami trójkąta równoramiennego 𝐴𝐵𝑃, w którym |𝐴𝑃| = |𝐵𝑃|.
+Wierzchołek 𝑃 leży na osi 𝑂𝑥 układu współrzędnych.
+Oblicz współrzędne punktu 𝑷 oraz długość odcinka 𝑨𝑷.
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+3. Dobieranie argumentów do uzasadnienia poprawności rozwiązywania problemów,
+tworzenie ciągu argumentów gwarantujących poprawność rozwiązania
+i skuteczność w poszukiwaniu rozwiązań zagadnienia.
+Wymagania szczegółowe
+IX. Geometria analityczna na płaszczyźnie kartezjańskiej. Zdający:
+3) oblicza odległość dwóch punktów w układzie współrzędnych.
+I. Liczby rzeczywiste. Zdający:
+3) stosuje własności pierwiastków dowolnego stopnia, w tym pierwiastków stopnia
+nieparzystego z liczb ujemnych.

@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=7; level=podstawowy; year=2025; month=czerwiec; task_id=7]
+Zadanie 7. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Równanie 4(𝑥 − 1)2(𝑥2 − 25) = 0 w zbiorze liczb rzeczywistych ma dokładnie
+A. dwa rozwiązania.
+B. trzy rozwiązania.
+C. cztery rozwiązania.
+D. pięć rozwiązań.

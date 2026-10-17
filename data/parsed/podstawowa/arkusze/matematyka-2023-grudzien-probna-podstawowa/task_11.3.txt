@@ -1,0 +1,19 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=11, 12; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=11.3]
+Zadanie 11.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) przedstawiono fragment wykresu funkcji
+kwadratowej 𝑓 (zobacz rysunek). Wierzchołek paraboli, która jest wykresem funkcji 𝑓, oraz
+punkty przecięcia paraboli z osiami układu współrzędnych mają współrzędne całkowite.
+Zadanie 11.3. (0–2)
+Uzupełnij zdanie. Wybierz dwie właściwe odpowiedzi spośród oznaczonych literami
+A–F i wpisz te litery w wykropkowanych miejscach.
+Wzór funkcji 𝑓 można przedstawić w postaci: ………. oraz ………. .
+A. 𝑓(𝑥) = 1
+2 (𝑥 − 2)(𝑥 − 6) B. 𝑓(𝑥) = 1
+2 (𝑥 − 4)2 − 2
+C. 𝑓(𝑥) = 2(𝑥 − 2)(𝑥 − 6) D. 𝑓(𝑥) = 1
+2 (𝑥 + 4)2 − 2
+E. 𝑓(𝑥) = 2(𝑥 + 2)(𝑥 + 6) F. 𝑓(𝑥) = 2(𝑥 + 4)2 − 2
+11.2.
+0–1
+11.3.
+0–1–2

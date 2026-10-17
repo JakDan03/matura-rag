@@ -1,0 +1,27 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=140; level=rozszerzony; year=2024; section=𝐾 ∈ {𝐶, 𝐷, 𝐸, 𝐹, 𝐺}).]
+140 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Zaznaczmy na schemacie ulic punkty 𝐶, 𝐷, 𝐸, 𝐹, 𝐺 (zobacz rysunek 1.).
+Zauważmy, że każda najkrótsza droga z 𝐴 do 𝐵 musi przechodzić przez któryś z punktów
+𝐶, 𝐷, 𝐸, 𝐹 lub 𝐺. Ponadto, liczba wszystkich najkrótszych dróg z 𝐴 do 𝐵 przechodzących
+przez 𝐶 jest równa 𝑛(𝐴, 𝐶) ⋅ 𝑛(𝐶, 𝐵). Analogicznie, liczba wszystkich najkrótszych dróg
+z 𝐴 do 𝐵 przechodzących przez 𝐷 jest równa 𝑛(𝐴, 𝐷) ⋅ 𝑛(𝐷, 𝐵) itd.
+Obliczymy 𝑛(𝐴, 𝐶), czyli liczbę wszystkich najkrótszych dróg z 𝐴 do 𝐶.
+Kierunek wyznaczony na rysunku 1. przez prostą 𝐴𝐺 nazwiemy poziomym, a kierunek
+prostopadły do poziomego – pionowym. Każda najkrótsza droga z 𝐴 do 𝐶 składa się
+z dokładnie 11 odcinków: 2 poziomych i 9 pionowych. Wskazanie 2 odcinków
+(spośród 11), które mają być poziome, określa nam jednoznacznie najkrótszą drogę z 𝐴
+do 𝐶. Stąd najkrótszych dróg z 𝐴 do 𝐶 jest (11
+2 ).
+Na rysunku 2. przedstawiono najkrótszą drogę z 𝐴 do 𝐶, gdzie odcinki trzeci i ósmy są
+poziome, a pozostałe – pionowe.
+Na rysunku 3. przedstawiono najkrótszą drogę z 𝐴 do 𝐶, która odpowiada wyborowi
+odcinków szóstego i jedenastego jako odcinków poziomych.
+Rysunek 1.
+𝐹
+𝐺
+𝐸
+𝐶
+𝐷
+𝐴
+𝐵
+park

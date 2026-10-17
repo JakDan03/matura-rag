@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=12; level=podstawowy; year=2024; month=maj; task_id=13]
+Zadanie 13. (0–1)
+Funkcje liniowe 𝑓 oraz 𝑔, określone wzorami 𝑓(𝑥) = 3𝑥 + 6 oraz 𝑔(𝑥) = 𝑎𝑥 + 7, mają
+to samo miejsce zerowe.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Współczynnik 𝑎 we wzorze funkcji 𝑔 jest równy
+A. (− 7
+2) B. (− 2
+7) C. 2
+7 D. 7
+2

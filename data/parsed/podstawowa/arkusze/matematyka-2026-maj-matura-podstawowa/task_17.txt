@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=19; level=podstawowy; year=2026; month=maj; task_id=17]
+Zadanie 17. (0–1)
+Ciąg geometryczny (𝑎𝑛) jest określony dla każdej liczby naturalnej 𝑛 ≥ 1.
+Wyrazy trzeci i szósty tego ciągu spełniają warunek 𝑎3 ⋅ 𝑎6 = 18.
+Uzupełnij zdanie. Wpisz odpowiednią liczbę w wykropkowanym miejscu, aby zdanie
+było prawdziwe.
+Iloczyn 𝑎2 ⋅ 𝑎7 jest równy ……… .
+17.
+0–1

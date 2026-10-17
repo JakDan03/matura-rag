@@ -1,0 +1,16 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=24; level=rozszerzony; year=2026; month=maj; task_id=11]
+Zadanie 11. (0–6)
+W czworokącie 𝐴𝐵𝐶𝐷 są dane: |𝐴𝐵| = 9, |𝐴𝐷| = 10 oraz |∡𝐵𝐴𝐷| = 60°.
+W ten czworokąt wpisano okrąg oraz na tym czworokącie opisano okrąg (zobacz rysunek).
+Oblicz długości boków 𝑩𝑪 i 𝑪𝑫 oraz pole czworokąta 𝑨𝑩𝑪𝑫. Zapisz obliczenia.
+11.
+0–1–
+2–3–
+4–5–6
+𝐴
+𝐵
+𝐶
+𝐷
+9
+10
+60°

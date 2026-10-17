@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=9; level=rozszerzony; year=2024; month=czerwiec; task_id=5]
+Zadanie 5. (0–3)
+Wykaż, że dla każdej liczby dodatniej 𝒂 i każdej liczby dodatniej 𝒃 takich, że
+𝒂 + 𝒃 = 𝟏, prawdziwa jest nierówność
+𝟏
+𝟐𝒂 + 𝒃 + 𝟏
+𝒂 + 𝟐𝒃 ≥ 𝟒
+𝟑

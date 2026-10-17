@@ -1,0 +1,5 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=5; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=3]
+Zadanie 3. (0–2)
+Wykaż, że liczba 𝟐𝟏𝟎𝟎 + 𝟒𝟒𝟗 + 𝟏𝟔𝟐𝟒 jest podzielna przez 𝟐𝟏.
+3.
+0–1–2

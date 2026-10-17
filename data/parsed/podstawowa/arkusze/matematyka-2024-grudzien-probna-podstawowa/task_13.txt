@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=14; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=13]
+Zadanie 13. (0–1)
+Funkcja logarytmiczna 𝑓 jest określona wzorem 𝑓(𝑥) = log6 𝑥 dla każdej dodatniej liczby
+rzeczywistej 𝑥.
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Wartość funkcji 𝑓 dla argumentu 36 jest równa 6. P F
+Funkcja 𝑓 jest rosnąca. P F

@@ -1,0 +1,36 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=96; level=podstawowy; year=2024; section=|𝐴𝑆| = |𝐵𝐶|]
+96 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Sposób 2.
+Zauważmy, że:
+• trójkąt 𝐴𝐶𝐵 jest równoramienny, gdzie: |𝐴𝐶| = |𝐶𝐵| (na mocy twierdzenia
+o odcinkach stycznych).
+• trójkąt 𝐴𝑆𝐷 jest równoramienny, gdzie: |𝑆𝐷| = |𝑆𝐴| (odcinki 𝑆𝐷 i 𝑆𝐴 są
+promieniami okręgu).
+• trójkąt 𝐴𝑆𝐵 jest równoramienny, gdzie: |𝑆𝐴| = |𝑆𝐵| (odcinki 𝑆𝐴 i 𝑆𝐵 są
+promieniami okręgu).
+• |∡𝑆𝐴𝐶| = 90° (promień poprowadzony do punktu styczności jest prostopadły do
+stycznej)
+Oznaczmy: |∡𝐵𝐴𝐶| = 𝛽.
+Ponieważ trójkąt 𝐴𝐶𝐵 jest równoramienny, więc
+|∡𝐶𝐵𝐴| = |∡𝐵𝐴𝐶| = 𝛽 oraz |∡𝐴𝐶𝐵| = 180° − 2𝛽
+Wtedy |∡𝑆𝐴𝐵| = |∡𝑆𝐴𝐶| − |∡𝐵𝐴𝐶| = 90° − 𝛽.
+Ponieważ trójkąt 𝐴𝑆𝐵 jest równoramienny, więc |∡𝑆𝐵𝐴| = 90° − 𝛽.
+Kąt 𝐷𝑆𝐴 jest kątem środkowym opartym na tym samym łuku co kąt wpisany 𝑆𝐵𝐴, zatem:
+|∡𝐷𝑆𝐴| = 2 ⋅ |∡𝑆𝐵𝐴| = 2 ⋅ (90° − 𝛽) = 180° − 2𝛽.
+Długości dwóch boków trójkąta 𝐴𝐶𝐵 są proporcjonalne do odpowiednich długości dwóch
+boków trójkąta 𝐴𝑆𝐷 i kąty między tymi parami boków są przystające:
+|𝐴𝐶|
+|𝐴𝑆| = |𝐵𝐶|
+|𝐷𝑆| i |∡𝐴𝐶𝐵| = |∡𝐷𝑆𝐴| = 180° − 2𝛽
+Trójkąty 𝐴𝐶𝐵 i 𝐴𝑆𝐷 są podobne na podstawie cechy bok – kąt – bok podobieństwa
+trójkątów.
+𝐵
+𝑆
+𝑘
+𝐶
+𝐴
+𝑙
+𝐷
+180° − 2𝛽
+𝛽
+180° − 2𝛽

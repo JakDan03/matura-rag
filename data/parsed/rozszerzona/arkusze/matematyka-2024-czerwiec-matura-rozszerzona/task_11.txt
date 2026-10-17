@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=20; level=rozszerzony; year=2024; month=czerwiec; task_id=11]
+Zadanie 11. (0–6)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) prosta o równaniu 3𝑥 + 𝑦 + 2 = 0
+przecina parabolę o równaniu 𝑦 = 𝑥2 − 2𝑥 − 8 w punktach 𝐴 oraz 𝐵, które są kolejnymi
+wierzchołkami równoległoboku 𝐴𝐵𝐶𝐷. Wierzchołek 𝐴 ma pierwszą współrzędną ujemną.
+Wierzchołek 𝐶 leży na prostej o równaniu 𝑦 = − 1
+2 𝑥 + 1 i ma pierwszą współrzędną
+dodatnią. Odległość punktu 𝐶 od prostej zawierającej bok 𝐴𝐵 równoległoboku jest
+równa 9√10
+5 .
+Oblicz długość boku 𝑩𝑪 tego równoległoboku. Zapisz obliczenia.

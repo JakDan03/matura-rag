@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=28; level=podstawowy; year=2025; month=czerwiec; task_id=31]
+Zadanie 31. (0–1)
+Producent latarek przeanalizował wpływ zmiany ceny latarki L25 na liczbę kupujących ten
+produkt. Z analizy wynika, że roczny zysk 𝒵 ze sprzedaży latarek L25 wyraża się wzorem
+𝒵(𝑥) = (500 + 50𝑥)(16 − 𝑥)
+gdzie:
+𝑥 – kwota obniżki ceny latarki L25 (wyrażona w pełnych złotych), spełniająca warunki
+𝑥 ≥ 1 i 𝑥 ≤ 14,
+𝒵 – roczny zysk ze sprzedaży latarek L25 (wyrażony w złotych), liczony od momentu
+obniżenia ceny.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Roczny zysk 𝒵 ze sprzedaży latarek L25 będzie największy dla 𝑥 równego
+A. 3 B. 4 C. 7 D. 14

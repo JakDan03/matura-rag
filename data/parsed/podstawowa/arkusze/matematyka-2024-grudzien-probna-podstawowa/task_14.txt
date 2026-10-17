@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=14; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=14]
+Zadanie 14. (0–1)
+Ciąg (𝑎𝑛) jest określony wzorem 𝑎𝑛 = 3 ⋅ (−1)𝑛 + 10 dla każdej liczby naturalnej 𝑛 ≥ 1.
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Ciąg (𝑎𝑛) jest geometryczny. P F
+Suma ośmiu początkowych kolejnych wyrazów ciągu (𝑎𝑛) jest równa 80. P F

@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=23; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=25]
+Zadanie 25. (0–1)
+Dany jest sześcian 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 o krawędzi długości 5. Wewnątrz sześcianu znajduje się
+punkt 𝑃 (zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Suma odległości punktu 𝑃 od wszystkich ścian sześcianu 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 jest równa
+A. 15 B. 20 C. 25 D. 30
+𝐴
+𝐺
+𝐻
+𝐸
+𝐹
+𝑃
+𝐷
+𝐶
+𝐵
+5

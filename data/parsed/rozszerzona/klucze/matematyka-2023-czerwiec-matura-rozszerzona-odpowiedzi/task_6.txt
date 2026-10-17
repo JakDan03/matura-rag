@@ -1,0 +1,42 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=12, 13; level=rozszerzony; year=2023; month=czerwiec; task_id=6]
+Zadanie 6. (0–3)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+VIII.1) wyznacza promienie i średnice
+okręgów, długości cięciw okręgów oraz
+odcinków stycznych, w tym
+z wykorzystaniem twierdzenia Pitagorasa.
+Zasady oceniania
+3 pkt – spełnienie kryterium oceniania za 2 punkty oraz uzasadnienie, że |𝐴𝐶| = |𝐵𝐶|.
+2 pkt – wyznaczenie długości odcinków 𝐴𝑃, 𝐴𝑄, 𝐵𝐷, 𝐶𝐷, 𝐶𝑄 w zależności od tej samej
+zmiennej, np. |𝐴𝑃| = 5𝑥, |𝐴𝑄| = 5𝑥, |𝐵𝐷| = 𝑥, |𝐶𝐷| = 2𝑥, |𝐶𝑄| = 2𝑥.
+1 pkt – zapisanie równości wynikającej z twierdzenia o odcinkach stycznych: |𝐵𝐷| = |𝐵𝑃|
+(lub |𝐴𝑃| = |𝐴𝑄|, lub |𝐶𝑄| = |𝐶𝐷|).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Niech |𝐵𝑃| = 𝑥.
+Z twierdzenia o odcinkach stycznych wnioskujemy, że |𝐵𝐷| = |𝐵𝑃| = 𝑥.
+Z założenia |𝐶𝐷| = 2 ∙ |𝐵𝐷| otrzymujemy |𝐶𝐷| = 2𝑥. Z twierdzenia o odcinkach stycznych
+wnioskujemy, że |𝐶𝑄| = |𝐶𝐷| = 2𝑥 (zobacz rysunek).
+Ponieważ |𝐴𝑄| = 5 ∙ |𝐵𝑃|, więc |𝐴𝑄| = 5𝑥. Ponownie z twierdzenia o odcinkach stycznych
+wnioskujemy, że |𝐴𝑃| = |𝐴𝑄| = 5𝑥.
+Zatem |𝐴𝐶| = |𝐴𝑄| − |𝐶𝑄| = 5𝑥 − 2𝑥 = 3𝑥 oraz |𝐵𝐶| = |𝐵𝐷| + |𝐶𝐷| = 𝑥 + 2𝑥 = 3𝑥.
+Wobec tego |𝐴𝐶| = |𝐵𝐶|, więc trójkąt 𝐴𝐵𝐶 jest równoramienny. To należało wykazać.
+𝐶
+𝐷
+𝐴
+𝑄
+okrąg 𝒪
+𝑃
+𝐵
+𝑥
+𝑥
+2𝑥
+2𝑥
+Zasady oceniania rozwiązań zadań

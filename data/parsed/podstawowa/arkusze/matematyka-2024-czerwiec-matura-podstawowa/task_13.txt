@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=12; level=podstawowy; year=2024; month=czerwiec; task_id=13]
+Zadanie 13. (0–1)
+Liczba 2 jest miejscem zerowym funkcji liniowej 𝑓(𝑥) = (3 − 𝑚)𝑥 + 4.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba 𝑚 jest równa
+A. 0 B. 3 C. 4 D. 5

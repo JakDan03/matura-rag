@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=24; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=26]
+Zadanie 26. (0–3)
+Objętość ostrosłupa prawidłowego czworokątnego jest równa 384. Wysokość ściany
+bocznej tego ostrosłupa tworzy z płaszczyzną podstawy kąt o mierze 𝛼 taki, że tg 𝛼 = 4
+3
+(zobacz rysunek).
+Oblicz wysokość ściany bocznej tego ostrosłupa. Zapisz obliczenia.
+26.
+0–1–
+2–3
+𝛼
+⋅
+⋅

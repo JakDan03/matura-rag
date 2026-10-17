@@ -1,0 +1,29 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=112; level=rozszerzony; year=2024; section=3. Informacja o egzaminie maturalnym z matematyki dla]
+112 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Pierwsza współrzędna wierzchołka paraboli 𝑦 = −3𝑡2 + 33𝑡 + 180 ma wartość
+𝑝 = − 𝑏
+2𝑎 = − 33
+2 ⋅ (−3) = 11
+2 ∈ [0, 24]
+więc 𝜐 (11
+2 ) = −3 ⋅ (11
+2 )
+2
++ 33 ⋅ 11
+2 + 180 = 270,75 > 0.
+Zatem największa wartość prędkości, z jaką Syzyf wtacza kulę pod górę, jest równa
+270,75 m/h.
+Zadanie 10. (0–6)
+Na rysunku poniżej przedstawiono położenie czterech miast 𝐴, 𝐵, 𝐶 i 𝐷 oraz przykładową
+sieć dróg między nimi. Sieć trzeba zaprojektować tak, aby łączyła każde dwa z tych miast,
+miała dwa węzły, a łączna długość jej dróg była możliwie najmniejsza. Punkty 𝐴, 𝐵, 𝐶 i 𝐷
+to wierzchołki kwadratu o boku 300 km.
+Oblicz, jaka musi być długość najkrótszej takiej sieci dróg i gdzie muszą być
+zlokalizowane węzły tej sieci. Zapisz obliczenia.
+𝐴
+𝐶
+𝐷
+𝐵
+węzły
+300 km
+300 km

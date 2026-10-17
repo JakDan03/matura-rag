@@ -1,0 +1,119 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=28, 29, 30, 31; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=30]
+Zadanie 30. (0–4)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+XIII) rozwiązuje zadania optymalizacyjne
+w sytuacjach dających się opisać funkcją
+kwadratową.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawne wyniki, np.:
+𝑃(𝑥) = −26𝑥2 + 96𝑥 oraz 𝐷 = (0, 3) oraz 𝑥 = 24
+13
+.
+3 pkt – zapisanie poprawnego wzoru na pole powierzchni całkowitej prostopadłościanu
+𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 w zależności od zmiennej 𝑥 oraz wyznaczenie dziedziny 𝐷 tej
+funkcji, np. 𝑃(𝑥) = −26𝑥2 + 96𝑥 oraz 𝐷 = (0, 3)
+ALBO
+– zapisanie poprawnego wzoru na pole powierzchni całkowitej prostopadłościanu
+𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 w zależności od zmiennej 𝑥 (bez wyznaczonej dziedziny funkcji 𝑃)
+oraz prawidłowe obliczenie pierwszej współrzędnej wierzchołka wykresu funkcji 𝑃,
+np. 𝑃(𝑥) = −26𝑥2 + 96𝑥 oraz 𝑥 = 24
+13
+.
+2 pkt – zapisanie poprawnego wzoru na pole powierzchni całkowitej prostopadłościanu
+𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 w zależności od zmiennej 𝑥 (bez wyznaczonej dziedziny funkcji 𝑃),
+np. 𝑃(𝑥) = −26𝑥2 + 96𝑥
+ALBO
+– zapisanie zależności między długościami krawędzi 𝐴𝐷 i 𝐴𝐵 prostopadłościanu
+oraz wyznaczenie zakresu zmienności 𝑥, np.
+4 ⋅ 𝑥 + 4 ⋅ |𝐴𝐷| + 4 ⋅ 3𝑥 = 48 oraz 𝑥 ∈ (0, 3).
+1 pkt – zapisanie zależności między długościami krawędzi 𝐴𝐷 i 𝐴𝐵 prostopadłościanu,
+np. 4 ⋅ 𝑥 + 4 ⋅ |𝐴𝐷| + 4 ⋅ 3𝑥 = 48
+ALBO
+– wyznaczenie zakresu zmienności 𝑥: 𝑥 ∈ (0, 3).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania rozwiązań zadań
+Uwagi:
+1. Jeżeli zdający zapisze poprawny wzór funkcji 𝑃 zmiennej 𝑥 oraz zapisze poprawną
+dziedzinę funkcji 𝑃, a następnie obliczy 𝑃 (24
+13) oraz wartości funkcji 𝑃 dla dwóch
+argumentów leżących symetrycznie względem prostej 𝑥 = 24
+13, i nie odwoła się do
+symetrii wykresu funkcji kwadratowej, to otrzymuje 3 punkty za całe rozwiązanie.
+2. Jeżeli zdający nie zapisze pola powierzchni całkowitej prostopadłościanu jako funkcji 𝑃
+zmiennej 𝑥, a jedynie obliczy wartości pola dla wybranych długości krawędzi i na tej
+podstawie wskazuje największą wartość pola, to za całe rozwiązanie otrzymuje
+0 punktów, o ile nie nabył prawa do innej liczby punktów.
+3. Jeżeli zdający zamiast sumy długości wszystkich krawędzi prostopadłościanu rozpatruje
+sumę obwodów wszystkich jego ścian i rozwiąże zadanie konsekwentnie do końca, to
+może otrzymać co najwyżej 3 punkty za całe rozwiązanie (za konsekwentne:
+wyznaczenie wzoru funkcji pola, dziedziny tej funkcji oraz obliczenie wartości 𝑥, dla której
+funkcja osiąga wartość największą).
+4. Jeżeli zdający w wyniku popełnionych błędów otrzymuje funkcję pola, która jest funkcją
+kwadratową o dodatnim współczynniku przy 𝑥2, to może otrzymać co najwyżej 2 punkty
+za całe rozwiązanie (za zapisanie zależności między długościami krawędzi 𝐴𝐷 i 𝐴𝐵
+prostopadłościanu oraz za wyznaczenie zakresu zmienności 𝑥).
+5. Jeżeli zdający oblicza największą wartość funkcji 𝑃 z wykorzystaniem rachunku
+różniczkowego i nie uzasadni, że w punkcie będącym miejscem zerowym pochodnej
+funkcji 𝑃 jest największa wartość funkcji 𝑃, to może otrzymać co najwyżej 3 punkty za
+całe rozwiązanie.
+Za poprawne uzasadnienie, że w punkcie będącym miejscem zerowym pochodnej
+funkcji 𝑃 jest największa wartość funkcji 𝑃, można uznać sytuację, gdy zdający bada
+znak pochodnej (np. szkicuje wykres funkcji, która w ten sam sposób jak pochodna
+zmienia znak, i zaznacza na rysunku, np. znakami „+” i „-”, znak pochodnej), oraz:
+– opisuje przedziały monotoniczności funkcji 𝑃 (słownie lub graficznie – np. przy użyciu
+strzałek)
+LUB
+– zapisuje, że dla wyznaczonego miejsca zerowego pochodnej, funkcja 𝑃 ma maksimum
+lokalne i jest to jednocześnie jej największa wartość,
+LUB
+– zapisuje, że dla wyznaczonego miejsca zerowego pochodnej, funkcja 𝑃 ma maksimum
+lokalne i jest to jedyne ekstremum tej funkcji.
+Przykładowe pełne rozwiązanie
+Przyjmijmy oznaczenia jak na rysunku.
+Ponieważ |𝐴𝐵| = 𝑥, więc |𝐴𝐸| = 3𝑥.
+Suma długości wszystkich dwunastu krawędzi prostopadłościanu jest równa 48, zatem
+4 ⋅ |𝐴𝐵| + 4 ⋅ |𝐴𝐷| + 4 ⋅ |𝐴𝐸| = 48
+|𝐴𝐵| + |𝐴𝐷| + |𝐴𝐸| = 12
+𝑥 + |𝐴𝐷| + 3𝑥 = 12
+|𝐴𝐷| = 12 − 4𝑥
+Pole 𝑃 powierzchni całkowitej prostopadłościanu 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 jest równe
+𝑃 = 2 ⋅ (|𝐴𝐵| ∙ |𝐴𝐷| + |𝐴𝐵| ⋅ |𝐴𝐸| + |𝐴𝐷| ⋅ |𝐴𝐸|)
+Ponieważ |𝐴𝐵| = 𝑥, |𝐴𝐷| = 12 − 4𝑥, |𝐴𝐸| = 3𝑥, więc wzór funkcji 𝑃 zmiennej 𝑥 ma
+postać
+𝑃(𝑥) = 2 ⋅ [𝑥 ⋅ (12 − 4𝑥) + 𝑥 ⋅ 3𝑥 + (12 − 4𝑥) ⋅ 3𝑥]
+𝑃(𝑥) = 2 ⋅ (12𝑥 − 4𝑥2 + 3𝑥2 + 36𝑥 − 12𝑥2)
+𝑃(𝑥) = 2 ⋅ (−13𝑥2 + 48𝑥)
+𝑃(𝑥) = −26𝑥2 + 96𝑥
+Wyznaczamy dziedzinę funkcji 𝑃. Z warunków zadania wynika, że:
+|𝐴𝐵| = 𝑥 > 0 oraz |𝐴𝐷| = 12 − 4𝑥 > 0 oraz |𝐴𝐸| = 3𝑥 > 0
+Zatem
+𝑥 > 0 oraz 𝑥 < 3
+𝐴
+𝐵
+𝐶
+𝐷
+𝐺
+𝐻
+𝐸
+𝐹
+𝑥
+Zasady oceniania rozwiązań zadań
+Zmienna 𝑥 może przyjmować wartości z przedziału (0, 3).
+Wykresem funkcji 𝑃 jest fragment paraboli skierowanej ramionami do dołu. Obliczamy
+pierwszą współrzędną wierzchołka tej paraboli:
+𝑝 = −96
+2 ⋅ (−26) = 24
+13 ∈ (0, 3)
+Zatem funkcja 𝑃 przyjmuje wartość największą dla argumentu 24
+13
+.
+Spośród rozważanych prostopadłościanów największe pole powierzchni całkowitej ma ten,
+w którym 𝑥 = 24
+13
+.

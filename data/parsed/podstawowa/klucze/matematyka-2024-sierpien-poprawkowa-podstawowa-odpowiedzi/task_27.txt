@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=27, 28; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=27]
+Zadanie 27. (0–1)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+XI.1) zlicza obiekty w prostych sytuacjach
+kombinatorycznych.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C

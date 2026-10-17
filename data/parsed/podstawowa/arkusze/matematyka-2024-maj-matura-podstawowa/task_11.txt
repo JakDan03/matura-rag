@@ -1,0 +1,31 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=11; level=podstawowy; year=2024; month=maj; task_id=11]
+Zadanie 11. (0–1)
+Na rysunku, w kartezjańskim układzie współrzędnych (𝑥, 𝑦), przedstawiono dwie proste
+równoległe, które są interpretacją geometryczną jednego z poniższych układów równań A–D.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Układem równań, którego interpretację geometryczną przedstawiono na rysunku, jest
+A. {
+𝑦 = − 3
+2 𝑥 + 3
+𝑦 = − 3
+2 𝑥 − 1
+B. {
+𝑦 = 3
+2 𝑥 + 3
+𝑦 = − 2
+3 𝑥 − 1
+C. {
+𝑦 = 3
+2 𝑥 + 3
+𝑦 = 3
+2 𝑥 − 1
+D. {
+𝑦 = − 3
+2 𝑥 − 3
+𝑦 = 3
+2 𝑥 + 1
+1
+𝑥
+1
+𝑦
+0

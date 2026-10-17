@@ -1,0 +1,158 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=43, 44, 45, 46, 47; level=rozszerzony; year=2025; month=maj; task_id=11]
+Zadanie 11. (0–6)
+Wymagania ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+3. Tworzenie pomocniczych obiektów
+matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub
+rozwiązania problemu.
+Zdający:
+III.R3) stosuje wzory Viète’a dla równań
+kwadratowych;
+III.R5) analizuje równania i nierówności
+liniowe z parametrami oraz równania
+i nierówności kwadratowe z parametrami
+[…].
+Zasady oceniania
+Rozwiązanie zadania składa się z czterech etapów.
+Pierwszy etap polega na rozwiązaniu nierówności ∆ > 0. Za poprawne wykonanie tego
+etapu zdający otrzymuje 1 punkt.
+1 pkt – poprawne rozwiązanie nierówności ∆ > 0: 𝑚 ∈ (−∞, −3) ∪ (1, +∞).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga.
+Jeżeli zdający rozwiązuje warunek ∆ ≥ 0, to za tę część rozwiązania otrzymuje 0 punktów.
+Drugi etap polega na wyznaczeniu tych wartości parametru 𝑚, dla których miejsca zerowe
+funkcji 𝑓 są tego samego znaku. Za poprawne wykonanie tego etapu zdający otrzymuje
+1 punkt.
+1 pkt – zapisanie i poprawne rozwiązanie nierówności 𝑚 + 8
+2 − 𝑚 > 0: 𝑚 ∈ (−8, 2).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Trzeci etap polega na wyznaczeniu tych wartości parametru 𝑚, dla których jest spełniony
+warunek (𝑥1 − 𝑥2)2 ≤ 180. Za poprawne wykonanie tego etapu zdający otrzymuje
+3 punkty.
+Podział punktów za trzeci etap rozwiązania:
+3 pkt – rozwiązanie nierówności z jedną niewiadomą 𝑚 równoważnej warunkowi
+(𝑥1 − 𝑥2)2 ≤ 180: 𝑚 ∈ (−∞, 3
+2] ∪ [13
+4 , +∞).
+2 pkt – zapisanie nierówności z jedną niewiadomą 𝑚 równoważnej warunkowi
+(𝑥1 − 𝑥2)2 ≤ 180, np.
+[2(2𝑚 + 1)
+2 − 𝑚 ]
+2
+− 4 ⋅ 𝑚 + 8
+2 − 𝑚 ≤ 180
+1 pkt – przekształcenie nierówności (𝑥1 − 𝑥2)2 ≤ 180 do postaci pozwalającej na
+bezpośrednie zastosowanie wzorów Viète’a, np. (𝑥1 + 𝑥2)2 − 4𝑥1𝑥2 ≤ 180
+ALBO
+– przekształcenie nierówności (𝑥1 − 𝑥2)2 ≤ 180 do postaci Δ
+𝑎2 ≤ 180 (lub
+𝑏2− 4𝑎𝑐
+𝑎2 ≤ 180).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Czwarty etap polega na wyznaczeniu wszystkich wartości parametru 𝑚, które spełniają
+jednocześnie warunki: 𝑚 ≠ 2 oraz 𝑚 ∈ (−∞, −3) ∪ (1, +∞) oraz 𝑚 ∈ (−8, 2) oraz
+𝑚 ∈ (−∞, 3
+2] ∪ [13
+4 , +∞):
+𝑚 ∈ (−8, −3) ∪ (1, 3
+2].
+Za poprawne wykonanie tego etapu zdający otrzymuje 1 punkt.
+Zasady oceniania rozwiązań zadań
+1 pkt – poprawne wyznaczenie wszystkich wartości parametru 𝑚, które spełniają
+jednocześnie warunki 𝑚 ≠ 2 oraz 𝑚 ∈ (−∞, −3) ∪ (1, +∞) oraz 𝑚 ∈ (−8, 2)
+oraz 𝑚 ∈ (−∞, 3
+2] ∪ [13
+4 , +∞): 𝑚 ∈ (−8, −3) ∪ (1, 3
+2].
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający w którymś z etapów I–III popełni błąd, który nie jest błędem rachunkowym,
+to za IV etap otrzymuje 0 punktów.
+2. Jeżeli zdający w etapach I–III nie popełni błędów innych niż rachunkowe i otrzyma zbiory
+rozwiązań, które nie są rozłączne i żaden z nich nie jest zbiorem liczb rzeczywistych,
+a następnie poprawnie wyznaczy część wspólną zbiorów rozwiązań z etapów I–III
+i warunku 𝑚 ≠ 2, to za IV etap otrzymuje 1 punkt; natomiast jeżeli otrzyma zbiory
+rozwiązań, które są rozłączne lub co najmniej jeden z nich jest zbiorem liczb
+rzeczywistych, to za IV etap otrzymuje 0 punktów.
+3. Jeżeli zdający w III etapie rozwiązania popełni błąd – przyjmie, że
+𝑥1 + 𝑥2 = ± 𝑚 + 8
+2 − 𝑚 lub 𝑥1 ⋅ 𝑥2 = ± 2(2𝑚 + 1)
+2 − 𝑚 , lub 𝑥1 + 𝑥2 = ± 𝑏
+2𝑎 , to za III etap może
+otrzymać co najwyżej 2 punkty (1 punkt za przekształcenie nierówności
+(𝑥1 − 𝑥2)2 ≤ 180 do postaci pozwalającej na bezpośrednie zastosowanie wzorów
+Viète’a oraz 1 punkt za konsekwentne rozwiązanie nierówności do końca), a za IV etap
+otrzymuje 0 punktów.
+4. Jeżeli zdający wprowadza dodatkowe założenie, które nie wynika z warunków zadania
+(np. 𝑥1 + 𝑥2 > 0), to za całe rozwiązanie może otrzymać co najwyżej 5 punktów (co
+najwyżej 1 punkt za I etap, co najwyżej 1 punkt za II etap i co najwyżej 3 punkty za III
+etap).
+5. Jeżeli zdający podczas przekształcania nierówności (𝑥1 − 𝑥2)2 ≤ 180 do postaci
+pozwalającej na zastosowanie wzorów Viète’a popełni błąd, który nie jest błędem
+rachunkowym, ale otrzyma nierówność postaci (𝑥1 + 𝑥2)2 + 𝑘 ⋅ 𝑥1 ⋅ 𝑥2 ≤ 180, gdzie
+𝑘 ≠ −4, to za III etap może otrzymać co najwyżej 2 punkty (1 punkt za poprawne
+zastosowanie wzorów Viète’a oraz 1 punkt za konsekwentne rozwiązanie nierówności do
+końca), a za IV etap otrzymuje 0 punktów.
+Przykładowe pełne rozwiązanie
+Funkcja 𝑓 ma dokładnie dwa miejsca zerowe tylko wówczas, gdy 2 − 𝑚 ≠ 0 i wyróżnik Δ
+trójmianu (2 − 𝑚)𝑥2 − 2(2𝑚 + 1)𝑥 + 𝑚 + 8 jest dodatni. Rozwiązujemy warunek Δ > 0:
+[−2(2𝑚 + 1)]2 − 4 ⋅ (2 − 𝑚)(𝑚 + 8) > 0
+16𝑚2 + 16𝑚 + 4 + 4𝑚2 + 24𝑚 − 64 > 0
+20𝑚2 + 40𝑚 − 60 > 0
+20(𝑚 − 1)(𝑚 + 3) > 0
+𝑚 ∈ (−∞, −3) ∪ (1, +∞)
+Miejsca zerowe funkcji 𝑓 mają ten sam znak tylko wtedy, gdy 𝑥1 ⋅ 𝑥2 > 0. Rozwiązujemy tę
+nierówność, korzystając ze wzorów Viète’a:
+𝑚 + 8
+2 − 𝑚 > 0
+(𝑚 + 8)(2 − 𝑚) > 0 ∧ 𝑚 ≠ 2
+𝑚 ∈ (−8, 2)
+Przekształcamy warunek (𝑥1 − 𝑥2)2 ≤ 180 do postaci pozwalającej na bezpośrednie
+zastosowanie wzorów Viète’a i rozwiązujemy uzyskaną nierówność z niewiadomą 𝑚:
+(𝑥1 − 𝑥2)2 ≤ 180
+(𝑥1 + 𝑥2)2 − 4 ⋅ 𝑥1 ⋅ 𝑥2 ≤ 180
+[−2(2𝑚 + 1)
+2 − 𝑚 ]
+2
+− 4 ⋅ 𝑚 + 8
+2 − 𝑚 ≤ 180
+16𝑚2 + 16𝑚 + 4
+(𝑚 − 2)2 + 4 ⋅ (𝑚 + 8)(𝑚 − 2)
+(𝑚 − 2)2 − 180(𝑚 − 2)2
+(𝑚 − 2)2 ≤ 0
+16𝑚2 + 16𝑚 + 4 + 4𝑚2 + 24𝑚 − 64 − 180𝑚2 + 720𝑚 − 720
+(𝑚 − 2)2 ≤ 0
+−160𝑚2 + 760𝑚 − 780
+(𝑚 − 2)2 ≤ 0
+−160𝑚2 + 760𝑚 − 780 ≤ 0 ∧ 𝑚 ≠ 2
+8𝑚2 − 38𝑚 + 39 ≥ 0 ∧ 𝑚 ≠ 2
+Δ𝑚 = (−38)2 − 4 ⋅ 8 ⋅ 39 = 196
+𝑚 = 38 − 14
+16 = 3
+2 ∨ 𝑚 = 38 + 14
+16 = 13
+4
+8 (𝑚 − 3
+2) (𝑚 − 13
+4 ) ≥ 0 ∧ 𝑚 ≠ 2
+𝑚 ∈ (−∞, 3
+2] ∪ [13
+4 , +∞)
+Wyznaczamy wszystkie wartości parametru 𝑚, które jednocześnie spełniają warunki:
+• 𝑚 ≠ 2
+• 𝑚 ∈ (−∞, −3) ∪ (1, +∞)
+• 𝑚 ∈ (−8, 2)
+• 𝑚 ∈ (−∞, 3
+2] ∪ [13
+4 , +∞):
+𝑚 ∈ (−8, −3) ∪ (1, 3
+2]
+Zasady oceniania rozwiązań zadań
+Funkcja 𝑓 ma dokładnie dwa miejsca zerowe 𝑥1 oraz 𝑥2 tego samego znaku, które
+spełniają warunek (𝑥1 − 𝑥2)2 ≤ 180, tylko wtedy, gdy 𝑚 ∈ (−8, −3) ∪ (1, 3
+2].

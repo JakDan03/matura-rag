@@ -1,0 +1,85 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=13, 14, 15; level=podstawowy; year=2025; month=maj; task_id=12.1]
+Zadanie 12.1. (0–2)
+Wymaganie ogólne Wymaganie szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście,
+zarówno matematycznym, jak
+i popularnonaukowym, a także w formie
+wykresów, diagramów, tabel.
+Zdający:
+V.9) wyznacza wzór funkcji kwadratowej na
+podstawie informacji o tej funkcji lub o jej
+wykresie.
+Zasady oceniania
+2 pkt – poprawna metoda i zapisanie wzoru funkcji 𝑓 w postaci kanonicznej:
+𝑓(𝑥) = − 1
+3 (𝑥 − 3)2 + 6.
+1 pkt – zapisanie wzoru funkcji 𝑓 w postaci 𝑓(𝑥) = 𝑎(𝑥 − 3)2 + 6
+ALBO
+– zapisanie równania z jedną niewiadomą prowadzącego do obliczenia 𝑎, np.:
+3 = 𝑎(0 − 3)2 + 6, 3𝑎 − 1
+2𝑎 = 3,
+ALBO
+– obliczenie (lub podanie wraz z uzasadnieniem) współczynnika 𝑎: 𝑎 = − 1
+3
+.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający zapisze 𝑓(𝑥) = − 1
+3 (𝑥 − 3)2 + 6 i nie obliczy (ani nie uzasadni), że
+𝑎 = − 1
+3 , to otrzymuje 1 punkt.
+2. Jeżeli zdający zapisze wzór funkcji 𝑓 w postaci 𝑓(𝑥) = 𝑎(𝑥 − 3)2 + 6 oraz poprawnie
+obliczy współczynnik 𝑎, to otrzymuje 2 punkty.
+Przykładowe pełne rozwiązania
+Sposób I
+Korzystamy ze wzoru na postać kanoniczną funkcji kwadratowej i zapisujemy:
+𝑓(𝑥) = 𝑎(𝑥 − 3)2 + 6, gdzie 𝑎 ≠ 0
+Punkt (0, 3) leży na wykresie funkcji 𝑓, więc
+𝑓(0) = 3
+𝑎(0 − 3)2 + 6 = 3
+9𝑎 = −3
+𝑎 = − 1
+3
+Zatem 𝑓(𝑥) = − 1
+3 (𝑥 − 3)2 + 6.
+Sposób II
+Korzystamy ze wzoru na postać ogólną funkcji kwadratowej i zapisujemy:
+𝑓(𝑥) = 𝑎𝑥2 + 𝑏𝑥 + 𝑐, gdzie 𝑎 ≠ 0
+Punkty (0, 3), (3, 6), (6, 3) leżą na wykresie funkcji 𝑓, zatem
+{
+𝑓(0) = 3
+𝑓(3) = 6
+𝑓(6) = 3
+{
+𝑎 ⋅ 02 + 𝑏 ⋅ 0 + 𝑐 = 3
+𝑎 ⋅ 32 + 𝑏 ⋅ 3 + 𝑐 = 6
+𝑎 ⋅ 62 + 𝑏 ⋅ 6 + 𝑐 = 3
+{
+𝑐 = 3
+9𝑎 + 3𝑏 + 𝑐 = 6
+36𝑎 + 6𝑏 + 𝑐 = 3
+{ 9𝑎 + 3𝑏 + 3 = 6
+36𝑎 + 6𝑏 + 3 = 3
+{ 3𝑎 + 𝑏 = 1
+6𝑎 + 𝑏 = 0
+Odejmujemy równania stronami i otrzymujemy:
+−3𝑎 = 1
+𝑎 = − 1
+3
+Stąd
+𝑏 = 1 − 3𝑎 = 1 − 3 ⋅ (− 1
+3) = 1 + 1 = 2
+Zapisujemy wzór funkcji 𝑓 w postaci ogólnej:
+𝑓(𝑥) = − 1
+3 𝑥2 + 2𝑥 + 3
+Przekształcamy wzór funkcji 𝑓 do postaci kanonicznej:
+𝑓(𝑥) = − 1
+3 𝑥2 + 2𝑥 + 3 = − 1
+3 (𝑥2 − 6𝑥 − 9) = − 1
+3 (𝑥2 − 6𝑥 + 9 − 18) =
+= − 1
+3 [(𝑥 − 3)2 − 18] = − 1
+3 (𝑥 − 3)2 + 6
+Zasady oceniania rozwiązań zadań

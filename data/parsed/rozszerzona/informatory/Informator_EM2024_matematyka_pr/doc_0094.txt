@@ -1,0 +1,33 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=94; level=rozszerzony; year=2024; section=2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów]
+94 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Przykładowe pełne rozwiązanie
+Niech 𝑙 będzie długością tworzącej stożka, a 𝑅 – długością promienia podstawy stożka.
+Rozwiniemy powierzchnię boczną stożka, na której zaznaczymy kluczowe punkty 𝑃, 𝐵 i 𝑆.
+Długość odcinka 𝑃𝐵 oznaczymy jako 𝑑. Jest to długość najkrótszej trasy z punktu 𝑃 do
+bazy (zobacz rys. 1.).
+Powierzchnia boczna stożka po rozwinięciu jest wycinkiem koła o promieniu długości 𝑙.
+Wyznaczymy miarę 𝛽 kąta środkowego tego wycinka.
+Ze wzorów na pole powierzchni bocznej stożka oraz pole wycinka koła otrzymujemy
+𝜋 ⋅ 𝑅 ⋅ 𝑙 = 𝛽
+2𝜋 ⋅ 𝜋 ⋅ 𝑙2
+𝛽 = 2𝜋 ⋅ 𝑅
+𝑙
+Zatem
+|∡𝐵𝑆𝑃| = 1
+2 𝛽 = 𝜋 ⋅ 𝑅
+𝑙
+Kąt rozwarcia stożka jest równy 𝛼, więc 𝑅
+𝑙 = sin 𝛼
+2 , co prowadzi do
+|∡𝐵𝑆𝑃| = 𝜋 ⋅ sin 𝛼
+2
+Wyrazimy długości odcinków 𝐵𝑆 oraz 𝑃𝑆 w zależności od danych podanych w treści
+zadania.
+Rozważmy przekrój osiowy stożka zawierający punkty 𝐵, 𝑃 oraz 𝑆 (zobacz rys. 2.). Punkt
+𝑆′ na rysunku 2. jest rzutem prostokątnym punktu 𝑆 na podstawę stożka, natomiast punkt
+𝑄 – punktem przecięcia tworzącej 𝑆𝐵 z podstawą stożka.
+𝑆
+𝐵
+𝑃
+𝑑
+Rysunek 1.

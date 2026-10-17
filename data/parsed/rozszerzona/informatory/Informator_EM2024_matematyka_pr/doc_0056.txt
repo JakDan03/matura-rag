@@ -1,0 +1,23 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=56; level=rozszerzony; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+56 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymaganie szczegółowe
+XIII. Optymalizacja i rachunek różniczkowy. Zdający:
+6R) rozwiązuje zadania optymalizacyjne z zastosowaniem pochodnej.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik.
+3 pkt – zbadanie znaku pochodnej funkcji 𝑉 i określenie monotoniczności funkcji 𝑉.
+2 pkt – obliczenie miejsc zerowych pochodnej funkcji 𝑉.
+1 pkt – wyznaczenie pochodnej funkcji 𝑉.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+W celu znalezienia prostopadłościanu, którego objętość jest najmniejsza, należy zbadać
+funkcję 𝑉(𝑐).
+Wyznaczamy pochodną funkcji 𝑉 i obliczamy miejsca zerowe pochodnej funkcji 𝑉:
+𝑉′(𝑐) = 3𝑐2 − 40𝑐 + 128
+𝑉′(𝑐) = 0
+3𝑐2 − 40𝑐 + 128 = 0
+Δ = 64

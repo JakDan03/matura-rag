@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=9; level=podstawowy; year=2026; month=marzec; term=probna; task_id=11.1]
+Zadanie 11.1. (0–1)
+Wymaganie ogólne Wymaganie szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście,
+zarówno matematycznym, jak
+i popularnonaukowym, a także w formie
+wykresów, diagramów, tabel.
+Zdający:
+V.4) odczytuje z wykresu funkcji: […]
+przedziały monotoniczności […].
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+FP

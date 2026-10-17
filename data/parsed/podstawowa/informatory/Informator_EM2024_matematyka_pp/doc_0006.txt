@@ -1,0 +1,40 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=6; level=podstawowy; year=2024; section=6 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025]
+6 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+ZADANIA NA EGZAMINIE
+W arkuszu egzaminacyjnym znajdą się zarówno zadania zamknięte, jak i otwarte.
+Zadania zamknięte to takie, w których zdający wybiera odpowiedź spośród podanych.
+Wśród zadań zamkniętych mogą znaleźć się:
+• zadania wyboru jednokrotnego
+• zadania wyboru wielokrotnego
+• zadania typu prawda-fałsz
+• zadania na dobieranie.
+Zadania otwarte to takie, w których zdający samodzielnie formułuje odpowiedź.
+Wśród zadań otwartych mogą znaleźć się:
+• zadania z luką, wymagające uzupełnienia zdania albo zapisania odpowiedzi jednym lub
+kilkoma wyrazami, symbolami lub wyrażeniami matematycznymi określającymi własności
+obiektów matematycznych, w tym wykonania lub uzupełniania wykresu, zależności,
+diagramu, tabeli
+• zadania krótkiej odpowiedzi, wymagające wykonania prostego obliczenia lub
+bezpośredniego zapisania rozwiązania albo zapisania przeprowadzonego rozumowania
+lub obliczenia zwykle w dwóch lub trzech etapach
+• zadania rozszerzonej odpowiedzi, wymagające utworzenia strategii rozwiązania
+problemu matematycznego i przedstawienia jej realizacji.
+Przedstawione przez zdającego rozwiązanie zadania otwartego, w którym zdający m.in.
+oblicza, wyznacza, wyprowadza, uzasadnia, wykazuje, musi prezentować pełny tok
+rozumowania, uwzględniać warunki zadania, a także odwoływać się do twierdzeń
+matematycznych i własności odpowiednich obiektów matematycznych.
+Wszystkie zadania egzaminacyjne będą sprawdzały poziom opanowania umiejętności
+określonych w następujących wymaganiach ogólnych w podstawie programowej kształcenia
+ogólnego dla szkoły ponadpodstawowej (w nawiasach zapisano numery celów kształcenia
+podstawy programowej):
+• sprawność rachunkowa (I)
+• wykorzystanie i tworzenie informacji (II)
+• wykorzystanie i interpretowanie reprezentacji (III)
+• rozumowanie i argumentacja (IV).
+Zadania egzaminacyjne będą dotyczyły następujących obszarów tematycznych matematyki
+(w nawiasach zapisano numery treści nauczania podstawy programowej):
+• liczby rzeczywiste, wyrażenia algebraiczne, równania i nierówności, układy równań
+(I, II, III, IV)
+• funkcje, ciągi, optymalizacja (V, VI, XIII)
+• trygonometria, planimetria, geometria analityczna, stereometria (VII, VIII, IX, X)
+• kombinatoryka, rachunek prawdopodobieństwa i statystyka (XI, XII).

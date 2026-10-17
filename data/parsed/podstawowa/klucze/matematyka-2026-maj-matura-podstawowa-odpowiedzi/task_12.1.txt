@@ -1,0 +1,24 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=15, 16; level=podstawowy; year=2026; month=maj; task_id=12.1]
+Zadanie 12.1. (0–2)
+Wymaganie ogólne Wymagania szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście,
+zarówno matematycznym, jak
+i popularnonaukowym, a także w formie
+wykresów, diagramów, tabel.
+Zdający:
+V.3) odczytuje i interpretuje wartości funkcji
+określonych za pomocą […] wykresów,
+wzorów […];
+V.4) odczytuje z wykresu funkcji: […]
+największe i najmniejsze wartości funkcji
+(o ile istnieją) w danym przedziale
+domkniętym […].
+Zasady oceniania
+2 pkt – poprawne uzupełnienie dwóch zdań.
+1 pkt – poprawne uzupełnienie jednego zdania.
+0 pkt – brak spełnienia powyższych kryteriów.
+Rozwiązanie
+1. Rozwiązaniem równania 𝑓(𝑥) = 3 jest liczba 1.
+2. Największa wartość funkcji 𝑓 w przedziale [2, 3] jest równa 4.

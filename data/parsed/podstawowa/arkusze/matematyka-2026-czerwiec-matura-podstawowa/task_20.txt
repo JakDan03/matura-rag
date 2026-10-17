@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=20; level=podstawowy; year=2026; month=czerwiec; task_id=20]
+Zadanie 20. (0–2)
+W trójkącie ostrokątnym 𝐴𝐵𝐶 punkt 𝐷 leży na boku 𝐴𝐵, a punkt 𝐸 leży na boku 𝐴𝐶.
+Odcinek 𝐵𝐸 jest środkową trójkąta 𝐴𝐵𝐶, a odcinek 𝐶𝐷 jest wysokością tego trójkąta.
+Ponadto odcinki 𝐷𝐵 oraz 𝐷𝐸 mają równe długości (zobacz rysunek).
+Wykaż, że |∡𝑪𝑨𝑩| = 𝟐 ⋅ |∡𝑨𝑩𝑬|.
+𝐴
+𝐵
+𝐶
+𝐸
+𝐷
+20.
+0–1–2

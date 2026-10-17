@@ -1,0 +1,42 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=129; level=rozszerzony; year=2024; section=|𝐸𝐶|2 = |𝐶𝑆|2 − |𝑆𝐸|2]
+Informacja o egzaminie maturalnym z matematyki dla absolwentów niesłyszących 129
+Przykładowe pełne rozwiązania
+Sposób 1.
+Zapisujemy równanie okręgu o środku w punkcie 𝑆 = (19, −11) i promieniu 17√2:
+(𝑥 − 19)2 + (𝑦 + 11)2 = 578
+Obliczamy współrzędne wierzchołków 𝐴 i 𝐶 trapezu, czyli punkty przecięcia okręgu i
+prostej:
+{ (𝑥 − 19)2 + (𝑦 + 11)2 = 578
+𝑦 = 𝑥
+(𝑥 − 19)2 + (𝑥 + 11)2 = 578
+2𝑥2 − 16𝑥 − 96 = 0
+Po rozwiązaniu równania otrzymujemy: 𝑥 = −4 lub 𝑦 = −4. Gdy 𝑥 = −4, to 𝑦 = −4.
+Gdy 𝑥 = 12, to 𝑦 = 12.
+Ponieważ wierzchołek 𝐴 trapezu ma obie współrzędne ujemne, więc otrzymujemy
+𝐴 = (−4, −4) oraz 𝐶 = (12, 12).
+Obliczamy długość odcinka 𝐴𝐶:
+|𝐴𝐶| = √(12 + 4)2 + (12 + 4)2 = 16√2
+Po zastosowaniu twierdzenia sinusów do trójkąta 𝐴𝐵𝐶 otrzymujemy
+|𝐴𝐶|
+sin |∡𝐴𝐵𝐶| = 2𝑅
+sin |∡𝐴𝐵𝐶| = |𝐴𝐶|
+2𝑅 = 16√2
+34√2
+= 8
+17
+Sposób 2.
+Niech 𝐸 będzie środkiem odcinka 𝐴𝐶. Obliczamy |𝑆𝐸| jako odległość punktu 𝑆 od
+prostej 𝐴𝐶 o równaniu 𝑥 − 𝑦 = 0:
+𝑑(𝑆, 𝐴𝐶) = |𝑆𝐸| = |19 − (−11)|
+√12 + (−1)2
+= 15√2
+Stosujemy twierdzenie Pitagorasa do trójkąta 𝐶𝐸𝑆 w celu obliczenia długości odcinka 𝐸𝐶
+(połowa długości przekątnej 𝐴𝐶 trapezu 𝐴𝐵𝐶𝐷):
+|𝐸𝐶|2 = |𝐶𝑆|2 − |𝑆𝐸|2
+|𝐸𝐶|2 = (17√2)
+2
+− (15√2)
+2
+= 128
+Zatem |𝐴𝐶| = 2 ⋅ |𝐸𝐶| = 16√2.
+Po zastosowaniu twierdzenia sinusów do trójkąta 𝐴𝐵𝐶 otrzymujemy

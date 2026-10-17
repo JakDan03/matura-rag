@@ -1,0 +1,29 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=39; level=podstawowy; year=2024; section=FUNKCJE, CIĄGI, OPTYMALIZACJA]
+Przykładowe zadania z rozwiązaniami 39
+FUNKCJE, CIĄGI, OPTYMALIZACJA
+Zadanie 22. (0–2)
+Funkcja 𝑦 = 𝑓(𝑥) jest określona za pomocą tabeli
+𝒙 −3 −2 −1 0 1 2 3
+𝒚 −3 2 0 1 0 2 1
+Oceń prawdziwość poniższych stwierdzeń. Zaznacz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Funkcja 𝑓 ma dokładnie jedno miejsce zerowe. P F
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) wykres funkcji 𝑓 jest
+symetryczny względem osi 𝑂𝑦. P F
+Największa wartość funkcji 𝑓 jest równa 3. P F
+Wymaganie ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno
+matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów,
+tabel.
+Wymaganie szczegółowe
+V. Funkcje. Zdający:
+3) odczytuje i interpretuje wartości funkcji określonych za pomocą tabel, wykresów,
+wzorów itp., również w sytuacjach wielokrotnego użycia tego samego źródła
+informacji lub kilku źródeł jednocześnie.
+Zasady oceniania
+2 pkt – poprawne zaznaczenie w trzech zdaniach.
+1 pkt – poprawne zaznaczenie w dwóch zdaniach.
+0 pkt – brak spełnienia powyższych kryteriów.
+Rozwiązanie
+FFF

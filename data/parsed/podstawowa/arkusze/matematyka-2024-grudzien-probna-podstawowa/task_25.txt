@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=23; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=25]
+Zadanie 25. (0–1)
+Długości trzech krawędzi wychodzących z jednego wierzchołka prostopadłościanu są trzema
+kolejnymi parzystymi liczbami naturalnymi. Najdłuższa krawędź tego prostopadłościanu ma
+długość 𝑝.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Objętość tego prostopadłościanu jest równa
+A. 𝑝3 − 3𝑝2 + 2𝑝
+B. 𝑝3 + 3𝑝2 + 2𝑝
+C. 𝑝3 − 6𝑝2 − 8𝑝
+D. 𝑝3 − 6𝑝2 + 8𝑝

@@ -1,0 +1,15 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=110; level=rozszerzony; year=2024; section=3. Informacja o egzaminie maturalnym z matematyki dla]
+110 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Zadanie 9. (0–4)
+Syzyf codziennie próbuje wtoczyć ciężką
+kamienną kulę na szczyt pewnej góry. Niestety,
+nie udaje mu się osiągnąć celu.
+Próbę zaczyna w chwili 𝑡 = 0 od punktu 𝒪
+oddalonego od szczytu o 4 km. Położenie 𝑠
+Syzyfa wtaczającego kulę jest opisane równaniem
+𝑠(𝑡) = −𝑡3 + 16,5𝑡2 + 180𝑡 dla 𝑡 ∈ [0, 24]
+gdzie 𝑠 jest wyrażone w metrach, a czas 𝑡 – w godzinach.
+Oś 𝒪𝑠 jest skierowana do wierzchołka góry i jest styczna w każdym punkcie do zbocza
+góry.
+Oblicz najmniejszą odległość, na jaką Syzyf zbliży się do wierzchołka góry, oraz
+największą prędkość, z jaką wtacza kamień pod górę. Zapisz obliczenia.

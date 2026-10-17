@@ -1,0 +1,211 @@
+Dział XIII. Optymalizacja i rachunek różniczkowy.
+Poziom: rozszerzony
+Zakres rozszerzony. Uczeń spełnia wymagania określone dla zakresu podstawowego, a
+ponadto:
+1) oblicza granice funkcji (w tym jednostronne);
+2) stosuje własność Darboux do uzasadniania istnienia miejsca zerowego funkcji;
+3) stosuje definicję pochodnej funkcji, podaje interpretację geometryczną i fizyczną
+pochodnej;
+4) oblicza pochodną funkcji potęgowej o wykładniku rzeczywistym oraz oblicza pochodną,
+korzystając z twierdzeń o pochodnej sumy, różnicy, iloczynu, ilorazu i funkcji złożonej;
+5) stosuje pochodną do badania monotoniczności funkcji;
+6) rozwiązuje zadania optymalizacyjne z zastosowaniem pochodnej.
+Warunki i sposób realizacji
+1. Korelacja.
+Ze względu na użyteczność matematyki i jej zastosowania w szkolnym nauczaniu fizyki,
+informatyki, geografii i chemii zaleca się zrealizować treści nauczania określone w działach: I
+pkt 9 (logarytmy) i w miarę możliwości V pkt 14, V pkt 1 (pojęcie funkcji) i V pkt 5 (funkcje
+liniowe) w pierwszym półroczu klasy I, zaś treści nauczania określone w działach: V pkt 11
+(funkcje kwadratowe) i V pkt 13 (proporcjonalność odwrotna) nie później niż do końca klasy
+I. Treści nauczania określone w dziale VI pkt 2 (obliczanie początkowych wyrazów ciągów
+określonych rekurencyjnie) można realizować w korelacji z analogicznym zagadnieniem
+podstawy programowej z informatyki.
+2. Oznaczenia.
+Uczniowie powinni używać powszechnie przyjętego oznaczenia zbiorów liczbowych, a w
+szczególności: dla liczb naturalnych symbolu 𝑁𝑁, dla liczb całkowitych symbolu Z, dla liczb
+wymiernych symbolu Q, dla liczb rzeczywistych symbolu R.
+3. Przedziały.
+Uczeń powinien wykorzystywać przedziały do opisu zbioru rozwiązań nierówności.
+Najważniejsza w odpowiedzi jest jej poprawność. Na przykład rozwiązanie nierówności
+𝑥𝑥2 − 9𝑥𝑥 +20 > 0 może być zapisane na każdy z poniższych sposobów:
+1) rozwiązaniem nierówności może być każda liczba x, która jest mniejsza od 4 lub większa
+od 5;
+2) rozwiązaniami są wszystkie liczby x, mniejsze od 4 i wszystkie liczby x większe od 5;
+3) 𝑥𝑥 < 4 lub 𝑥𝑥 > 5;
+4) 𝑥𝑥 ∈(−∞, 4) lub 𝑥𝑥 ∈(5, ∞);
+5) 𝑥𝑥 ∈(−∞, 4) ∪ (5, ∞).
+4. Zastosowania logarytmów.
+Przy nauczaniu logarytmów warto podkreślić ich zastosowania w wyjaśnianiu zjawisk
+przyrodniczych, których przebieg opisuje funkcja logarytmiczna. Procesy takie zachodzą, gdy
+w przedziale czasowym pewna wielkość zawsze rośnie (lub maleje) ze stałą krotnością.
+Poniższe przykładowe zadania ilustrują zastosowania logarytmu.
+Z1. Skala Richtera służy do określenia siły trzęsień ziemi. Siła ta jest opisana wzorem
+𝑅𝑅 = log
+𝐴𝐴
+𝐴𝐴0
+, gdzie A oznacza amplitudę trzęsienia wyrażoną w centymetrach, A0 = 10-4 cm jest
+stałą, nazywaną amplitudą wzorcową. 25 kwietnia 2015 r. w Nepalu miało miejsce trzęsienie
+ziemi o sile 7,8 w skali Richtera. Oblicz amplitudę tego trzęsienia ziemi.
+Z2. Chory przyjął dawkę 100 mg leku. Masę tego leku pozostałą w organizmie po czasie t
+określa zależność M (t) = a ⋅ bt. Po pięciu godzinach organizm usuwa 30 % leku. Oblicz, ile
+leku pozostanie w organizmie chorego po upływie doby.
+5. Zastosowanie algebry.
+Warunkiem powodzenia procesu nauczania matematyki jest sprawne posługiwanie się
+wyrażeniami algebraicznymi. Metody algebraiczne często dają się stosować w sytuacjach
+geometrycznych i na odwrót ilustracja geometryczna pozwala lepiej zrozumieć zagadnienia
+algebraiczne.
+6. Przekształcenia równoważne.
+W trakcie rozwiązywania równań i nierówności należy zwracać uwagę, że obok metody
+przekształceń równoważnych można stosować metodę wnioskowania (metoda analizy
+starożytnych). Po wyznaczeniu potencjalnego zbioru rozwiązań następuje sprawdzenie, które z
+wyznaczonych wartości istotnie są rozwiązaniami. W wielu sytuacjach nie warto domagać się
+przekształceń równoważnych, gdy metoda wnioskowania prowadzi do szybkich rezultatów.
+Ponadto uczniowie powinni wiedzieć, że uprawnioną metodą dowodzenia jest równoważne
+przekształcanie tezy.
+7. Postać kanoniczna.
+Przy omawianiu funkcji kwadratowej należy podkreślać znaczenie postaci kanonicznej i
+wynikających z tej postaci własności. Warto zwrócić uwagę, że wzory na pierwiastki trójmianu
+kwadratowego oraz na współrzędne wierzchołka paraboli, a także pojęcie i własności
+wyróżnika są jedynie wnioskami z postaci kanonicznej. Wiele zagadnień związanych z funkcją
+kwadratową daje się rozwiązać bezpośrednio z tej postaci, bez mechanicznego stosowania
+wzorów. W szczególności postać kanoniczna pozwala znajdować najmniejszą lub największą
+wartość funkcji kwadratowej, a także oś symetrii jej wykresu.
+8. Złożenia funkcji i funkcje odwrotne.
+Definicja funkcji złożonej pojawia się dopiero w zakresie rozszerzonym, ale już w zakresie
+podstawowym oczekuje się od ucznia umiejętności operowania równocześnie danymi
+zaczerpniętymi z kilku źródeł. Nie wymaga to jednak formalnego wprowadzenia operacji
+złożenia czy odwracania funkcji.
+9. Ciągi.
+Zagadnienie to należy omawiać tak, aby uczniowie zdali sobie sprawę, że poza ciągami
+arytmetycznymi i geometrycznymi istnieją też inne. Podobnie należy podkreślić, że poza
+ciągami niemalejącymi, rosnącymi, nierosnącymi, malejącymi i stałymi istnieją też takie, które
+nie są monotoniczne. Warto zwrócić uwagę uczniów, że niektóre ciągi opisują dynamikę
+procesów występujących w przyrodzie bądź społeczeństwie, np. szybkość rozprzestrzeniania
+się plotki (liczba an podaje, ile osób o plotce słyszało).
+10. Granica ciągu.
+Przed sformułowaniem definicji granicy ciągu warto zadawać uczniom pytania w rodzaju: czy
+istnieje taka liczba naturalna k, że dla każdej liczby naturalnej
+n większej od k zachodzi nierówność
+3 <
+𝑛𝑛
+2𝑛𝑛+1 <
+3ǫ Twierdzenie o trzech ciągach wspiera także
+budowanie intuicji granicy ciągu. Obliczanie granic ciągów warto poprzedzić wykorzystaniem
+programów komputerowych do rysowania wykresów ciągów. Dokładniejsze obliczenia ułatwią
+w odpowiednio dobranych przykładach formułowanie hipotez na temat istnienia wartości
+granicy ciągu.
+11. Funkcje trygonometryczne.
+Funkcje trygonometryczne, oprócz szerokich zastosowań w fizyce, służą do opisu związków
+miarowych w figurach płaskich oraz bryłach (np. twierdzenie sinusów i twierdzenie
+cosinusów). W wielu sytuacjach dla danego argumentu nie są potrzebne dokładne wartości tych
+funkcji, tylko ich przybliżenia. Uczniowie powinni umieć korzystać z tablic matematycznych
+jak i kalkulatora w dwóch celach: wyznaczania przybliżonych wartości funkcji
+trygonometrycznych danego kąta oraz określenia kąta, dla którego funkcja trygonometryczna
+osiąga określoną wartość.
+12. Planimetria.
+Rozwiązywanie klasycznych problemów geometrycznych jest skutecznym sposobem
+kształtowania świadomości matematycznej. Uczniowie, którzy rozwiązują zadania
+konstrukcyjne, nabywają przez to wprawy w rozwiązywaniu zadań geometrycznych różnego
+typu, np. uczeń z łatwością przyswoi własności okręgów wpisanych w trójkąt czy czworokąt,
+jeśli potrafi skonstruować te figury. Nauczanie konstrukcji geometrycznych można
+przeprowadzać w sposób klasyczny, za pomocą linijki i cyrkla, można też używać
+specjalistycznych programów komputerowych, takich jak np. GeoGebra.
+13. Dwumian Newtona.
+Ważne jest, żeby przy okazji nauczania wzoru na (𝑎𝑎 + 𝑏𝑏)𝑛𝑛 podkreślić znaczenie współczynnika
+dwumianowego (symbolu Newtona) (𝑛𝑛
+𝑘𝑘) w kombinatoryce. Warto go również zapisywać w
+postaci (𝑛𝑛
+𝑘𝑘) =
+𝑛𝑛(𝑛𝑛−1)⋅…⋅(𝑛𝑛−𝑘𝑘+2)(𝑛𝑛−𝑘𝑘+1)
+1⋅2⋅…⋅(𝑘𝑘−1)⋅𝑘𝑘 , gdyż w tej formie jest bardziej widoczna jego interpretacja
+i łatwiej obliczyć jego wartość dla małych k.
+14. Rachunek prawdopodobieństwa.
+Uczniowie w przyszłości będą mieli do czynienia z zagadnieniami powiązanymi z losowością,
+które występują w różnych dziedzinach życia i nauki, np. przy analizie sondaży, zagadnień z
+zakresu ekonomii i badaniach rynków finansowych lub w naukach przyrodniczych i
+społecznych. Warto wspomnieć o paradoksach rachunku prawdopodobieństwa, które pokazują
+typowe błędy w rozumowaniu, i omówić niektóre z nich. Warto też przeprowadzać z uczniami
+eksperymenty, np. eksperyment, w którym uczniowie zapisują długi ciąg orłów i reszek bez
+losowania, a następnie zapisują ciąg orłów i reszek powstały w wyniku losowych rzutów
+monetą. Błędne intuicje na temat losowości podpowiadają zwykle, że nie powinny pojawiać się
+długie sekwencje orłów (albo reszek), podczas gdy w rzeczywistości takie długie sekwencje
+orłów (lub reszek) występują.
+W zakresie rozszerzonym jest ważne uświadomienie uczniom, że rachunek
+prawdopodobieństwa nie ogranicza się jedynie do schematu klasycznego i używanej tam
+kombinatoryki. Dobrą ilustracją są przykłady zastosowania schematu Bernoullego dla dużej
+liczby prób.
+15. Pochodne.
+Posługiwanie się pojęciem granicy ilorazu różnicowego konieczne do zrozumienia pojęcia
+pochodnej wymaga dużych możliwości poznawczych. Dlatego też pochodne należy
+wprowadzać w pierwszej kolejności intuicyjnie, posługując się interpretacją fizyczną (prędkość
+chwilowa, natężenie prądu) oraz geometryczną (styczna, nachylenie wykresu). Podstawowym
+zastosowaniem definicji pochodnej może być wyprowadzenie wzoru na pochodną jednomianu
+i pochodną sumy, iloczynu i złożenia funkcji (gdy funkcja wewnętrzna jest różnowartościowa).
+Uczniowie powinni też poznać twierdzenie mówiące, że funkcja ciągła na przedziale i
+różniczkowalna wewnątrz tego przedziału jest niemalejąca wtedy i tylko wtedy, gdy jej
+pochodna jest nieujemna.
+16. Dowody.
+Samodzielne przeprowadzanie dowodów przez uczniów rozwija takie umiejętności, jak:
+logiczne myślenie, precyzyjne wyrażanie myśli i zdolność rozwiązywania złożonych
+problemów. Dowodzenie pozwala doskonalić umiejętność dobierania trafnych argumentów i
+konstruowania poprawnych rozumowań. Jedną z metod rozwijania umiejętności dowodzenia
+jest analizowanie dowodów poznawanych twierdzeń. Można uczyć w ten sposób, jak powinien
+wyglądać właściwie przeprowadzony dowód. Umiejętność formułowania poprawnych
+rozumowań i uzasadnień jest ważna również poza matematyką. Na poziomie rozszerzonym
+język matematyczny powinien osiągnąć wyższy stopień sformalizowania. Uczeń powinien
+poznać dowody następujących twierdzeń.
+Twierdzenia, dowody – zakres podstawowy:
+1) Istnienie nieskończenie wielu liczb pierwszych;
+2) Niewymierność liczb: √2, log2 5 itp.;
+3) Wzory na pierwiastki trójmianu kwadratowego;
+4) Podstawowe własności potęg (o wykładnikach całkowitych i wymiernych) i logarytmów;
+5) Wzory na n-ty wyraz i sumę n początkowych wyrazów ciągu arytmetycznego i
+geometrycznego;
+6) Twierdzenie o kątach w okręgu:
+a) kąt wpisany jest połową kąta środkowego opartego na tym samym łuku,
+b) jeżeli dwa kąty są wpisane w ten sam okrąg, to są równe wtedy i tylko wtedy, gdy są
+oparte na równych łukach;
+7) Twierdzenie o odcinkach w trójkącie prostokątnym. Jeśli odcinek CD jest wysokością
+trójkąta prostokątnego ABC o kącie prostym ACB, to |AD| ⋅ |BD| = |CD|2,
+|AC|2 = |AB| ⋅ |AD| oraz |BC|2 = |AB| ⋅ |BD|;
+8) Twierdzenie o dwusiecznej. Jeśli prosta CD jest dwusieczną kąta ACB w trójkącie ABC i
+punkt D leży na boku AB, to
+|AD|
+|BD| =
+|AC|
+|BC|;
+9) Wzór na pole trójkąta 𝑃𝑃 =
+2 ⋅ 𝑎𝑎 ⋅ 𝑏𝑏 ⋅sin 𝛾𝛾;
+10) Twierdzenie cosinusów i twierdzenie odwrotne do twierdzenia Pitagorasa.
+Twierdzenia, dowody – zakres rozszerzony:
+1) Dowód kombinatoryczny tożsamości: jeśli 0 < 𝑘𝑘 < 𝑛𝑛, to (𝑛𝑛
+𝑘𝑘) = (𝑛𝑛−1
+𝑘𝑘−1) + (𝑛𝑛−1
+𝑘𝑘 );
+2) Wzór dwumianowy Newtona. Wzory skróconego mnożenia na 𝑎𝑎𝑛𝑛 ± 𝑏𝑏𝑛𝑛 (przy
+odpowiednich założeniach o n) oraz jako wniosek: dla liczb całkowitych a i b,
+(𝑎𝑎 − 𝑏𝑏)|(𝑎𝑎𝑛𝑛 − 𝑏𝑏𝑛𝑛);
+3) Twierdzenie o dzieleniu z resztą wielomianu przez dwumian postaci 𝑥𝑥 − 𝑎𝑎 wraz ze
+wzorami rekurencyjnymi na współczynniki ilorazu i resztę (algorytm Hornera) – dowód
+można przeprowadzić w szczególnym przypadku, np. dla wielomianu czwartego stopnia.
+4) Wzory Viète’a;
+5) Wzory na sinus i cosinus sumy i różnicy kątów;
+6) Twierdzenie sinusów;
+7) Twierdzenia o istnieniu niektórych punktów szczególnych trójkąta:
+a) symetralne boków trójkąta przecinają się w jednym punkcie i (jako wniosek) proste
+zawierające wysokości trójkąta przecinają się w jednym punkcie,
+b) środkowe trójkąta przecinają się w jednym punkcie;
+8) Twierdzenie o czworokącie wpisanym w okrąg. Czworokąt wypukły ABCD można
+wpisać w okrąg wtedy i tylko wtedy, gdy
+|∠𝐵𝐵𝐵𝐵𝐵𝐵| + |∠𝐵𝐵𝐵𝐵𝐵𝐵| = |∠𝐵𝐵𝐵𝐵𝐵𝐵| + |∠𝐵𝐵𝐵𝐵𝐵𝐵| = 180°;
+9) Twier
+dzenie o czworokącie opisanym na okręgu. W czworokąt wypukły można wpisać
+okrąg wtedy i tylko wtedy, gdy |𝐵𝐵𝐵𝐵| + |𝐵𝐵𝐵𝐵| = |𝐵𝐵𝐵𝐵| + |𝐵𝐵𝐵𝐵|;
+10) Twier
+dzenie o prostej prostopadłej do płaszczyzny. Dane są proste k, l i m leżące na jednej
+płaszczyźnie. Jeśli proste k i l mają dokładnie jeden punkt wspólny i prosta n jest do nich
+prostopadła, to prosta n jest także prostopadła do prostej m;
+11) Twierdzenie o trzech prostopadłych. Prosta k przecina płaszczyznę P i nie jest do niej
+prostopadła. Prosta l jest rzutem prostokątnym prostej k na płaszczyznę P. Prosta m leży
+na płaszczyźnie P. Wówczas proste k i m są prostopadłe wtedy i tylko wtedy, gdy proste
+l i m są prostopadłe.

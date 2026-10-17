@@ -1,0 +1,37 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=8; year=2023; section=0 1 𝑥]
+Strona 8 z 34
+• Wykresem funkcji kwadratowej jest parabola o wierzchołku w punkcie
+Gdy 𝑎 < 0, to ramiona paraboli skierowane są ku dołowi. Gdy 𝑎 > 0, to ramiona paraboli
+skierowane są ku górze.
+• Liczba miejsc zerowych funkcji kwadratowej 𝑓(𝑥) = 𝑎𝑥2 + 𝑏𝑥 + 𝑐
+(liczba pierwiastków trójmianu kwadratowego, liczba rzeczywistych rozwiązań równania
+kwadratowego 𝑎𝑥2 + 𝑏𝑥 + 𝑐 = 0) zależy od wyróżnika Δ:
+1. jeżeli 𝚫 > 𝟎, to funkcja kwadratowa ma dwa miejsca zerowe (trójmian kwadratowy ma
+dwa różne pierwiastki rzeczywiste, równanie kwadratowe ma dwa rozwiązania
+rzeczywiste):
+2. jeżeli 𝚫 = 𝟎, to funkcja kwadratowa ma dokładnie jedno miejsce zerowe (trójmian
+kwadratowy ma jeden pierwiastek, równanie kwadratowe ma dokładnie jedno
+rozwiązanie rzeczywiste):
+3. jeżeli 𝚫 < 𝟎, to funkcja kwadratowa nie ma miejsc zerowych (trójmian kwadratowy nie
+ma pierwiastków rzeczywistych, równanie kwadratowe nie ma rozwiązań
+rzeczywistych).
+• Postać kanoniczna funkcji kwadratowej:
+𝑊 = (𝑝, 𝑞) gdzie 𝑝 = − 𝑏
+2𝑎 , 𝑞 = − 𝛥
+4𝑎
+𝑥1 = −𝑏 − √𝛥
+2𝑎 𝑥2 = −𝑏 + √𝛥
+2𝑎
+𝑥1 = 𝑥2 = − 𝑏
+2𝑎
+𝑓(𝑥) = 𝑎(𝑥 − 𝑝)2 + 𝑞
+𝑦
+𝑦 = 𝑎𝑥2
+1
+0 1 𝑥
+𝑎 < 0
+𝑦
+𝑦 = 𝑎𝑥2
+1
+0 1 𝑥
+𝑎 > 0

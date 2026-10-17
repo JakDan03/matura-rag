@@ -1,0 +1,55 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=11, 12; level=podstawowy; year=2026; month=marzec; term=probna; task_id=12]
+Zadanie 12. (0–3)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+V.7) szkicuje wykres funkcji kwadratowej
+zadanej wzorem;
+V.11) wykorzystuje własności funkcji […]
+kwadratowej do interpretacji zagadnień
+geometrycznych […].
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑃𝐴𝐵𝐶 = 54.
+2 pkt – obliczenie rzędnej punktu 𝐶 oraz obliczenie miejsc zerowych funkcji 𝑓: 𝑞 = 36,
+𝑥1 = 11
+4 , 𝑥2 = − 1
+4
+.
+1 pkt – obliczenie rzędnej punktu 𝐶: 𝑞 = 36
+ALBO
+– obliczenie miejsc zerowych funkcji 𝑓: 𝑥1 = 11
+4 , 𝑥2 = − 1
+4
+.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Zauważmy, że trójkąt 𝐴𝐵𝐶 jest równoramienny. Podstawą tego trójkąta jest odcinek 𝐴𝐵,
+natomiast wysokością jest odcinek, którego długość jest równa rzędnej punktu 𝐶.
+Obliczamy wyróżnik trójmianu −16𝑥2 + 40𝑥 + 11:
+Δ = 402 − 4 ⋅ (−16) ⋅ 11 = 1600 + 704 = 2304
+Obliczamy miejsca zerowe funkcji 𝑓:
+𝑥1 = −40 − √2304
+2 ⋅ (−16) = −88
+−32 = 11
+4
+𝑥2 = −40 + √2304
+2 ⋅ (−16) = 8
+−32 = − 1
+4
+Obliczamy długość podstawy 𝐴𝐵 trójkąta 𝐴𝐵𝐶:
+|𝐴𝐵| = 11
+4 − (− 1
+4) = 12
+4 = 3
+Korzystamy ze wzoru na drugą współrzędną wierzchołka paraboli i obliczamy rzędną punktu
+𝐶 = (𝑝, 𝑞):
+𝑞 = −2304
+4 ⋅ (−16) = −2304
+−64 = 36
+Próbny egzamin maturalny z matematyki na poziomie podstawowym – marzec 2026 r.
+Obliczamy pole trójkąta 𝐴𝐵𝐶:
+𝑃𝐴𝐵𝐶 = 1
+2 ⋅ 3 ⋅ 36 = 54

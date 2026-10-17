@@ -1,0 +1,27 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=59; level=podstawowy; year=2024; section=1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno]
+Przykładowe zadania z rozwiązaniami 59
+Wymaganie ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno
+matematycznym, jak i popularnonaukowym, a także w formie wykresów […].
+Wymaganie szczegółowe
+V. Funkcje. Zdający:
+14) posługuje się funkcjami wykładniczą i logarytmiczną, w tym ich wykresami, do opisu
+i interpretacji zagadnień związanych z zastosowaniami praktycznymi.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+A
+Zadanie 33.2. (0–3)
+Czas połowicznego rozpadu węgla C
+14 to około
+5 700 lat. Naukowcy oszacowali za pomocą
+datowania radiowęglowego, że masa izotopu
+węgla C
+14 w pewnym organicznym znalezisku
+archeologicznym stanowi 1
+16 masy tego izotopu,
+jaka utrzymywała się podczas życia organizmu.
+Oblicz, ile lat ma opisane znalezisko archeologiczne. Wynik podaj z dokładnością do
+stu lat.

@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=16; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=14]
+Zadanie 14. (0–1)
+Dany jest ciąg geometryczny (𝑎𝑛) określony dla każdej liczby naturalnej 𝑛 ≥ 1, w którym
+𝑎2 = 2 oraz 𝑎5 = 54.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Iloraz ciągu (𝑎𝑛) jest równy
+A. 3 B. 9 C. 52
+3 D. 27

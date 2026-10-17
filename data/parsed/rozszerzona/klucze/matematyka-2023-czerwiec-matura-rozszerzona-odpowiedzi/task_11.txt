@@ -1,0 +1,186 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=23, 24, 25, 26; level=rozszerzony; year=2023; month=czerwiec; task_id=11]
+Zadanie 11. (0–5)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+VI.6) wykorzystuje własności ciągów, w tym
+arytmetycznych i geometrycznych, do
+rozwiązywania zadań, również osadzonych
+w kontekście praktycznym.
+Zasady oceniania
+5 pkt – obliczenie 𝑎, 𝑏 oraz 𝑐: 𝑎 = 1 i 𝑏 = 3 i 𝑐 = 9 .
+4 pkt – rozwiązanie równania z jedną niewiadomą, np. 𝑎 = −
+49
+2 oraz 𝑎 = 1, 𝑞 = 3 oraz
+𝑞 =
+4
+7 .
+3 pkt – zapisanie równania z jedną niewiadomą, np. (
+2
+3 𝑎 +
+7
+3)
+2
+= 𝑎 (
+2
+3 𝑎 +
+25
+3 ),
+4 ⋅
+6
+𝑞2−𝑞 ⋅ 𝑞 = 2 ⋅
+6
+𝑞2−𝑞 +
+6
+𝑞2−𝑞 ⋅ 𝑞2 + 1.
+2 pkt – wykorzystanie związku między wyrazami ciągu arytmetycznego oraz związku między
+wyrazami ciągu geometrycznego i zapisanie układu warunków z trzema
+niewiadomymi prowadzącego do rozwiązania zadania, np. 𝑏2 = 𝑎𝑐 i 2𝑏 =
+2𝑎+𝑐+1
+2
+i 𝑐 − 𝑏 = 6
+ALBO
+– zapisanie wyrazów ciągu geometrycznego za pomocą jednej zmiennej/niewiadomej,
+np. (𝑎,
+2
+3 𝑎 +
+7
+3 ,
+2
+3 𝑎 +
+25
+3 ),
+ALBO
+– zapisanie wyrazów ciągu arytmetycznego za pomocą jednej zmiennej/niewiadomej,
+np. (
+𝑏2
+𝑏+6 , 2𝑏, 𝑏 + 6),
+ALBO
+– wykorzystanie związku między wyrazami ciągu arytmetycznego oraz związku między
+wyrazami ciągu geometrycznego i zapisanie układu warunków z dwiema
+niewiadomymi prowadzącego do rozwiązania zadania, np.
+2𝑎𝑞 =
+2𝑎+𝑎𝑞2+1
+2 i 𝑎𝑞2 − 𝑎𝑞 = 6.
+1 pkt – wykorzystanie własności ciągu arytmetycznego i zapisanie równania 2𝑏 =
+2𝑎+𝑐+1
+2
+ALBO
+– wykorzystanie własności ciągu arytmetycznego i zapisanie równania
+2𝑏 =
+2𝑎+𝑏+6+1
+2 ,
+ALBO
+– wykorzystanie własności ciągu geometrycznego i zapisanie równania 𝑏2 = 𝑎𝑐,
+ALBO
+– wykorzystanie własności ciągu geometrycznego i zapisanie równania 𝑎𝑞2 − 𝑎𝑞 = 6.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Z warunku 𝑐 − 𝑏 = 6 wyznaczamy 𝑐: 𝑐 = 𝑏 + 6.
+Zatem ciąg (2𝑎, 2𝑏, 𝑏 + 7) jest arytmetyczny. Korzystamy z własności ciągu arytmetycznego
+i otrzymujemy 2𝑏 =
+2𝑎+𝑏+7
+2 . Stąd 4𝑏 = 2𝑎 + 𝑏 + 7 , czyli 𝑏 =
+2
+3 𝑎 +
+7
+3 .
+Z zależności 𝑐 = 𝑏 + 6 oraz 𝑏 =
+2
+3 𝑎 +
+7
+3 otrzymujemy 𝑐 =
+2
+3 𝑎 +
+25
+3 . Zatem ciąg
+(𝑎,
+2
+3 𝑎 +
+7
+3 ,
+2
+3 𝑎 +
+25
+3 ) jest geometryczny.
+Korzystamy z własności ciągu geometrycznego i otrzymujemy
+(2
+3 𝑎 + 7
+3)
+2
+= 𝑎 ⋅ (2
+3 𝑎 + 25
+3 ) /⋅ 9
+(2𝑎 + 7)2 = 𝑎 ⋅ (6𝑎 + 75)
+0 = 2𝑎2 + 47𝑎 − 49
+Δ = 472 − 4 ⋅ 2 ⋅ (−49) = 2601, √Δ = 51
+𝑎 = − 49
+2 lub 𝑎 = 1
+Ponieważ wszystkie wyrazy ciągu (𝑎, 𝑏, 𝑐) są dodatnie, więc 𝑎 = 1.
+Wtedy 𝑏 =
+2
+3 ∙ 1 +
+7
+3 = 3 i 𝑐 = 3 + 6 = 9. Stąd (𝑎, 𝑏, 𝑐) = (1, 3, 9)
+i (2𝑎, 2𝑏, 𝑐 + 1) = (2, 6, 10).
+Ciąg (1, 3, 9) ma wszystkie wyrazy dodatnie i jest geometryczny (o ilorazie 3), ciąg (2, 6, 10)
+jest arytmetyczny (o różnicy 4).
+Zatem ostatecznie 𝑎 = 1 , 𝑏 = 3 oraz 𝑐 = 9 .
+Sposób II
+Ciąg (𝑎, 𝑏, 𝑐) jest geometryczny, więc ze wzoru ogólnego ciągu geometrycznego otrzymujemy
+𝑏 = 𝑎𝑞 oraz 𝑐 = 𝑎𝑞2. Z warunku 𝑐 − 𝑏 = 6 otrzymujemy 𝑎𝑞2 − 𝑎𝑞 = 6. Stąd
+𝑎𝑞(𝑞 − 1) = 6.
+Z warunków zadania 𝑎 ≠ 0. Gdyby 𝑞 = 0 lub 𝑞 = 1, to równanie 𝑎𝑞(𝑞 − 1) = 6 byłoby
+sprzeczne. Zatem 𝑞 ≠ 0 oraz 𝑞 ≠ 1. Wtedy 𝑎 =
+6
+𝑞2−𝑞.
+Ciąg (2𝑎, 2𝑏, 𝑐 + 1) jest arytmetyczny, więc korzystamy z własności ciągu arytmetycznego
+i otrzymujemy 2𝑎𝑞 =
+2𝑎+𝑎𝑞2+1
+2 , czyli 4𝑎𝑞 = 2𝑎 + 𝑎𝑞2 + 1.
+Wykorzystując związki 𝑎 =
+6
+𝑞2−𝑞 i 4𝑎𝑞 = 2𝑎 + 𝑎𝑞2 + 1, otrzymujemy
+4 ⋅ 6
+𝑞2 − 𝑞 ⋅ 𝑞 = 2 ⋅ 6
+𝑞2 − 𝑞 + 6
+𝑞2 − 𝑞 ⋅ 𝑞2 + 1
+Stąd dalej otrzymujemy:
+24𝑞
+𝑞2 − 𝑞 = 12
+𝑞2 − 𝑞 + 6𝑞2
+𝑞2 − 𝑞 + 1
+24𝑞 = 12 + 6𝑞2 + 𝑞2 − 𝑞
+7𝑞2 − 25𝑞 + 12 = 0
+Zasady oceniania rozwiązań zadań
+(𝑞 − 3)(7𝑞 − 4) = 0
+𝑞 = 3 lub 𝑞 = 4
+7
+Gdy 𝑞 =
+4
+7 , to wtedy 𝑎 =
+6
+(4
+7)
+2
+−4
+7
+< 0, więc dla tej wartości 𝑞 warunki zadania nie są
+spełnione.
+Gdy 𝑞 = 3, to wtedy 𝑎 =
+6
+32−3 = 1, 𝑏 = 3 i 𝑐 = 9.
+Ciąg (1, 3, 9) ma wszystkie wyrazy dodatnie i jest geometryczny (o ilorazie 3), ciąg (2, 6, 10)
+jest arytmetyczny (o różnicy 4).
+Zatem ostatecznie 𝑎 = 1 , 𝑏 = 3 oraz 𝑐 = 9 .
+Uwaga:
+Jeżeli zdający nie odrzuci ujemnego rozwiązania 𝑎 = −
+49
+2 i w konsekwencji poda dwie trójki
+liczb 𝑎, 𝑏 i 𝑐, to może otrzymać co najwyżej 4 punkty.

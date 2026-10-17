@@ -1,0 +1,18 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=32; level=podstawowy; year=2026; month=maj; task_id=24.2]
+Zadanie 24.2. (0–1)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+VIII.10) wskazuje podstawowe punkty
+szczególne w trójkącie: […] środek okręgu
+opisanego na trójkącie […].
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+Wersja A Wersja B
+D A

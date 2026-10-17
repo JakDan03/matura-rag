@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=134; level=rozszerzony; year=2024; section=|𝐵𝑆| = 𝐻2 − 𝐻1]
+134 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Zadanie 29. (0–4)
+Pan Nowak często gra z synem w szachy. Syn
+częściej wygrywa niż ojciec. Pan Nowak obliczył, że
+wygrywa 40% rozegranych z synem partii.
+Oblicz, ile partii szachów z synem musi rozegrać pan Nowak, aby prawdopodobieństwo
+wygrania przez ojca przynajmniej jednej partii w całej rozgrywce było większe od 𝟎, 𝟗𝟓.
+Zapisz obliczenia.

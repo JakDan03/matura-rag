@@ -1,0 +1,30 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=63; level=podstawowy; year=2024; section=1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów]
+Przykładowe zadania z rozwiązaniami 63
+Zadanie 35. (0–2)
+Dany jest ciąg (𝑎𝑛) określony wzorem ogólnym 𝑎𝑛 = 4𝑛 − 9 dla każdej liczby
+naturalnej 𝑛 ≥ 1.
+Wykaż, że ciąg (𝒂𝒏) jest arytmetyczny.
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.
+Wymagania szczegółowe
+VI. Ciągi. Zdający:
+4) sprawdza, czy dany ciąg jest arytmetyczny lub geometryczny;
+7) wykorzystuje własności ciągów, w tym arytmetycznych […] do rozwiązywania zadań
+[…].
+Zasady oceniania
+2 pkt – przeprowadzenie pełnego rozumowania uzasadniającego, że ciąg jest arytmetyczny,
+np. poprawne obliczenie różnicy kolejnych wyrazów oraz wykazanie, że jest stała
+i nie zależy od 𝑛.
+1 pkt – zapisanie różnicy dwóch kolejnych wyrazów:
+𝑎𝑛+1 − 𝑎𝑛 = 4(𝑛 + 1) − 9 − (4𝑛 − 9)
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Żeby udowodnić, że ciąg jest arytmetyczny, należy wykazać, że różnica dwóch kolejnych
+wyrazów 𝑎𝑛+1 − 𝑎𝑛 jest stała i nie zależy od 𝑛.
+Wyznaczymy 𝑎𝑛+1:
+𝑎𝑛+1 = 4(𝑛 + 1) − 9 = 4𝑛 + 4 − 9 = 4𝑛 − 5 dla 𝑛 ≥ 1
+Obliczymy różnicę kolejnych dwóch wyrazów ciągu (𝑎𝑛):
+𝑎𝑛+1 − 𝑎𝑛 = 4𝑛 − 5 − (4𝑛 − 9) = 4𝑛 − 5 − 4𝑛 + 9 = 4 dla każdego 𝑛 ≥ 1
+To oznacza, że ciąg (𝑎𝑛) jest ciągiem arytmetycznym o różnicy 𝑟 = 4.

@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=24; level=podstawowy; year=2026; month=maj; task_id=23]
+Zadanie 23. (0–1)
+Kąt 𝛼 jest ostry i spełnia warunek 3 sin 𝛼 + 4 cos 𝛼
+4 cos 𝛼 = 6.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Tangens kąta 𝛼 jest równy
+A. 5
+8 B. 8
+3 C. 32
+5 D. 20
+3
+22.
+0–1

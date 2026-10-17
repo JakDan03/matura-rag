@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=5; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=4]
+Zadanie 4. (0–1)
+Na osi liczbowej zaznaczono przedział.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Zbiór zaznaczony na osi jest zbiorem wszystkich rozwiązań nierówności
+A. |𝑥 − 2| < 5 B. |𝑥 − 2| > 5
+C. |𝑥 − 5| < 2 D. |𝑥 − 5| > 2
+−3
+7
+𝑥

@@ -1,0 +1,14 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=16; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=17.1]
+Zadanie 17.
+Dany jest trójkąt prostokątny 𝐴𝐵𝐶, w którym |𝐴𝐶| = √15 i |𝐵𝐶| = 8. Na przyprostokątnej
+𝐴𝐵 leży taki punkt 𝐷, że |𝐵𝐷| = 6 (zobacz rysunek).
+Zadanie 17.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Sinus kąta ostrego 𝐴𝐵𝐶 jest równy
+A. 1
+2 B. 7
+8 C.
+√15
+4 D.
+√15
+8

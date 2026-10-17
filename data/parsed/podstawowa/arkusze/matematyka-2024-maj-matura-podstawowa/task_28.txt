@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=25; level=podstawowy; year=2024; month=maj; task_id=28]
+Zadanie 28. (0–1)
+Średnia arytmetyczna trzech liczb: 𝑎, 𝑏, 𝑐, jest równa 9.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Średnia arytmetyczna sześciu liczb: 𝑎, 𝑎, 𝑏, 𝑏, 𝑐, 𝑐, jest równa
+A. 9 B. 6 C. 4,5 D. 18

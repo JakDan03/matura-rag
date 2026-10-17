@@ -1,0 +1,7 @@
+Dział II. Wyrażenia algebraiczne.
+Poziom: podstawowy
+Zakres podstawowy. Uczeń:
+1) stosuje wzory skróconego mnożenia na: (a + b)2, (a − b)2, a2 − b2;
+2) dodaje, odejmuje i mnoży wielomiany jednej i wielu zmiennych;
+3) wyłącza poza nawias jednomian z sumy algebraicznej;
+4) mnoży i dzieli wyrażenia wymierne.

@@ -1,0 +1,14 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=18; level=podstawowy; year=2026; month=czerwiec; task_id=18]
+Zadanie 18. (0–1)
+Punkty 𝐴, 𝐵, 𝐶 oraz 𝐷 leżą na okręgu o środku w punkcie 𝑆.
+Odcinek 𝐵𝐷 jest średnicą tego okręgu oraz |∡𝐴𝐵𝐷| = 18°.
+Punkt 𝐷 leży na krótszym łuku 𝐶𝐴 (zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Miara kąta ostrego 𝐵𝐶𝐴 jest równa
+A. 36° B. 60° C. 72° D. 81°
+𝐶
+𝐷
+𝐵
+𝑆
+18°
+𝐴

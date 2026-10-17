@@ -1,0 +1,61 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=47, 48; level=rozszerzony; year=2025; month=maj; task_id=12.1]
+Zadanie 12.1. (0–2)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+X.5) oblicza objętości […] stożka […].
+Zasady oceniania
+2 pkt – poprawne przekształcenia i przeprowadzenie pełnego rozumowania.
+1 pkt – zapisanie związku między promieniem podstawy stożka a wysokością stożka, np.
+1
+2 𝑟ℎ = 1
+2 ⋅ 5 ⋅ √ℎ2 + 𝑟2, (5
+𝑟)
+2
++ (5
+ℎ)
+2
+= 1, 𝑟
+5 = ℎ
+√ℎ2−25
+.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Rozpatrzmy dowolny z rozważanych stożków. Przyjmijmy następujące oznaczenia:
+𝐴, 𝐵, 𝐶 – wierzchołki trójkąta, który jest przekrojem osiowym stożka,
+𝐷 – środek podstawy stożka,
+𝐸 – spodek wysokości trójkąta 𝐷𝐵𝐶 opuszczonej z wierzchołka 𝐷 na bok 𝐵𝐶,
+𝑟 – promień podstawy stożka,
+ℎ – wysokość stożka
+(zobacz rysunek).
+Zapisujemy pole trójkąta 𝐷𝐵𝐶 na dwa sposoby i stosujemy twierdzenie Pitagorasa,
+otrzymując:
+1
+2 ⋅ |𝐷𝐵| ⋅ |𝐷𝐶| = 1
+2 ⋅ |𝐵𝐶| ⋅ |𝐷𝐸|
+𝐴
+𝐷
+𝐵
+𝐸
+𝑟
+5
+ℎ
+𝐶
+1
+2 𝑟ℎ = 1
+2 ⋅ √ℎ2 + 𝑟2 ⋅ 5
+𝑟2ℎ2 = 25ℎ2 + 25𝑟2
+𝑟2 = 25ℎ2
+ℎ2 − 25
+Zatem objętość 𝑉 stożka jest równa
+𝑉 = 1
+3 𝜋𝑟2ℎ = 1
+3 𝜋 ⋅ 25ℎ2
+ℎ2 − 25 ⋅ ℎ = 𝜋
+3 ⋅ 25ℎ3
+ℎ2 − 25
+To należało wykazać.

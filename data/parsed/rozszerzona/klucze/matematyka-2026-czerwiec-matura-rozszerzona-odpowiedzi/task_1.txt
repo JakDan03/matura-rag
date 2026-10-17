@@ -1,0 +1,49 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=2, 3; level=rozszerzony; year=2026; month=czerwiec; task_id=1]
+Zadanie 1. (0–2)
+Wymagania określone w podstawie programowej1
+Wymagania ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+I. Sprawność rachunkowa.
+Zdający:
+I.R) stosuje wzór na zamianę podstawy
+logarytmu.
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody i poprawny wynik: 3−3.
+1 pkt – poprawne zastosowanie wzorów na logarytm potęgi oraz na różnicę logarytmów
+i obliczenie 𝑎: 𝑎 = 36
+81
+ALBO
+– poprawne zastosowanie wzorów na zamianę podstawy logarytmu oraz na logarytm
+potęgi i obliczenie 𝑏: 𝑏 = 6.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Stosujemy wzór na logarytm potęgi oraz wzór na różnicę logarytmów i obliczamy 𝑎:
+𝑎 = 16
+1
+2 ⋅ log4 36−2⋅log4 3
+= (42)
+1
+2 ⋅ log4 36−2⋅log4 3
+= 4log4 36−4⋅log4 3 = 4log4(36
+81) = 36
+81
+Stosujemy wzór na zamianę podstawy logarytmu oraz wzór na logarytm potęgi
+i obliczamy 𝑏:
+𝑏 = log2 9 ⋅ log3 5 ⋅ log5 8 = log3 9
+log3 2 ⋅ log3 5 ⋅ log3 8
+log3 5 = 2
+log3 2 ⋅ log3 8 = 2
+log3 2 ⋅ 3 log3 2 = 6
+Obliczamy 𝑎
+2𝑏 :
+1Rozporządzenie Ministra Edukacji z dnia 28 czerwca 2024 r. zmieniające rozporządzenie w sprawie podstawy
+programowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia
+(Dz.U. z 2024 r. poz. 1019).
+Zasady oceniania rozwiązań zadań
+𝑎
+2𝑏 = 36
+81 ∶ 12 = 3−3

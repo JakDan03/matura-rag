@@ -1,0 +1,69 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=23, 24, 25; level=podstawowy; year=2024; month=maj; task_id=24]
+Zadanie 24. (0–2)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+IX.3) oblicza odległość dwóch punktów
+w układzie współrzędnych.
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody i obliczenie długości boku 𝐵𝐶: |𝐵𝐶| = √52.
+1 pkt – zapisanie współrzędnych punktu 𝐶: 𝐶 = (14, 8)
+ALBO
+– zapisanie współrzędnych punktu 𝐷: 𝐷 = (2, 12),
+ALBO
+– zapisanie współrzędnych środka 𝑆 boku 𝐴𝐵: 𝑆 = (4, 4) oraz zapisanie równości
+|𝐵𝐶| = 2|𝑃𝑆|,
+ALBO
+– zapisanie równości 𝐶𝐵⃗⃗⃗⃗⃗ = 2 ⋅ 𝑃𝐴⃗⃗⃗⃗⃗ + 𝐴𝐵⃗⃗⃗⃗⃗ oraz obliczenie współrzędnych wektorów
+𝑃𝐴⃗⃗⃗⃗⃗ i 𝐴𝐵⃗⃗⃗⃗⃗ : 𝑃𝐴⃗⃗⃗⃗⃗ = [−8, −1] oraz 𝐴𝐵⃗⃗⃗⃗⃗ = [12, −4],
+ALBO
+– obliczenie długości odcinków 𝐴𝐵, 𝐴𝑃 oraz 𝐵𝑃 i cosinusa kąta 𝛼 oraz cosinusa
+kąta (180° − 𝛼), gdzie 𝛼 = |∡𝐴𝑃𝐵|: |𝐴𝐵| = 4√10 oraz |𝐴𝑃| = √65, oraz
+|𝐵𝑃| = √41, oraz cos 𝛼 = − 27
+√65⋅√41
+, oraz cos(180° − 𝛼) = 27
+√65⋅√41 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający korzysta z punktów kratowych oraz błędnie zaznaczy w układzie
+współrzędnych co najmniej jeden z punktów 𝐴, 𝐵, 𝐶, 𝑃 i na tej podstawie oblicza długość
+odcinka 𝐵𝐶, to otrzymuje 0 punktów za całe rozwiązanie (o ile nie nabył praw do innej
+punktacji).
+2. Jeżeli zdający korzysta z punktów kratowych oraz poprawnie zaznaczy w układzie
+współrzędnych punkty 𝐴, 𝐵, 𝐶, 𝑃, lecz błędnie odczyta współrzędne jednego z tych
+punktów, i na tej podstawie oblicza długość odcinka 𝐵𝐶, to otrzymuje 1 punkt za całe
+rozwiązanie.
+3. Jeżeli zdający obliczy długość odcinka 𝐵𝐶, korzystając z przybliżonych wartości funkcji
+trygonometrycznych, to może otrzymać co najwyżej 1 punkt za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Punkt 𝑃 jest środkiem przekątnej 𝐴𝐶. Ze wzoru na współrzędne środka odcinka
+otrzymujemy
+−2 + 𝑥𝑐
+2 = 6 oraz 6 + 𝑦𝑐
+2 = 7
+Zatem 𝐶 = (14, 8).
+Obliczamy długość odcinka 𝐵𝐶:
+|𝐵𝐶| = √(14 − 10)2 + (8 − 2)2 = √16 + 36 = √52 = 2√13
+Sposób II
+Punkt 𝑃 jest środkiem przekątnej 𝐵𝐷. Ze wzoru na współrzędne środka odcinka
+otrzymujemy
+10 + 𝑥𝑑
+2 = 6 oraz 2 + 𝑦𝑑
+2 = 7
+Zatem 𝐷 = (2, 12).
+Obliczamy długość odcinka 𝐵𝐶:
+|𝐵𝐶| = |𝐴𝐷| = √(2 + 2)2 + (12 − 6)2 = √16 + 36 = √52 = 2√13
+Sposób III
+Obliczamy współrzędne punktu 𝑆 środka odcinka 𝐴𝐵:
+𝑆 = (−2 + 10
+2 , 6 + 2
+2 )
+𝑆 = (4, 4)
+Obliczamy długość odcinka 𝐵𝐶:
+|𝐵𝐶| = 2|𝑃𝑆| = 2√(4 − 6)2 + (4 − 7)2 = 2√4 + 9 = 2√13
+Zasady oceniania rozwiązań zadań

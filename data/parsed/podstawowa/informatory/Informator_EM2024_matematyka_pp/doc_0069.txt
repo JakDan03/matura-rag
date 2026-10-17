@@ -1,0 +1,35 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=69; level=podstawowy; year=2024; section=ALBO]
+Przykładowe zadania z rozwiązaniami 69
+Następnie podstawimy wyznaczone 𝑦 do wzoru na pole 𝑃 = 𝑥 ⋅ 2𝑦:
+𝑃(𝑥) = 2𝑥 (150 − 3
+4 𝑥)
+Wyznaczymy dziedzinę funkcji 𝑃. Wykorzystamy związek między wymiarami 𝑥 i 𝑦 oraz
+wykorzystamy warunki, jakie te wymiary spełniają:
+𝑦 = 150 − 3
+4 𝑥 oraz 𝑦 > 10 oraz 𝑥 > 0
+Zatem:
+150 − 3
+4 𝑥 > 10 oraz 𝑥 > 0
+𝑥 < 560
+3 oraz 𝑥 > 0
+Zmienna 𝑥 może przyjmować wartości z przedziału (0, 560
+3 )
+Wykresem funkcji 𝑃 jest fragment paraboli 𝒫 skierowanej ramionami do dołu. Funkcja 𝑃
+przyjmuje wartość największą dla argumentu, który jest pierwszą współrzędną wierzchołka
+paraboli 𝒫. Współrzędną 𝑥 wierzchołka paraboli 𝒫 obliczymy z miejsc zerowych funkcji
+kwadratowej, która jest równaniem tej paraboli. Rozwiążemy zatem równanie:
+2𝑥 (150 − 3
+4 𝑥) = 0
+Z powyższego równania wynika, że:
+2𝑥 = 0 lub 150 − 3
+4 𝑥 = 0
+𝑥1 = 0 lub 𝑥2 = 200
+Funkcja 𝑃 przyjmuje wartość największą dla argumentu, który jest pierwszą współrzędną
+wierzchołka paraboli 𝒫, czyli dla:
+𝑥 = 𝑥1 + 𝑥2
+2 = 100 m
+Obliczymy drugi wymiar działki, dla którego pole powierzchni magazynowej jest największe:
+𝑦 = 150 m − 3
+4 ⋅ 100 m = 75 m
+Całkowite pole powierzchni magazynowej jest największe dla działki o wymiarach:
+𝑥 = 100 m oraz 𝑦 = 75 m.

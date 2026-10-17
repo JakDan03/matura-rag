@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=20; level=rozszerzony; year=2023; month=maj; task_id=12.1]
+Zadanie 12.
+Funkcja 𝑓 jest określona wzorem 𝑓(𝑥) = 81log3 𝑥 + 2 ⋅ log2 √27 ⋅ log3 2
+3 ⋅ 𝑥2 − 6𝑥 dla
+każdej liczby dodatniej 𝑥.
+Zadanie 12.1. (0–2)
+Wykaż, że dla każdej liczby dodatniej 𝒙 wyrażenie
+𝟖𝟏𝐥𝐨𝐠𝟑 𝒙 + 𝟐 ⋅ 𝐥𝐨𝐠𝟐 √𝟐𝟕 ⋅ 𝐥𝐨𝐠𝟑 𝟐
+𝟑 ⋅ 𝒙𝟐 − 𝟔𝒙
+można równoważnie przekształcić do postaci 𝒙𝟒 + 𝒙𝟐 − 𝟔𝒙.
+12.1.
+0–1–2

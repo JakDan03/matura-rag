@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=19; level=podstawowy; year=2024; month=czerwiec; task_id=21]
+Zadanie 21. (0–1)
+Punkty 𝐴, 𝐵 oraz 𝐶 leżą na okręgu o środku w punkcie 𝑆. Długość łuku 𝐴𝐵, na którym
+jest oparty kąt wpisany 𝐴𝐶𝐵, jest równa 1
+5 długości okręgu (zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Miara kąta ostrego 𝐴𝐶𝐵 jest równa
+A. 18° B. 30° C. 36° D. 72°
+𝐴
+𝐵
+𝐶
+𝑆

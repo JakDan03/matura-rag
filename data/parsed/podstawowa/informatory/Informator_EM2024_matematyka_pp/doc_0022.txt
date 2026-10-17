@@ -1,0 +1,25 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=22; level=podstawowy; year=2024; section=A. 3 B. 100 C. 1000 D. 10000]
+22 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 10. (0–1)
+Na wykresie przedstawiono zależność log 𝐾(𝑡), gdzie 𝐾(𝑡) jest liczbą bakterii w próbce po
+czasie 𝑡 wyrażonym w godzinach, jaki upłynął od chwili 𝑡 = 0 rozpoczęcia obserwacji.
+Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.
+Gdy upłynęły dokładnie trzy godziny od chwili 𝑡 = 0, liczba 𝐾 bakterii była równa
+A. 3 B. 100 C. 1000 D. 10000
+Wymaganie ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno
+matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów,
+tabel.
+Wymaganie szczegółowe
+I. Liczby rzeczywiste. Zdający:
+9) stosuje związek logarytmowania z potęgowaniem, posługuje się wzorami na
+logarytm iloczynu, logarytm ilorazu i logarytm potęgi.
+5
+4
+3
+2
+1
+0
+log 𝐾(𝑡)
+0 1 2 3 4 5 6 𝑡

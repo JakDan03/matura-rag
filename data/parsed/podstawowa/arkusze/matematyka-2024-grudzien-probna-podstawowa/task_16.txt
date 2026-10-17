@@ -1,0 +1,14 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=15; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=16]
+Zadanie 16. (0–1)
+Dany jest ciąg geometryczny (𝑎𝑛) określony dla każdej liczby naturalnej 𝑛 ≥ 1, w którym
+𝑎2 = 1
+6 oraz 𝑎3 = 1
+9
+.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Piąty wyraz ciągu (𝑎𝑛) jest równy
+A. 1
+15 B. 2
+27 C. 4
+81 D. 8
+243

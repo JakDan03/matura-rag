@@ -1,0 +1,29 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=70; level=podstawowy; year=2024; section=TRYGONOMETRIA, PLANIMETRIA, GEOMETRIA ANALITYCZNA, STEREOMETRIA]
+70 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+TRYGONOMETRIA, PLANIMETRIA, GEOMETRIA ANALITYCZNA, STEREOMETRIA
+Zadanie 39. (0–1)
+Dany jest kąt o mierze 𝛼 taki, że sin 𝛼 = 4
+5 oraz 90° < 𝛼 < 180°.
+Oceń prawdziwość poniższych zdań. Zaznacz P, jeśli zdanie jest prawdziwe, albo F –
+jeśli jest fałszywe.
+1. Dla kąta o mierze 𝛼 spełnione jest równanie: cos 𝛼 = − 3
+5
+. P F
+2. Dla kąta o mierze 𝛼 spełnione jest równanie: |tg 𝛼| = 3
+4
+. P F
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymagania szczegółowe
+VII. Trygonometria. Zdający:
+1) Wykorzystuje definicje funkcji: sinus, cosinus i tangens dla kątów od 0° do 180° […];
+2) korzysta z wzorów sin2 𝛼 + cos2 𝛼 = 1, tg 𝛼 =
+sin 𝛼
+cos 𝛼 .
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+PF

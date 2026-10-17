@@ -1,0 +1,203 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=27, 28, 29, 30, 31; level=podstawowy; year=2025; month=maj; task_id=25]
+Zadanie 25. (0–3)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+X.4) rozpoznaje […] w stożkach kąt między
+odcinkami oraz kąt między odcinkami
+i płaszczyznami (np. kąt rozwarcia stożka,
+kąt między tworzącą a podstawą) […];
+X.5) oblicza objętości […] stożka […],
+również z wykorzystaniem trygonometrii.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑉 = 64𝜋.
+2 pkt – zapisanie promienia podstawy stożka: 𝑟 = 4√3 oraz zapisanie wysokości
+stożka: 𝐻 = 4
+ALBO
+– obliczenie kwadratu promienia podstawy stożka: 𝑟2 = 48 oraz zapisanie wysokości
+stożka: 𝐻 = 4,
+ALBO
+– zapisanie wysokości stożka: 𝐻 = 4 oraz wyznaczenie objętości stożka
+w zależności od 𝐻, np. 𝑉 = 1
+3 𝜋(𝐻√3)
+2
+⋅ 𝐻,
+ALBO
+– zapisanie promienia podstawy stożka: 𝑟 = 4√3 oraz wyznaczenie objętości stożka
+w zależności od 𝑟, np. 𝑉 = 1
+3 𝜋𝑟2 ⋅ 𝑟
+√3 ,
+ALBO
+– wyznaczenie objętości stożka w zależności od tworzącej 𝑙, np. 𝑉 = 1
+3 𝜋 (𝑙√3
+2 )
+2
+⋅ 𝑙
+2 .
+1 pkt – zapisanie promienia podstawy stożka: 𝑟 = 4√3
+ALBO
+– zapisanie wysokości stożka: 𝐻 = 4,
+ALBO
+– obliczenie kwadratu promienia podstawy stożka: 𝑟2 = 48,
+ALBO
+– zapisanie układu równań pozwalającego obliczyć 𝑟 oraz 𝐻, np.:
+𝑟 = 𝑥√3 oraz 𝐻 = 𝑥 oraz 𝑙 = 2𝑥 oraz 𝑙 = 8,
+𝑟
+8 = sin 60° oraz 𝐻
+8 = cos 60° ,
+1
+2 ⋅ 2𝑟 ⋅ 𝐻 = 1
+2 ⋅ 8 ⋅ 8 ⋅ sin 120° oraz 𝑟2 + 𝐻2 = 82,
+(2𝑟)2 = 82 + 82 − 2 ⋅ 8 ⋅ 8 ⋅ cos 120° oraz 𝑟2 + 𝐻2 = 82,
+ALBO
+– wyznaczenie objętości stożka w zależności od 𝐻, np. 𝑉 = 1
+3 𝜋(𝐻√3)
+2
+⋅ 𝐻,
+ALBO
+– wyznaczenie objętości stożka w zależności od 𝑟, np. 𝑉 = 1
+3 𝜋𝑟2 ⋅ 𝑟
+√3 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający przyjmuje w rozwiązaniu, że:
+a) trójkąt 𝑆𝑂𝐵 jest trójkątem równobocznym,
+b) wysokość stożka jest równa 8, lub
+c) promień podstawy stożka jest równy 8,
+to otrzymuje 0 punktów za całe rozwiązanie.
+2. Jeżeli jedynym błędem zdającego jest:
+a) zastosowanie niepoprawnej definicji jednej funkcji trygonometrycznej,
+b) błędne zastosowanie twierdzenia Pitagorasa,
+c) błędne zastosowanie twierdzenia cosinusów,
+d) zastosowanie niepoprawnej tożsamości √𝑥2 + 𝑦2 = 𝑥 + 𝑦,
+e) błędne zastosowanie własności trójkąta o kątach 30°, 60°, 90° (tzn. zapisanie,
+że promień podstawy stożka jest równy 4 i wysokość stożka jest równa 4√3 ),
+lub
+f) przyjęcie, że kąt 120° to kąt wycinka koła o promieniu 8 tworzącego
+powierzchnię boczną stożka,
+i rozwiązanie zostanie doprowadzone konsekwentnie do końca, to zdający może otrzymać
+1 punkt za całe rozwiązanie (za konsekwentne obliczenie objętości stożka).
+Jeżeli zdający popełni więcej niż jeden z wymienionych błędów a)–f), to otrzymuje
+0 punktów za całe rozwiązanie, o ile nie nabył prawa do innej liczby punktów (np. za
+zapisanie wysokości stożka: 𝐻 = 4).
+Przykładowe pełne rozwiązania
+Sposób I
+Przyjmujemy oznaczenia jak na rysunku
+przedstawiającym przekrój osiowy
+rozważanego stożka:
+𝑆 – wierzchołek stożka,
+𝑂 – spodek wysokości stożka,
+𝑟 – promień podstawy stożka,
+𝐻 – wysokość stożka.
+Zauważamy, że 𝑟 > 0 i 𝐻 > 0.
+Ponieważ 𝑂 jest spodkiem wysokości stożka, to |∡𝑂𝑆𝐵| = 60°.
+W trójkącie prostokątnym 𝑂𝐵𝑆 mamy
+120°
+60°
+𝐴
+𝑂
+𝑆
+𝐵
+8
+𝑟
+𝐻
+Zasady oceniania rozwiązań zadań
+sin 60° =
+|𝑂𝐵|
+|𝑆𝐵| = 𝑟
+8
+Zatem
+𝑟 = 8 ⋅ sin 60° = 8 ⋅ √3
+2 = 4√3
+Ponadto
+cos 60° =
+|𝑆𝑂|
+|𝑆𝐵| = 𝐻
+8
+Stąd
+𝐻 = 8 ⋅ cos 60° = 8 ⋅ 1
+2 = 4
+Obliczamy objętość 𝑉 stożka:
+𝑉 = 1
+3 ⋅ 𝜋 ⋅ 𝑟2 ⋅ 𝐻 = 1
+3 ⋅ 𝜋 ⋅ (4√3)
+2
+⋅ 4 = 64𝜋
+Sposób II
+Przyjmujemy oznaczenia jak na rysunku
+przedstawiającym przekrój osiowy
+rozważanego stożka:
+𝑆 – wierzchołek stożka,
+𝑂 – spodek wysokości stożka,
+𝑟 – promień podstawy stożka,
+𝐻 – wysokość stożka.
+Zauważamy, że 𝑟 > 0 i 𝐻 > 0.
+Korzystamy z twierdzenia cosinusów dla trójkąta 𝐴𝐵𝑆 i otrzymujemy:
+(2𝑟)2 = 82 + 82 − 2 ⋅ 8 ⋅ 8 ⋅ cos 120°
+4𝑟2 = 128 − 128 ⋅ cos 120°
+Ponieważ cos 120° = − cos 60° = − 1
+2 , więc
+4𝑟2 = 128 − 128 ⋅ (− 1
+2)
+4𝑟2 = 192
+𝑟2 = 48
+Korzystamy z twierdzenia Pitagorasa dla trójkąta 𝑂𝐵𝑆 i obliczamy wysokość stożka:
+𝐻2 = 82 − 𝑟2
+120°
+𝐴
+𝑂
+𝑆
+𝐵
+8
+𝑟
+𝐻
+𝐻2 = 64 − 48
+𝐻2 = 16
+𝐻 = 4
+Obliczamy objętość 𝑉 stożka:
+𝑉 = 1
+3 ⋅ 𝜋 ⋅ 𝑟2 ⋅ 𝐻 = 1
+3 ⋅ 𝜋 ⋅ 48 ⋅ 4 = 64𝜋
+Sposób III
+Przyjmujemy oznaczenia jak na rysunku
+przedstawiającym przekrój osiowy
+rozważanego stożka:
+𝑆 – wierzchołek stożka,
+𝑂 – spodek wysokości stożka,
+𝑟 – promień podstawy stożka,
+𝐻 – wysokość stożka.
+Zauważamy, że 𝑟 > 0 i 𝐻 > 0.
+Pole trójkąta 𝐴𝐵𝑆 jest równe
+𝑃𝐴𝐵𝑆 = 1
+2 ⋅ 8 ⋅ 8 ⋅ sin 120° = 32 ⋅ sin 60° = 32 ⋅ √3
+2 = 16√3
+Zatem
+1
+2 ⋅ 2𝑟 ⋅ 𝐻 = 16√3
+stąd
+𝑟 ⋅ 𝐻 = 16√3
+Korzystamy z twierdzenia cosinusów dla trójkąta 𝐴𝐵𝑆 i otrzymujemy:
+(2𝑟)2 = 82 + 82 − 2 ⋅ 8 ⋅ 8 ⋅ cos 120°
+4𝑟2 = 128 − 128 ⋅ (−cos 60°)
+4𝑟2 = 128 − 128 ⋅ (− 1
+2)
+4𝑟2 = 192
+𝑟2 = 48
+𝑟 = 4√3
+Obliczamy objętość 𝑉 stożka:
+𝑉 = 1
+3 ⋅ 𝜋 ⋅ 𝑟2 ⋅ 𝐻 = 1
+3 ⋅ 𝜋 ⋅ 𝑟 ⋅ 𝑟 ⋅ 𝐻 = 1
+3 ⋅ 𝜋 ⋅ 4√3 ⋅ 16√3 = 64𝜋
+120°
+𝐴
+𝑂
+𝑆
+𝐵
+8
+𝑟
+𝐻
+Zasady oceniania rozwiązań zadań

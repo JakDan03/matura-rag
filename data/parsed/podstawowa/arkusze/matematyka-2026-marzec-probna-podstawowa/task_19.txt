@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=17; level=podstawowy; year=2026; month=marzec; term=probna; task_id=19]
+Zadanie 19. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+W każdym trójkącie środek okręgu wpisanego w ten trójkąt leży w punkcie przecięcia się
+A. dwusiecznych kątów tego trójkąta.
+B. symetralnych boków tego trójkąta.
+C. środkowych tego trójkąta.
+D. wysokości tego trójkąta.

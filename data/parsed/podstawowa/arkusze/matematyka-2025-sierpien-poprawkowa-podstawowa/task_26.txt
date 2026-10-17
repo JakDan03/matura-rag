@@ -1,0 +1,14 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=24; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=26]
+Zadanie 26. (0–4)
+Dany jest graniastosłup prawidłowy trójkątny 𝐴𝐵𝐶𝐷𝐸𝐹. Wysokość podstawy 𝐴𝐵𝐶 jest
+równa 2√3. Przekątna 𝐴𝐸 ściany bocznej 𝐴𝐵𝐸𝐷 tworzy z krawędzią 𝐴𝐵 kąt o mierze 60°
+(zobacz rysunek).
+Oblicz objętość i pole powierzchni całkowitej tego graniastosłupa. Zapisz obliczenia.
+2√3
+60°
+𝐴
+𝐷
+𝐸
+𝐹
+𝐶
+𝐵

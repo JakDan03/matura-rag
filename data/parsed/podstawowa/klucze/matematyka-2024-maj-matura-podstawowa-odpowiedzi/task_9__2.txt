@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=40, 41; level=podstawowy; year=2024; month=maj; task_id=9]
+Zadanie 9.
+1 pkt – przekształcenie wielomianu 𝑥3 − 2𝑥2 − 3𝑥 + 6 do postaci
+𝑥2(𝑥 − 2) − 3(𝑥 − 2) lub 𝑥(𝑥2 − 3) − 2(𝑥2 − 3)
+ALBO
+– zapisanie jednego z rozwiązań równania 𝑥3 − 2𝑥2 − 3𝑥 + 6 = 0 .
+Zasady oceniania rozwiązań zadań

@@ -1,0 +1,32 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=120; level=podstawowy; year=2024; section=3. Tworzenie pomocniczych obiektów matematycznych na podstawie istniejących,]
+120 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 60. (0–4)
+Dany jest ostrosłup prawidłowy czworokątny. Ściana boczna tego ostrosłupa jest nachylona
+do płaszczyzny podstawy pod kątem 30°, a krawędź podstawy ma długość równą 6√3.
+Oblicz objętość i pole powierzchni całkowitej tego ostrosłupa.
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+3. Tworzenie pomocniczych obiektów matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub rozwiązania problemu.
+Wymaganie szczegółowe
+X. Stereometria. Zdający:
+5) oblicza objętości i pola powierzchni graniastosłupów, ostrosłupów, walca, stożka
+i kuli, również z wykorzystaniem trygonometrii.
+Zasady oceniania
+4 pkt – poprawna metoda obliczenia objętości i pola powierzchni całkowitej ostrosłupa oraz
+poprawne wyniki: 𝑉 = 108 i 𝑃𝑐 = 108 + 72√3 .
+3 pkt – obliczenie objętości ostrosłupa: 𝑉 = 108 oraz obliczenie wysokości ściany bocznej
+ostrosłupa: ℎś𝑏 = 6
+ALBO
+– obliczenie pola powierzchni całkowitej ostrosłupa: 𝑃𝑐 = 108 + 72√3 oraz
+obliczenie wysokości ostrosłupa: 𝐻 = 3.
+2 pkt – obliczenie wysokości ostrosłupa: 𝐻 = 3 oraz obliczenie wysokości ściany bocznej
+ostrosłupa: ℎś𝑏 = 6
+ALBO
+– obliczenie objętości ostrosłupa: 𝑉 = 108,
+ALBO
+– obliczenie pola powierzchni całkowitej ostrosłupa: 𝑃𝑐 = 108 + 72√3 .
+1 pkt – obliczenie wysokości ostrosłupa: 𝐻 = 3
+ALBO
+– obliczenie wysokości ściany bocznej ostrosłupa: ℎś𝑏 = 6.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.

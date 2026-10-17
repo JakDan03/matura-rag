@@ -1,0 +1,41 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=30; level=podstawowy; year=2026; month=maj; task_id=31]
+Zadanie 31. (0–1)
+Nauczyciel matematyki po każdym sprawdzianie porównuje wyniki uzyskane przez uczniów
+dwóch klas: klasy IV A oraz klasy IV B. Na dwóch poniższych diagramach przedstawiono
+wyniki sprawdzianu ze statystyki, jakie uzyskali uczniowie tych klas.
+Na osiach poziomych podano oceny, które uzyskali uczniowie tych klas, a na osiach
+pionowych podano liczbę uczniów, którzy otrzymali daną ocenę.
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Średnia arytmetyczna ocen uzyskanych ze sprawdzianu ze statystyki przez
+uczniów klasy IV A jest równa średniej arytmetycznej ocen uzyskanych z tego
+sprawdzianu przez uczniów klasy IV B.
+P F
+Mediana ocen uzyskanych ze sprawdzianu ze statystyki przez uczniów
+klasy IV A jest równa medianie ocen uzyskanych z tego sprawdzianu przez
+uczniów klasy IV B.
+P F
+0
+1
+2
+3
+4
+5
+6
+7
+1 2 3 4 5 6
+liczba uczniów
+ocena
+klasa IV A
+0
+1
+2
+3
+4
+5
+6
+7
+1 2 3 4 5 6
+liczba uczniów
+ocena
+klasa IV B

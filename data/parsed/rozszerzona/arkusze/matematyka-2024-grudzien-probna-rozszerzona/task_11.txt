@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona.pdf; typ=exam_paper; strony=20; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=11]
+Zadanie 11. (0–5)
+Funkcja kwadratowa 𝑓 zmiennej rzeczywistej 𝑥 jest określona wzorem
+𝑓(𝑥) = 𝑥2 − 3𝑥 − 𝑚2 + 𝑚 + 3
+Wyznacz wszystkie wartości parametru 𝒎, dla których funkcja 𝒇 ma dwa różne
+miejsca zerowe 𝒙𝟏 , 𝒙𝟐 spełniające warunek |𝒙𝟏
+𝟐 − 𝒙𝟐
+𝟐| ≤ 𝟏𝟐. Zapisz obliczenia.
+11.
+0–1–
+2–3–
+4–5

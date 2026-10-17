@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=4; level=podstawowy; year=2024; month=maj; task_id=1]
+Zadanie 1. (0–1)
+Dana jest nierówność
+|𝑥 − 1| ≥ 3
+Na którym rysunku poprawnie zaznaczono na osi liczbowej zbiór wszystkich liczb
+rzeczywistych spełniających powyższą nierówność? Wybierz właściwą odpowiedź
+spośród podanych.
+A. B.
+C. D.

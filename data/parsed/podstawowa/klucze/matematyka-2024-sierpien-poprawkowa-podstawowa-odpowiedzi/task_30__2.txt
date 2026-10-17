@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=37; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=30]
+Zadanie 30.
+1 pkt – zapisanie równości 𝑥 + 𝑦 = 12.
+Uwagi:
+1. W ocenie rozwiązania tego zadania (dla zdających z dyskalkulią) nie stosuje się uwagi 2.
+ze standardowych zasad oceniania.
+2. Jeżeli zdający nie zapisze poprawnie wyrażenia 2𝑥2 + 𝑦2 jako funkcji 𝑓 jednej zmiennej
+a jedynie obliczy wartości wyrażenia 2𝑥2 + 𝑦2 dla wybranych par liczb 𝑥 oraz 𝑦 i na
+tej podstawie wskazuje najmniejszą wartość wyrażenia 2𝑥2 + 𝑦2, to za całe rozwiązanie
+otrzymuje 2 punkty. W ocenie rozwiązania tego zadania (dla zdających z dyskalkulią) nie
+stosuje się uwagi 3. ze standardowych zasad oceniania.

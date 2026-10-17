@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=26; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=28]
+Zadanie 28. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wszystkich trzycyfrowych liczb naturalnych większych od 500, w których zapisie
+dziesiętnym występują tylko cyfry nieparzyste, jest
+A. 13 B. 50 C. 75 D. 107

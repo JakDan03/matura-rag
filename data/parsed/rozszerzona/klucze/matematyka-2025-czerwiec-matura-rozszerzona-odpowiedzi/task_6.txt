@@ -1,0 +1,151 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=15, 16, 17, 18; level=rozszerzony; year=2025; month=czerwiec; task_id=6]
+Zadanie 6. (0–4)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VII.R6) rozwiązuje równania
+trygonometryczne.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝜋
+6 , 𝜋
+4 , 𝜋
+2 , 3𝜋
+4 , 5𝜋
+6 .
+3 pkt – rozwiązanie równania cos(2𝑥) + 2cos2(3𝑥) + cos(4𝑥) = 0 w zbiorze ℝ, np.:
+𝑥 = 𝜋
+6 + 𝜋
+3 ⋅ 𝑘 lub 𝑥 = 𝜋
+2 + 𝑘𝜋 lub 𝑥 = − 𝜋
+4 + 𝜋
+2 ⋅ 𝑘, gdzie 𝑘 ∈ ℤ,
+ALBO
+– spełnienie jednego z kryteriów określonych w zasadach oceniania za 2 punkty oraz
+rozwiązanie równania cos(3𝑥) = 0 w przedziale [0, 𝜋]: 𝜋
+6 , 𝜋
+2 , 5𝜋
+6 ,
+ALBO
+– spełnienie jednego z kryteriów określonych w zasadach oceniania za 2 punkty oraz
+rozwiązanie równania cos 𝑥 + cos(3𝑥) = 0 w przedziale [0, 𝜋]: 𝜋
+4 , 𝜋
+2 , 3𝜋
+4 ,
+ALBO
+– spełnienie jednego z kryteriów określonych w zasadach oceniania za 2 punkty oraz
+rozwiązanie równania cos(2𝑥) = 0 w przedziale [0, 𝜋]: 𝜋
+4 , 3𝜋
+4 ,
+ALBO
+– spełnienie jednego z kryteriów określonych w zasadach oceniania za 2 punkty oraz
+rozwiązanie równania 4 cos2 𝑥 − 2 = 0 w przedziale [0, 𝜋]: 𝜋
+4 , 3𝜋
+4 ,
+ALBO
+– spełnienie jednego z kryteriów określonych w zasadach oceniania za 2 punkty oraz
+rozwiązanie równania 2 − 4 sin2 𝑥 = 0 w przedziale [0, 𝜋]: 𝜋
+4 , 3𝜋
+4 .
+2 pkt – przekształcenie równoważne równania cos(2𝑥) + 2cos2(3𝑥) + cos(4𝑥) = 0 do
+postaci alternatywy dwóch równań trygonometrycznych, z których jednym jest
+cos(3𝑥) = 0, np.:
+cos(3𝑥) = 0 lub 2 cos(2𝑥) cos 𝑥 = 0,
+cos(3𝑥) = 0 lub cos 𝑥 + cos(3𝑥) = 0,
+cos(3𝑥) = 0 lub (4 cos2 𝑥 − 2) cos 𝑥 = 0,
+ALBO
+– przekształcenie równoważne równania cos(2𝑥) + 2cos2(3𝑥) + cos(4𝑥) = 0 do
+postaci alternatywy cos(3𝑥) = 0 lub cos(2𝑥) = 0 lub cos 𝑥 = 0.
+1 pkt – przekształcenie równoważne równania do postaci 2 cos(3𝑥) cos 𝑥 + 2cos2(3𝑥) = 0.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Przekształcamy równanie cos(2𝑥) + 2cos2(3𝑥) + cos(4𝑥) = 0 równoważnie, stosując
+wzory na cosinus sumy oraz cosinus różnicy argumentów:
+cos(3𝑥 − 𝑥) + 2cos2(3𝑥) + cos(3𝑥 + 𝑥) = 0
+cos(3𝑥) cos 𝑥 + sin(3𝑥) sin 𝑥 + 2cos2(3𝑥) + cos(3𝑥) cos 𝑥 − sin(3𝑥) sin 𝑥 = 0
+2 cos(3𝑥) (cos 𝑥 + cos(3𝑥)) = 0
+cos(3𝑥) = 0 ∨ cos 𝑥 + cos(3𝑥) = 0
+Rozwiązujemy równanie cos(3𝑥) = 0 w zbiorze liczb rzeczywistych:
+cos(3𝑥) = 0
+3𝑥 = 𝜋
+2 + 𝑘𝜋
+𝑥 = 𝜋
+6 + 𝜋
+3 ⋅ 𝑘
+gdzie 𝑘 ∈ ℤ.
+Stąd otrzymujemy rozwiązania równania cos(3𝑥) = 0 w zbiorze [0, 𝜋]: 𝜋
+6 , 𝜋
+2 , 5𝜋
+6 .
+Rozwiązujemy równanie cos 𝑥 + cos(3𝑥) = 0 w zbiorze liczb rzeczywistych:
+cos 𝑥 + cos(3𝑥) = 0
+cos(3𝑥) = − cos 𝑥
+cos(3𝑥) = cos(𝜋 + 𝑥)
+3𝑥 = 𝜋 + 𝑥 + 2𝑘𝜋 ∨ 3𝑥 = −𝜋 − 𝑥 + 2𝑘𝜋
+𝑥 = 𝜋
+2 + 𝑘𝜋 ∨ 𝑥 = − 𝜋
+4 + 𝜋
+2 ⋅ 𝑘
+gdzie 𝑘 ∈ ℤ.
+Stąd otrzymujemy rozwiązania równania cos 𝑥 + cos(3𝑥) = 0 w zbiorze [0, 𝜋]: 𝜋
+4 , 𝜋
+2 , 3𝜋
+4 .
+Zatem rozwiązaniami równania cos(2𝑥) + 2cos2(3𝑥) + cos(4𝑥) = 0 w zbiorze [0, 𝜋] są
+liczby: 𝜋
+6 , 𝜋
+4 , 𝜋
+2 , 3𝜋
+4 , 5𝜋
+6 .
+Sposób II
+Przekształcamy równanie cos(2𝑥) + 2cos2(3𝑥) + cos(4𝑥) = 0 równoważnie, stosując wzór
+na sumę cosinusów:
+2 cos (2𝑥 + 4𝑥
+2 ) ⋅ cos (2𝑥 − 4𝑥
+2 ) + 2cos2(3𝑥) = 0
+2 cos(3𝑥) cos(−𝑥) + 2cos2(3𝑥) = 0
+2 cos(3𝑥) (cos 𝑥 + cos(3𝑥)) = 0
+Zasady oceniania rozwiązań zadań
+cos(3𝑥) = 0 ∨ cos 𝑥 + cos(3𝑥) = 0
+Rozwiązujemy równanie cos(3𝑥) = 0 w zbiorze liczb rzeczywistych:
+cos(3𝑥) = 0
+3𝑥 = 𝜋
+2 + 𝑘𝜋
+𝑥 = 𝜋
+6 + 𝜋
+3 ⋅ 𝑘
+gdzie 𝑘 ∈ ℤ.
+Stąd otrzymujemy rozwiązania równania cos(3𝑥) = 0 w zbiorze [0, 𝜋]: 𝜋
+6 , 𝜋
+2 , 5𝜋
+6 .
+Rozwiązujemy równanie cos 𝑥 + cos(3𝑥) = 0 w zbiorze liczb rzeczywistych:
+cos 𝑥 + cos(3𝑥) = 0
+2 cos (𝑥 + 3𝑥
+2 ) ⋅ cos (𝑥 − 3𝑥
+2 ) = 0
+cos(2𝑥) ⋅ cos(−𝑥) = 0
+cos(2𝑥) = 0 ∨ cos 𝑥 = 0
+2𝑥 = 𝜋
+2 + 𝑘𝜋 ∨ 𝑥 = 𝜋
+2 + 𝑘𝜋
+𝑥 = 𝜋
+4 + 𝜋
+2 ⋅ 𝑘 ∨ 𝑥 = 𝜋
+2 + 𝑘𝜋
+gdzie 𝑘 ∈ ℤ.
+Stąd otrzymujemy rozwiązania równania cos 𝑥 + cos(3𝑥) = 0 w zbiorze [0, 𝜋]: 𝜋
+4 , 𝜋
+2 , 3𝜋
+4 .
+Zatem rozwiązaniami równania cos(2𝑥) + 2cos2(3𝑥) + cos(4𝑥) = 0 w zbiorze [0, 𝜋] są
+liczby: 𝜋
+6 , 𝜋
+4 , 𝜋
+2 , 3𝜋
+4 , 5𝜋
+6 .

@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=41; level=podstawowy; year=2024; month=maj; task_id=24]
+Zadanie 24.
+1 pkt – poprawne zaznaczenie w kartezjańskim układzie współrzędnych punktu 𝐶
+ALBO
+– poprawne zaznaczenie w kartezjańskim układzie współrzędnych punktu 𝐷,
+ALBO
+– zapisanie współrzędnych środka 𝑆 boku 𝐴𝐵: 𝑆 = (4, 4).

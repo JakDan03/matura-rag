@@ -1,0 +1,24 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=39; level=rozszerzony; year=2024; section=4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach]
+Przykładowe zadania z rozwiązaniami 39
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Wymagania szczegółowe
+XIII. Optymalizacja i rachunek różniczkowy. Zdający:
+4R) oblicza pochodną funkcji potęgowej o wykładniku rzeczywistym oraz oblicza
+pochodną, korzystając z twierdzeń o pochodnej sumy, różnicy, iloczynu, ilorazu
+i funkcji złożonej;
+5R) stosuje pochodną do badania monotoniczności funkcji;
+6R) rozwiązuje zadania optymalizacyjne z zastosowaniem pochodnej.
+Zasady oceniania
+dla rozwiązania sposobem 1.
+4 pkt – zastosowanie poprawnej metody i poprawny wynik.
+3 pkt – uzasadnienie (np. poprzez badanie monotoniczności funkcji), że funkcja 𝑓 przyjmuje
+wartość najmniejszą dla 𝑥 = − 1
+3.
+2 pkt – obliczenie miejsc zerowych pochodnej funkcji 𝑓.
+1 pkt – wyznaczenie pochodnej funkcji 𝑓.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+dla rozwiązania sposobem 2.
+4 pkt – zastosowanie poprawnej metody i poprawny wynik.

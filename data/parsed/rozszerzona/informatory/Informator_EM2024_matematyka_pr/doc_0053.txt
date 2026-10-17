@@ -1,0 +1,14 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=53; level=rozszerzony; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+Przykładowe zadania z rozwiązaniami 53
+Wymagania ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych;
+3. Tworzenie pomocniczych obiektów matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub rozwiązania problemu.
+IV. Rozumowanie i argumentacja.
+3. […] tworzenie ciągu argumentów, gwarantujących poprawność rozwiązania […].
+Wymaganie szczegółowe
+IIII. Równania i nierówności. Zdający:
+5R) analizuje równania i nierówności kwadratowe z parametrami […], podaje warunki,
+przy których rozwiązania […] należą do określonego przedziału […].

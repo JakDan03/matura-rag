@@ -1,0 +1,20 @@
+Dział III. Równania i nierówności.
+Poziom: rozszerzony
+Zakres rozszerzony. Uczeń spełnia wymagania określone dla zakresu podstawowego, a
+ponadto:
+1) rozwiązuje równania wielomianowe postaci W(x) = 0 oraz nierówności wielomianowe
+typu: W(x) > 0, W(x) ≥ 0, W(x) < 0, W(x) ≤ 0 dla wielomianów doprowadzonych do postaci
+iloczynowej lub takich, które dają się doprowadzić do postaci iloczynowej metodą
+wyłączania wspólnego czynnika przed nawias lub metodą grupowania;
+2) rozwiązuje równania i nierówności wymierne, które dadzą się sprowadzić do równania
+lub nierówności liniowej lub kwadratowej;
+3) stosuje wzory Viète’a dla równań kwadratowych;
+4) roz wiązuje równania i nierówności z wartością bezwzględną;
+5) analizuje równania i nierówności liniowe z parametrami oraz równania i nierówności
+kwadratowe z parametrami, w szczególności: wyznacza liczbę rozwiązań w zależności od
+parametrów, podaje warunki, przy których rozwiązania mają określone znaki bądź należą
+do określonego przedziału, wyznacza rozwiązania w zależności od parametrów;
+6) rozwiązuje równania wielomianowe, które dają się doprowadzić do równania
+kwadratowego, w szczególności równania dwukwadratowe;
+7) rozwiązuje równania wymierne postaci 𝑉𝑉(𝑥𝑥)/𝑊𝑊(𝑥𝑥)= 0ǡ gdzie wielomiany 𝑉𝑉(𝑥𝑥) i 𝑊𝑊(𝑥𝑥)
+są zapisane w postaci iloczynowej.

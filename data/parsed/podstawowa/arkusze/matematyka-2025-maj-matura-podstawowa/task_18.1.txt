@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=18; level=podstawowy; year=2025; month=maj; task_id=18.1]
+Zadanie 18.
+Dany jest trójkąt prostokątny 𝐴𝐵𝐶, w którym bok 𝐵𝐶 jest przeciwprostokątną,
+przyprostokątna 𝐴𝐵 ma długość 6, a środkowa 𝐶𝐷 ma długość 5.
+Oznaczmy kąt 𝐴𝐷𝐶 przez 𝛼, natomiast kąt 𝐴𝐵𝐶 – przez 𝛽 (zobacz rysunek).
+Zadanie 18.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Tangens kąta 𝛼 jest równy
+A. 2
+3 B. 3
+4 C. 4
+5 D. 4
+3

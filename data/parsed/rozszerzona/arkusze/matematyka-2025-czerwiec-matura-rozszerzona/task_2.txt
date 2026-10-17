@@ -1,0 +1,4 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=5; level=rozszerzony; year=2025; month=czerwiec; task_id=2]
+Zadanie 2. (0–3)
+Wykaż, że jeżeli 𝒂 = 𝐥𝐨𝐠𝟐 𝟏𝟒 oraz 𝒃 = 𝐥𝐨𝐠√𝟐 𝟐𝟕, to 𝐥𝐨𝐠𝟕 𝟓𝟒 = 𝒃 + 𝟐
+𝟐𝒂 − 𝟐 .

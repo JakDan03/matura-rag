@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=113; level=rozszerzony; year=2024; section=3. Informacja o egzaminie maturalnym z matematyki dla]
+Informacja o egzaminie maturalnym z matematyki dla absolwentów niesłyszących 113
+Zasady oceniania
+6 pkt – obliczenie długości najkrótszej sieci z dwoma węzłami i podanie lokalizacji węzłów
+względem miast.
+5 pkt – obliczenie długości najkrótszej sieci z dwoma węzłami.
+4 pkt – obliczenie wartości najmniejszej funkcji 𝑓.
+3 pkt – wyznaczenie pochodnej funkcji 𝑓.
+2 pkt – zapisanie długości sieci w zależności od odległości węzłów od prostych –
+odpowiednio – 𝐴𝐷 i 𝐵𝐶.
+1 pkt – uzasadnienie, że węzły muszą się znajdować na symetralnej odcinka 𝐴𝐷.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.

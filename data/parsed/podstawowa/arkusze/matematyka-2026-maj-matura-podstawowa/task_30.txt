@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=29; level=podstawowy; year=2026; month=maj; task_id=30]
+Zadanie 30. (0–2)
+Dane są dwa zbiory cyfr: 𝑋 = {1, 3, 5, 7, 9} oraz 𝑌 = {0, 2, 4, 6, 8}.
+Losujemy jedną cyfrę ze zbioru 𝑋, a następnie losujemy jedną cyfrę ze zbioru 𝑌.
+Następnie zapisujemy liczbę dwucyfrową w ten sposób, że cyfra wylosowana ze zbioru 𝑋
+jest cyfrą dziesiątek, a cyfra wylosowana ze zbioru 𝑌 jest cyfrą jedności tej liczby
+dwucyfrowej.
+Oblicz prawdopodobieństwo zdarzenia 𝑨 polegającego na tym, że otrzymana w ten
+sposób liczba dwucyfrowa będzie podzielna przez 𝟔. Zapisz obliczenia.
+30.
+0–1–2

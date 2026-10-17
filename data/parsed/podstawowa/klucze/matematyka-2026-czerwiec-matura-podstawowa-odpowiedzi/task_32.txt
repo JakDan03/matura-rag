@@ -1,0 +1,153 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=32, 33, 34, 35, 36; level=podstawowy; year=2026; month=czerwiec; task_id=32]
+Zadanie 32. (0–3)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+XIII) rozwiązuje zadania optymalizacyjne
+w sytuacjach dających się opisać funkcją
+kwadratową.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawne wyniki, np.
+𝑃(𝑥) = 𝑥2 − 2𝑥 + 8 oraz 𝑥 = 1 .
+2 pkt – wyznaczenie poprawnego wzoru na pole trójkąta 𝐷𝐸𝐹 w zależności od zmiennej 𝑥,
+np. 𝑃(𝑥) = 16 − 1
+2 ⋅ 2𝑥 ⋅ (4 − 𝑥) − 1
+2 ⋅ 4 ⋅ 𝑥 − 1
+2 ⋅ 4 ⋅ (4 − 2𝑥) .
+1 pkt – zapisanie wzoru na pole trójkąta 𝐷𝐸𝐹 w zależności od pól trójkątów 𝐸𝐵𝐹, 𝐹𝐶𝐷,
+𝐷𝐴𝐸, np. 𝑃𝐷𝐸𝐹 = 42 − 𝑃𝐸𝐵𝐹 − 𝑃𝐹𝐶𝐷 − 𝑃𝐷𝐴𝐸
+ALBO
+– zapisanie pól co najmniej dwóch spośród trójkątów 𝐸𝐵𝐹, 𝐹𝐶𝐷, 𝐷𝐴𝐸 w zależności
+od zmiennej 𝑥, np.:
+𝑃𝐸𝐵𝐹 = 1
+2 ⋅ 2𝑥 ⋅ (4 − 𝑥) oraz 𝑃𝐹𝐶𝐷 = 1
+2 ⋅ 4 ⋅ 𝑥 ,
+𝑃𝐹𝐶𝐷 = 1
+2 ⋅ 4 ⋅ 𝑥 oraz 𝑃𝐷𝐴𝐸 = 1
+2 ⋅ 4 ⋅ (4 − 2𝑥) .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający zapisze jedynie, że szukaną wartością 𝑥 jest liczba 1, to otrzymuje
+0 punktów za całe rozwiązanie.
+2. Jeżeli zdający nie zapisze pola trójkąta 𝐷𝐸𝐹 jako funkcji 𝑃 zmiennej 𝑥, a jedynie
+obliczy wartości pola dla wybranych długości odcinka 𝐶𝐹 i na tej podstawie wskaże
+najmniejszą wartość pola, to za całe rozwiązanie otrzymuje 0 punktów, o ile nie nabył
+prawa do innej liczby punktów.
+3. Jeżeli zdający stosuje rachunek różniczkowy i nie uzasadni, że w punkcie będącym
+miejscem zerowym pochodnej funkcji 𝑃 jest najmniejsza wartość funkcji 𝑃, to może
+otrzymać co najwyżej 2 punkty za całe rozwiązanie.
+Za poprawne uzasadnienie, że w punkcie będącym miejscem zerowym pochodnej
+funkcji 𝑃 jest najmniejsza wartość funkcji 𝑃, można uznać sytuację, gdy zdający bada
+znak pochodnej (np. szkicuje wykres funkcji, która w ten sam sposób jak pochodna
+zmienia znak, i zaznacza na rysunku, np. znakami „+” i „-”, znak pochodnej), oraz:
+– opisuje przedziały monotoniczności funkcji 𝑃 (słownie lub graficznie – np. przy użyciu
+strzałek)
+LUB
+– zapisuje, że dla wyznaczonego miejsca zerowego pochodnej, funkcja 𝑃 ma minimum
+Zasady oceniania rozwiązań zadań
+lokalne i jest to jednocześnie jej najmniejsza wartość,
+LUB
+– zapisuje, że dla wyznaczonego miejsca zerowego pochodnej, funkcja 𝑃 ma minimum
+lokalne i jest to jedyne ekstremum tej funkcji.
+4. Jeżeli zdający nie zapisze, że 1 należy do dziedziny funkcji 𝑃, to może otrzymać
+3 punkty za całe rozwiązanie.
+Przykładowe pełne rozwiązanie
+Z warunków zadania wynika, że
+|𝐴𝐷| = |𝐷𝐶| = 4
+|𝐶𝐹| = 𝑥
+|𝐸𝐵| = 2𝑥
+|𝐴𝐸| = 4 − 2𝑥
+|𝐵𝐹| = 4 − 𝑥
+(zobacz rysunek).
+Wówczas pola trójkątów 𝐸𝐵𝐹, 𝐹𝐶𝐷, 𝐷𝐴𝐸 w zależności od zmiennej 𝑥 są równe:
+𝑃𝐸𝐵𝐹 = 1
+2 ⋅ 2𝑥 ⋅ (4 − 𝑥) = 4𝑥 − 𝑥2
+𝑃𝐹𝐶𝐷 = 1
+2 ⋅ 4 ⋅ 𝑥 = 2𝑥
+𝑃𝐷𝐴𝐸 = 1
+2 ⋅ 4 ⋅ (4 − 2𝑥) = 8 − 4𝑥
+Pole 𝑃 trójkąta 𝐷𝐸𝐹 jest różnicą pola kwadratu 𝐴𝐵𝐶𝐷 i sumy pól trójkątów 𝐸𝐵𝐹, 𝐹𝐶𝐷
+oraz 𝐷𝐴𝐸. Zatem:
+𝑃(𝑥) = 42 − (4𝑥 − 𝑥2 + 2𝑥 + 8 − 4𝑥)
+𝑃(𝑥) = 16 − (−𝑥2 + 2𝑥 + 8)
+𝑃(𝑥) = 𝑥2 − 2𝑥 + 8
+Wykresem funkcji 𝑃 jest fragment paraboli skierowanej ramionami do góry.
+Obliczamy pierwszą współrzędną wierzchołka tej paraboli:
+𝑝 = −(−2)
+2 ⋅ 1 = 1 ∈ (0, 2)
+𝐴
+𝐸
+2𝑥
+𝐵
+𝐹
+𝑥
+𝐶
+𝐷
+4
+4
+4 − 2𝑥
+4 − 𝑥
+Zatem funkcja 𝑃 przyjmuje wartość najmniejszą dla argumentu 1.
+Pole trójkąta 𝐷𝐸𝐹 jest najmniejsze, gdy |𝐶𝐹| = 1.
+Zasady oceniania rozwiązań zadań
+Ocena prac osób ze stwierdzoną dyskalkulią
+Obowiązują zasady oceniania stosowane przy sprawdzaniu prac zdających bez stwierdzonej
+dyskalkulii z dodatkowym uwzględnieniem:
+I. ogólnych zasad oceniania zadań otwartych w przypadku arkuszy osób ze
+stwierdzoną dyskalkulią (punkty 1.–12.);
+II. dodatkowych szczegółowych zasad oceniania zadań otwartych w przypadku arkuszy
+osób ze stwierdzoną dyskalkulią – egzamin maturalny z matematyki, poziom
+podstawowy, termin dodatkowy 2026.
+I. Ogólne zasady oceniania zadań otwartych w przypadku arkuszy osób ze stwierdzoną
+dyskalkulią
+1. Nie należy traktować jako błędy merytoryczne pomyłek wynikających z:
+• błędnego przepisania
+• przestawienia cyfr
+• zapisania innej cyfry, ale o podobnym wyglądzie
+• przestawienia położenia przecinka
+• przestawienia położenia znaku liczby.
+2. W przypadku błędów wynikających ze zmiany znaku liczby należy w każdym zadaniu
+oddzielnie przeanalizować, czy zdający opanował inne umiejętności, poza
+umiejętnościami rachunkowymi, oceniane w zadaniu. W przypadku opanowania
+badanych umiejętności zdający powinien otrzymać przynajmniej 1 punkt.
+3. We wszystkich zadaniach otwartych, w których wskazano poprawną metodę
+rozwiązania, części lub całości zadania, zdającemu należy przyznać przynajmniej
+1 punkt, zgodnie z kryteriami do poszczególnych zadań.
+4. Jeśli zdający przedstawia nieprecyzyjne zapisy, na przykład pomija nawiasy lub
+zapisuje nawiasy w niewłaściwych miejscach, ale przeprowadza poprawne
+rozumowanie lub stosuje właściwą strategię, to może otrzymać przynajmniej 1 punkt
+za rozwiązanie zadania.
+5. W przypadku zadania wymagającego wyznaczenia pierwiastków trójmianu
+kwadratowego zdający może otrzymać 1 punkt, jeżeli przedstawi poprawną metodę
+wyznaczania pierwiastków trójmianu kwadratowego, przy podanych w treści zadania
+wartościach liczbowych.
+6. W przypadku zadania wymagającego rozwiązania nierówności kwadratowej zdający
+może otrzymać 1 punkt, jeżeli stosuje poprawny algorytm rozwiązywania nierówności
+kwadratowej, przy podanych w treści zadania wartościach liczbowych.
+7. W przypadku zadania wymagającego stosowania własności funkcji kwadratowej
+zdający może otrzymać 1 punkt za wykorzystanie konkretnych własności funkcji
+kwadratowej, istotnych przy poszukiwaniu rozwiązania.
+8. W przypadku zadania wymagającego zastosowania własności ciągów arytmetycznych
+lub geometrycznych zdający może otrzymać 1 punkt, jeżeli przedstawi wykorzystanie
+takiej własności ciągu, która umożliwia znalezienie rozwiązania zadania.
+9. W przypadku zadania wymagającego analizowania figur geometrycznych na
+płaszczyźnie kartezjańskiej zdający może otrzymać punkty, jeżeli przy poszukiwaniu
+rozwiązania przedstawi poprawne rozumowanie, wykorzystujące własności figur
+geometrycznych, lub zapisze zależności pozwalające rozwiązać zadanie.
+10. W przypadku zadania z rachunku prawdopodobieństwa zdający może otrzymać
+przynajmniej 1 punkt, jeśli przy wyznaczaniu liczby zdarzeń elementarnych
+sprzyjających rozważanemu zdarzeniu przyjmuje określoną regularność lub podaje
+prawidłową metodę wyznaczenia tej liczby zdarzeń elementarnych.
+11. W przypadku zadania z geometrii zdający może otrzymać przynajmniej 1 punkt, jeżeli
+podaje poprawną metodę wyznaczenia długości odcinka potrzebnej do znalezienia
+rozwiązania.
+12. W przypadku zadania wymagającego przeprowadzenia dowodu (z zakresu algebry lub
+geometrii), jeśli w przedstawionym rozwiązaniu zdający powoła się na własność, która
+wyznacza istotny postęp, prowadzący do przeprowadzenia dowodu, to może otrzymać
+1 punkt.
+II. Dodatkowe szczegółowe zasady oceniania zadań otwartych w przypadku arkuszy osób
+ze stwierdzoną dyskalkulią

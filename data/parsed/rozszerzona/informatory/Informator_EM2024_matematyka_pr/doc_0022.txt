@@ -1,0 +1,33 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=22; level=rozszerzony; year=2024; section=1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów]
+22 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania […].
+Wymaganie szczegółowe
+III. Równania i nierówności. Zdający:
+5R) analizuje równania i nierówności liniowe z parametrami oraz równania
+i nierówności kwadratowe z parametrami, w szczególności wyznacza liczbę
+rozwiązań w zależności od parametrów […].
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik.
+2 pkt – wyznaczenie tych wszystkich wartości parametru 𝑚, dla których funkcja kwadratowa
+𝑓(𝑥) = 𝑥2 − 𝑚𝑥 + 𝑚 − 1 nie ma miejsc zerowych
+ALBO
+– wyznaczenie tych wszystkich wartości parametru 𝑚, dla których funkcja kwadratowa
+𝑓(𝑥) = 𝑥2 − 𝑚𝑥 + 𝑚 − 1 ma dokładnie jedno miejsce zerowe równe 1.
+1 pkt – zapisanie, że liczba 1 jest pierwiastkiem wielomianu 𝑊 i zapisanie warunków, jakie
+muszą być spełnione, aby wielomian 𝑊 miał dokładnie jedno miejsce zerowe.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Zauważmy, że liczba 1 jest pierwiastkiem wielomianu 𝑊. Zatem wielomian 𝑊 ma
+dokładnie jeden pierwiastek rzeczywisty tylko wtedy, gdy funkcja kwadratowa
+𝑓(𝑥) = 𝑥2 − 𝑚𝑥 + 𝑚 − 1 ma dokładnie jedno miejsce zerowe równe 1 lub gdy funkcja 𝑓
+nie ma miejsc zerowych.
+Zatem
+Δ < 0 lub (Δ = 0 i 𝑥0 = 1)
+𝑚2 − 4𝑚 + 4 < 0 lub (𝑚2 − 4𝑚 + 4 = 0 i − 𝑏
+2𝑎 = 1)
+(𝑚 − 2)2 < 0 lub ((𝑚 − 2)2 = 0 i
+𝑚
+2 = 1)

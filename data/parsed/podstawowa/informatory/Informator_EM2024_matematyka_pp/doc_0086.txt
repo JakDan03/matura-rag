@@ -1,0 +1,79 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=86; level=podstawowy; year=2024; section=1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów]
+86 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Wymagania ogólne
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.
+2. Dostrzeganie regularności, podobieństw oraz analogii, formułowanie wniosków na
+ich podstawie i uzasadnianie ich poprawności.
+4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Wymagania szczegółowe
+VIII. Planimetria. Zdający:
+9) wykorzystuje zależności między obwodami oraz między polami figur podobnych;
+11) przeprowadza dowody geometryczne.
+Zasady oceniania
+3 pkt – poprawne przeprowadzenie pełnego dowodu równania 𝑃3 = 𝑃1 + 𝑃2.
+2 pkt – zapisanie sumy pól trójkątów 𝐶𝐴𝑊1, 𝐴𝐵𝑊2 wyrażonej poprzez wysokość jednego
+z nich, np.: 𝑃1 + 𝑃2 = 1
+2 ⋅ ℎ1 ⋅ |𝐶𝐴| + 1
+2 ⋅ ℎ1 ⋅
+|𝐴𝐵|2
+|𝐶𝐴| oraz zapisanie twierdzenia
+Pitagorasa dla trójkąta 𝐴𝐵𝐶: |𝐶𝐴|2 + |𝐴𝐵|2 = |𝐵𝐶|2
+ALBO
+– zapisanie zależności między polami figur płaskich a długościami odcinków trójkąta:
+𝑃2
+𝑃1
+= (
+|𝐴𝐵|
+|𝐶𝐴|)
+2
+,
+𝑃3
+𝑃1
+= (
+|𝐵𝐶|
+|𝐶𝐴|)
+2
+oraz zapisanie sumy pól figur płaskich wyrażonej za
+pomocą długości boków trójkąta i jednego z pól, np.: 𝑃1 + 𝑃2 = 𝑃1 +
+|𝐴𝐵|2
+|𝐶𝐴|2 ⋅ 𝑃1 oraz
+zapisanie twierdzenia Pitagorasa dla trójkąta 𝐴𝐵𝐶: |𝐶𝐴|2 + |𝐴𝐵|2 = |𝐵𝐶|2 ,
+ALBO
+– poprawne wyprowadzenie i zapisanie wyrażenia postaci: 𝑃1 + 𝑃2 = 𝑃1 ⋅
+|𝐵𝐶|2
+|𝐶𝐴|2 .
+1 pkt – zapisanie wzorów na pola trójkątów oraz wyrażenie wysokości dwóch trójkątów (na
+mocy ich podobieństwa) poprzez wysokość trzeciego z nich, np.:
+𝑃1 = 1
+2 ⋅ ℎ1 ⋅ |𝐶𝐴|, 𝑃2 = 1
+2 ⋅ ℎ1 ⋅
+|𝐴𝐵|2
+|𝐶𝐴| , 𝑃3 = 1
+2 ⋅ ℎ1 ⋅
+|𝐵𝐶|2
+|𝐶𝐴|
+ALBO
+– zapisanie zależności między polami figur płaskich a długościami odcinków trójkąta, np.:
+𝑃2
+𝑃1
+= (
+|𝐴𝐵|
+|𝐶𝐴|)
+2
+,
+𝑃3
+𝑃1
+= (
+|𝐵𝐶|
+|𝐶𝐴|)
+2
+,
+ALBO
+– zapisanie sumy pól figur płaskich wyrażonej za pomocą długości boków trójkąta oraz
+jednego z pól, np.: 𝑃1 + 𝑃2 = 𝑃1 +
+|𝐴𝐵|2
+|𝐶𝐴|2 ⋅ 𝑃1 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.

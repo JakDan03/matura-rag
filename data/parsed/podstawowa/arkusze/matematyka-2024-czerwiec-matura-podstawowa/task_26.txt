@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=24; level=podstawowy; year=2024; month=czerwiec; task_id=26]
+Zadanie 26. (0–1)
+Przekątna ściany sześcianu ma długość 2√2.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Objętość tego sześcianu jest równa
+A. 8 B. 24 C. 16√6
+9 D. 16√2

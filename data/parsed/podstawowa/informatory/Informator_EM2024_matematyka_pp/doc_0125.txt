@@ -1,0 +1,48 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=125; level=podstawowy; year=2024; section=ALBO]
+Przykładowe zadania z rozwiązaniami 125
+Sposób 2. (bezpośrednie zliczenie liczby znaków z zastosowaniem zasady dodawania)
+Będziemy kolejno zliczać znaki: z jednym punktem wypukłym, z dwoma
+punktami wypukłymi, z trzema punktami wypukłymi, z czterema punktami
+wypukłymi, z pięcioma punktami wypukłymi i z sześcioma punktami
+wypukłymi. Zbiory znaków z daną liczbą punktów wypukłych oznaczymy
+odpowiednio jako: 𝐴1, 𝐴2, 𝐴3, 𝐴4, 𝐴5, 𝐴6.
+Aby zliczanie przeprowadzić metodycznie, ułatwimy sobie zadanie
+numerując punkty w polu znaku, jak na rysunku obok.
+W takiej konwencji, przykładowo:
+– znak oznaczymy jedną cyfrą: (2);
+– znak oznaczymy trójką cyfr: (1,3,4) – przy czym kolejność zapisu tych cyfr nie ma
+znaczenia.
+𝐴1 = {(1), (2), (3), (4), (5), (6)}, zatem |𝐴1| = 6
+𝐴2 =
+{
+(1,2), (1,3), (1,4), (1,5), (1,6),
+(2,3), (2,4), (2,5), (2,6),
+(3,4), (3,5), (3,6),
+(4,5), (4,6),
+(5,6) }
+, zatem |𝐴2| = 15
+𝐴3 =
+{
+(1,2,3), (1,2,4), (1,2,5), (1,2,6),
+(1,3,4), (1,3,5), (1,3,6),
+(1,4,5), (1,4,6), (1,5,6),
+(2,3,4), (2,3,5), (2,3,6),
+(2,4,5), (2,4,6), (2,5,6),
+(3,4,5), (3,4,6), (3,5,6),
+(4,5,6) }
+, zatem |𝐴3| = 20
+Zauważmy, że każdemu znakowi z dwoma punktami wypukłymi możemy przyporządkować
+znak z czterema punktami wypukłymi, zamieniając punkty wypukłe na niewypukłe
+i odwrotnie:
+Np. znakowi przyporządkujemy znak .
+Zatem znaków z czterema punktami wypukłymi jest tyle samo, co znaków z dwoma punktami
+wypukłymi. Podobnie argumentujemy, że znaków z pięcioma punktami wypukłymi jest tyle
+samo co znaków z jednym punktem wypukłym. Stąd |𝐴4| = |𝐴2| = 15 oraz |𝐴5| = |𝐴1| = 6.
+𝐴6 = {(1,2,3,4,5,6)}, zatem |𝐴6| = 1
+Wszystkich znaków w piśmie Braille’a jest: 6 + 15 + 20 + 15 + 6 + 1 = 63.
+1
+4
+2
+5
+3
+6

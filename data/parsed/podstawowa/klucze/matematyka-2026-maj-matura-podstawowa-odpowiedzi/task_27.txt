@@ -1,0 +1,48 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=33, 34; level=podstawowy; year=2026; month=maj; task_id=27]
+Zadanie 27. (0–2)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+X.2) posługuje się pojęciem kąta między
+prostą a płaszczyzną […];
+X.5) oblicza objętości […] ostrosłupów […]
+również z wykorzystaniem trygonometrii.
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑉 = 128.
+1 pkt – obliczenie/zapisanie wysokości ostrosłupa: 𝐻 = 4
+ALBO
+– wyznaczenie pola podstawy ostrosłupa: 𝑃𝐴𝐵𝐶𝐷 = (4√6)
+2
+(lub 𝑃𝐴𝐵𝐶𝐷 = 1
+2 ⋅ (8√3)
+2
+).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli zdający rozpatruje bryłę inną niż ostrosłup prawidłowy czworokątny, to otrzymuje
+0 punktów za całe rozwiązanie.
+Przykładowe pełne rozwiązanie
+Przyjmujemy oznaczenia jak na rysunku:
+𝑎 – długość krawędzi podstawy,
+𝐻 – wysokość ostrosłupa,
+𝑂 – spodek wysokości ostrosłupa.
+Zauważamy, że 𝑎 > 0 i 𝐻 > 0.
+Ponieważ 𝑂 jest punktem przecięcia
+przekątnych kwadratu, to |𝑂𝐵| = 4√3.
+W trójkącie prostokątnym 𝑆𝑂𝐵 mamy:
+tg 30° =
+|𝑆𝑂|
+|𝑂𝐵| = 𝐻
+4√3
+Zatem:
+𝐻 = 4√3 ⋅ tg 30° = 4√3 ⋅ √3
+3 = 4
+Obliczamy objętość 𝑉 ostrosłupa:
+𝑉 = 1
+3 ⋅ 1
+2 ⋅ (8√3)
+2
+⋅ 4 = 128

@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=12; level=rozszerzony; year=2023; month=maj; task_id=8]
+Zadanie 8. (0–4)
+Czworokąt 𝐴𝐵𝐶𝐷, w którym |𝐵𝐶| = 4 i |𝐶𝐷| = 5, jest opisany na okręgu. Przekątna 𝐴𝐶
+tego czworokąta tworzy z bokiem 𝐵𝐶 kąt o mierze 60°, natomiast z bokiem 𝐴𝐵 – kąt ostry,
+którego sinus jest równy 1
+4 .
+Oblicz obwód czworokąta 𝑨𝑩𝑪𝑫. Zapisz obliczenia.
+8.
+0–1–
+2–3–4

@@ -1,0 +1,57 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=66; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+66 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Przykładowe pełne rozwiązania
+Sposób 1.
+Wyznaczymy kolejne wyrazy ciągu:
+𝑓(𝑚) = 1
+𝑚 , 𝑓(1) = 1, 𝑓(2) = 1
+2
+Zastosujemy własność/definicję ciągu geometrycznego:
+𝑓(2)
+𝑓(1) = 𝑓(1)
+𝑓(𝑚) = 𝑞, stąd
+1
+2
+1 = 1
+1
+𝑚
+, zatem 𝑚 = 1
+2
+Sposób 2.
+Wyznaczymy kolejne wyrazy ciągu:
+𝑓(𝑚) = 1
+𝑚 , 𝑓(1) = 1, 𝑓(2) = 1
+2
+Zastosujemy własność ciągu geometrycznego:
+12 = 1
+𝑚 ⋅ 1
+2
+, zatem 1 = 1
+2𝑚
+i stąd 𝑚 = 1
+2
+Sposób 3.
+Wyznaczymy kolejne wyrazy ciągu:
+𝑎1 = 𝑓(𝑚) = 1
+𝑚 , 𝑎2 = 𝑓(1) = 1, 𝑎3 = 𝑓(2) = 1
+2
+Zastosujemy wzór na 𝑛-ty wyraz ciągu geometrycznego: 𝑎𝑛 = 𝑎1 ⋅ 𝑞𝑛−1 dla 𝑛 ≥ 1,
+albo wzór rekurencyjny określający ciąg geometryczny: 𝑎𝑛+1 = 𝑎𝑛 ⋅ 𝑞 dla 𝑛 ≥ 1 i liczby
+rzeczywistej 𝑞.
+Wówczas:
+𝑎3 = 𝑎2 ⋅ 𝑞, stąd 1
+2 = 1 ⋅ 𝑞, zatem 𝑞 = 1
+2
+𝑎3 = 𝑎1 ⋅ 𝑞2, stąd 1
+2 = 1
+𝑚 ⋅ 𝑞2, zatem 𝑞2 = 𝑚
+2
+Z powyższych zależności wynika, że:
+(1
+2)
+2
+= 𝑚
+2 , stąd 1
+4 = 𝑚
+2 , zatem 𝑚 = 1
+2

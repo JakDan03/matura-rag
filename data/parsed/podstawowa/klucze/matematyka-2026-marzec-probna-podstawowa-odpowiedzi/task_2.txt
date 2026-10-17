@@ -1,0 +1,21 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=3; level=podstawowy; year=2026; month=marzec; term=probna; task_id=2]
+Zadanie 2. (0–1)
+Wymaganie ogólne Wymaganie szczegółowe
+I. Sprawność rachunkowa.
+Wykonywanie obliczeń na liczbach
+rzeczywistych, także przy użyciu
+kalkulatora, stosowanie praw działań
+matematycznych przy przekształcaniu
+wyrażeń algebraicznych oraz
+wykorzystywanie tych umiejętności przy
+rozwiązywaniu problemów w kontekstach
+rzeczywistych i teoretycznych.
+Zdający:
+I.3) stosuje własności pierwiastków
+dowolnego stopnia, w tym pierwiastków
+stopnia nieparzystego z liczb ujemnych.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+B

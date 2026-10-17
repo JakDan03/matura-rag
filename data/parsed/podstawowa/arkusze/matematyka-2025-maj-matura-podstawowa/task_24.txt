@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=23; level=podstawowy; year=2025; month=maj; task_id=24]
+Zadanie 24. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) punkt 𝑃 = (0, 0) leży na okręgu 𝒪
+o środku w punkcie 𝑆 = (2, 4).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Okrąg 𝒪 jest określony równaniem
+A. (𝑥 − 2)2 + (𝑦 − 4)2 = 2√5
+B. (𝑥 − 2)2 + (𝑦 − 4)2 = 20
+C. (𝑥 + 2)2 + (𝑦 + 4)2 = 2√5
+D. (𝑥 + 2)2 + (𝑦 + 4)2 = 20

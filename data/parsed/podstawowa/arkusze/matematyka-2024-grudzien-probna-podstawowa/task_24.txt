@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=23; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=24]
+Zadanie 24. (0–1)
+Podstawą ostrosłupa prawidłowego czworokątnego jest kwadrat o boku długości 4.
+Ściana boczna tego ostrosłupa jest nachylona do płaszczyzny podstawy pod takim kątem 𝛼,
+że tg 𝛼 = 3.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wysokość tego ostrosłupa jest równa
+A. 3 B. 6 C. 6√2 D. 12

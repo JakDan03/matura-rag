@@ -1,0 +1,46 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=44; level=rozszerzony; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+44 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymaganie szczegółowe
+VI. Ciągi. Zdający:
+2R) rozpoznaje zbieżne szeregi geometryczne i oblicza ich sumę.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik.
+3 pkt – obliczenie ilorazu ciągu oraz zapisanie równania 𝑎1⋅𝑞
+1−𝑞2 = 6.
+2 pkt – zapisanie dwóch równań z niewiadomymi 𝑞 i 𝑎1, które pozwalają na obliczenie
+ilorazu ciągu oraz pierwszego wyrazu ciągu
+ALBO
+– obliczenie ilorazu ciągu.
+1 pkt – zapisanie równania 𝑞2 + 1 = 29
+25 albo 𝑎1⋅𝑞
+1−𝑞2 = 6.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Z warunku
+𝑎5 + 𝑎3
+𝑎3
+= 29
+25
+oraz z informacji o monotoniczności ciągu otrzymamy iloraz 𝑞 ciągu (𝑎𝑛):
+𝑎3 ⋅ 𝑞2 + 𝑎3
+𝑎3
+= 29
+25
+𝑞2 + 1 = 29
+25
+𝑞 = 2
+5 lub 𝑞 = − 2
+5
+Ciąg jest malejący, więc 𝑞 = 2
+5 .
+Ponieważ dla 𝑞 = 2
+5 ciąg ten jest zbieżny, więc sumę
+𝑎2 + 𝑎4 + 𝑎6 + … = 6
+możemy zapisać następująco:
+𝑎1 ⋅ 𝑞
+1 − 𝑞2 = 6
+i otrzymujemy

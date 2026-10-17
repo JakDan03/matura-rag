@@ -1,0 +1,31 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=15; level=podstawowy; year=2024; section=1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów]
+Przykładowe zadania z rozwiązaniami 15
+Zadanie 4. (0–3)
+Rozważmy dwie kolejne liczby naturalne 𝑎 i 𝑏 takie, że 𝑎 < 𝑏 oraz obie są niepodzielne
+przez 3.
+Udowodnij, że liczba 𝒂𝟐 + 𝟏𝟏𝒂𝒃 + 𝒃𝟐 jest podzielna przez 𝟗.
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.
+Wymaganie szczegółowe
+I. Liczby rzeczywiste. Zdający:
+2) przeprowadza proste dowody dotyczące podzielności liczb całkowitych i reszt
+z dzielenia […].
+Zasady oceniania
+3 pkt – przeprowadzenie pełnego dowodu: zapisanie 𝑎2 + 11𝑎𝑏 + 𝑏2 jako
+9 ⋅ (13𝑘2 + 13𝑘 + 3) oraz zapisanie, że 13𝑘2 + 13𝑘 + 3 jest liczbą całkowitą
+ALBO
+– przeprowadzenie pełnego dowodu: zapisanie 𝑎2 + 11𝑎𝑏 + 𝑏2 jako
+117𝑘2 + 117𝑘 + 27 oraz zapisanie, że każdy składnik tej sumy jest podzielny
+przez 9,
+ALBO
+– przeprowadzenie pełnego dowodu: zapisanie 𝑎2 + 11𝑎𝑏 + 𝑏2 w postaci
+9𝑎𝑏 + (𝑎 + 𝑏)2 oraz zapisanie, że liczba 9𝑎𝑏 jest podzielna przez 9 oraz
+zapisanie, że liczba (𝑎 + 𝑏)2 jest podzielna przez 9 jako kwadrat liczby podzielnej
+przez 3.
+2 pkt – zapisanie 𝑎2 + 11𝑎𝑏 + 𝑏2 jako (3𝑘 + 1)2 + 11(3𝑘 + 1)(3𝑘 + 2) + (3𝑘 + 2)2
+oraz przekształcenie tego wyrażenia do postaci 117𝑘2 + 117𝑘 + 27
+ALBO
+– zapisanie liczby 𝑎2 + 11𝑎𝑏 + 𝑏2 w postaci 9𝑎𝑏 + (𝑎 + 𝑏)2 oraz zapisanie, że
+liczba 𝑎 + 𝑏 jest podzielna przez 3.

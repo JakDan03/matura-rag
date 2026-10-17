@@ -1,0 +1,485 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=28, 29, 30, 31, 32, 33, 34, 35, 36, 37; level=rozszerzony; year=2025; month=maj; task_id=9]
+Zadanie 9. (0–5)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VII.R6) rozwiązuje równania
+trygonometryczne.
+Zasady oceniania (dla sposobów I–III)
+5 pkt – zastosowanie poprawnej metody i poprawny wynik: (− 2𝜋
+3 ), (− 𝜋
+6), 𝜋
+3 , 5𝜋
+6 .
+4 pkt – zapisanie założenia cos 𝑥 ≠ 0 oraz rozwiązanie alternatywy równań tg 𝑥 = √3 lub
+tg 𝑥 = −
+√3
+3 w przedziale [−𝜋 , 𝜋]: (− 2𝜋
+3 ), (− 𝜋
+6), 𝜋
+3 , 5𝜋
+6 (dla sposobów I oraz III)
+ALBO
+– rozwiązanie jednego z równań alternatywy tg 𝑥 = √3 lub tg 𝑥 = −
+√3
+3 , gdzie
+𝑥 ≠ 𝜋
+2 + 𝜋𝑘 i 𝑘 ∈ ℤ, w przedziale [−𝜋 , 𝜋], np.
+(− 2𝜋
+3 ) i 𝜋
+3 (rozwiązania równania tg 𝑥 = √3 w przedziale [−𝜋, 𝜋]),
+(− 𝜋
+6) oraz 5𝜋
+6 (rozwiązania równania tg 𝑥 = −
+√3
+3 w przedziale [−𝜋, 𝜋]),
+oraz uzasadnienie, że liczby postaci 𝜋
+2 + 𝜋𝑘, gdzie 𝑘 ∈ ℤ, nie spełniają równania
+3cos2𝑥 + 2√3 sin 𝑥 cos 𝑥 − 3sin2𝑥 = 0 (dla sposobów I oraz III),
+ALBO
+– rozwiązanie alternatywy równań tg 𝑥 = √3 lub tg 𝑥 = −
+√3
+3 w zbiorze ℝ:
+𝑥 = 𝜋
+3 + 𝜋𝑘 oraz 𝑥 = − 𝜋
+6 + 𝜋𝑘, gdzie 𝑘 ∈ ℤ, oraz uzasadnienie, że liczby postaci
+𝜋
+2 + 𝜋𝑘, gdzie 𝑘 ∈ ℤ, nie spełniają równania
+3cos2𝑥 + 2√3 sin 𝑥 cos 𝑥 − 3sin2𝑥 = 0 (dla sposobów I oraz III),
+ALBO
+– zapisanie założenia cos(2𝑥) ≠ 0 oraz rozwiązanie równania tg(2𝑥) = − √3
+w przedziale [−𝜋, 𝜋]: (− 2𝜋
+3 ), (− 𝜋
+6), 𝜋
+3 , 5𝜋
+6 (dla sposobu II),
+ALBO
+– rozwiązanie równania tg(2𝑥) = − √3 w zbiorze ℝ: 𝑥 = − 𝜋
+6 + 𝜋𝑘
+2 , gdzie 𝑘 ∈ ℤ,
+oraz uzasadnienie, że liczby postaci 𝜋
+4 + 𝜋𝑘
+2 , gdzie 𝑘 ∈ ℤ, nie spełniają równania
+3 cos(2𝑥) + √3 sin(2𝑥) = 0 (dla sposobu II).
+Zasady oceniania rozwiązań zadań
+3 pkt – zapisanie założenia cos 𝑥 ≠ 0 oraz rozwiązanie alternatywy równań tg 𝑥 = √3 lub
+tg 𝑥 = −
+√3
+3 w zbiorze ℝ:
+𝑥 = 𝜋
+3 + 𝜋𝑘 oraz 𝑥 = − 𝜋
+6 + 𝜋𝑘, gdzie 𝑘 ∈ ℤ (dla sposobów I oraz III)
+ALBO
+– przekształcenie równania do postaci alternatywy równań tg 𝑥 = √3 lub tg 𝑥 = −
+√3
+3
+oraz rozwiązanie jednego z równań tej alternatywy w przedziale [−𝜋, 𝜋], np.
+(− 2𝜋
+3 ) i 𝜋
+3 (rozwiązania równania tg 𝑥 = √3 w przedziale [−𝜋, 𝜋]),
+(− 𝜋
+6) i 5𝜋
+6 (rozwiązania równania tg 𝑥 = −
+√3
+3 w przedziale [−𝜋, 𝜋]),
+(dla sposobów I oraz III),
+ALBO
+– przekształcenie równania do postaci alternatywy równań tg 𝑥 = √3 lub tg 𝑥 = −
+√3
+3
+oraz uzasadnienie, że liczby postaci 𝜋
+2 + 𝜋𝑘, gdzie 𝑘 ∈ ℤ, nie spełniają równania
+3cos2𝑥 + 2√3 sin 𝑥 cos 𝑥 − 3sin2𝑥 = 0 (dla sposobów I oraz III)
+ALBO
+– zapisanie założenia cos(2𝑥) ≠ 0 oraz rozwiązanie równania tg(2𝑥) = − √3
+w zbiorze ℝ: 𝑥 = − 𝜋
+6 + 𝜋𝑘
+2 , gdzie 𝑘 ∈ ℤ (dla sposobu II),
+ALBO
+– przekształcenie równania do postaci tg(2𝑥) = − √3 oraz uzasadnienie, że liczby
+postaci 𝜋
+4 + 𝜋𝑘
+2 , gdzie 𝑘 ∈ ℤ, nie spełniają równania 3 cos(2𝑥) + √3 sin(2𝑥) = 0
+(dla sposobu II).
+2 pkt – przekształcenie równania do alternatywy równań tg 𝑥 = √3 lub tg 𝑥 = −
+√3
+3 (dla
+sposobów I oraz III)
+ALBO
+– przekształcenie równania do postaci −3 tg2 𝑥 + 2√3 tg 𝑥 + 3 = 0 oraz
+uzasadnienie, że liczby postaci 𝜋
+2 + 𝜋𝑘, gdzie 𝑘 ∈ ℤ, nie spełniają równania
+3cos2𝑥 + 2√3 sin 𝑥 cos 𝑥 − 3sin2𝑥 = 0 (dla sposobu I),
+ALBO
+– przekształcenie równania do postaci tg(2𝑥) = − √3 (dla sposobu II).
+1 pkt – przekształcenie równania do postaci −3 tg2 𝑥 + 2√3 tg 𝑥 + 3 = 0 (dla sposobu I)
+ALBO
+– zastosowanie wzoru na cosinus podwojonego kąta i zapisanie równania
+3 cos(2𝑥) + √3 sin(2𝑥) = 0 (dla sposobu II),
+ALBO
+– zastosowanie wzoru na sinus podwojonego kąta oraz wzorów skróconego mnożenia
+i przekształcenie równania do postaci
+(√3 cos 𝑥 + sin 𝑥 − 2 sin 𝑥)(√3 cos 𝑥 + sin 𝑥 + 2 sin 𝑥) = 0 (dla sposobu III),
+ALBO
+– uzasadnienie, że liczby postaci 𝜋
+2 + 𝜋𝑘, gdzie 𝑘 ∈ ℤ, nie spełniają równania
+3cos2𝑥 + 2√3 sin 𝑥 cos 𝑥 − 3sin2𝑥 = 0 (dla sposobów I oraz III).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania (dla sposobów IV–V)
+5 pkt – zastosowanie poprawnej metody i poprawny wynik: (− 2𝜋
+3 ), (− 𝜋
+6), 𝜋
+3 , 5𝜋
+6 .
+4 pkt – rozwiązanie równania sin (𝜋
+3 + 2𝑥) = 0 w zbiorze ℝ: 𝑥 = − 𝜋
+6 + 𝜋𝑘
+2 , gdzie 𝑘 ∈ ℤ
+(dla sposobu IV),
+ALBO
+– rozwiązanie równania cos (𝜋
+6 − 2𝑥) = 0 w zbiorze ℝ: 𝑥 = − 𝜋
+6 − 𝜋𝑘
+2 , gdzie 𝑘 ∈ ℤ
+(dla sposobu IV),
+ALBO
+– rozwiązanie obydwu równań alternatywy cos (𝜋
+6 + 𝑥) = 0 lub sin (𝜋
+6 + 𝑥) = 0
+w zbiorze ℝ:
+𝑥 = 𝜋
+3 + 𝜋𝑘 oraz 𝑥 = − 𝜋
+6 + 𝜋𝑘, gdzie 𝑘 ∈ ℤ (dla sposobu V),
+ALBO
+– przekształcenie równania do postaci alternatywy równań cos (𝜋
+6 + 𝑥) = 0 lub
+√3 cos 𝑥 + 3 sin 𝑥 = 0 oraz rozwiązanie jednego z równań tej alternatywy
+w przedziale [−𝜋, 𝜋], np.
+(− 2𝜋
+3 ) i 𝜋
+3 (rozwiązania równania cos (𝜋
+6 + 𝑥) = 0 w przedziale [−𝜋, 𝜋]),
+(− 𝜋
+6) oraz 5𝜋
+6 (rozwiązania równania √3 cos 𝑥 + 3 sin 𝑥 = 0 w przedziale
+[−𝜋, 𝜋]),
+(dla sposobu V),
+ALBO
+– przekształcenie równania do postaci alternatywy równań √3 cos 𝑥 − sin 𝑥 = 0 lub
+sin (𝜋
+6 + 𝑥) = 0 oraz rozwiązanie jednego z równań tej alternatywy w przedziale
+[−𝜋, 𝜋], np.
+(− 2𝜋
+3 ) i 𝜋
+3 (rozwiązania równania √3 cos 𝑥 − sin 𝑥 = 0 w przedziale [−𝜋, 𝜋]),
+(− 𝜋
+6) oraz 5𝜋
+6 (rozwiązania równania sin (𝜋
+6 + 𝑥) = 0 w przedziale [−𝜋, 𝜋]),
+(dla sposobu V).
+3 pkt – przekształcenie równania do postaci sin (𝜋
+3 + 2𝑥) = 0 (dla sposobu IV)
+ALBO
+– przekształcenie równania do postaci cos (𝜋
+6 − 2𝑥) = 0 (dla sposobu IV),
+ALBO
+Zasady oceniania rozwiązań zadań
+– przekształcenie równania do postaci alternatywy równań cos (𝜋
+6 + 𝑥) = 0 lub
+√3 cos 𝑥 + 3 sin 𝑥 = 0 oraz rozwiązanie jednego z równań tej alternatywy
+w zbiorze ℝ, np.
+𝑥 = 𝜋
+3 + 𝜋𝑘 (rozwiązania równania cos (𝜋
+6 + 𝑥) = 0 w zbiorze ℝ),
+𝑥 = − 𝜋
+6 + 𝜋𝑘 (rozwiązania równania √3 cos 𝑥 + 3 sin 𝑥 = 0 w zbiorze ℝ),
+gdzie 𝑘 ∈ ℤ (dla sposobu V),
+– przekształcenie równania do postaci alternatywy równań √3 cos 𝑥 − sin 𝑥 = 0 lub
+sin (𝜋
+6 + 𝑥) = 0 oraz rozwiązanie jednego z równań tej alternatywy w zbiorze ℝ,
+np.
+𝑥 = 𝜋
+3 + 𝜋𝑘 (rozwiązania równania √3 cos 𝑥 − sin 𝑥 = 0 w zbiorze ℝ),
+𝑥 = − 𝜋
+6 + 𝜋𝑘 (rozwiązania równania sin (𝜋
+6 + 𝑥) = 0 w zbiorze ℝ), gdzie 𝑘 ∈ ℤ
+(dla sposobu V).
+2 pkt – przekształcenie równania do postaci
+√3
+2 cos(2𝑥) + 1
+2 sin(2𝑥) = 0 (dla sposobu IV)
+ALBO
+– przekształcenie równania do postaci alternatywy równań
+cos (𝜋
+6 + 𝑥) = 0 lub √3 cos 𝑥 + 3 sin 𝑥 = 0 (dla sposobu V),
+ALBO
+– przekształcenie równania do postaci alternatywy równań
+√3 cos 𝑥 − sin 𝑥 = 0 lub sin (𝜋
+6 + 𝑥) = 0 (dla sposobu V).
+1 pkt – zastosowanie wzoru na cosinus podwojonego kąta i zapisanie równania
+3 cos(2𝑥) + √3 sin(2𝑥) = 0 (dla sposobu IV)
+ALBO
+– zastosowanie wzoru na sinus podwojonego kąta oraz wzorów skróconego mnożenia
+i przekształcenie równania do postaci
+(√3 cos 𝑥 + sin 𝑥 − 2 sin 𝑥)(√3 cos 𝑥 + sin 𝑥 + 2 sin 𝑥) = 0 (dla sposobu V),
+ALBO
+– zastosowanie wzoru na sinus podwojonego kąta i obliczenie wyróżnika Δ trójmianu
+kwadratowego 3cos2𝑥 + 2√3 sin 𝑥 cos 𝑥 − 3sin2𝑥 zmiennej np. cos 𝑥:
+Δ = (4√3 sin 𝑥)
+2
+.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli jedynym błędem zdającego jest:
+a) niepoprawne zastosowanie wzoru na sumę/różnicę cosinusów/sinusów,
+b) niepoprawne zastosowanie wzoru na iloczyn cosinusów/sinusów,
+c) błędne zastosowanie nieparzystości/parzystości funkcji trygonometrycznej,
+ale zdający otrzyma elementarne równania trygonometryczne postaci sin(𝑎𝑥 + 𝑏) = 𝑐,
+cos(𝑎𝑥 + 𝑏) = 𝑐, gdzie 𝑎 ≠ 0, 𝑎2 ≠ 1, 𝑏 ≠ 0, 𝑐 ∈ [−1, 1], i rozwiązanie doprowadzi
+konsekwentnie do końca, to może otrzymać co najwyżej 3 punkty za całe rozwiązanie,
+o ile nie nabył prawa do innej punktacji zgodnej z zasadami oceniania.
+2. Jeżeli zdający błędnie stosuje metodę analizy starożytnych, np. podnosi obie strony
+równania 3 cos(2𝑥) = −√3 sin(2𝑥) do kwadratu i nie sprawdza rachunkiem, czy
+wszystkie otrzymane liczby są rozwiązaniami, to za całe rozwiązanie może otrzymać co
+najwyżej 3 punkty; natomiast jeżeli odrzuci co najmniej jedno rozwiązanie „obce” (ale nie
+odrzuci wszystkich rozwiązań „obcych”), to może otrzymać co najwyżej 4 punkty za całe
+rozwiązanie.
+3. Jeżeli zdający dzieli obie strony równania przez wyrażenie 𝑎(𝑥) zawierające niewiadomą
+𝑥 i nie zapisze założenia 𝑎(𝑥) ≠ 0, ani też nie rozważa przypadku 𝑎(𝑥) = 0, to może
+otrzymać co najwyżej 3 punkty za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I (poprzez sinus podwojonego kąta i tangens)
+Stosujemy wzory na sinus podwojonego kąta i przekształcamy równanie
+3cos2𝑥 + √3sin(2𝑥) − 3sin2𝑥 = 0 do postaci
+3cos2𝑥 + 2√3 sin 𝑥 cos 𝑥 − 3sin2𝑥 = 0
+Należy rozważyć dwa przypadki.
+Przypadek 1. (gdy 𝑥 ≠ 𝜋
+2 + 𝜋𝑘, gdzie 𝑘 ∈ ℤ).
+Dzielimy obie strony równania 3cos2𝑥 + 2√3 sin 𝑥 cos 𝑥 − 3sin2𝑥 = 0 przez cos2 𝑥
+i otrzymujemy
+3 + 2√3 sin 𝑥
+cos 𝑥 − 3sin2𝑥
+cos2 𝑥 = 0
+3 + 2√3 tg 𝑥 − 3 tg2 𝑥 = 0
+−3 tg2 𝑥 + 2√3 tg 𝑥 + 3 = 0
+Δ = (2√3)
+2
+− 4 ⋅ (−3) ⋅ 3 = 48
+tg 𝑥 = √3 ∨ tg 𝑥 = − √3
+3
+Rozwiązaniami równania tg 𝑥 = √3 w zbiorze ℝ są wszystkie liczby postaci 𝜋
+3 + 𝜋𝑘,
+gdzie 𝑘 ∈ ℤ. Zatem rozwiązaniami tego równania w przedziale [−𝜋 , 𝜋] są liczby
+(− 2𝜋
+3 ) i 𝜋
+3 .
+Rozwiązaniami równania tg 𝑥 = −
+√3
+3 w zbiorze ℝ są wszystkie liczby postaci − 𝜋
+6 + 𝜋𝑘,
+gdzie 𝑘 ∈ ℤ. Zatem rozwiązaniami tego równania w przedziale [−𝜋 , 𝜋] są liczby (− 𝜋
+6)
+oraz 5𝜋
+6 .
+Zasady oceniania rozwiązań zadań
+Przypadek 2. (gdy 𝑥 = 𝜋
+2 + 𝜋𝑘, gdzie 𝑘 ∈ ℤ).
+Ponieważ cos (𝜋
+2 + 𝜋𝑘) = 0 dla każdego 𝑘 ∈ ℤ oraz sin2 (𝜋
+2 + 𝜋𝑘) = 1 dla każdego
+𝑘 ∈ ℤ, więc równanie 3cos2𝑥 + 2√3 sin 𝑥 cos 𝑥 − 3sin2𝑥 = 0 przyjmuje postać
+3 ⋅ 02 + 2√3 ⋅ sin (𝜋
+2 + 𝜋𝑘) ⋅ 0 − 3 ⋅ 1 = 0
+czyli −3 = 0. To oznacza, że wśród liczb postaci 𝜋
+2 + 𝜋𝑘, gdzie 𝑘 ∈ ℤ, nie ma rozwiązań
+równania 3cos2𝑥 + 2√3 sin 𝑥 cos 𝑥 − 3sin2𝑥 = 0.
+Ostatecznie rozwiązaniami równania 3cos2𝑥 + √3sin(2𝑥) − 3sin2𝑥 = 0 w przedziale
+[−𝜋 , 𝜋] są liczby: (− 2𝜋
+3 ), (− 𝜋
+6), 𝜋
+3 oraz 5𝜋
+6 .
+Sposób II (poprzez cosinus podwojonego kąta i tangens)
+Stosujemy wzory na cosinus podwojonego kąta i przekształcamy równanie
+3cos2𝑥 + √3sin(2𝑥) − 3sin2𝑥 = 0 do postaci
+3 cos(2𝑥) + √3 sin(2𝑥) = 0
+Należy rozważyć dwa przypadki.
+Przypadek 1. (gdy 2𝑥 ≠ 𝜋
+2 + 𝜋𝑘, gdzie 𝑘 ∈ ℤ).
+Dzielimy obie strony równania 3 cos(2𝑥) + √3 sin(2𝑥) = 0 przez cos(2𝑥) i otrzymujemy
+3 + √3 ⋅ sin(2𝑥)
+cos(2𝑥) = 0
+tg(2𝑥) = − √3
+2𝑥 = − 𝜋
+3 + 𝜋𝑘
+𝑥 = − 𝜋
+6 + 𝜋𝑘
+2
+gdzie 𝑘 ∈ ℤ. Stąd otrzymujemy cztery rozwiązania w przedziale [−𝜋 , 𝜋]: (− 2𝜋
+3 ), (− 𝜋
+6), 𝜋
+3
+oraz 5𝜋
+6 .
+Przypadek 2. (gdy 2𝑥 = 𝜋
+2 + 𝜋𝑘, gdzie 𝑘 ∈ ℤ).
+Ponieważ cos (𝜋
+2 + 𝜋𝑘) = 0 dla każdego 𝑘 ∈ ℤ, więc równanie
+3 cos(2𝑥) + √3 sin(2𝑥) = 0 przyjmuje postać
+3 ⋅ 0 + √3 ⋅ sin (𝜋
+2 + 𝜋𝑘) = 0
+i stąd sin (𝜋
+2 + 𝜋𝑘) = 0, gdzie 𝑘 ∈ ℤ. Korzystając z jedynki trygonometrycznej,
+otrzymujemy
+sin2 (𝜋
+2 + 𝜋𝑘) + cos2 (𝜋
+2 + 𝜋𝑘) = 1
+02 + 02 = 1
+czyli 0 = 1. To oznacza, że wśród liczb postaci 𝜋
+4 + 𝜋𝑘
+2 , gdzie 𝑘 ∈ ℤ, nie ma rozwiązań
+równania 3 cos(2𝑥) + √3 sin(2𝑥) = 0.
+Ostatecznie rozwiązaniami równania 3cos2𝑥 + √3sin(2𝑥) − 3sin2𝑥 = 0 w przedziale
+[−𝜋 , 𝜋] są liczby: (− 2𝜋
+3 ), (− 𝜋
+6), 𝜋
+3 oraz 5𝜋
+6 .
+Sposób III
+Przekształcamy równanie 3cos2𝑥 + √3sin(2𝑥) − 3sin2𝑥 = 0 równoważnie, stosując wzór
+na sinus podwojonego kąta i wzory skróconego mnożenia:
+3cos2𝑥 + √3sin(2𝑥) − 3sin2𝑥 = 0
+3 cos2 𝑥 + 2√3 sin 𝑥 cos 𝑥 − 3sin2 𝑥 = 0
+(√3 cos 𝑥 + sin 𝑥)
+2
+− 4 sin2 𝑥 = 0
+(√3 cos 𝑥 + sin 𝑥 − 2 sin 𝑥)(√3 cos 𝑥 + sin 𝑥 + 2 sin 𝑥) = 0
+√3 cos 𝑥 − sin 𝑥 = 0 ∨ √3 cos 𝑥 + 3 sin 𝑥 = 0
+sin 𝑥 = √3 cos 𝑥 ∨ sin 𝑥 = − √3
+3 cos 𝑥
+Przypadek 1. (gdy 𝑥 ≠ 𝜋
+2 + 𝜋𝑘, gdzie 𝑘 ∈ ℤ).
+Dzielimy strony równań alternatywy przez cos 𝑥 i otrzymujemy
+tg 𝑥 = √3 ∨ tg 𝑥 = − √3
+3
+Rozwiązaniami równania tg 𝑥 = √3 w zbiorze ℝ są wszystkie liczby postaci 𝜋
+3 + 𝜋𝑘,
+gdzie 𝑘 ∈ ℤ. Zatem rozwiązaniami tego równania w przedziale [−𝜋 , 𝜋] są liczby
+(− 2𝜋
+3 ) i 𝜋
+3 .
+Rozwiązaniami równania tg 𝑥 = −
+√3
+3 w zbiorze ℝ są wszystkie liczby postaci − 𝜋
+6 + 𝜋𝑘,
+gdzie 𝑘 ∈ ℤ. Zatem rozwiązaniami alternatywy równań tg 𝑥 = √3 lub tg 𝑥 = −
+√3
+3
+w przedziale [−𝜋 , 𝜋] są liczby (− 𝜋
+6) oraz 5𝜋
+6 .
+Zasady oceniania rozwiązań zadań
+Przypadek 2. (gdy 𝑥 = 𝜋
+2 + 𝜋𝑘, gdzie 𝑘 ∈ ℤ).
+Ponieważ cos (𝜋
+2 + 𝜋𝑘) = 0, więc równania alternatywy sin 𝑥 = √3 cos 𝑥 lub
+sin 𝑥 = −
+√3
+3 cos 𝑥 przyjmują postać
+sin (𝜋
+2 + 𝜋𝑘) = √3 ⋅ 0 oraz sin (𝜋
+2 + 𝜋𝑘) = − √3
+3 ⋅ 0
+i stąd sin (𝜋
+2 + 𝜋𝑘) = 0, gdzie 𝑘 ∈ ℤ. Korzystając z jedynki trygonometrycznej,
+otrzymujemy
+sin2 (𝜋
+2 + 𝜋𝑘) + cos2 (𝜋
+2 + 𝜋𝑘) = 1
+02 + 02 = 1
+czyli 0 = 1. To oznacza, że wśród liczb postaci 𝜋
+2 + 𝜋𝑘, gdzie 𝑘 ∈ ℤ, nie ma rozwiązań
+równania sin 𝑥 = √3 cos 𝑥 i nie ma rozwiązań równania sin 𝑥 = −
+√3
+3 cos 𝑥.
+Ostatecznie rozwiązaniami równania 3cos2𝑥 + √3sin(2𝑥) − 3sin2𝑥 = 0 w przedziale
+[−𝜋 , 𝜋] są liczby: (− 2𝜋
+3 ), (− 𝜋
+6), 𝜋
+3 oraz 5𝜋
+6 .
+Sposób IV (poprzez cosinus podwojonego kąta i sinus sumy)
+Przekształcamy równanie 3cos2𝑥 + √3sin(2𝑥) − 3sin2𝑥 = 0 równoważnie, stosując wzór
+na cosinus podwojonego kąta i sinus sumy kątów:
+3cos2𝑥 + √3sin(2𝑥) − 3sin2𝑥 = 0
+3 cos(2𝑥) + √3 sin(2𝑥) = 0 /: 2√3
+√3
+2 cos(2𝑥) + 1
+2 sin(2𝑥) = 0
+sin (𝜋
+3 + 2𝑥) = 0
+2𝑥 + 𝜋
+3 = 𝜋𝑘
+𝑥 = − 𝜋
+6 + 𝜋𝑘
+2
+gdzie 𝑘 ∈ ℤ.
+Rozwiązaniami równania 3cos2𝑥 + √3sin(2𝑥) − 3sin2𝑥 = 0 w przedziale [−𝜋 , 𝜋] są
+liczby: (− 2𝜋
+3 ), (− 𝜋
+6), 𝜋
+3 oraz 5𝜋
+6 .
+Sposób V
+Przekształcamy równanie 3cos2𝑥 + √3sin(2𝑥) − 3sin2𝑥 = 0 równoważnie, stosując wzór
+na sinus podwojonego kąta i wzory skróconego mnożenia:
+3cos2𝑥 + √3sin(2𝑥) − 3sin2𝑥 = 0
+3 cos2 𝑥 + 2√3 sin 𝑥 cos 𝑥 − 3sin2 𝑥 = 0
+(√3 cos 𝑥 + sin 𝑥)
+2
+− 4 sin2 𝑥 = 0
+(√3 cos 𝑥 + sin 𝑥 − 2 sin 𝑥)(√3 cos 𝑥 + sin 𝑥 + 2 sin 𝑥) = 0
+√3 cos 𝑥 − sin 𝑥 = 0 ∨ √3 cos 𝑥 + 3 sin 𝑥 = 0
+Rozwiązujemy równanie √3 cos 𝑥 − sin 𝑥 = 0 w zbiorze ℝ:
+√3 cos 𝑥 − sin 𝑥 = 0 /: 2
+√3
+2 cos 𝑥 − 1
+2 sin 𝑥 = 0
+cos (𝜋
+6 + 𝑥) = 0
+𝑥 + 𝜋
+6 = 𝜋
+2 + 𝜋𝑘
+𝑥 = 𝜋
+3 + 𝜋𝑘
+gdzie 𝑘 ∈ ℤ.
+Stąd rozwiązaniami równania √3 cos 𝑥 − sin 𝑥 = 0 w przedziale [−𝜋 , 𝜋] są liczby:
+(− 2𝜋
+3 ) oraz 𝜋
+3 .
+Rozwiązujemy równanie √3 cos 𝑥 + 3 sin 𝑥 = 0 w zbiorze ℝ:
+√3 cos 𝑥 + 3 sin 𝑥 = 0 /: 2√3
+1
+2 cos 𝑥 + √3
+2 sin 𝑥 = 0
+sin (𝜋
+6 + 𝑥) = 0
+𝑥 + 𝜋
+6 = 𝜋𝑘
+𝑥 = − 𝜋
+6 + 𝜋𝑘
+gdzie 𝑘 ∈ ℤ.
+Stąd rozwiązaniami równania √3 cos 𝑥 + 3 sin 𝑥 = 0 w przedziale [−𝜋 , 𝜋] są liczby:
+(− 𝜋
+6) oraz 5𝜋
+6 .
+Zasady oceniania rozwiązań zadań
+Ostatecznie rozwiązaniami równania 3cos2𝑥 + √3sin(2𝑥) − 3sin2𝑥 = 0 w przedziale
+[−𝜋 , 𝜋] są liczby: (− 2𝜋
+3 ), (− 𝜋
+6), 𝜋
+3 oraz 5𝜋
+6 .

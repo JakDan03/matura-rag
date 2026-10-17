@@ -1,0 +1,19 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=16; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=16]
+Zadanie 16. (0–1)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+VII.2) korzysta z wzorów
+sin2 𝛼 + cos2 𝛼 = 1, tg 𝛼 =
+sin 𝛼
+cos 𝛼 .
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+B

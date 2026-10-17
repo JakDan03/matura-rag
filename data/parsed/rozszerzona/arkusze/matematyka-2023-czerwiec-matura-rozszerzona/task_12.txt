@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=22, 23, 24; level=rozszerzony; year=2023; month=czerwiec; task_id=12]
+Zadanie 12. (0–5)
+Czworokąt wypukły 𝐴𝐵𝐶𝐷 jest wpisany w okrąg o promieniu 4. Kąty 𝐵𝐴𝐷 i 𝐵𝐶𝐷 są
+proste (zobacz rysunek). Przekątne 𝐴𝐶 i 𝐵𝐷 tego czworokąta przecinają się w punkcie 𝐸
+tak, że |𝐵𝐸| = 3 ∙ |𝐷𝐸| oraz |𝐵𝐷| = 2 ∙ |𝐴𝐸|.
+[tu powinien być obrazek]
+Oblicz długości boków czworokąta 𝑨𝑩𝑪𝑫. Zapisz obliczenia.

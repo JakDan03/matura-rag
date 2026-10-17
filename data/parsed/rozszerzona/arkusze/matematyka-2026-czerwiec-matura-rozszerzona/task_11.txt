@@ -1,0 +1,15 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=20; level=rozszerzony; year=2026; month=czerwiec; task_id=11]
+Zadanie 11. (0–5)
+Wyznacz wszystkie wartości parametru 𝒎, dla których równanie
+𝒙𝟐 + 𝒎𝒙 + 𝒎 = 𝟎
+ma dwa różne rozwiązania rzeczywiste 𝒙𝟏 oraz 𝒙𝟐 spełniające warunek
+𝒙𝟏
+𝟒 + 𝒙𝟐
+𝟒 + 𝟒 ⋅ 𝒙𝟏
+𝟑 ⋅ 𝒙𝟐
+𝟑 ≥ 𝟑
+Zapisz obliczenia.
+11.
+0–1–
+2–3–
+4–5

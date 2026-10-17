@@ -1,0 +1,38 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=108; level=podstawowy; year=2024; section=ALBO]
+108 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Sposób 2.
+Punkt 𝐴 jest punktem wspólnym prostych 𝐴𝐵 i 𝐴𝐷, zatem współrzędne tego punktu są
+rozwiązaniem układu równań
+{𝑦 = 𝑥 − 2
+𝑦 = 3𝑥 − 6
+Stąd
+𝑥 − 2 = 3𝑥 − 6
+−2𝑥 = −4
+𝑥 = 2
+𝑦 = 0
+Zatem 𝐴 = (2,0).
+Oznaczmy przez 𝑀𝐴𝐵 środek odcinka 𝐴𝐵. Prosta 𝑆𝑀𝐴𝐵 jest równoległa do prostej 𝐴𝐷,
+zatem współczynnik kierunkowy prostej 𝑆𝑀𝐴𝐵 jest równy 3.
+Wyznaczamy równanie prostej 𝑆𝑀𝐴𝐵. Skorzystamy ze wzoru na równanie kierunkowe
+prostej o danym współczynniku kierunkowym, która przechodzi przez dany punkt (zobacz
+w Wybranych wzorach matematycznych).
+𝑦 = 3 (𝑥 − 11
+2 ) + 17
+2
+𝑦 = 3𝑥 − 8
+Punkt 𝑀𝐴𝐵 jest punktem wspólnym prostych 𝐴𝐵 i 𝑆𝑀𝐴𝐵, zatem współrzędne tego punktu
+są rozwiązaniem układu równań
+{𝑦 = 𝑥 − 2
+𝑦 = 3𝑥 − 8
+Stąd
+𝑥 − 2 = 3𝑥 − 8
+−2𝑥 = −6
+𝑥 = 3
+𝑦 = 1
+Zatem 𝑀𝐴𝐵 = (3, 1).
+Punkt 𝑀𝐴𝐵 jest środkiem odcinka 𝐴𝐵, więc
+2 + 𝑥𝑏
+2 = 3 oraz 0 + 𝑦𝑏
+2 = 1
+𝑥𝑏 = 4 oraz 𝑦𝑏 = 2
+Zatem 𝐵 = (4, 2).

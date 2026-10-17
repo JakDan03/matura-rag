@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=27; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=29]
+Zadanie 29. (0–2)
+Do szkolnego koła czytelniczego należy 50 uczniów. Opiekun koła zebrał dane dotyczące
+liczby książek przeczytanych przez tych uczniów w listopadzie 2024 roku. W poniższej tabeli
+przedstawiono wyniki zebrane przez opiekuna.
+Liczba przeczytanych książek 4 5 6 7 8
+Liczba uczniów,
+którzy przeczytali daną
+liczbę książek
+5 8 12 13 12
+Uzupełnij zdania. Wpisz odpowiednie liczby w wykropkowanych miejscach, aby zdania
+były prawdziwe.
+1. Średnia arytmetyczna liczby przeczytanych książek w tej grupie uczniów jest równa
+…………… .
+2. Mediana liczby przeczytanych książek w tej grupie uczniów jest równa …………… .
+29.
+0–1–2

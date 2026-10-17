@@ -1,0 +1,55 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=10; year=2023; section=8. CIĄGI]
+Strona 10 z 34
+• Dla sąsiednich wyrazów ciągu geometrycznego (𝑎𝑛) prawdziwa jest równość:
+• Suma wyrazów nieskończonego ciągu geometrycznego
+Dany jest nieskończony ciąg geometryczny (𝑎𝑛), określony dla 𝑛 ≥ 1, o ilorazie 𝑞.
+Niech (𝑆𝑛) oznacza ciąg sum początkowych wyrazów ciągu (𝑎𝑛), to znaczy ciąg
+określony wzorem 𝑆𝑛 = 𝑎1 + 𝑎2 + … + 𝑎𝑛 dla 𝑛 ≥ 1.
+Jeżeli |𝑞| < 1, to ciąg (𝑆𝑛) ma granicę równą:
+Granicę tę nazywamy sumą wszystkich wyrazów ciągu geometrycznego (𝑎𝑛).
+• Twierdzenie o granicy sumy, różnicy, iloczynu i ilorazu ciągów zbieżnych
+Jeżeli ciągi (𝑎𝑛) i (𝑏𝑛), określone dla każdej liczby naturalnej 𝑛 ≥ 1, są zbieżne
+i lim
+𝑛→∞
+𝑎𝑛 = 𝑎 oraz lim
+𝑛→∞
+𝑏𝑛 = 𝑏, to ciągi (𝑎𝑛 + 𝑏𝑛), (𝑎𝑛 − 𝑏𝑛), (𝑎𝑛 ⋅ 𝑏𝑛) są zbieżne,
+a ponadto:
+Jeżeli ponadto 𝑏𝑛 ≠ 0 dla 𝑛 ≥ 1 oraz 𝑏 ≠ 0, to ciąg (𝑎𝑛
+𝑏𝑛
+) jest zbieżny i
+• Twierdzenie o trzech ciągach
+Jeżeli wyrazy ciągów (𝑎𝑛), (𝑏𝑛) i (𝑐𝑛), określonych dla 𝑛 ≥ 1, spełniają nierówność
+𝑎𝑛 ≤ 𝑏𝑛 ≤ 𝑐𝑛 dla 𝑛 ≥ 1, a ciągi (𝑎𝑛) i (𝑐𝑛) są zbieżne do wspólnej granicy
+lim
+𝑛→∞
+𝑎𝑛 = lim
+𝑛→∞
+𝑐𝑛 = 𝑔, to ciąg (𝑏𝑛) jest zbieżny, a ponadto lim
+𝑛→∞
+𝑏𝑛 = 𝑔.
+• Procent składany
+Jeżeli kapitał początkowy 𝐾0 złożymy na okres 𝑛 lat na lokacie bankowej, której
+oprocentowanie wynosi 𝑝% w skali rocznej, a kapitalizacja odsetek następuje po
+upływie każdego roku trwania lokaty, to kapitał końcowy 𝐾𝑛 jest określony wzorem:
+(𝑎𝑛)2 = 𝑎𝑛−1 ⋅ 𝑎𝑛+1 dla 𝑛 ≥ 2
+𝑆 = lim
+𝑛→∞
+𝑆𝑛 = 𝑎1
+1 − 𝑞
+lim
+𝑛→∞
+(𝑎𝑛 + 𝑏𝑛) = 𝑎 + 𝑏 lim
+𝑛→∞
+(𝑎𝑛 − 𝑏𝑛) = 𝑎 − 𝑏 lim
+𝑛→∞
+(𝑎𝑛 ⋅ 𝑏𝑛) = 𝑎 ⋅ 𝑏
+lim
+𝑛→∞
+( 𝑎𝑛
+𝑏𝑛
+) = 𝑎
+𝑏
+𝐾𝑛 = 𝐾0 ⋅ (1 + 𝑝
+100)
+𝑛

@@ -1,0 +1,52 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=40, 41; level=rozszerzony; year=2023; month=maj; task_id=12.1]
+Zadanie 12.1. (0–2)
+Wymagania egzaminacyjne 2023 i 2024
+Wymagania ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+I. Sprawność rachunkowa.
+Wykonywanie obliczeń na liczbach
+rzeczywistych, także przy użyciu
+kalkulatora, stosowanie praw działań
+matematycznych przy przekształcaniu
+wyrażeń algebraicznych oraz
+wykorzystywanie tych umiejętności przy
+rozwiązywaniu problemów w kontekstach
+rzeczywistych i teoretycznych.
+Zdający:
+I.R1) stosuje wzór na zamianę podstawy
+logarytmu.
+I.9) stosuje związek logarytmowania
+z potęgowaniem, posługuje się wzorami na
+logarytm iloczynu, logarytm ilorazu
+i logarytm potęgi.
+Zasady oceniania
+2 pkt – poprawne przekształcenie wyrażenia 81log3 𝑥 + 2 ⋅ log2 √27 ⋅ log3 2
+3 ⋅ 𝑥2 − 6𝑥 do
+postaci 𝑥4 + 𝑥2 − 6𝑥.
+1 pkt – poprawne zastosowanie własności 𝑎log𝑎 𝑏 = 𝑏, tj. przekształcenie wyrażenia 3log3 𝑥4
+(lub (3log3 𝑥)
+4
+) do postaci 𝑥4
+ALBO
+– poprawne zastosowanie wzoru na zamianę podstawy logarytmu.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Przekształcamy wyrażenie 81log3 𝑥 + 2 ⋅ log2 √27 ⋅ log3 2
+3 ⋅ 𝑥2 − 6𝑥, korzystając z własności
+logarytmów:
+81log3 𝑥 + 2 ⋅ log2 √27 ∙ log3 2
+3 ∙ 𝑥2 − 6𝑥 = (34)log3 𝑥 + 2
+3 log2 3
+3
+2 ∙ log3 2 ∙ 𝑥2 − 6𝑥 =
+= 34log3 𝑥 + 2
+3 ∙ 3
+2 ∙ log2 3 ∙ log3 2 ∙ 𝑥2 − 6𝑥 = 3log3 𝑥4
++ log2 3 ∙ log2 2
+log2 3 ∙ 𝑥2 − 6𝑥 =
+= 𝑥4 + 𝑥2 − 6𝑥
+Zasady oceniania rozwiązań zadań

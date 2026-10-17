@@ -1,0 +1,41 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=2, 3, 4; level=rozszerzony; year=2023; month=maj; task_id=1]
+Zadanie 1. (0–2)
+Wymagania egzaminacyjne 2023 i 20241
+Wymaganie ogólne Wymaganie szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście,
+zarówno matematycznym, jak
+i popularnonaukowym, a także w formie
+wykresów, diagramów, tabel.
+Zdający:
+V.13) posługuje się funkcjami wykładniczą
+i logarytmiczną, w tym ich wykresami, do
+opisu i interpretacji zagadnień związanych
+z zastosowaniami praktycznymi.
+Zasady oceniania
+2 pkt – zapisanie wzoru funkcji 𝑚: 𝑚(𝑡) = 4 ⋅ 0,81𝑡 oraz obliczenie liczby pełnych dni/dób,
+po których masa substancji będzie mniejsza od 1,5 grama: 5 dób.
+1 pkt – zapisanie wzoru funkcji 𝑚: 𝑚(𝑡) = 4 ⋅ 0,81𝑡
+ALBO
+– obliczenie liczby dób, po których masa substancji będzie mniejsza od 1,5 grama:
+5 dób.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli jedynym błędem zdającego jest ustalenie niepoprawnego wzoru funkcji w postaci
+𝑚(𝑡) = 4 ⋅ 0,81𝑡−1 i zdający konsekwentnie do popełnionego błędu oblicza liczbę dób, to
+otrzymuje 1 punkt za całe rozwiązanie.
+Przykładowe pełne rozwiązanie
+Oznaczmy:
+𝑡 – czas (w dobach), licząc od chwili początkowej,
+𝑚(𝑡) – masa substancji po 𝑡 dobach, licząc od chwili początkowej.
+Liczby 𝑚(0), 𝑚(1), 𝑚(2) itd. są kolejnymi wyrazami ciągu geometrycznego
+o ilorazie 0,81. Zatem
+1Rozporządzenie Ministra Edukacji i Nauki z dnia 10 czerwca 2022 r. w sprawie wymagań egzaminacyjnych dla
+egzaminu maturalnego przeprowadzanego w roku szkolnym 2022/2023 i 2023/2024 (Dz.U. poz. 1246).
+Zasady oceniania rozwiązań zadań
+𝑚(𝑡) = 4 ⋅ 0,81𝑡
+gdzie 𝑡 jest liczbą całkowitą nieujemną. Ten ciąg geometryczny jest malejący. Ponadto
+𝑚(4) = 4 ∙ 0,814 ≈ 1,72 > 1,5
+𝑚(5) = 4 ∙ 0,815 ≈ 1,39 < 1,5
+więc masa substancji będzie mniejsza od 1,5 g po pięciu dobach.

@@ -1,0 +1,303 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=21, 22, 23, 24, 25; level=rozszerzony; year=2025; month=maj; task_id=7]
+Zadanie 7. (0–4)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+VIII.11) przeprowadza dowody
+geometryczne.
+Zasady oceniania (dla sposobów I oraz Ia)
+4 pkt – poprawne przekształcenia i przeprowadzenie pełnego rozumowania.
+3 pkt – zapisanie związku między długościami podstaw trapezu, np.
+1
+2 ⋅ (𝑎 + 𝑏
+2 + 𝑏)
+1
+2 ⋅ (𝑎 + 𝑎 + 𝑏
+2 )
+= 1
+2 .
+2 pkt – zapisanie równań 𝑃𝐸𝐹𝐶𝐷
+𝑃𝐴𝐵𝐹𝐸
+=
+1
+2 ⋅ (𝑑 + 𝑏) ⋅ ℎ
+2
+1
+2 ⋅ (𝑎 + 𝑑) ⋅ ℎ
+2
+oraz 𝑃𝐸𝐹𝐶𝐷
+𝑃𝐴𝐵𝐹𝐸
+= 1
+2 oraz 𝑑 = 𝑎 + 𝑏
+2
+ALBO
+– spełnienie dwóch spośród czterech poniższych warunków:
+1) zapisanie równań 𝑃𝐸𝐹𝐶𝐷
+𝑃𝐴𝐵𝐹𝐸
+=
+1
+2 ⋅ (𝑑 + 𝑏) ⋅ ℎ
+2
+1
+2 ⋅ (𝑎 + 𝑑) ⋅ ℎ
+2
+albo
+1
+2 ⋅ (𝑑 + 𝑏) ⋅ ℎ
+2
+1
+2 ⋅ (𝑎 + 𝑑) ⋅ ℎ
+2
+= 1
+2 ,
+2) zapisanie równań 𝑃𝐸𝐹𝐶𝐷
+𝑃𝐴𝐵𝐶𝐷
+=
+1
+2 ⋅ (𝑑 + 𝑏) ⋅ ℎ
+2
+1
+2 ⋅ (𝑎 + 𝑏) ⋅ℎ
+albo
+1
+2 ⋅ (𝑑 + 𝑏) ⋅ ℎ
+2
+1
+2 ⋅ (𝑎 + 𝑏) ⋅ℎ = 1
+3 ,
+3) zapisanie równań 𝑃𝐴𝐵𝐹𝐸
+𝑃𝐴𝐵𝐶𝐷
+=
+1
+2 ⋅ (𝑎 +𝑑) ⋅ ℎ
+2
+1
+2 ⋅ (𝑎 + 𝑏) ⋅ℎ
+albo
+1
+2 ⋅ (𝑎 +𝑑) ⋅ ℎ
+2
+1
+2 ⋅ (𝑎 + 𝑏) ⋅ℎ = 2
+3 ,
+4) zapisanie równania 1
+2 ⋅ (𝑎 + 𝑑) ⋅ ℎ
+2 + 1
+2 ⋅ (𝑏 + 𝑑) ⋅ ℎ
+2 = 1
+2 ⋅ (𝑎 + 𝑏) ⋅ ℎ.
+1 pkt – spełnienie jednego spośród czterech poniższych warunków:
+1) zapisanie równań 𝑃𝐸𝐹𝐶𝐷
+𝑃𝐴𝐵𝐹𝐸
+=
+1
+2 ⋅ (𝑑 + 𝑏) ⋅ ℎ
+2
+1
+2 ⋅ (𝑎 + 𝑑) ⋅ ℎ
+2
+albo
+1
+2 ⋅ (𝑑 + 𝑏) ⋅ ℎ
+2
+1
+2 ⋅ (𝑎 + 𝑑) ⋅ ℎ
+2
+= 1
+2 ,
+2) zapisanie równań 𝑃𝐸𝐹𝐶𝐷
+𝑃𝐴𝐵𝐶𝐷
+=
+1
+2 ⋅ (𝑑 + 𝑏) ⋅ ℎ
+2
+1
+2 ⋅ (𝑎 + 𝑏) ⋅ℎ
+albo
+1
+2 ⋅ (𝑑 + 𝑏) ⋅ ℎ
+2
+1
+2 ⋅ (𝑎 + 𝑏) ⋅ℎ = 1
+3 ,
+3) zapisanie równań 𝑃𝐴𝐵𝐹𝐸
+𝑃𝐴𝐵𝐶𝐷
+=
+1
+2 ⋅ (𝑎 +𝑑) ⋅ ℎ
+2
+1
+2 ⋅ (𝑎 + 𝑏) ⋅ℎ
+albo
+1
+2 ⋅ (𝑎 +𝑑) ⋅ ℎ
+2
+1
+2 ⋅ (𝑎 + 𝑏) ⋅ℎ = 2
+3 ,
+4) zapisanie równania 1
+2 ⋅ (𝑎 + 𝑑) ⋅ ℎ
+2 + 1
+2 ⋅ (𝑏 + 𝑑) ⋅ ℎ
+2 = 1
+2 ⋅ (𝑎 + 𝑏) ⋅ ℎ,
+ALBO
+– zapisanie równania 𝑑 = 𝑎 + 𝑏
+2 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli w rozwiązaniu zdający błędnie zakłada, że trapezy 𝐴𝐵𝐹𝐸 i 𝐸𝐹𝐶𝐷 są podobne
+i na tym opiera rozwiązanie, to może otrzymać co najwyżej 1 punkt za zapisanie związku
+między długościami podstaw trapezu i odcinka łączącego środki jego ramion.
+2. Jeżeli zdający rozpatruje trapez o konkretnych wymiarach i na tym opiera całe
+rozwiązanie, to otrzymuje 0 punktów, o ile nie nabył prawa do innej punktacji zgodnej
+z zasadami oceniania.
+3. Jeżeli zdający zapisze jednocześnie 𝑃𝐸𝐹𝐶𝐷
+𝑃𝐴𝐵𝐹𝐸
+=
+1
+2 ⋅ (𝑎 + 𝑏
+2 + 𝑏)
+1
+2 ⋅ (𝑎 + 𝑎 + 𝑏
+2 )
+oraz 𝑃𝐸𝐹𝐶𝐷
+𝑃𝐴𝐵𝐹𝐸
+= 1
+2 , to może
+otrzymać 3 punkty.
+Zasady oceniania (dla sposobu II)
+4 pkt – poprawne przekształcenia i przeprowadzenie pełnego rozumowania.
+3 pkt – wyznaczenie stosunku pól trójkątów 𝐴𝐾𝐸 i 𝐾𝐹𝐶: 1 ∶ 5.
+2 pkt – zapisanie pól trapezów 𝐸𝐹𝐶𝐷 i 𝐴𝐵𝐹𝐸 w zależności od pól trójkątów 𝐴𝐾𝐸 i 𝐾𝐹𝐶.
+1 pkt – zapisanie zależności pomiędzy polami trójkątów podobnych 𝐴𝐶𝐷 i 𝐴𝐾𝐸 oraz
+zapisanie zależności pomiędzy polami trójkątów podobnych 𝐴𝐵𝐶 i 𝐾𝐹𝐶.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Przyjmijmy następujące oznaczenia:
+𝑎, 𝑏 – długość – odpowiednio – dłuższej i krótszej podstawy trapezu,
+𝑑 – długość odcinka łączącego środki ramion trapezu,
+ℎ – wysokość trapezu.
+Zasady oceniania rozwiązań zadań
+Z własności trapezu otrzymujemy 𝑑 = 𝑎 + 𝑏
+2 . Trapezy 𝐸𝐹𝐶𝐷 i 𝐴𝐵𝐹𝐸 mają równe
+wysokości oraz stosunek pola trapezu 𝐸𝐹𝐶𝐷 do pola trapezu 𝐴𝐵𝐹𝐸 jest równy 1
+2 , więc
+1
+2 ⋅ (𝑑 + 𝑏) ⋅ ℎ
+2
+1
+2 ⋅ (𝑎 + 𝑑) ⋅ ℎ
+2
+= 1
+2
+𝑑 + 𝑏
+𝑎 + 𝑑 = 1
+2
+2𝑑 + 2𝑏 = 𝑎 + 𝑑
+𝑑 + 2𝑏 = 𝑎
+Stąd i z zależności 𝑑 = 𝑎 + 𝑏
+2 otrzymujemy
+𝑎 + 𝑏 + 4𝑏 = 2𝑎
+5𝑏 = 𝑎
+𝑏
+𝑎 = 1
+5
+To należało wykazać.
+Sposób Ia
+Przyjmijmy następujące oznaczenia:
+𝑎, 𝑏 – długość – odpowiednio – dłuższej i krótszej podstawy trapezu,
+𝑑 – długość odcinka łączącego środki ramion trapezu,
+ℎ – wysokość trapezu.
+Trapezy 𝐸𝐹𝐶𝐷 i 𝐴𝐵𝐹𝐸 mają równe wysokości oraz stosunek pola trapezu 𝐸𝐹𝐶𝐷 do pola
+trapezu 𝐴𝐵𝐹𝐸 jest równy 1
+2 , więc
+1
+2 ⋅ (𝑑 + 𝑏) ⋅ ℎ
+2
+1
+2 ⋅ (𝑎 + 𝑑) ⋅ ℎ
+2
+= 1
+2
+𝑑 + 𝑏
+𝑎 + 𝑑 = 1
+2
+2𝑑 + 2𝑏 = 𝑎 + 𝑑
+𝑑 = 𝑎 − 2𝑏
+Ponadto stosunek pola trapezu 𝐸𝐹𝐶𝐷 do pola trapezu 𝐴𝐵𝐶𝐷 jest równy 1
+3 , więc
+1
+2 ⋅ (𝑑 + 𝑏) ⋅ ℎ
+2
+1
+2 ⋅ (𝑎 + 𝑏) ⋅ ℎ
+= 1
+3
+𝑑 + 𝑏
+2(𝑎 + 𝑏) = 1
+3
+3𝑑 + 3𝑏 = 2𝑎 + 2𝑏
+3𝑑 = 2𝑎 − 𝑏
+Stąd i zależności 𝑑 = 𝑎 − 2𝑏 otrzymujemy
+3(𝑎 − 2𝑏) = 2𝑎 − 𝑏
+𝑎 = 5𝑏
+𝑏
+𝑎 = 1
+5
+To należało wykazać.
+Sposób II (przez pola trójkątów podobnych)
+Przyjmijmy następujące oznaczenia:
+𝑎, 𝑏 – długość – odpowiednio – dłuższej i krótszej podstawy trapezu,
+𝐾 – punkt przecięcia przekątnej 𝐴𝐶 z odcinkiem 𝐸𝐹,
+𝑛, 𝑚 – pole – odpowiednio – trójkąta 𝐴𝐾𝐸 i 𝐾𝐹𝐶.
+Trójkąty 𝐴𝐶𝐷 i 𝐴𝐾𝐸 oraz trójkąty 𝐴𝐵𝐶 i 𝐾𝐹𝐶 są podobne (cecha kkk), a skala każdego
+z tych podobieństw jest równa 2, gdyż 𝐸 i 𝐹 to środki boków 𝐴𝐷 oraz 𝐵𝐶. Zatem
+𝑃𝐴𝐶𝐷 = 22 ⋅ 𝑃𝐴𝐾𝐸 = 4𝑛 oraz 𝑃𝐴𝐵𝐶 = 22 ⋅ 𝑃𝐾𝐹𝐶 = 4𝑚
+Stąd
+𝑃𝐸𝐾𝐶𝐷 = 3𝑛 oraz 𝑃𝐴𝐵𝐹𝐾 = 3𝑚
+(zobacz rysunek).
+Zatem
+𝑃𝐸𝐹𝐶𝐷 = 3𝑛 + 𝑚 oraz 𝑃𝐴𝐵𝐹𝐸 = 𝑛 + 3𝑚
+𝑎
+𝑏
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸
+𝐹
+𝐾
+𝑚
+𝑛
+3𝑛
+3𝑚
+Zasady oceniania rozwiązań zadań
+Trójkąty 𝐴𝐶𝐷 i 𝐴𝐵𝐶 mają wspólną wysokość, więc
+𝑃𝐴𝐶𝐷
+𝑃𝐴𝐵𝐶
+= 𝑏
+𝑎 = 4𝑛
+4𝑚 = 𝑛
+𝑚
+Z warunków zadania otrzymujemy
+𝑃𝐸𝐹𝐶𝐷
+𝑃𝐴𝐵𝐹𝐸
+= 3𝑛 + 𝑚
+𝑛 + 3𝑚 = 1
+2
+Stąd
+6𝑛 + 2𝑚 = 𝑛 + 3𝑚
+5𝑛 = 𝑚
+Zatem
+𝑏
+𝑎 = 𝑛
+𝑚 = 𝑛
+5𝑛 = 1
+5
+To należało wykazać.

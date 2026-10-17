@@ -1,0 +1,78 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=138; level=podstawowy; year=2024; section=𝟓 𝐴 𝐴 𝐴 𝐴]
+138 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Przykładowe pełne rozwiązania
+Sposób I
+Zdarzeniami elementarnymi są wszystkie uporządkowane pary liczb (𝑥, 𝑦), gdzie
+𝑥, 𝑦 ∈ {1, 2, 3, 4, 5, 6}.
+W tabeli literą 𝐴 zaznaczamy zdarzenia elementarne sprzyjające zdarzeniu 𝐴.
+II losowanie
+I losowanie
+𝟏 𝟐 𝟑 𝟒 𝟓 𝟔
+𝟏
+𝟐 𝐴
+𝟑 𝐴 𝐴
+𝟒 𝐴 𝐴 𝐴
+𝟓 𝐴 𝐴 𝐴 𝐴
+𝟔 𝐴 𝐴 𝐴 𝐴 𝐴
+Moc zbioru Ω jest równa 36. Zdarzeń sprzyjających zdarzeniu 𝐴 jest 15.
+Zatem prawdopodobieństwo zdarzenia 𝐴 jest równe 15
+36 = 5
+12
+.
+Sposób II (drzewo stochastyczne)
+Rysujemy fragment drzewa stochastycznego rozważanego doświadczenia z uwzględnieniem
+wszystkich istotnych gałęzi.
+Prawdopodobieństwo zdarzenia 𝐴 jest równe
+𝑃(𝐴) = 1
+6 ⋅ 1
+6 + 1
+6 ⋅ 2
+6 + 1
+6 ⋅ 3
+6 + 1
+6 ⋅ 4
+6 + 1
+6 ⋅ 5
+6 = 15
+36 = 5
+12
+2
+3
+4
+5
+6
+1
+1
+2
+1
+2
+3
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+6
+2
+6
+3
+6
+4
+6
+5
+6
+1
+6
+1
+6
+1
+6
+1
+6
+1
+6

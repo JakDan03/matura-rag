@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=4; level=podstawowy; year=2026; month=marzec; term=probna; task_id=1]
+Zadanie 1. (0–1)
+Liczby 𝑥 oraz 𝑦 są całkowite i dodatnie.
+W wyniku dzielenia liczby 𝑥 przez liczbę 𝑦 otrzymano iloraz 20 i resztę 26.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba 𝑥
+𝑦 jest równa
+A. 26 + 20
+𝑥 B. 26 + 20
+𝑦 C. 20 + 26
+𝑥 D. 20 + 26
+𝑦

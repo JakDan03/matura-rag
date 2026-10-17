@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=8; level=podstawowy; year=2024; month=czerwiec; task_id=9]
+Zadanie 9. (0–1)
+Wielomian 𝑊(𝑥) = 𝑎𝑥3 + 𝑏𝑥2 + 𝑐𝑥 + 𝑑 jest iloczynem wielomianów 𝐹(𝑥) = (2 − 3𝑥)2
+oraz 𝐺(𝑥) = 3𝑥 − 2.
+Uzupełnij poniższe zdanie. Wpisz odpowiednią liczbę w wykropkowanym miejscu tak,
+aby zdanie było prawdziwe.
+Suma 𝑎 + 𝑏 + 𝑐 + 𝑑 współczynników wielomianu 𝑊 jest równa ………. .

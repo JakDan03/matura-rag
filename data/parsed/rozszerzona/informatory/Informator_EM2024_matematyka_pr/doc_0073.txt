@@ -1,0 +1,38 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=73; level=rozszerzony; year=2024; section=4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach]
+Przykładowe zadania z rozwiązaniami 73
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Wymaganie szczegółowe
+IV. Układy równań. Zdający:
+1) rozwiązuje układy równań liniowych z dwiema niewiadomymi, podaje interpretację
+geometryczną układów oznaczonych, nieoznaczonych i sprzecznych.
+Zasady oceniania
+5 pkt – poprawne wyznaczenie wszystkich wartości parametru 𝑚, dla których współrzędne
+punktu 𝑃 spełniają podane warunki.
+4 pkt – wyznaczenie wartości 𝑚, dla których obie współrzędne punktu 𝑃 są dodatnie
+i rozwiązanie nierówności 2(𝑚 + 1) ≥ (𝑚 + 1)2 oraz 2 < − 8
+[2(𝑚 + 1)]2 + 8
+𝑚 + 1 .
+3 pkt – wyznaczenie wartości 𝑚, dla których obie współrzędne punktu 𝑃 są dodatnie oraz
+rozwiązanie jednej z nierówności:
+2(𝑚 + 1) ≥ (𝑚 + 1)2 lub 2 < − 8
+[2(𝑚 + 1)]2 + 8
+𝑚 + 1 .
+2 pkt – wyznaczenie wartości 𝑚, dla których obie współrzędne punktu 𝑃 są dodatnie
+ALBO
+– rozwiązanie jednej z nierówności:
+2(𝑚 + 1) ≥ (𝑚 + 1)2 lub 2 < − 8
+[2(𝑚 + 1)]2 + 8
+𝑚 + 1 .
+1 pkt – wyznaczenie współrzędnych punktu 𝑃 w zależności od 𝑚.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Punkt 𝑃 leży na obu prostych, więc
+{
+2𝑥𝑃 + 𝑦𝑃 − 4𝑚 − 4 = 0
+𝑥𝑃 − 3𝑦𝑃 + 5𝑚 + 5 = 0
+Z powyższego układu równań wyznaczamy współrzędne punktu 𝑃:
+𝑥𝑃 = 𝑚 + 1
+𝑦𝑃 = 2(𝑚 + 1)

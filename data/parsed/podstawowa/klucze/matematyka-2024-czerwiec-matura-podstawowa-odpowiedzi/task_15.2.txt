@@ -1,0 +1,22 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=16, 17; level=podstawowy; year=2024; month=czerwiec; task_id=15.2]
+Zadanie 15.2. (0–1)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+V.2) oblicza wartość funkcji zadanej wzorem
+algebraicznym;
+V.8) interpretuje współczynniki występujące
+we wzorze funkcji kwadratowej w postaci
+ogólnej, kanonicznej i iloczynowej (jeśli
+istnieje).
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+FP
+Zasady oceniania rozwiązań zadań

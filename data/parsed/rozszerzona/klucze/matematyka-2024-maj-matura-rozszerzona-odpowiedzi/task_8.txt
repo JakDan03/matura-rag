@@ -1,0 +1,533 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32; level=rozszerzony; year=2024; month=maj; task_id=8]
+Zadanie 8. (0–4)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+VIII.R3) przeprowadza dowody
+geometryczne.
+Zasady oceniania (dla sposobów I–V)
+4 pkt – przeprowadzenie pełnego rozumowania.
+3 pkt – zapisanie związków |𝐴𝐷|
+𝑥 = 𝑐
+𝑎 oraz 𝑥
+𝑎 = 𝑎
+𝑏 (dla sposobu I)
+ALBO
+– zapisanie związku 𝑏
+𝑎 = |𝐸𝐶|
+𝑏 (dla sposobu II),
+ALBO
+– zapisanie związków |𝐴𝐹| = 𝑎 = 𝑟 i |𝐴𝐹| ⋅ 𝑐 = |𝐴𝐺|2 oraz zastosowanie
+twierdzenia Pitagorasa do trójkąta 𝐴𝐶𝐺 (dla sposobu III),
+ALBO
+– zapisanie, że w czworokącie wypukłym wpisanym w okrąg iloczyn długości
+przekątnych czworokąta jest sumą iloczynów długości przeciwległych boków tego
+czworokąta oraz zapisanie związku |𝐶𝐻| = 𝑎 (dla sposobu IV),
+ALBO
+– zapisanie związku 𝑏2 − (𝑎 + 𝑐−𝑎
+2 )
+2
+= 𝑎2 − (𝑐−𝑎
+2 )
+2
+(dla sposobu V).
+2 pkt – zapisanie związku |𝐴𝐷|
+𝑥 = 𝑐
+𝑎 (dla sposobu I)
+ALBO
+– zapisanie związku 𝑥
+𝑎 = 𝑎
+𝑏 (dla sposobu I),
+ALBO
+– zapisanie, że trójkąty 𝐸𝐴𝐶 i 𝐴𝐵𝐶 są podobne (dla sposobu II),
+ALBO
+– zapisanie związków |𝐴𝐹| = 𝑎 = 𝑟 oraz |𝐴𝐹| ⋅ 𝑐 = |𝐴𝐺|2, (dla sposobu III),
+ALBO
+– zapisanie, że w czworokącie wypukłym wpisanym w okrąg iloczyn długości
+przekątnych czworokąta jest sumą iloczynów długości przeciwległych boków tego
+czworokąta (dla sposobu IV),
+ALBO
+– zastosowanie twierdzenia Pitagorasa dla trójkątów 𝐴𝐾𝐶 i 𝐵𝐾𝐶 oraz zapisanie
+równości
+𝑏2 = (𝑎 + 𝑐−𝑎
+2 )
+2
++ ℎ2 oraz 𝑎2 = (𝑐−𝑎
+2 )
+2
++ ℎ2
+(dla sposobu V).
+1 pkt – zapisanie, że trójkąty 𝐶𝐴𝐵 i 𝐶𝐵𝐷 są podobne (dla sposobu I)
+ALBO
+Zasady oceniania rozwiązań zadań
+– zdefiniowanie na prostej 𝐶𝐵 punktu 𝐸, takiego że |𝐵𝐸| = |𝐴𝐵| = 𝑐 oraz 𝐵
+należy do odcinka 𝐶𝐸 (dla sposobu II),
+ALBO
+– zapisanie, że trójkąt 𝐶𝐹𝐴 jest równoramienny (dla sposobu III),
+ALBO
+– zapisanie związku |𝐴𝐹| ⋅ 𝑐 = |𝐴𝐺|2 (dla sposobu III),
+ALBO
+– zdefiniowanie punktu 𝐻 jako takiego, że czworokąt 𝐴𝐵𝐶𝐻 jest trapezem
+równoramiennym o ramionach 𝐵𝐶 i 𝐴𝐻 oraz zapisanie, że na tym trapezie można
+opisać okrąg (dla sposobu IV),
+ALBO
+– zdefiniowanie punktu 𝐿, który jest obrazem punktu 𝐵 w symetrii względem prostej
+zawierającej wysokość 𝐶𝐾 oraz zapisanie, że trójkąt 𝐴𝐿𝐶 jest równoramienny (dla
+sposobu V).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania (dla sposobów VI–X)
+4 pkt – przeprowadzenie pełnego rozumowania.
+3 pkt – wyznaczenie cosinusa kąta 𝐵𝐴𝐶 w zależności od długości boków trójkąta 𝐴𝐵𝐶
+oraz zastosowanie twierdzenia cosinusów do trójkąta 𝐴𝐵𝐶 i zapisanie związku
+𝑎2 = 𝑐2 + 𝑏2 − 2 ⋅ 𝑐 ⋅ 𝑏 ⋅ 𝑏
+2⋅𝑎 lub
+𝑏2 = 𝑎2 + 𝑐2 − 2 ⋅ 𝑎 ⋅ 𝑐 ⋅ [2 ⋅ ( 𝑏
+2 ⋅ 𝑎)
+2
+− 1]
+ALBO
+– zastosowanie twierdzenia cosinusów do trójkąta 𝐴𝐵𝐶 oraz zastosowanie wzoru na
+cosinus podwojonego kąta i zapisanie równań
+𝑏2 = 𝑎2 + 𝑐2 − 2 ⋅ 𝑎 ⋅ 𝑐 ⋅ (2 cos2 𝛼 − 1) oraz
+𝑎2 = 𝑐2 + 𝑏2 − 2 ⋅ 𝑐 ⋅ 𝑏 ⋅ cos 𝛼 oraz
+𝑏 = 2 ⋅ 𝑎 ⋅ cos 𝛼,
+ALBO
+– przekształcenie stron równania 2 ⋅ (𝑏2+ 𝑐2 − 𝑎2
+2𝑏𝑐 )
+2
+− 1 = 𝑎2 + 𝑐2 − 𝑏2
+2𝑎𝑐 do postaci
+ilorazu wielomianów, z których każdy jest rozłożony do postaci iloczynowej, np.
+(𝑏 − 𝑐 − 𝑎)(𝑏 − 𝑐 + 𝑎)(𝑏 + 𝑐 − 𝑎)(𝑏 + 𝑐 + 𝑎)
+2𝑏2𝑐2 =
+(𝑎 − 𝑐 − 𝑏)(𝑎 − 𝑐 + 𝑏)
+2𝑎𝑐
+ALBO
+– zastosowanie wzoru na sumę sinusów i zapisanie wyrażenia 𝑎2 + 𝑐 ⋅ 𝑎 w postaci
+4𝑅2 ⋅ sin 𝛼 ⋅ 2 sin(2𝛼) ⋅ cos 𝛼,
+ALBO
+– wyznaczenie długości boku 𝐵𝐶 w zależności od długości odcinków 𝐴𝐾 (lub 𝐵𝐾)
+oraz 𝐴𝐵 (w przypadku, gdy 𝐾 leży na odcinku 𝐴𝐵), np. 𝑎2 = (2𝑧 − 𝑐)2 (dla
+sposobu X).
+2 pkt – zapisanie związku między cosinusem kąta 𝐵𝐴𝐶 a długościami boków 𝐴𝐶 i 𝐵𝐶
+trójkąta 𝐴𝐵𝐶, np. cos 𝛼 = 𝑏
+2⋅𝑎
+ALBO
+– spełnienie kryteriów 1) i 3) zasad oceniania za 1 pkt,
+ALBO
+– spełnienie kryteriów 2) i 3) zasad oceniania za 1 pkt,
+ALBO
+– wyeliminowanie cos 𝛼 z układu równań podanego w kryterium 3) zasad oceniania za
+1 pkt, np.
+2 (𝑏2 + 𝑐2 − 𝑎2
+2𝑏𝑐 )
+2
+− 1 = 𝑎2 + 𝑐2 − 𝑏2
+2𝑎𝑐
+ALBO
+– zapisanie wyrażenia 𝑎2 + 𝑐 ⋅ 𝑎 w zależności od 𝑅, sin 𝛼 oraz sin(3𝛼), np.
+4𝑅2 ⋅ sin2 𝛼 + 4𝑅2 ⋅ sin(3𝛼) ⋅ sin 𝛼,
+ALBO
+– spełnienie kryterium 5) zasad oceniania za 1 pkt oraz zastosowanie twierdzenia
+Pitagorasa w trójkątach 𝐴𝐾𝐶 i 𝐾𝐵𝐶 oraz zapisanie związków
+𝑏2 = |𝐴𝐾|2 + |𝐾𝐶|2 oraz 𝑎2 = |𝐾𝐵|2 + |𝐾𝐶|2 (dla sposobu X).
+1 pkt – spełnienie jednego z poniższych kryteriów 1)-5):
+1) zastosowanie twierdzenia sinusów do trójkąta 𝐴𝐵𝐶 i zapisanie związku
+𝑏
+sin(2𝛼) = 𝑎
+sin 𝛼
+2) zastosowanie wzoru na pole trójkąta i zapisanie związku
+1
+2 ⋅ 𝑐 ⋅ 𝑎 ⋅ sin(2𝛼) = 1
+2 ⋅ 𝑐 ⋅ 𝑏 ⋅ sin 𝛼,
+3) zastosowanie twierdzenia cosinusów do trójkąta 𝐴𝐵𝐶 oraz zastosowanie wzoru
+na cosinus podwojonego kąta i zapisanie równań
+𝑏2 = 𝑎2 + 𝑐2 − 2 ⋅ 𝑎 ⋅ 𝑐 ⋅ (2 cos2 𝛼 − 1) oraz
+𝑎2 = 𝑐2 + 𝑏2 − 2 ⋅ 𝑐 ⋅ 𝑏 ⋅ cos 𝛼,
+4) zastosowanie twierdzenia sinusów i zapisanie 𝑎2 + 𝑐 ⋅ 𝑎 jako
+(2𝑅 ⋅ sin 𝛼)2 + 2𝑅 ⋅ sin |∡𝐵𝐶𝐴| ⋅ 2𝑅 ⋅ sin 𝛼,
+5) poprowadzenie wysokości 𝐶𝐾 w trójkącie 𝐴𝐵𝐶 oraz zastosowanie definicji
+tangensa kąta ostrego w trójkątach 𝐴𝐾𝐶 i 𝐾𝐵𝐶 oraz zastosowanie wzoru na
+tangens podwojonego kąta i uzyskanie zależności między długościami odcinków
+𝐴𝐾, 𝐵𝐾 i 𝐶𝐾, np. ℎ
+𝑐−𝑧 = 2⋅ ℎ
+𝑧
+1−(ℎ
+𝑧)
+2 (dla sposobu X).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli w rozwiązaniu zdający wykorzystuje wysokość 𝐶𝐾 trójkąta 𝐴𝐵𝐶 oraz przeprowadzi
+rozumowanie tylko w jednym przypadku (np. gdy 𝐾 leży między 𝐴 i 𝐵) i nie stwierdzi, że
+w drugim przypadku (gdy 𝐵 leży między 𝐾 i 𝐴) rozumowanie przebiega analogicznie, to
+Zasady oceniania rozwiązań zadań
+za całe rozwiązanie może otrzymać co najwyżej 3 punkty; jeżeli natomiast takie
+stwierdzenie zapisze, to może otrzymać 4 punkty.
+Przykładowe pełne rozwiązania
+We wszystkich poniższych rozwiązaniach przyjmujemy następujące oznaczenia:
+𝑎 = |𝐵𝐶|, 𝑏 = |𝐶𝐴|, 𝑐 = |𝐴𝐵|, 𝛼 = |∡𝐶𝐴𝐵|.
+Sposób I (poprzez dwusieczną kąta 𝐴𝐵𝐶)
+Ponieważ 𝛼 = |∡𝐶𝐴𝐵|, więc |∡𝐴𝐵𝐶| = 2𝛼.
+Niech 𝐷 będzie punktem leżącym na przecięciu prostej 𝐴𝐶 z dwusieczną kąta 𝐴𝐵𝐶.
+Oznaczmy przez 𝑥 długość odcinka 𝐷𝐶. Wtedy |∡𝐶𝐵𝐷| = 𝛼, |∡𝐷𝐶𝐵| = 180° − 3𝛼 oraz
+|∡𝐵𝐷𝐶| = 2𝛼 (zobacz rysunek).
+Zatem trójkąty 𝐶𝐴𝐵 i 𝐶𝐵𝐷 są podobne (na podstawie cechy kkk podobieństwa
+trójkątów).
+Z podobieństwa tych trójkątów otrzymujemy 𝑥
+𝑎 = 𝑎
+𝑏 , więc 𝑥 = 𝑎2
+𝑏 .
+Z twierdzenia o dwusiecznej zastosowanego w trójkącie 𝐴𝐵𝐶 otrzymujemy
+|𝐴𝐷|
+𝑥 = 𝑐
+𝑎
+i stąd wyznaczamy długość 𝑥 odcinka 𝐷𝐶:
+𝑏 − 𝑥
+𝑥 = 𝑐
+𝑎
+𝑏 = 𝑥 ⋅ 𝑐
+𝑎 + 𝑥
+𝑥 = 𝑏 ⋅ 𝑎
+𝑐 + 𝑎
+Stąd i ze związku 𝑥 = 𝑎2
+𝑏 otrzymujemy:
+𝑎2
+𝑏 = 𝑏 ⋅ 𝑎
+𝑐 + 𝑎
+𝑏2 = 𝑎2 + 𝑐 ⋅ 𝑎
+|𝐴𝐶|2 = |𝐵𝐶|2 + |𝐴𝐵| ⋅ |𝐵𝐶|
+To należało wykazać.
+Sposób II (poprzez trójkąty podobne)
+Ponieważ 𝛼 = |∡𝐶𝐴𝐵|, więc |∡𝐴𝐵𝐶| = 2𝛼.
+Niech 𝐸 będzie punktem leżącym na prostej 𝐶𝐵, takim że |𝐵𝐸| = |𝐴𝐵| = 𝑐 oraz 𝐵
+należy do odcinka 𝐶𝐸. Wtedy trójkąt 𝐴𝐵𝐸 jest równoramienny i |∡𝐴𝐵𝐸| = 180° − 2𝛼
+oraz |∡𝐵𝐸𝐴| = |∡𝐵𝐴𝐸| = 𝛼 (zobacz rysunek).
+Stąd miary kątów trójkąta 𝐸𝐴𝐶 są równe
+|∡𝐸𝐴𝐶| = 2𝛼, |∡𝐶𝐸𝐴| = 𝛼 oraz |∡𝐴𝐶𝐸| = 180° − 3𝛼.
+Zatem trójkąty 𝐸𝐴𝐶 i 𝐴𝐵𝐶 są podobne (na podstawie cechy kkk podobieństwa
+trójkątów).
+Z podobieństwa tych trójkątów otrzymujemy 𝑏
+𝑎 = |𝐸𝐶|
+𝑏 , więc
+𝑏2 = 𝑎 ⋅ |𝐶𝐸|
+𝑏2 = 𝑎 ⋅ (|𝐶𝐵| + |𝐵𝐸|)
+𝑏2 = 𝑎 ⋅ (𝑎 + 𝑐)
+|𝐴𝐶|2 = |𝐵𝐶|2 + |𝐴𝐵| ⋅ |𝐵𝐶|
+To należało wykazać.
+Sposób III (poprzez sieczną)
+Ponieważ 𝛼 = |∡𝐶𝐴𝐵|, więc |∡𝐴𝐵𝐶| = 2𝛼.
+Niech 𝐹 będzie punktem przecięcia okręgu o środku w punkcie 𝐶 i promieniu 𝑎 = |𝐵𝐶|
+z prostą 𝐴𝐵.
+Przez punkt 𝐴 prowadzimy prostą styczną do tego okręgu i oznaczamy punkt styczności
+przez 𝐺 (zobacz rysunek).
+Zasady oceniania rozwiązań zadań
+Z twierdzenia o odcinkach siecznej i stycznej otrzymujemy
+|𝐴𝐹| ⋅ |𝐴𝐵| = |𝐴𝐺|2
+Ponieważ |𝐵𝐶| = |𝐹𝐶| = 𝑎 i |∡𝐴𝐵𝐶| = 2𝛼 oraz |∡𝐵𝐴𝐶| = 𝛼, więc
+|∡𝐴𝐹𝐶| = 180° − 2𝛼 i |∡𝐹𝐶𝐴| = |∡𝐵𝐴𝐶| = 𝛼. Zatem |𝐴𝐹| = |𝐹𝐶| =|𝐵𝐶| = 𝑎.
+Z twierdzenia Pitagorasa dla trójkąta 𝐴𝐺𝐶 otrzymujemy
+|𝐴𝐺|2 = |𝐴𝐶|2 − |𝐶𝐺|2
+|𝐴𝐺|2 = 𝑏2 − 𝑎2
+Zatem równość |𝐴𝐹| ⋅ |𝐴𝐵| = |𝐴𝐺|2 przyjmuje postać
+𝑎 ⋅ 𝑐 = 𝑏2 − 𝑎2
+𝑏2 = 𝑎2 + 𝑐 ⋅ 𝑎
+|𝐴𝐶|2 = |𝐵𝐶|2 + |𝐴𝐵| ⋅ |𝐵𝐶|
+To należało wykazać.
+Sposób IV (poprzez trapez wpisany w okrąg)
+Ponieważ 𝛼 = |∡𝐶𝐴𝐵|, więc |∡𝐴𝐵𝐶| = 2𝛼.
+Niech 𝐻 będzie obrazem punktu 𝐶 w symetrii osiowej względem symetralnej boku 𝐴𝐵.
+Wtedy czworokąt 𝐴𝐵𝐶𝐻 jest trapezem równoramiennym o ramionach 𝐵𝐶 i 𝐴𝐻 (zobacz
+rysunek).
+Suma miar przeciwległych kątów trapezu równoramiennego jest równa 180°, więc na
+trapezie 𝐴𝐵𝐶𝐻 można opisać okrąg. Ponieważ w czworokącie wypukłym wpisanym
+w okrąg iloczyn długości przekątnych czworokąta jest sumą iloczynów długości
+przeciwległych boków tego czworokąta (twierdzenie Ptolemeusza), więc
+|𝐴𝐶| ⋅ |𝐵𝐻| = |𝐵𝐶| ⋅ |𝐴𝐻| + |𝐴𝐵| ⋅ |𝐶𝐻|
+Ponieważ |∡𝐵𝐴𝐶| = |∡𝐴𝐶𝐻| i trapez 𝐴𝐵𝐶𝐻 jest równoramienny, więc
+|𝐶𝐻| = |𝐴𝐻| = |𝐵𝐶| = 𝑎 oraz |𝐵𝐻| = |𝐴𝐶| = 𝑏.
+Stąd i z równości |𝐴𝐶| ⋅ |𝐵𝐻| = |𝐵𝐶| ⋅ |𝐴𝐻| + |𝐴𝐵| ⋅ |𝐶𝐻| otrzymujemy
+𝑏 ⋅ 𝑏 = 𝑎 ⋅ 𝑎 + 𝑐 ⋅ 𝑎
+𝑏2 = 𝑎2 + 𝑐 ⋅ 𝑎
+|𝐴𝐶|2 = |𝐵𝐶|2 + |𝐴𝐵| ⋅ |𝐵𝐶|
+To należało wykazać.
+Sposób V (poprzez trójkąty równoramienne i twierdzenie Pitagorasa)
+Niech 𝐾 będzie spodkiem wysokości trójkąta 𝐴𝐵𝐶 opuszczonej z wierzchołka 𝐶.
+Oznaczmy długość tej wysokości przez ℎ. Punkt 𝐾 nie może pokrywać się
+z wierzchołkiem 𝐵, gdyż wtedy trójkąt 𝐴𝐵𝐶 byłby równoramienny, co jest sprzeczne
+z założeniem.
+Niech 𝐿 będzie obrazem punktu 𝐵 w symetrii środkowej względem punktu 𝐾.
+Należy rozważyć dwa przypadki.
+Przypadek 1. (gdy punkt 𝐾 leży na boku 𝐴𝐵).
+Wtedy trójkąt 𝐿𝐵𝐶 jest równoramienny i |∡𝐵𝐿𝐶| = 2𝛼. Zatem |𝐿𝐶| = |𝐵𝐶| = 𝑎 oraz
+|∡𝐴𝐿𝐶| = 180° − 2𝛼. Stąd wynika, że |∡𝐿𝐶𝐴| = 𝛼, co oznacza, że trójkąt 𝐴𝐿𝐶 jest
+równoramienny. Zatem |𝐴𝐿| = |𝐿𝐶| = 𝑎 (zobacz rysunek).
+Wobec tego |𝐿𝐵| = 𝑐 − 𝑎 oraz |𝐿𝐾| = |𝐾𝐵| = 𝑐−𝑎
+2 .
+Z twierdzenia Pitagorasa dla trójkątów 𝐴𝐾𝐶 i 𝐵𝐾𝐶 otrzymujemy:
+|𝐴𝐶|2 = |𝐴𝐾|2 + |𝐾𝐶|2 oraz |𝐵𝐶|2 = |𝐾𝐵|2 + |𝐾𝐶|2
+𝑏2 = (𝑎 + 𝑐−𝑎
+2 )
+2
++ ℎ2 oraz 𝑎2 = (𝑐−𝑎
+2 )
+2
++ ℎ2
+Zasady oceniania rozwiązań zadań
+ℎ2 = 𝑏2 − (𝑎 + 𝑐−𝑎
+2 )
+2
+oraz ℎ2 = 𝑎2 − (𝑐−𝑎
+2 )
+2
+Stąd
+𝑏2 − (𝑎 + 𝑐 − 𝑎
+2 )
+2
+= 𝑎2 − (𝑐 − 𝑎
+2 )
+2
+𝑏2 − 𝑎2+2𝑎𝑐+𝑐2
+4 = 𝑎2 − 𝑎2−2𝑎𝑐+𝑐2
+4
+4𝑏2 − 𝑎2 − 2𝑎𝑐 − 𝑐2 = 4𝑎2 − 𝑎2 + 2𝑎𝑐 − 𝑐2
+4𝑏2 = 4𝑎2 + 4𝑎𝑐
+𝑏2 = 𝑎2 + 𝑎𝑐
+To kończy dowód w tym przypadku.
+Przypadek 2. (gdy punkt 𝐾 leży na przedłużeniu boku 𝐴𝐵).
+Wtedy punkt 𝐵 leży między punktami 𝐴 i 𝐾, trójkąt 𝐿𝐵𝐶 jest równoramienny oraz
+|∡𝐿𝐵𝐶| = 180° − 2𝛼. Zatem |𝐿𝐶| = |𝐵𝐶| = 𝑎 oraz |∡𝐵𝐿𝐶| = |∡𝐿𝐵𝐶| = 180° − 2𝛼.
+Stąd wynika, że |∡𝐿𝐶𝐴| = 𝛼, co oznacza, że trójkąt 𝐴𝐿𝐶 jest równoramienny, więc
+|𝐴𝐿| = |𝐿𝐶| = 𝑎 (zobacz rysunek).
+Wobec tego |𝐿𝐵| = 𝑎 − 𝑐 oraz |𝐿𝐾| = |𝐾𝐵| = 𝑎−𝑐
+2 .
+Z twierdzenia Pitagorasa dla trójkątów 𝐴𝐾𝐶 i 𝐵𝐾𝐶 otrzymujemy:
+|𝐴𝐶|2 = |𝐴𝐾|2 + |𝐾𝐶|2 oraz |𝐵𝐶|2 = |𝐾𝐵|2 + |𝐾𝐶|2
+𝑏2 = (𝑐 + 𝑎−𝑐
+2 )
+2
++ ℎ2 oraz 𝑎2 = (𝑎−𝑐
+2 )
+2
++ ℎ2
+ℎ2 = 𝑏2 − (𝑐 + 𝑎−𝑐
+2 )
+2
+oraz ℎ2 = 𝑎2 − (𝑎−𝑐
+2 )
+2
+Stąd
+𝑏2 − (𝑐 + 𝑎 − 𝑐
+2 )
+2
+= 𝑎2 − (𝑎 − 𝑐
+2 )
+2
+𝑏2 − 𝑎2+2𝑎𝑐+𝑐2
+4 = 𝑎2 − 𝑎2−2𝑎𝑐+𝑐2
+4
+4𝑏2 − 𝑎2 − 2𝑎𝑐 − 𝑐2 = 4𝑎2 − 𝑎2 + 2𝑎𝑐 − 𝑐2
+4𝑏2 = 4𝑎2 + 4𝑎𝑐
+|𝐴𝐶|2 = |𝐵𝐶|2 + |𝐴𝐵| ⋅ |𝐵𝐶|
+To należało wykazać.
+Sposób VI (z wyznaczeniem cos 𝛼 poprzez twierdzenie sinusów)
+Ponieważ 𝛼 = |∡𝐶𝐴𝐵|, więc |∡𝐴𝐵𝐶| = 2𝛼.
+Stosujemy twierdzenie sinusów do trójkąta 𝐴𝐵𝐶 oraz wzór na sinus podwojonego kąta
+i otrzymujemy:
+𝑏
+sin(2𝛼) = 𝑎
+sin 𝛼
+𝑏
+2 sin 𝛼 ⋅ cos 𝛼 = 𝑎
+sin 𝛼
+cos 𝛼 = 𝑏
+2 ⋅ 𝑎
+Stąd i z twierdzenia cosinusów zastosowanego do trójkąta 𝐴𝐵𝐶 otrzymujemy:
+𝑎2 = 𝑐2 + 𝑏2 − 2 ⋅ 𝑐 ⋅ 𝑏 ⋅ cos 𝛼
+𝑎2 = 𝑐2 + 𝑏2 − 2 ⋅ 𝑐 ⋅ 𝑏 ⋅ 𝑏
+2 ⋅ 𝑎
+𝑎2 = 𝑐2 + 𝑏2 − 𝑐 ⋅ 𝑏2
+𝑎
+𝑎2 − 𝑐2 = 𝑏2 − 𝑐 ⋅ 𝑏2
+𝑎
+(𝑎 − 𝑐) ⋅ (𝑎 + 𝑐) = 𝑏2 ⋅ (1 − 𝑐
+𝑎)
+(𝑎 − 𝑐) ⋅ (𝑎 + 𝑐) ⋅ 𝑎 = 𝑏2 ⋅ (𝑎 − 𝑐)
+Ponieważ trójkąt 𝐴𝐵𝐶 nie jest równoramienny, więc 𝑎 − 𝑐 ≠ 0. Zatem
+(𝑎 + 𝑐) ⋅ 𝑎 = 𝑏2
+|𝐴𝐶|2 = |𝐵𝐶|2 + |𝐴𝐵| ⋅ |𝐵𝐶|
+To należało wykazać.
+Zasady oceniania rozwiązań zadań
+Sposób VII (z wyznaczeniem cos 𝛼 poprzez porównanie pól)
+Ponieważ 𝛼 = |∡𝐶𝐴𝐵|, więc |∡𝐴𝐵𝐶| = 2𝛼.
+Stosujemy wzór na pole trójkąta w zależności od długości dwóch boków i sinusa kąta między
+tymi bokami, otrzymując
+1
+2 ⋅ 𝑐 ⋅ 𝑎 ⋅ sin(2𝛼) = 1
+2 ⋅ 𝑐 ⋅ 𝑏 ⋅ sin 𝛼
+Stąd, po zastosowaniu wzoru na sinus podwojonego kąta, otrzymujemy
+2 ⋅ 𝑎 ⋅ cos 𝛼 = 𝑏
+Dwukrotnie stosujemy do trójkąta 𝐴𝐵𝐶 twierdzenie cosinusów:
+𝑏2 = 𝑎2 + 𝑐2 − 2 ⋅ 𝑎 ⋅ 𝑐 ⋅ cos(2𝛼)
+𝑎2 = 𝑏2 + 𝑐2 − 2 ⋅ 𝑏 ⋅ 𝑐 ⋅ cos 𝛼
+Stąd, po zastosowaniu wzoru na cosinus podwojonego kąta oraz skorzystaniu z zależności
+2 ⋅ 𝑎 ⋅ cos 𝛼 = 𝑏, otrzymujemy układ równań
+{ 𝑏2 = 𝑎2 + 𝑐2 − 2 ⋅ 𝑎 ⋅ 𝑐 ⋅ (2cos2 𝛼 − 1)
+𝑎2 = 𝑏2 + 𝑐2 − 2 ⋅ 2 ⋅ 𝑎 ⋅ cos 𝛼 ⋅ 𝑐 ⋅ cos 𝛼
+Po odjęciu od stron pierwszego równania stron drugiego równania otrzymujemy kolejno:
+𝑏2 − 𝑎2 = 𝑎2 − 𝑏2 + 2 ⋅ 𝑎 ⋅ 𝑐
+|𝐴𝐶|2 = |𝐵𝐶|2 + |𝐴𝐵| ⋅ |𝐵𝐶|
+To należało wykazać.
+Sposób VIII (poprzez dwukrotne zastosowanie twierdzenia cosinusów)
+Ponieważ 𝛼 = |∡𝐶𝐴𝐵|, więc |∡𝐴𝐵𝐶| = 2𝛼.
+Dwukrotnie stosujemy do trójkąta 𝐴𝐵𝐶 twierdzenie cosinusów:
+𝑏2 = 𝑎2 + 𝑐2 − 2 ⋅ 𝑎 ⋅ 𝑐 ⋅ cos(2𝛼)
+𝑎2 = 𝑏2 + 𝑐2 − 2 ⋅ 𝑏 ⋅ 𝑐 ⋅ cos 𝛼
+Z uzyskanych równań eliminujemy (po zastosowaniu wzoru na cosinus podwojonego kąta)
+cos 𝛼:
+cos(2𝛼) = 𝑎2 + 𝑐2 − 𝑏2
+2𝑎𝑐 ∧ cos 𝛼 = 𝑏2 + 𝑐2 − 𝑎2
+2𝑏𝑐
+2 cos2 𝛼 − 1 = 𝑎2 + 𝑐2 − 𝑏2
+2𝑎𝑐 ∧ cos 𝛼 = 𝑏2 + 𝑐2 − 𝑎2
+2𝑏𝑐
+2 (𝑏2 + 𝑐2 − 𝑎2
+2𝑏𝑐 )
+2
+− 1 = 𝑎2 + 𝑐2 − 𝑏2
+2𝑎𝑐
+Przekształcamy otrzymane równanie i otrzymujemy kolejno:
+(𝑏2 + 𝑐2 − 𝑎2)2
+2𝑏2𝑐2 − 4𝑏2𝑐2
+2𝑏2𝑐2 = 𝑎2 + 𝑐2 − 𝑏2
+2𝑎𝑐 − 2𝑎𝑐
+2𝑎𝑐
+(𝑏2 + 𝑐2 − 𝑎2 − 2𝑏𝑐)(𝑏2 + 𝑐2 − 𝑎2 + 2𝑏𝑐)
+2𝑏2𝑐2 =
+(𝑎 − 𝑐)2 − 𝑏2
+2𝑎𝑐
+((𝑏 − 𝑐)2 − 𝑎2)((𝑏 + 𝑐)2 − 𝑎2)
+2𝑏2𝑐2 = (𝑎 − 𝑐 − 𝑏)(𝑎 − 𝑐 + 𝑏)
+2𝑎𝑐
+(𝑏 − 𝑐 − 𝑎)(𝑏 − 𝑐 + 𝑎)(𝑏 + 𝑐 − 𝑎)(𝑏 + 𝑐 + 𝑎)
+2𝑏2𝑐2 = (𝑎 − 𝑐 − 𝑏)(𝑎 − 𝑐 + 𝑏)
+2𝑎𝑐
+Korzystamy z tego, że w trójkącie 𝑏 + 𝑐 ≠ 𝑎 oraz 𝑎 + 𝑏 ≠ 𝑐, i otrzymujemy dalej
+(𝑏 − 𝑐 − 𝑎)(𝑏 + 𝑐 + 𝑎)
+2𝑏2𝑐2 = − 1
+2𝑎𝑐
+2𝑎[𝑏2 − (𝑎 + 𝑐)2] + 2𝑏2𝑐 = 0
+𝑎𝑏2 − 𝑎(𝑎 + 𝑐)2 + 𝑏2𝑐 = 0
+𝑏2(𝑎 + 𝑐) − 𝑎(𝑎 + 𝑐)2 = 0 /: (𝑎 + 𝑐)
+𝑏2 = 𝑎(𝑎 + 𝑐)
+|𝐴𝐶|2 = |𝐵𝐶|2 + |𝐴𝐵| ⋅ |𝐵𝐶|
+To należało wykazać.
+Sposób IX (poprzez twierdzenie sinusów i przekształcenia trygonometryczne)
+Ponieważ 𝛼 = |∡𝐶𝐴𝐵|, więc |∡𝐴𝐵𝐶| = 2𝛼. Niech 𝑅 będzie promieniem okręgu
+opisanego na trójkącie 𝐴𝐵𝐶.
+Trzykrotnie stosujemy do trójkąta 𝐴𝐵𝐶 twierdzenie sinusów i otrzymujemy
+𝑎2 + 𝑐 ⋅ 𝑎 = (2𝑅 ⋅ sin 𝛼)2 + 2𝑅 ⋅ sin |∡𝐵𝐶𝐴| ⋅ 2𝑅 ⋅ sin 𝛼 =
+= (2𝑅 ⋅ sin 𝛼)2 + 2𝑅 ⋅ sin(180° − 3𝛼) ⋅ 2𝑅 ⋅ sin 𝛼
+Stosujemy wzory redukcyjne oraz wzór na sumę sinusów, otrzymując
+𝑎2 + 𝑐 ⋅ 𝑎 = 4𝑅2 ⋅ sin2 𝛼 + 4𝑅2 ⋅ sin(3𝛼) ⋅ sin 𝛼 =
+= 4𝑅2 ⋅ sin 𝛼 ⋅ [sin 𝛼 + sin(3𝛼)] = 4𝑅2 ⋅ sin 𝛼 ⋅ 2 sin(2𝛼) ⋅ cos 𝛼
+Stąd, po skorzystaniu ze wzoru na sinus podwojonego kąta oraz z twierdzenia sinusów,
+dostajemy
+|𝐵𝐶|2 + |𝐴𝐵| ⋅ |𝐵𝐶| = 4𝑅2 ⋅ sin2(2𝛼) = [2𝑅 ⋅ sin(2𝛼)]2 = |𝐴𝐶|2
+To należało wykazać.
+Sposób X (poprzez tangens podwojonego kąta i twierdzenie Pitagorasa)
+Niech 𝐾 będzie spodkiem wysokości trójkąta 𝐴𝐵𝐶 opuszczonej w wierzchołka 𝐶.
+Oznaczmy długość tej wysokości przez ℎ. Punkt 𝐾 nie może pokrywać się
+z wierzchołkiem 𝐵, gdyż wtedy trójkąt 𝐴𝐵𝐶 byłby równoramienny, co jest sprzeczne
+z założeniem.
+Należy rozważyć dwa przypadki.
+Zasady oceniania rozwiązań zadań
+Przypadek 1. (gdy punkt 𝐾 leży na boku 𝐴𝐵).
+Oznaczmy 𝑧 = |𝐴𝐾|. Wtedy |𝐾𝐵| = 𝑐 − 𝑧 (zobacz rysunek).
+Trójkąty 𝐴𝐾𝐶 i 𝐾𝐵𝐶 są prostokątne, więc tg 𝛼 = ℎ
+𝑧 oraz tg(2𝛼) = ℎ
+𝑐−𝑧 .
+Stąd i ze wzoru na tangens podwojonego kąta otrzymujemy:
+ℎ
+𝑐 − 𝑧 =
+2 ⋅ ℎ
+𝑧
+1 − (ℎ
+𝑧)
+2
+1
+𝑐 − 𝑧 =
+2
+𝑧
+1 − (ℎ
+𝑧)
+2
+2
+𝑧 ⋅ (𝑐 − 𝑧) = 1 − ℎ2
+𝑧2
+2𝑧(𝑐 − 𝑧) = 𝑧2 − ℎ2
+ℎ2 = 3𝑧2 − 2𝑐𝑧
+Z twierdzenia Pitagorasa dla trójkątów 𝐴𝐾𝐶 i 𝐾𝐵𝐶 otrzymujemy:
+|𝐴𝐶|2 = |𝐴𝐾|2 + |𝐾𝐶|2 oraz |𝐵𝐶|2 = |𝐾𝐵|2 + |𝐾𝐶|2
+𝑏2 = 𝑧2 + ℎ2 oraz 𝑎2 = (𝑐 − 𝑧)2 + ℎ2
+Ze związków ℎ2 = 3𝑧2 − 2𝑐𝑧 i 𝑎2 = (𝑐 − 𝑧)2 + ℎ2 otrzymujemy
+𝑎2 = 𝑐2 − 2𝑐𝑧 + 𝑧2 + 3𝑧2 − 2𝑐𝑧
+𝑎2 = 4𝑧2 − 4𝑐𝑧 + 𝑐2
+𝑎2 = (2𝑧 − 𝑐)2
+𝑎 = 2𝑧 − 𝑐 lub 𝑎 = 𝑐 − 2𝑧
+Ponieważ w rozpatrywanym przypadku |𝐴𝐾| > |𝐾𝐵|, tj. 𝑧 > 𝑐 − 𝑧, więc 2𝑧 − 𝑐 > 0, czyli
+𝑎 = 2𝑧 − 𝑐.
+Równość 𝑏2 = 𝑧2 + ℎ2 możemy, wykorzystując równość ℎ2 = 3𝑧2 − 2𝑐𝑧, zapisać
+w postaci
+𝑏2 = 4𝑧2 − 2𝑐𝑧
+Stąd i z równości 𝑎 = 2𝑧 − 𝑐 otrzymujemy
+𝑏2 = 2𝑧(2𝑧 − 𝑐)
+𝑏2 = 2𝑧𝑎
+𝑏2 = (𝑎 + 𝑐) ⋅ 𝑎
+𝑏2 = 𝑎2 + 𝑐𝑎
+|𝐴𝐶|2 = |𝐵𝐶|2 + |𝐴𝐵| ⋅ |𝐵𝐶|
+To kończy dowód w tym przypadku.
+Przypadek 2. (gdy punkt 𝐾 leży na przedłużeniu boku 𝐴𝐵).
+Wtedy punkt 𝐵 leży między punktami 𝐴 i 𝐾. Oznaczmy 𝑧 = |𝐵𝐾|. Wtedy |𝐴𝐾| = 𝑐 + 𝑧
+oraz |∡𝐾𝐵𝐶| = 180° − 2𝛼 (zobacz rysunek).
+Trójkąty 𝐴𝐾𝐶 i 𝐾𝐵𝐶 są prostokątne, więc tg 𝛼 = ℎ
+𝑐+𝑧 oraz tg(180° − 2𝛼) = ℎ
+𝑧 .
+Ponieważ tg(180° − 2𝛼) = − tg(2𝛼), więc ℎ
+𝑧 = − tg(2𝛼).
+Analogicznie jak w poprzednim przypadku stosujemy wzór na tangens podwojonego kąta
+i otrzymujemy:
+− ℎ
+𝑧 = 2 ⋅ ℎ
+𝑐+𝑧
+1−( ℎ
+𝑐+𝑧)
+2
+2
+𝑐 + 𝑧 ⋅ 𝑧 = ( ℎ
+𝑐 + 𝑧)
+2
+− 1
+2𝑧(𝑐 + 𝑧) = ℎ2 − (𝑐 + 𝑧)2
+ℎ2 = 3𝑧2 + 4𝑐𝑧 + 𝑐2
+Zasady oceniania rozwiązań zadań
+Z twierdzenia Pitagorasa dla trójkątów 𝐴𝐾𝐶 i 𝐵𝐾𝐶 otrzymujemy:
+|𝐴𝐶|2 = |𝐴𝐾|2 + |𝐾𝐶|2 oraz |𝐵𝐶|2 = |𝐾𝐵|2 + |𝐾𝐶|2
+𝑏2 = (𝑐 + 𝑧)2 + ℎ2 oraz 𝑎2 = 𝑧2 + ℎ2
+Ze związków ℎ2 = 3𝑧2 + 4𝑐𝑧 + 𝑐2 i 𝑎2 = 𝑧2 + ℎ2 otrzymujemy
+𝑎2 = 𝑧2 + 3𝑧2 + 4𝑐𝑧 + 𝑐2
+𝑎2 = (2𝑧 + 𝑐)2
+𝑎 = 2𝑧 + 𝑐
+Równość 𝑏2 = (𝑐 + 𝑧)2 + ℎ2 możemy, wykorzystując równość ℎ2 = 3𝑧2 + 4𝑐𝑧 + 𝑐2,
+zapisać w postaci
+𝑏2 = 4𝑧2 + 6𝑐𝑧 + 2𝑐2
+Stąd i z równości 𝑎 = 2𝑧 + 𝑐 otrzymujemy
+𝑏2 = (4𝑧2 + 4𝑐𝑧 + 𝑐2) + 2𝑐𝑧 + 𝑐2
+𝑏2 = (2𝑧 + 𝑐)2 + 𝑐(2𝑧 + 𝑐)
+𝑏2 = 𝑎2 + 𝑐𝑎
+|𝐴𝐶|2 = |𝐵𝐶|2 + |𝐴𝐵| ⋅ |𝐵𝐶|
+To należało wykazać.

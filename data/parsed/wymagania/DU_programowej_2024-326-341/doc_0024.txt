@@ -1,0 +1,7 @@
+Dział XII. Rachunek prawdopodobieństwa i statystyka.
+Poziom: rozszerzony
+Zakres rozszerzony. Uczeń spełnia wymagania określone dla zakresu podstawowego, a
+ponadto:
+1) oblicza prawdopodobieństwo warunkowe i stosuje wzór Bayesa, stosuje twierdzenie o
+prawdopodobieństwie całkowitym;
+2) stosuje schemat Bernoullego.

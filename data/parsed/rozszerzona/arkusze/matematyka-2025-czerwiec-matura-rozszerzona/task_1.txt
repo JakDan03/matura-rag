@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=4; level=rozszerzony; year=2025; month=czerwiec; task_id=1]
+Zadanie 1. (0–3)
+Sklep AGD prowadzi sprzedaż wysyłkową pralek. Prawdopodobieństwo uszkodzenia
+podczas transportu pralki wysłanej przez ten sklep do klienta jest równe 0,02.
+Oblicz prawdopodobieństwo zdarzenia 𝑨 polegającego na tym, że spośród
+𝟏𝟎 pralek wysłanych dziesięciu klientom przez ten sklep co najwyżej jedna ulegnie
+uszkodzeniu podczas transportu. Wynik zapisz w postaci ułamka dziesiętnego
+w zaokrągleniu do części tysięcznych. Zapisz obliczenia.

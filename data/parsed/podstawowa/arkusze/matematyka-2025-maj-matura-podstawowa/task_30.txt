@@ -1,0 +1,26 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=27; level=podstawowy; year=2025; month=maj; task_id=30]
+Zadanie 30. (0–2)
+Na diagramie przedstawiono wyniki sprawdzianu z matematyki w pewnej klasie maturalnej
+liczącej 24 uczniów. Na osi poziomej podano oceny, które uzyskali uczniowie tej klasy,
+a na osi pionowej podano liczbę uczniów, którzy otrzymali daną ocenę.
+Uzupełnij zdania. Wpisz odpowiednie liczby w wykropkowanych miejscach, aby zdania
+były prawdziwe.
+1. Mediana ocen uzyskanych z tego sprawdzianu przez uczniów tej klasy jest równa
+………… .
+2. Dominanta ocen uzyskanych z tego sprawdzianu przez uczniów tej klasy jest równa
+………… .
+0
+1
+2
+3
+4
+5
+6
+7
+8
+1 2 3 4 5 6
+liczba
+uczniów
+ocena
+30.
+0–1–2

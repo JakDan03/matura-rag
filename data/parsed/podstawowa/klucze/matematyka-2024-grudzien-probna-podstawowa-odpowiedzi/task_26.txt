@@ -1,0 +1,32 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=24, 25; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=26]
+Zadanie 26. (0–2)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+X.4) rozpoznaje […] w stożkach kąt między
+odcinkami oraz kąt między odcinkami
+i płaszczyznami (np. kąt rozwarcia stożka,
+kąt między tworzącą a podstawą), oblicza
+miary tych kątów;
+X.5) oblicza objętości […] stożka […].
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody i poprawny wynik: 120°.
+1 pkt – obliczenie kwadratu promienia podstawy stożka: 𝑟2 = 12 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Ze wzoru na objętość stożka otrzymujemy:
+𝑉 = 1
+3 ⋅ 𝜋 ⋅ 𝑟2 ⋅ 𝐻
+8𝜋 = 1
+3 ⋅ 𝜋 ⋅ 𝑟2 ⋅ 2
+𝑟2 = 12
+𝑟 = √12 = 2√3
+Niech 𝛼 oznacza połowę miary kąta rozwarcia stożka. Wtedy
+tg 𝛼 = 2√3
+2 = √3
+Stąd 𝛼 = 60°.
+Zatem kąt rozwarcia stożka ma miarę 120°.
+Zasady oceniania rozwiązań zadań

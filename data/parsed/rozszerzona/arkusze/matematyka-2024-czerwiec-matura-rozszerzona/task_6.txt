@@ -1,0 +1,5 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=11; level=rozszerzony; year=2024; month=czerwiec; task_id=6]
+Zadanie 6. (0–3)
+Długości podstaw trapezu równoramiennego są równe 𝑎 oraz 𝑏, przy czym 𝑎 > 𝑏. W ten
+trapez można wpisać okrąg.
+Wykaż, że pole tego trapezu jest większe od 𝒂 ⋅ 𝒃.

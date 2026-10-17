@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=29; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=8]
+Zadanie 8.
+Uwaga:
+Jeżeli zdający popełnia błąd przy przekształceniu równania 3
+3𝑥−7 = 5𝑥
+𝑥−8 do postaci
+równania kwadratowego, lecz dalej stosuje poprawną metodę rozwiązania otrzymanego
+równania kwadratowego i konsekwentnie oblicza pierwiastki tego równania, to może
+otrzymać 1 punkt za całe rozwiązanie.

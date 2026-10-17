@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=37; level=podstawowy; year=2026; month=czerwiec; task_id=32]
+Zadanie 32.
+1 pkt – zapisanie pola jednego spośród trójkątów 𝐸𝐵𝐹, 𝐹𝐶𝐷, 𝐷𝐴𝐸 w zależności
+od zmiennej 𝑥, np. 𝑃𝐹𝐶𝐷 = 1
+2 ⋅ 4 ⋅ 𝑥
+ALBO
+– obliczenie pola kwadratu 𝐴𝐵𝐶𝐷 oraz zapisanie długości odcinków 𝐴𝐸 i 𝐵𝐹
+w zależności od zmiennej 𝑥: 𝑃𝐴𝐵𝐶𝐷 = 16 oraz |𝐴𝐸| = 4 − 2𝑥 oraz |𝐵𝐹| = 4 − 𝑥.

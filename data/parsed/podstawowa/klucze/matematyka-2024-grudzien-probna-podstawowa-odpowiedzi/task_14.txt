@@ -1,0 +1,19 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=14, 15; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=14]
+Zadanie 14. (0–1)
+Wymaganie ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+VI.1) oblicza wyrazy ciągu określonego
+wzorem ogólnym;
+VI.4) sprawdza, czy dany ciąg jest […]
+geometryczny.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+FP
+Zasady oceniania rozwiązań zadań

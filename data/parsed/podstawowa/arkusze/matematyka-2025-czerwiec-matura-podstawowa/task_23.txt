@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=21; level=podstawowy; year=2025; month=czerwiec; task_id=23]
+Zadanie 23. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dany jest okrąg 𝒪 o równaniu
+𝒪: (𝑥 + 1)2 + (𝑦 − 2)2 = 9
+Okrąg 𝒦 jest obrazem okręgu 𝒪 w symetrii osiowej względem osi 𝑂𝑦 układu
+współrzędnych.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Okrąg 𝒦 jest określony równaniem
+A. (𝑥 + 1)2 + (𝑦 + 2)2 = 9
+B. (𝑥 + 1)2 + (𝑦 − 2)2 = 9
+C. (𝑥 − 1)2 + (𝑦 + 2)2 = 9
+D. (𝑥 − 1)2 + (𝑦 − 2)2 = 9

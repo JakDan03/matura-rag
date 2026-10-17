@@ -1,0 +1,7 @@
+Dział IV. Układy równań.
+Poziom: rozszerzony
+Zakres rozszerzony. Uczeń spełnia wymagania określone dla zakresu podstawowego, a ponadto
+rozwiązuje układy równań liniowych i kwadratowych z dwiema niewiadomymi, które można
+sprowadzić do równania kwadratowego lub liniowego, a które nie są trudniejsze niż
+{ 𝑥𝑥2 + 𝑦𝑦2 + 𝑎𝑎𝑥𝑥 + 𝑏𝑏𝑦𝑦 = 𝑐𝑐
+𝑥𝑥2 + 𝑦𝑦2 + 𝑑𝑑𝑥𝑥 + 𝑒𝑒𝑦𝑦 = 𝑓𝑓 .

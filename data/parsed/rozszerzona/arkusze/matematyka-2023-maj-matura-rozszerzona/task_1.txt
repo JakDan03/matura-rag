@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=4; level=rozszerzony; year=2023; month=maj; task_id=1]
+Zadanie 1. (0–2)
+W chwili początkowej (𝑡 = 0) masa substancji jest równa 4 gramom. Wskutek rozpadu
+cząsteczek tej substancji jej masa się zmniejsza. Po każdej kolejnej dobie ubywa
+19% masy, jaka była na koniec doby poprzedniej. Dla każdej liczby całkowitej 𝑡 ≥ 0
+funkcja 𝑚(𝑡) określa masę substancji w gramach po 𝑡 pełnych dobach (czas liczymy od
+chwili początkowej).
+Wyznacz wzór funkcji 𝒎(𝒕). Oblicz, po ilu pełnych dobach masa tej substancji będzie
+po raz pierwszy mniejsza od 𝟏, 𝟓 grama.
+Zapisz obliczenia.
+1.
+0–1–2

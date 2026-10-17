@@ -1,0 +1,39 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=95; level=podstawowy; year=2024; section=1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów]
+Przykładowe zadania z rozwiązaniami 95
+Zasady oceniania
+2 pkt – poprawne przeprowadzenie pełnego dowodu podobieństwa trójkątów 𝐴𝐶𝐵 i 𝐴𝑆𝐷.
+1 pkt – zapisanie, że trójkąty 𝐴𝐶𝐵 i 𝐴𝑆𝐷 są równoramienne oraz wskazanie / zapisanie
+równości odpowiednich ramion.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób 1.
+Zauważmy, że:
+• trójkąt 𝐴𝐶𝐵 jest równoramienny, gdzie: |𝐴𝐶| = |𝐶𝐵| (na mocy twierdzenia
+o odcinkach stycznych).
+• trójkąt 𝐴𝑆𝐷 jest równoramienny, gdzie: |𝑆𝐷| = |𝑆𝐴| (odcinki 𝑆𝐷 i 𝑆𝐴 są
+promieniami okręgu).
+• |∡𝑆𝐴𝐶| = 90° (promień poprowadzony do punktu styczności jest prostopadły do
+stycznej)
+• |∡𝐵𝐴𝐷| = 90° (kąt 𝐵𝐴𝐷 jest kątem wpisanym w okrąg, opartym na średnicy 𝐵𝐷).
+Oznaczmy: |∡𝐵𝐴𝐶| = 𝛽.
+Wtedy |∡𝑆𝐴𝐵| = |∡𝑆𝐴𝐶| − |∡𝐵𝐴𝐶| = 90° − 𝛽.
+Stąd |∡𝑆𝐴𝐷| = |∡𝐵𝐴𝐷| − |∡𝑆𝐴𝐵| = 90° − (90° − 𝛽) = 𝛽.
+Ponieważ trójkąty 𝐴𝐶𝐵 oraz 𝐴𝑆𝐷 są równoramienne, stąd wynika, że:
+|∡𝐶𝐵𝐴| = |∡𝐵𝐴𝐶| = 𝛽 oraz |∡𝐴𝐶𝐵| = 180° − 2𝛽
+|∡𝑆𝐷𝐴| = |∡𝐷𝐴𝑆| = 𝛽 oraz |∡𝐴𝑆𝐷| = 180° − 2𝛽
+Trójkąty 𝐴𝐶𝐵 i 𝐴𝑆𝐷 są podobne na
+podstawie cechy kąt – kąt – kąt
+podobieństwa trójkątów.
+𝐵
+𝑆
+𝑘
+𝐶
+𝐴
+𝑙
+𝐷
+180° − 2𝛽
+𝛽
+𝛽
+𝛽
+𝛽
+180° − 2𝛽

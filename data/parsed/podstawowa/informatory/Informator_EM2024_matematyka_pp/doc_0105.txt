@@ -1,0 +1,31 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=105; level=podstawowy; year=2024; section=4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach]
+Przykładowe zadania z rozwiązaniami 105
+Przykładowe pełne rozwiązanie
+Niech 𝑃 oznacza punkt przecięcia przekątnych czworokąta 𝐴𝐵𝐶𝐷.
+Punkt 𝑃 jest punktem przecięcia prostych 𝐴𝐶 i 𝐵𝐷.
+Skorzystamy ze wzoru na równanie ogólne prostej, która przechodzi przez dwa dane punkty
+(zobacz w Wybranych wzorach matematycznych).
+Wyznaczamy równanie prostej 𝐴𝐶:
+(𝑦 + 5)(6 + 1) − (9 + 5)(𝑥 + 1) = 0
+7𝑦 + 35 − 14𝑥 − 14 = 0
+7𝑦 = 14𝑥 − 21
+𝑦 = 2𝑥 − 3
+Wyznaczamy równanie prostej 𝐵𝐷:
+(𝑦 + 7)(−2 − 2) − (9 + 7)(𝑥 − 2) = 0
+−4𝑦 − 28 − 16𝑥 + 32 = 0
+−4𝑦 = 16𝑥 − 4
+𝑦 = −4𝑥 + 1
+Punkt 𝑃 jest punktem przecięcia prostych 𝐴𝐶 i 𝐵𝐷, więc jego współrzędne obliczymy,
+rozwiązując układ równań
+{ 𝑦 = 2𝑥 − 3
+𝑦 = −4𝑥 + 1
+Stąd
+2𝑥 − 3 = −4𝑥 + 1
+6𝑥 = 4
+𝑥 = 2
+3
+𝑦 = − 5
+3
+Zatem punkt przecięcia przekątnych czworokąta 𝐴𝐵𝐶𝐷 ma współrzędne (2
+3 , − 5
+3).

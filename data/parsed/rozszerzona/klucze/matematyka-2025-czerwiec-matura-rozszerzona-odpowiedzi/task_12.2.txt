@@ -1,0 +1,70 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=44, 45; level=rozszerzony; year=2025; month=czerwiec; task_id=12.2]
+Zadanie 12.2. (0–4)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+XIII.R4) oblicza pochodną funkcji potęgowej
+o wykładniku rzeczywistym oraz oblicza
+pochodną, korzystając z twierdzeń
+o pochodnej sumy, różnicy, iloczynu, ilorazu
+[…];
+XIII.R5) stosuje pochodną do badania
+monotoniczności funkcji;
+XIII.R6) rozwiązuje zadania optymalizacyjne
+z zastosowaniem pochodnej.
+Zasady oceniania
+4 pkt – uzasadnienie, że funkcja 𝑉 przyjmuje wartość największą dla 𝑎 = 4 oraz
+obliczenie 𝑉(4) = 16.
+3 pkt – uzasadnienie (np. poprzez badanie monotoniczności funkcji), że funkcja 𝑉 przyjmuje
+wartość największą dla 𝑎 = 4.
+2 pkt – obliczenie miejsca zerowego pochodnej funkcji 𝑉: 𝑎 = 4.
+1 pkt – wyznaczenie pochodnej funkcji 𝑉, np. 𝑉′(𝑎) = 6 − 3
+8 𝑎2.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Za poprawne uzasadnienie, że rozważana funkcja osiąga wartość największą dla
+wyznaczonej wartości 𝑎, przy której pochodna się zeruje, można uznać sytuację, gdy
+zdający bada znak pochodnej
+ORAZ:
+– opisuje (słownie lub graficznie – np. przy użyciu strzałek) monotoniczność funkcji 𝑉
+LUB
+– zapisuje, że dla wyznaczonej wartości 𝑎 funkcja 𝑉 ma maksimum lokalne i jest to
+jednocześnie jej największa wartość,
+LUB
+– zapisuje, że dla wyznaczonej wartości 𝑎 funkcja 𝑉 ma maksimum lokalne i jest to
+jedyne ekstremum tej funkcji.
+Badanie znaku pochodnej zdający może opisać w inny sposób, np. szkicując wykres
+funkcji, która w ten sam sposób jak pochodna zmienia znak, i zaznaczając na rysunku (np.
+znakami „+” i „-”) znak pochodnej.
+2. Jeżeli zdający przedstawi niepełne uzasadnienie, to może otrzymać co najwyżej 3 punkty
+za całe rozwiązanie (1 punkt za poprawne wyznaczenie pochodnej, 1 punkt za obliczenie
+miejsca zerowego pochodnej, 1 punkt za obliczenie długości krawędzi podstawy oraz
+objętości graniastosłupa o największej objętości).
+3. Jeżeli zdający nie uzasadnia istnienia największej wartości funkcji, to może otrzymać co
+najwyżej 2 punkty za całe rozwiązanie (1 punkt za poprawne wyznaczenie pochodnej,
+1 punkt za obliczenie miejsca zerowego pochodnej).
+Zasady oceniania rozwiązań zadań
+Przykładowe pełne rozwiązanie
+Obliczamy argument, dla którego funkcja 𝑉 określona wzorem 𝑉(𝑎) = 6𝑎 − 1
+8 𝑎3 dla
+𝑎 ∈ (0, 4√3) osiąga wartość największą.
+Wyznaczamy pochodną funkcji 𝑉: 𝑉′(𝑎) = 6 − 3
+8 𝑎2 dla 𝑎 ∈ (0, 4√3).
+Obliczamy miejsca zerowe pochodnej funkcji 𝑉:
+𝑉′(𝑎) = 0
+6 − 3
+8 𝑎2 = 0
+𝑎 = −4 ∉ (0, 4√3) ∨ 𝑎 = 4 ∈ (0, 4√3)
+Badamy znak pochodnej:
+𝑉′(𝑎) < 0
+6 − 3
+8 𝑎2 < 0 ∧ 𝑎 ∈ (0, 4√3)
+𝑎 ∈ (4, 4√3)
+więc 𝑉′(𝑎) < 0 dla 𝑎 ∈ (4, 4√3) oraz 𝑉′(ℎ) > 0 dla 𝑎 ∈ (0, 4).
+Zatem funkcja 𝑉 jest rosnąca w przedziale (0, 4] i malejąca w przedziale [4, 4√3).
+Stąd funkcja 𝑉 osiąga wartość największą dla 𝑎 = 4. Wtedy
+𝑉(4) = 6 ⋅ 4 − 1
+8 ⋅ 43 = 16

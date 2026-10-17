@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=7, 8; level=rozszerzony; year=2023; month=czerwiec; task_id=4]
+Zadanie 4. (0–3)
+Funkcja 𝑓 jest określona wzorem 𝑓(𝑥) = 2𝑥^3 − 4𝑥^2 + 9𝑥 dla każdego 𝑥 ∈ ℝ.
+Punkt 𝑃 = (𝑥_0 , 18) należy do wykresu funkcji 𝑓.
+Oblicz 𝒙_𝟎 oraz wyznacz równanie stycznej do wykresu funkcji 𝒇 w punkcie 𝑷.
+Zapisz obliczenia.

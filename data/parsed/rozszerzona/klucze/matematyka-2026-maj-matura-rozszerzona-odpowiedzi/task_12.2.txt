@@ -1,0 +1,117 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=55, 56, 57; level=rozszerzony; year=2026; month=maj; task_id=12.2]
+Zadanie 12.2. (0–4)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+XIII.R4) oblicza pochodną funkcji potęgowej
+o wykładniku rzeczywistym oraz oblicza
+pochodną, korzystając z twierdzeń
+o pochodnej sumy, różnicy, iloczynu, ilorazu
+[…];
+XIII.R5) stosuje pochodną do badania
+monotoniczności funkcji;
+XIII.R6) rozwiązuje zadania optymalizacyjne
+z zastosowaniem pochodnej.
+Zasady oceniania
+4 pkt – uzasadnienie, że funkcja 𝑃 przyjmuje wartość najmniejszą dla 𝑥 = 4√3 (𝑚), oraz
+obliczenie pola trójkątnego klombu o takiej podstawie: 𝑃(4√3) = 12√3 (𝑚2).
+3 pkt – uzasadnienie (np. poprzez badanie monotoniczności funkcji), że funkcja 𝑃 przyjmuje
+wartość najmniejszą dla 𝑥 = 4√3.
+2 pkt – obliczenie miejsca zerowego pochodnej funkcji 𝑃: 𝑥 = 4√3.
+1 pkt – wyznaczenie pochodnej funkcji 𝑃, np. 𝑃′(𝑥) = 6𝑥2 ⋅ (𝑥2 − 16)−2𝑥3 ⋅ 2𝑥
+(𝑥2−16)
+2 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający wyznacza pochodną ilorazu jako iloraz pochodnych, to otrzymuje
+0 punktów za całe rozwiązanie.
+2. a) Jeżeli z rozwiązania wynika, że zdający poprawnie stosuje wzór na pochodną ilorazu
+funkcji oraz zdający poprawnie wyznacza pochodne funkcji 2𝑥3 oraz 𝑥2 − 16 i dalej
+popełnia błędy, otrzymując pochodną w postaci
+6𝑥2 ⋅ (𝑥2 − 16)−2𝑥3 ⋅ 2𝑥
+(𝑥2−16) lub
+𝐵(𝑥)
+(𝑥2−16)
+2, gdzie 𝐵 jest wielomianem stopnia czwartego, który w przedziale (4, 10]
+ma dokładnie jeden pierwiastek, i konsekwentnie rozwiąże zadanie do końca, to może
+otrzymać co najwyżej 3 punkty za całe rozwiązanie (za miejsce zerowe pochodnej, za
+uzasadnienie istnienia najmniejszej wartości funkcji, za obliczenie najmniejszej wartości
+funkcji 𝑃).
+b) Jeżeli z rozwiązania nie wynika, że zdający poprawnie stosuje wzór na pochodną
+ilorazu funkcji lub zdający błędnie wyznacza pochodną funkcji 2𝑥3 lub 𝑥2 − 16 i dalej
+popełnia błędy, otrzymując pochodną w postaci
+6𝑥2 ⋅ (𝑥2 − 16)−2𝑥3 ⋅ 2𝑥
+(𝑥2−16) lub
+𝐵(𝑥)
+(𝑥2−16)
+2 , gdzie 𝐵 jest wielomianem stopnia czwartego, który w przedziale (4, 10]
+ma dokładnie jeden pierwiastek, i konsekwentnie rozwiąże zadanie do końca, to może
+otrzymać co najwyżej 2 punkty za całe rozwiązanie (za uzasadnienie istnienia
+najmniejszej wartości funkcji i za obliczenie najmniejszej wartości funkcji 𝑃).
+3. Za poprawne uzasadnienie, że rozważana funkcja osiąga wartość najmniejszą dla
+wyznaczonej wartości 𝑥, przy której pochodna się zeruje, można uznać sytuację, gdy
+zdający bada znak pochodnej
+ORAZ:
+– opisuje (słownie lub graficznie – np. przy użyciu strzałek) monotoniczność funkcji 𝑃
+LUB
+– zapisuje, że dla wyznaczonej wartości 𝑥 funkcja 𝑃 ma minimum lokalne i jest to
+jednocześnie jej najmniejsza wartość,
+LUB
+– zapisuje, że dla wyznaczonej wartości 𝑥 funkcja 𝑃 ma minimum lokalne i jest to
+jedyne ekstremum tej funkcji.
+Badanie znaku pochodnej zdający może opisać w inny sposób, np. szkicując wykres
+funkcji, która w ten sam sposób jak pochodna zmienia znak, i zaznaczając na rysunku (np.
+znakami „+” i „−”) znak pochodnej.
+4. Jeżeli zdający przedstawi niepełne uzasadnienie, to może otrzymać co najwyżej 3 punkty
+za całe rozwiązanie (nie otrzymuje punktu za uzasadnienie istnienia najmniejszej
+wartości).
+5. Jeżeli zdający, uzasadniając najmniejszą wartość funkcji, rozpatruje funkcję w ℝ lub
+ℝ+ , lub w (4, +∞), lub w (0, 10], to może uzyskać co najwyżej 3 punkty za całe
+rozwiązanie.
+6. Jeżeli zdający nie uzasadnia istnienia najmniejszej wartości funkcji, to może uzyskać co
+najwyżej 2 punkty za całe rozwiązanie (1 punkt za pochodną i 1 punkt za miejsce zerowe
+pochodnej).
+Przykładowe pełne rozwiązanie
+Obliczamy argument, dla którego funkcja 𝑃 określona wzorem 𝑃(𝑥) = 2𝑥3
+𝑥2−16
+dla 𝑥 ∈ (4, 10] osiąga wartość najmniejszą.
+Wyznaczamy pochodną funkcji 𝑃: 𝑃′(𝑥) = 6𝑥2⋅(𝑥2−16)−2𝑥3⋅2𝑥
+(𝑥2−16)
+2 = 2𝑥2(𝑥2−48)
+(𝑥2−16)
+2
+dla 𝑥 ∈ (4, 10].
+Zasady oceniania rozwiązań zadań
+Obliczamy miejsca zerowe pochodnej funkcji 𝑃:
+𝑃′(𝑥) = 0
+2𝑥2(𝑥2 − 48)
+(𝑥2 − 16)2 = 0
+2𝑥2(𝑥2 − 48) = 0
+𝑥 = 0 ∉ (4, 10] ∨ 𝑥 = −4√3 ∉ (4, 10] ∨ 𝑥 = 4√3 ∈ (4, 10]
+Badamy znak pochodnej:
+𝑃′(𝑥) < 0
+2𝑥2(𝑥2 − 48)
+(𝑥2 − 16)2 < 0 ∧ 𝑥 ∈ (4, 10]
+𝑥2(𝑥2 − 48) < 0 ∧ 𝑥 ∈ (4, 10]
+𝑥2 < 48 ∧ 𝑥 ∈ (4, 10]
+𝑥 ∈ (4, 4√3)
+więc 𝑃′(𝑥) < 0 dla 𝑥 ∈ (4, 4√3) oraz 𝑃′(𝑥) > 0 dla 𝑥 ∈ (4√3, 10].
+Zatem funkcja 𝑃 jest malejąca w przedziale (4, 4√3] i rosnąca w przedziale [4√3, 10].
+Stąd funkcja 𝑃 osiąga wartość najmniejszą dla 𝑥 = 4√3 (𝑚). Wtedy
+𝑃(4√3) = 2 ⋅ (4√3)
+3
+(4√3)
+2
+− 16
+= 12√3 (𝑚2)
+Uwaga.
+Funkcja 𝑃 jest różniczkowalna, więc jest ciągła. Ponadto lim
+𝑥→4+ 𝑃(𝑥) = +∞ oraz
+lim
+𝑥→10− 𝑃(𝑥) = 500
+21 , więc uwzględniając wartość funkcji 𝑃 w punkcie stacjonarnym
+𝑥 = 4√3 równą 𝑃(4√3) = 12√3, można sformułować wniosek, że funkcja 𝑃 osiąga
+wartość najmniejszą równą 12√3 dla argumentu 𝑥 = 4√3.

@@ -1,0 +1,48 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=27; level=podstawowy; year=2024; section=ALBO]
+Przykładowe zadania z rozwiązaniami 27
+Zadanie 14. (0–2)
+Dane są liczby 𝑎 = √5 − 2 oraz 𝑏 = √5 + 2.
+Oblicz wartość wyrażenia 𝒂 ⋅ 𝒃
+√𝒂 + √𝒃
+∶ √𝒂 − √𝒃
+𝒂 − 𝒃 dla podanych a i b.
+Wymaganie ogólne
+I. Sprawność rachunkowa.
+Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora,
+stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych
+oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach
+rzeczywistych i teoretycznych.
+Wymagania szczegółowe
+I. Liczby rzeczywiste. Zdający:
+1) wykonuje działania (dodawanie, odejmowanie, mnożenie, dzielenie, potęgowanie,
+pierwiastkowanie, logarytmowanie) w zbiorze liczb rzeczywistych.
+II. Wyrażenia algebraiczne. Zdający:
+1) stosuje wzory skróconego mnożenia na: (𝑎 + 𝑏)2, (𝑎 − 𝑏)2, 𝑎2 − 𝑏2.
+Zasady oceniania
+2 pkt – poprawna metoda obliczenia wartości wyrażenia dla podanych 𝑎 i 𝑏 oraz
+zapisanie poprawnego wyniku: 𝑎⋅𝑏
+√𝑎+√𝑏 ∶ √𝑎−√𝑏
+𝑎−𝑏 = 1.
+1 pkt – przekształcenie wyrażenia 𝑎⋅𝑏
+√𝑎+√𝑏 ∶ √𝑎−√𝑏
+𝑎−𝑏 do postaci 𝑎 ⋅ 𝑏
+ALBO
+– wykazanie, że liczby 𝑎 i 𝑏 albo liczby √𝑎 + √𝑏 i √𝑎−√𝑏
+𝑎−𝑏 są wzajemnie odwrotne.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób 1.
+Przekształcamy równoważnie wyrażenie do najprostszej postaci:
+𝑎 ⋅ 𝑏
+√𝑎 + √𝑏
+∶ √𝑎 − √𝑏
+𝑎 − 𝑏 = 𝑎 ⋅ 𝑏
+√𝑎 + √𝑏
+⋅ 𝑎 − 𝑏
+√𝑎 − √𝑏
+= 𝑎 ⋅ 𝑏 ⋅ (𝑎 − 𝑏)
+(√𝑎)
+2
+− (√𝑏)
+2 = 𝑎 ⋅ 𝑏 ⋅ (𝑎 − 𝑏)
+𝑎 − 𝑏 = 𝑎 ⋅ 𝑏

@@ -1,0 +1,10 @@
+Dział V. Funkcje.
+Poziom: rozszerzony
+Zakres rozszerzony. Uczeń spełnia wymagania określone dla zakresu podstawowego, a
+ponadto:
+1) na podstawie wykresu funkcji 𝑦𝑦 = 𝑓𝑓 (𝑥𝑥) rysuje wykresy funkcji 𝑦𝑦 = −𝑓𝑓 (𝑥𝑥), 𝑦𝑦 = 𝑓𝑓 (−𝑥𝑥);
+2) posługuje się złożeniami funkcji;
+3) dowodzi monotoniczności funkcji zadanej wzorem, jak w przykładzie: wykaż, że funkcja
+𝑓𝑓(𝑥𝑥) =
+𝑥𝑥−1
+𝑥𝑥+2 jest monotoniczna w przedziale (−∞, −2).

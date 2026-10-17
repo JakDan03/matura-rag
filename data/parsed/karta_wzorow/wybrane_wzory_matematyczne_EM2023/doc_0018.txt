@@ -1,0 +1,41 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=18; year=2023; section=𝑃Δ𝐴𝐵𝐶 = 1]
+Strona 18 z 34
+• Twierdzenie o dwusiecznej kąta
+Jeżeli dwusieczna kąta wewnętrznego (zewnętrznego) trójkąta 𝐴𝐵𝐶 poprowadzona
+z wierzchołka 𝐶 przecina prostą zawierającą odcinek 𝐴𝐵 w punkcie 𝐷, to:
+• Twierdzenie Talesa (wraz z twierdzeniem odwrotnym do niego)
+Różne proste 𝐴𝐵 i 𝐶𝐷 przecinają się w punkcie 𝑃, przy czym spełniony jest jeden
+z warunków:
+– punkt 𝐴 leży wewnątrz odcinka 𝑃𝐵 oraz punkt 𝐶 leży wewnątrz odcinka 𝑃𝐷
+LUB
+– punkt 𝐴 leży na zewnątrz odcinka 𝑃𝐵 oraz punkt 𝐶 leży na zewnątrz odcinka 𝑃𝐷.
+Jeżeli
+|𝐴𝐵|
+|𝑃𝐴| =
+|𝐶𝐷|
+|𝑃𝐶| , to proste 𝐴𝐶 i 𝐵𝐷 są równoległe.
+Jeżeli proste 𝐴𝐶 i 𝐵𝐷 są równoległe, to
+|𝐴𝐵|
+|𝑃𝐴| =
+|𝐶𝐷|
+|𝑃𝐶| .
+• Koło
+Pole 𝑃 koła o promieniu 𝑟 jest równe:
+Obwód 𝐿 koła o promieniu 𝑟 jest równy:
+|𝐴𝐷|
+|𝐵𝐷| =
+|𝐴𝐶|
+|𝐵𝐶|
+𝑃 = 𝜋𝑟2
+𝐿 = 2𝜋𝑟
+𝑃
+𝐷
+𝐶
+𝐵
+𝐴
+𝑃
+𝐷
+𝐶
+𝐵
+𝐴
+𝑟

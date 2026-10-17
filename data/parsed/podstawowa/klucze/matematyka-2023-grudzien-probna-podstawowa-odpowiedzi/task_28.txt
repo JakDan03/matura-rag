@@ -1,0 +1,27 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=32, 33; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=28]
+Zadanie 28. (0–1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymagania ogólne Wymaganie szczegółowe
+I. Sprawność rachunkowa.
+Wykonywanie obliczeń na liczbach
+rzeczywistych, także przy użyciu
+kalkulatora, stosowanie praw działań
+matematycznych przy przekształcaniu
+wyrażeń algebraicznych oraz
+wykorzystywanie tych umiejętności przy
+rozwiązywaniu problemów w kontekstach
+rzeczywistych i teoretycznych;
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+XII.1) oblicza prawdopodobieństwo
+w modelu klasycznym.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C
+Zasady oceniania rozwiązań zadań

@@ -1,0 +1,51 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=60; level=podstawowy; year=2024; section=1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno]
+60 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Wymagania ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno
+matematycznym, jak i popularnonaukowym, a także w formie wykresów […].
+III. Wykorzystanie i interpretowanie reprezentacji.
+2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów
+praktycznych i teoretycznych.
+Wymagania szczegółowe
+I. Liczby rzeczywiste. Zdający:
+1) wykonuje działania ([…] mnożenie, dzielenie, potęgowanie, […]) w zbiorze liczb
+rzeczywistych.
+V. Funkcje. Zdający:
+14) posługuje się funkcjami wykładniczą i logarytmiczną, w tym ich wykresami, do opisu
+i interpretacji zagadnień związanych z zastosowaniami praktycznymi.
+Zasady oceniania
+dla rozwiązania sposobem 1.
+3 pkt – poprawna metoda obliczenia 𝑡 oraz podanie poprawnego wyniku: 𝑡 ≈ 22 800 lat.
+2 pkt – zapisanie równania: 1
+16 = (1
+2)
+𝑡
+𝑇
+oraz wyznaczenie z niego 𝑡
+𝑇 = 4.
+1 pkt – poprawne zapisanie równania: 1
+16 ⋅ 𝑚0 = 𝑚0 ⋅ (1
+2)
+𝑡
+𝑇
+.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania
+dla rozwiązania sposobem 2.
+3 pkt – poprawna metoda obliczenia, ile lat ma znalezisko archeologiczne oraz podanie
+poprawnego wyniku: 𝑡 ≈ 22 800 lat.
+2 pkt – zapisanie związku między masą izotopu węgla C
+14 jaka utrzymywała się za życia
+organizmu a masą tego izotopu w znalezisku:
+𝑚4 = 1
+2 ⋅ 1
+2 ⋅ 1
+2 ⋅ 1
+2 ⋅ 𝑚0 = 1
+16 ⋅ 𝑚0.
+1 pkt – poprawne zapisanie masy izotopu węgla C
+14 po około 5 700 latach (po czasie
+połowicznego rozpadu): 𝑚1 = 1
+2 ⋅ 𝑚0.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.

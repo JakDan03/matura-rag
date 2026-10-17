@@ -1,0 +1,14 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=20; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=22]
+Zadanie 22. (0–1)
+Punkty 𝐴, 𝐵 oraz 𝐶 leżą na okręgu o środku w punkcie 𝑂. Prosta 𝑘 jest styczna do tego
+okręgu w punkcie 𝐴 i tworzy z cięciwą 𝐴𝐵 kąt o mierze 32°. Ponadto odcinek 𝐴𝐶 jest
+średnicą tego okręgu (zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Miara kąta rozwartego 𝐵𝑂𝐶 jest równa
+A. 148° B. 116° C. 154° D. 122°
+𝐶
+𝑂
+𝐵
+𝑘
+32°
+𝐴

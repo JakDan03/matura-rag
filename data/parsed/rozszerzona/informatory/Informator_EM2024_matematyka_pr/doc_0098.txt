@@ -1,0 +1,38 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=98; level=rozszerzony; year=2024; section=KOMBINATORYKA, RACHUNEK PRAWDOPODOBIEŃSTWA I STATYSTYKA]
+98 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+3) dwie z tych liczb dają przy dzieleniu przez 3 resztę 2, a jedna z tych liczb jest
+podzielna przez 3.
+Ponieważ w zbiorze 𝕄 mamy:
+• dokładnie 𝑛 liczb podzielnych przez 3
+• dokładnie 𝑛 + 1 liczb, które przy dzieleniu przez 3 dają resztę 1
+• dokładnie 𝑛 liczb, które przy dzieleniu przez 3 dają resztę 2,
+więc
+|𝐴| = (𝑛
+2) ⋅ (𝑛 + 1
+1 ) + (𝑛 + 1
+2 ) ⋅ (𝑛
+1) + (𝑛
+2) ⋅ (𝑛
+1) =
+= 𝑛(𝑛 − 1)(𝑛 + 1)
+2 +
+(𝑛 + 1) ⋅ 𝑛 ⋅ 𝑛
+2 + 𝑛(𝑛 − 1)𝑛
+2 =
+= 𝑛(𝑛2 − 1 + 𝑛2 + 𝑛 + 𝑛2 − 𝑛)
+2 = 𝑛(3𝑛2 − 1)
+2
+Prawdopodobieństwo zdarzenia 𝐴 jest równe
+𝑃(𝐴) =
+𝑛(3𝑛2 − 1)
+2
+(3𝑛 + 1)𝑛(3𝑛 − 1)
+2
+= 3𝑛2 − 1
+(3𝑛 + 1)(3𝑛 − 1)
+Zadanie 29. (0–4)
+Pan Nowak często gra z synem w szachy. Obliczył,
+że 40% rozegranych z synem partii wygrywa.
+Oblicz, ile partii szachów musi rozegrać z synem pan Nowak, aby prawdopodobieństwo
+wygrania przez ojca przynajmniej jednej partii w całej rozgrywce było większe od 𝟎, 𝟗𝟓.
+Zapisz obliczenia.

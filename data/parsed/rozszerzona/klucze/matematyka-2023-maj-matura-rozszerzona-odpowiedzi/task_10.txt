@@ -1,0 +1,89 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=34, 35, 36; level=rozszerzony; year=2023; month=maj; task_id=10]
+Zadanie 10. (0–4)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+VI.R2) rozpoznaje zbieżne szeregi
+geometryczne i oblicza ich sumę.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝐿 = 4𝑎
+1−
+√10
+4
+(lub 𝐿 = 8⋅(4+√10)𝑎
+3 ).
+3 pkt – zapisanie: 𝐿 = 4𝑎 (1 +
+√10
+4 + 5
+8 + … ).
+2 pkt – obliczenie ilorazu ciągu: 𝑞 =
+√10
+4 .
+1 pkt – obliczenie długości boku drugiego kwadratu: 𝑎2 =
+√10
+4 𝑎.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający obliczy tylko sumę długości boków (po jednym z każdego kwadratu), to
+może otrzymać co najwyżej 3 punkty za całe rozwiązanie.
+2. Jeżeli zdający błędnie ustala stosunek podziału długości boku kwadratu i rozwiązuje
+zadanie konsekwentnie do końca, to może otrzymać co najwyżej 2 punkty za całe
+rozwiązanie (za obliczenie ilorazu 𝑞 ciągu, o ile 𝑞 ∈ (0, 1), oraz za konsekwentne
+obliczenie sumy obwodów wszystkich kwadratów).
+3. Jeżeli zdający przyjmuje do obliczeń konkretną długość boku kwadratu 𝐾1 i rozwiązuje
+zadanie konsekwentnie do końca, to otrzymuje 2 punkty za całe rozwiązanie.
+4. Jeżeli zdający popełni błąd rachunkowy i otrzyma iloraz 𝑞 ciągu, który jest liczbą spoza
+przedziału (0, 1), to może otrzymać co najwyżej 1 punkt za całe rozwiązanie (za
+poprawne obliczenie 𝑎2).
+Przykładowe pełne rozwiązanie
+Oznaczmy przez 𝑎𝑖 długość boku kwadratu 𝐾𝑖 , natomiast przez 𝐿𝑖 – obwód kwadratu 𝐾𝑖
+(dla 𝑖 = 1, 2, 3, …). Niech 𝐿 oznacza sumę obwodów wszystkich rozważanych kwadratów.
+Obliczamy długości boków kolejnych kwadratów:
+𝑎1 = 𝑎
+𝑎2 = √(1
+4 𝑎)
+2
++ (3
+4 𝑎)
+2
+= √10
+4 𝑎
+Zasady oceniania rozwiązań zadań
+Analogicznie
+𝑎3 = √10
+4 𝑎2 = √10
+4 ∙ √10
+4 𝑎 = 5
+8 𝑎
+𝑎4 = 5√10
+32 𝑎
+i tak dalej.
+Stąd
+𝐿 = 𝐿1 + 𝐿2 + 𝐿3 + … = 4𝑎 + 4 ∙ √10
+4 𝑎 + 4 ∙ 5
+8 𝑎 + … = 4𝑎 (1 + √10
+4 + 5
+8 + … )
+Zauważamy, że wyrażenie w nawiasie jest sumą szeregu geometrycznego, gdzie 𝑎1 = 1
+i 𝑞 =
+√10
+4 .
+Ponieważ |𝑞| =
+√10
+4 < 1, zatem spełnione są założenia twierdzenia o istnieniu sumy
+nieskończonego szeregu geometrycznego.
+Zatem 𝐿 = 4𝑎 ∙ 1
+1−
+√10
+4
+= 4𝑎
+1−
+√10
+4
+= 8⋅(4+√10)𝑎
+3 .

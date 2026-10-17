@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=17; level=podstawowy; year=2025; month=maj; task_id=14.2]
+Zadanie 14.2. (0–1)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+VI.4) sprawdza, czy dany ciąg jest
+arytmetyczny lub geometryczny.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+Wersja A Wersja B
+FF FF

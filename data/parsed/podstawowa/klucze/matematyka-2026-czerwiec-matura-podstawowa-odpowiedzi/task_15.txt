@@ -1,0 +1,96 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=12, 13, 14; level=podstawowy; year=2026; month=czerwiec; task_id=15]
+Zadanie 15. (0–2)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VI.5) stosuje wzór na 𝑛-ty wyraz i na sumę
+𝑛 początkowych wyrazów ciągu
+arytmetycznego.
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑎2 = 34
+3
+.
+1 pkt – zapisanie równania z jedną niewiadomą 𝑟, np.
+7 + 7 + 𝑟 + 7 + 2𝑟 + 7 + 3𝑟 = 54
+ALBO
+– zapisanie równania z jedną niewiadomą 𝑎2, np.
+3𝑎2 + 3(𝑎2 − 7) = 47,
+ALBO
+– obliczenie trzeciego wyrazu ciągu: 𝑎3 = 47
+3
+,
+ALBO
+– obliczenie czwartego wyrazu ciągu: 𝑎4 = 20 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli zdający wypisze wszystkie cztery wyrazy rozpatrywanego ciągu arytmetycznego
+(7, 34
+3 , 47
+3 , 20), to otrzymuje 2 punkty.
+Przykładowe pełne rozwiązania
+Sposób I
+Z treści zadania wynika, że 7 + 𝑎2 + 𝑎3 + 𝑎4 = 54.
+Stąd i ze wzoru na 𝑛-ty wyraz ciągu arytmetycznego otrzymujemy równanie:
+7 + 7 + 𝑟 + 7 + 2𝑟 + 7 + 3𝑟 = 54
+28 + 6𝑟 = 54
+6𝑟 = 26
+𝑟 = 13
+3
+Zatem:
+𝑎2 = 7 + 𝑟 = 7 + 13
+3 = 34
+3
+Zasady oceniania rozwiązań zadań
+Sposób II
+Z treści zadania wynika, że 7 + 𝑎2 + 𝑎3 + 𝑎4 = 54.
+Ze wzoru na 𝑛-ty wyraz ciągu arytmetycznego otrzymujemy:
+𝑎2 = 7 + 𝑟
+Stąd:
+𝑟 = 𝑎2 − 7
+Wtedy:
+𝑎3 = 𝑎2 + 𝑟 = 𝑎2 + 𝑎2 − 7 = 2𝑎2 − 7
+𝑎4 = 𝑎2 + 2𝑟 = 𝑎2 + 2(𝑎2 − 7) = 3𝑎2 − 14
+Przekształcamy równanie 7 + 𝑎2 + 𝑎3 + 𝑎4 = 54 do równania z jedną niewiadomą 𝑎2:
+7 + 𝑎2 + (2𝑎2 − 7) + (3𝑎2 − 14) = 54
+6𝑎2 − 14 = 54
+6𝑎2 = 68
+𝑎2 = 34
+3
+Sposób III
+Z treści zadania wynika, że 7 + 𝑎2 + 𝑎3 + 𝑎4 = 54.
+Z własności ciągu arytmetycznego otrzymujemy:
+𝑎2 = 𝑎3 − 𝑟
+𝑎4 = 𝑎3 + 𝑟
+Przekształcamy równanie 7 + 𝑎2 + 𝑎3 + 𝑎4 = 54 do równania z jedną niewiadomą 𝑎3:
+7 + (𝑎3 − 𝑟) + 𝑎3 + (𝑎3 + 𝑟) = 54
+7 + 3𝑎3 = 54
+3𝑎3 = 47
+𝑎3 = 47
+3
+Korzystamy z własności sąsiednich wyrazów ciągu arytmetycznego i obliczamy 𝑎2:
+𝑎2 =
+7 + 47
+3
+2 = 68
+3 ⋅ 1
+2 = 34
+3
+Sposób IV
+Z treści zadania wynika, że 7 + 𝑎2 + 𝑎3 + 𝑎4 = 54.
+Ze wzoru na sumę 𝑛 początkowych wyrazów ciągu arytmetycznego otrzymujemy:
+7 + 𝑎4
+2 ⋅ 4 = 54
+7 + 𝑎4 = 27
+𝑎4 = 20
+Ze wzoru na 𝑛-ty wyraz ciągu arytmetycznego otrzymujemy:
+𝑎4 = 𝑎1 + 3𝑟
+20 = 7 + 3𝑟
+𝑟 = 13
+3
+Zatem:
+𝑎2 = 7 + 𝑟 = 7 + 13
+3 = 34
+3

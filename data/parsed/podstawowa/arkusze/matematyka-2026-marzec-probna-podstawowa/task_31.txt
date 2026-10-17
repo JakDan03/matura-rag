@@ -1,0 +1,16 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=30; level=podstawowy; year=2026; month=marzec; term=probna; task_id=31]
+Zadanie 31. (0–1)
+Podczas pewnego turnieju piłkarskiego rozegrano 50 meczów. Na diagramie kołowym
+przedstawiono informacje o liczbie goli strzelonych w tych meczach.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Mediana liczb goli strzelonych w meczach tego turnieju jest równa
+A. 1 B. 1,5 C. 2 D. 2,5
+8%
+42%
+32%
+12%
+6% mecze, w których strzelono 0 goli
+mecze, w których strzelono 1 gola
+mecze, w których strzelono 2 gole
+mecze, w których strzelono 3 gole
+mecze, w których strzelono 4 gole

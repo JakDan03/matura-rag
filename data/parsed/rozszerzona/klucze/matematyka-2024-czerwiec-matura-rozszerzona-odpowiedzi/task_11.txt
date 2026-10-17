@@ -1,0 +1,77 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=29, 30, 31; level=rozszerzony; year=2024; month=czerwiec; task_id=11]
+Zadanie 11. (0–6)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+IX.R3) znajduje punkty wspólne prostej
+i okręgu oraz prostej i paraboli będącej
+wykresem funkcji kwadratowej.
+Zasady oceniania
+Rozwiązanie zadania składa się z trzech etapów.
+Pierwszy etap polega na obliczeniu współrzędnych punktów 𝐴 oraz 𝐵. Za poprawne
+wykonanie tego etapu zdający otrzymuje 2 punkty.
+Podział punktów za pierwszy etap rozwiązania:
+2 pkt – obliczenie współrzędnych punktów 𝐴 oraz 𝐵 przecięcia paraboli i prostej
+3𝑥 + 𝑦 = 2 = 0: 𝐴 = (−3, 7) oraz 𝐵 = (2, −8).
+1 pkt – zapisanie równania z jedną niewiadomą (jedną ze współrzędnych punktu 𝐴 lub 𝐵),
+które wynika z układu równań { 𝑦 = 𝑥2 − 2𝑥 − 8
+3𝑥 + 𝑦 + 2 = 0 , np.
+3𝑥 + 𝑥2 − 2𝑥 − 8 + 2 = 0, 𝑦 = (− 𝑦+2
+3 )
+2
++ 2(𝑦+2)
+3 − 8.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Drugi etap polega na obliczeniu współrzędnych punktu 𝐶. Za poprawne wykonanie tego
+etapu zdający otrzymuje 3 punkty.
+Podział punktów za drugi etap rozwiązania:
+3 pkt – obliczenie współrzędnych punktu 𝐶: 𝐶 = (6, −2).
+2 pkt – zapisanie równania z jedną niewiadomą (pierwszą/drugą współrzędną punktu 𝐶), np.
+|3𝑐+(−1
+2𝑐+1)+2|
+√32+12
+= 9√10
+5 .
+1 pkt – uzależnienie drugiej/pierwszej współrzędnej punktu 𝐶 od pierwszej/drugiej
+współrzędnej, np. 𝐶 = (𝑐, − 1
+2 𝑐 + 1).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Trzeci etap polega na obliczeniu długości boku 𝐵𝐶.
+Za poprawne wykonanie tego etapu zdający otrzymuje 1 punkt.
+1 pkt – obliczenie długości boku 𝐵𝐶 równoległoboku: |𝐵𝐶| = 2√13.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Obliczamy współrzędne punktów przecięcia paraboli z prostą o równaniu 3𝑥 + 𝑦 + 2 = 0:
+{ 𝑦 = 𝑥2 − 2𝑥 − 8
+3𝑥 + 𝑦 + 2 = 0
+{ 𝑦 = 𝑥2 − 2𝑥 − 8
+3𝑥 + 𝑥2 − 2𝑥 − 8 + 2 = 0
+{ 𝑦 = 𝑥2 − 2𝑥 − 8
+𝑥2 + 𝑥 − 6 = 0
+{ 𝑦 = 𝑥2 − 2𝑥 − 8
+𝑥 = −3 ∨ 𝑥 = 2
+Stąd 𝐴 = (−3 , 7) oraz 𝐵 = (2 , −8).
+Punkt 𝐶 leży na prostej o równaniu 𝑦 = − 1
+2 𝑥 + 1 i ma pierwszą współrzędną dodatnią,
+więc 𝐶 = (𝑐, − 1
+2 𝑐 + 1) przy pewnym 𝑐 > 0.
+Korzystamy ze wzoru na odległość punktu od prostej i otrzymujemy kolejno:
+|3𝑐 + (− 1
+2 𝑐 + 1) + 2|
+√32 + 12 = 9√10
+5
+|2,5𝑐 + 3|
+√10
+= 9√10
+5
+|2,5𝑐 + 3| = 18
+𝑐 = 6 ∨ 𝑐 = − 42
+5
+Zatem 𝐶 = (6, −2).
+Obliczamy długość boku 𝐵𝐶:
+|𝐵𝐶| = √(6 − 2)2 + (−2 + 8)2 = 2√13
+Zasady oceniania rozwiązań zadań

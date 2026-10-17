@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=12, 13; level=podstawowy; year=2025; month=maj; task_id=12.3]
+Zadanie 12.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) przedstawiono fragment paraboli, która jest
+wykresem funkcji kwadratowej 𝑓 (zobacz rysunek). Wierzchołek tej paraboli ma
+współrzędne (3, 6). Ta parabola przecina oś 𝑂𝑦 w punkcie o współrzędnych (0, 3).
+Zadanie 12.3. (0–1)
+Funkcja 𝑔 jest określona dla każdej liczby rzeczywistej 𝑥 wzorem 𝑔(𝑥) = 𝑓(𝑥) − 3.
+Liczby 𝑥1 oraz 𝑥2 są różnymi miejscami zerowymi funkcji 𝑔.
+Uzupełnij zdanie. Wpisz odpowiednią liczbę w wykropkowanym miejscu, aby zdanie
+było prawdziwe.
+Suma 𝑥1 + 𝑥2 jest równa ……… .
+12.3.
+0–1

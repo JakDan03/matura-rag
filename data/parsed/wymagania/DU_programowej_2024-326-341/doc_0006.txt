@@ -1,0 +1,13 @@
+Dział III. Równania i nierówności.
+Poziom: podstawowy
+Zakres podstawowy. Uczeń:
+1) przekształca równania i nierówności w sposób równoważny, w tym n p. przekształca
+równoważnie równanie
+𝑥𝑥 + 1 =
+𝑥𝑥 + 3
+2𝑥𝑥−1;
+2) interpretuje równania i nierówności liniowe sprzeczne oraz tożsamościowe;
+3) rozwiązuje nierówności liniowe z jedną niewiadomą;
+4) rozwiązuje równania i nierówności kwadratowe;
+5) rozwiązuje równania wielomianowe postaci W(x) = 0 dla wielomianów doprowadzonych
+do postaci iloczynowej.

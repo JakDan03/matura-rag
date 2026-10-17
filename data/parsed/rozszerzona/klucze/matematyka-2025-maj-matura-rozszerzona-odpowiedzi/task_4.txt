@@ -1,0 +1,59 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=12, 13; level=rozszerzony; year=2025; month=maj; task_id=4]
+Zadanie 4. (0–3)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+XII.R1) oblicza prawdopodobieństwo
+warunkowe […].
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 9
+25 (lub 54
+150).
+2 pkt – wyznaczenie mocy zdarzeń 𝐵 oraz 𝐴 ∩ 𝐵, np. |𝐵| = (4
+2) ⋅ 5 ⋅ 5 oraz
+|𝐴 ∩ 𝐵| = (4
+2) ⋅ (2
+1) ⋅ 4 + (4
+2).
+1 pkt – wyznaczenie mocy zdarzenia 𝐵, np. |𝐵| = (4
+2) ⋅ 5 ⋅ 5,
+ALBO
+– wyznaczenie mocy zdarzenia 𝐴 ∩ 𝐵, np. |𝐴 ∩ 𝐵| = (4
+2) ⋅ (2
+1) ⋅ 4 + (4
+2).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania rozwiązań zadań
+Uwaga.
+Jeżeli zdający, obliczając 𝑃(𝐴∩𝐵)
+𝑃(𝐵) (lub |𝐴∩𝐵|
+|𝐵| ), pominie w liczniku i mianowniku czynnik
+(4
+2) bez stosownego komentarza, to może otrzymać co najwyżej 2 punkty za całe
+rozwiązanie.
+Przykładowe pełne rozwiązanie
+Zdarzeniami elementarnymi są wszystkie czteroelementowe wariacje z powtórzeniami ze
+zbioru {1, 2, 3, 4, 5, 6}. Niech Ω oznacza zbiór wszystkich zdarzeń elementarnych.
+Oznaczmy przez 𝐴 zdarzenie polegające na tym, że otrzymamy co najmniej jeden raz
+sześć oczek, natomiast przez 𝐵 – że otrzymamy dokładnie dwa razy pięć oczek.
+Obliczamy moc zdarzenia 𝐵: |𝐵| = (4
+2) ⋅ 5 ⋅ 5 = 150.
+Obliczamy moc zdarzenia 𝐴 ∩ 𝐵: |𝐴 ∩ 𝐵| = (4
+2) ⋅ (2
+1) ⋅ 4 + (4
+2) = 54.
+Obliczamy prawdopodobieństwo warunkowe 𝑃(𝐴|𝐵):
+𝑃(𝐴|𝐵) = 𝑃(𝐴 ∩ 𝐵)
+𝑃(𝐵) =
+|𝐴 ∩ 𝐵|
+|Ω|
+|𝐵|
+|Ω|
+= |𝐴 ∩ 𝐵|
+|𝐵| = 54
+150 = 9
+25

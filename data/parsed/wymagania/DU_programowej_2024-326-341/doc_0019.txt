@@ -1,0 +1,15 @@
+Dział X. Stereometria.
+Poziom: podstawowy
+Zakres podstawowy. Uczeń:
+1) rozpoznaje wzajemne położenie prostych w przestrzeni, w szczególności proste
+prostopadłe nieprzecinające się;
+2) posługuje się pojęciem kąta między prostą a płaszczyzną oraz pojęciem kąta
+dwuściennego między półpłaszczyznami;
+3) rozpoznaje w graniastosłupach i ostrosłupach kąty między odcinkami (np. krawędziami,
+krawędziami i przekątnymi) oraz kąty między ścianami, oblicza miary tych kątów;
+4) rozpoznaje w walcach i w stożkach kąt między odcinkami oraz kąt między odcinkami i
+płaszczyznami (np. kąt rozwarcia stożka, kąt między tworzącą a podstawą), oblicza miary
+tych kątów;
+5) oblicza objętości i pola powierzchni graniastosłupów, ostrosłupów, walca, stożka i kuli ,
+również z wykorzystaniem trygonometrii;
+6) wykorzystuje zależność między objętościami brył podobnych.

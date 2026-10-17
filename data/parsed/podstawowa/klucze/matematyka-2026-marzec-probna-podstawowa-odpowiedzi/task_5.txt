@@ -1,0 +1,28 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=4, 5; level=podstawowy; year=2026; month=marzec; term=probna; task_id=5]
+Zadanie 5. (0–2)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+I.2) przeprowadza proste dowody dotyczące
+podzielności liczb całkowitych i reszt
+z dzielenia […].
+II.1) stosuje wzory skróconego mnożenia
+na: […] 𝑎2 − 𝑏2.
+Zasady oceniania
+2 pkt – poprawne przekształcenia i przeprowadzenie pełnego rozumowania.
+1 pkt – przekształcenie wyrażenia 25014 − 24994 do postaci
+(25012 − 24992)(25012 + 24992).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Korzystamy z własności działań na potęgach oraz ze wzoru na różnicę kwadratów
+i otrzymujemy:
+25014 − 24994 = (25012)2 − (24992)2 = (25012 − 24992)(25012 + 24992) =
+= (2501 − 2499)(2501 + 2499)(25012 + 24992) =
+= 2 ⋅ 5000 ⋅ (25012 + 24992) = 10000 ⋅ (25012 + 24992)
+Zasady oceniania rozwiązań zadań
+Liczba 25012 + 24992 jest liczbą całkowitą, zatem liczba 25014 − 24994 jest podzielna
+przez 10 000.

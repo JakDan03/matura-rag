@@ -1,0 +1,20 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=55; level=rozszerzony; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+Przykładowe zadania z rozwiązaniami 55
+Wykresem funkcji 𝑓 jest parabola, której wierzchołek 𝑊 = (𝑝, 𝑞) ma rzędną niedodatnią
+𝑞 = − Δ
+4 .
+Odcięta 𝑝 = − 𝑐−20
+2 ∈ [16
+3 , 8], a ponadto 𝑓(4) = 𝑐2 − 16𝑐 + 64 = (𝑐 − 8)2 ≥ 0.
+Zatem 𝑓 ma miejsce zerowe w zbiorze [4, +∞).
+Podobnie argumentujemy, że funkcja 𝑔(𝑏) = 𝑏2 + (𝑐 − 20)𝑏 + (𝑐2 − 20𝑐 + 128) ma
+miejsce zerowe w przedziale [4, +∞).
+Zatem układ (1)–(2) ma rozwiązanie w zbiorze liczb rzeczywistych nie mniejszych od 4.
+Zadanie 18.2. (0–4)
+Objętość 𝑉 każdego z rozpatrywanych prostopadłościanów można wyrazić za pomocą
+funkcji
+𝑉(𝑐) = 𝑐3 − 20𝑐2 + 128𝑐
+gdzie 𝑐 ∈ [4, 28
+3 ] jest długością jednej z krawędzi bryły.
+Oblicz objętość tego spośród rozpatrywanych prostopadłościanów, którego objętość
+jest najmniejsza. Zapisz obliczenia.

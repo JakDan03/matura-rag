@@ -1,0 +1,29 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=14; year=2023; section=0 1]
+Strona 14 z 34
+• Wybrane wzory redukcyjne
+• Sumy, różnice i iloczyny funkcji trygonometrycznych
+• Okresowość funkcji trygonometrycznych
+Dla każdego kąta 𝛼 i liczby całkowitej 𝑘 prawdziwe są związki:
+Ponadto jeżeli 𝛼 ≠ 90° + 𝑚 ⋅ 180° (gdzie 𝑚 ∈ ℤ), to:
+sin(90° − 𝛼) = cos 𝛼 cos(90° − 𝛼) = sin 𝛼
+sin(90° + 𝛼) = cos 𝛼 cos(90° + 𝛼) = − sin 𝛼
+sin(180° − 𝛼) = sin 𝛼 cos(180° − 𝛼) = − cos 𝛼 tg(180° − 𝛼) = − tg 𝛼
+sin(180° + 𝛼) = −sin 𝛼 cos(180° + 𝛼) = − cos 𝛼 tg(180° + 𝛼) = tg 𝛼
+sin 𝛼 + sin 𝛽 = 2 sin 𝛼 + 𝛽
+2 cos 𝛼 − 𝛽
+2 cos 𝛼 + cos 𝛽 = 2 cos 𝛼 + 𝛽
+2 cos 𝛼 − 𝛽
+2
+sin 𝛼 − sin 𝛽 = 2 cos 𝛼 + 𝛽
+2 sin 𝛼 − 𝛽
+2 cos 𝛼 − cos 𝛽 = −2 sin 𝛼 + 𝛽
+2 sin 𝛼 − 𝛽
+2
+sin 𝛼 ⋅ sin 𝛽 = − 1
+2 [cos(𝛼 + 𝛽) − cos(𝛼 − 𝛽)]
+cos 𝛼 ⋅ cos 𝛽 = 1
+2 [cos(𝛼 + 𝛽) + cos(𝛼 − 𝛽)]
+sin 𝛼 ⋅ cos 𝛽 = 1
+2 [sin(𝛼 + 𝛽) + sin(𝛼 − 𝛽)]
+sin(𝛼 + 𝑘 ⋅ 360°) = sin 𝛼 cos(𝛼 + 𝑘 ⋅ 360°) = cos 𝛼
+tg(𝛼 + 𝑘 ⋅ 180°) = tg 𝛼

@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=42; level=podstawowy; year=2026; month=maj; task_id=15]
+Zadanie 15.
+2 pkt – obliczenie ilorazu ciągu geometrycznego (𝑎1, 𝑎9, 𝑎𝑘): 𝑞 = 4
+ALBO
+– obliczenie wyrazów 𝑎1 oraz 𝑎9: 𝑎1 = 8, 𝑎9 = 32, oraz wykorzystanie własności
+ciągu geometrycznego i zapisanie związku między wyrazami 𝑎1 , 𝑎9 , 𝑎𝑘 , np.
+(𝑎9)2 = 𝑎1 ⋅ 𝑎𝑘 .
+1 pkt – obliczenie wyrazu 𝑎1: 𝑎1 = 8
+ALBO
+– obliczenie wyrazu 𝑎9: 𝑎9 = 32.

@@ -1,0 +1,40 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=15; level=rozszerzony; year=2024; section=ALBO]
+Przykładowe zadania z rozwiązaniami 15
+Wyznaczamy wartości parametru 𝑚, dla których prawdziwa jest nierówność |𝑥 + 𝑦| < 2:
+|4 + 2𝑚 + 𝑚2
+2 + 𝑚 + −4𝑚
+𝑚 + 2| < 2
+|𝑚2 − 2𝑚 + 4
+𝑚 + 2 | < 2
+𝑚2 − 2𝑚 + 4
+𝑚 + 2 > −2 i 𝑚2 − 2𝑚 + 4
+𝑚 + 2 < 2
+𝑚2 − 2𝑚 + 4
+𝑚 + 2 + 2𝑚 + 4
+𝑚 + 2 > 0 i 𝑚2 − 2𝑚 + 4
+𝑚 + 2 − 2𝑚 + 4
+𝑚 + 2 < 0
+𝑚2 + 8
+2 + 𝑚 > 0 i 𝑚2 − 4𝑚
+2 + 𝑚 < 0
+(𝑚2 + 8)(𝑚 + 2) > 0 i 𝑚 ∈ ℝ\{−2; 2} i (𝑚2 − 4𝑚)(𝑚 + 2) < 0 i 𝑚 ∈ ℝ\{−2; 2}
+𝑚 ∈ (−2, 2) ∪ (2, +∞) i 𝑚 ∈ (−∞, −2) ∪ (0, 2) ∪ (2, 4)
+Zatem warunki zadania są spełnione tylko wtedy, gdy 𝑚 ∈ (0, 2) ∪ (2, 4).
+Sposób 2.
+Rozwiązujemy układ (1) metodą podstawiania. Z pierwszego równania układu
+wyznaczamy 𝑦:
+𝑦 = 𝑚2 − 𝑚𝑥
+i wstawiamy do drugiego równania układu:
+4𝑥 + 𝑚(𝑚2 − 𝑚𝑥) = 8
+(4 − 𝑚2)𝑥 = 8 − 𝑚3
+Zatem układ jest oznaczony, gdy 𝑚 ∈ ℝ\{−2; 2}. Wtedy
+𝑥 = 8 − 𝑚3
+4 − 𝑚2 = (2 − 𝑚)(4 + 2𝑚 + 𝑚2)
+(2 − 𝑚)(2 + 𝑚) = 4 + 2𝑚 + 𝑚2
+𝑚 + 2
+Stąd
+𝑦 = 𝑚2 − 𝑚𝑥 = 𝑚2 − 𝑚 ⋅ 𝑚2 + 2𝑚 + 4
+𝑚 + 2 = 𝑚3 + 2𝑚2 − 𝑚(𝑚2 + 2𝑚 + 4)
+𝑚 + 2 = −4𝑚
+𝑚 + 2
+Wyznaczamy wartości parametru 𝑚, dla których prawdziwa jest nierówność |𝑥 + 𝑦| < 2:

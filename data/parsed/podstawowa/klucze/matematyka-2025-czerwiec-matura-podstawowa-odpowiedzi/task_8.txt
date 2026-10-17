@@ -1,0 +1,45 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=7, 8, 9; level=podstawowy; year=2025; month=czerwiec; task_id=8]
+Zadanie 8. (0–2)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+IV.2) stosuje układy równań do
+rozwiązywania zadań tekstowych.
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody i poprawny wynik: 850.
+1 pkt – zapisanie układu równań pozwalającego obliczyć liczby drzew posadzonych
+w pierwszym i drugim sadzie, np.
+𝑥 + 𝑦 = 1 410 oraz 0,85𝑦 = 0,70 ⋅ 0,80𝑥,
+ALBO
+– zapisanie równania z jedną niewiadomą pozwalającego obliczyć liczbę drzew
+posadzonych w pierwszym sadzie, np.
+0,85 ⋅ (1 410 − 𝑥) = 0,70 ⋅ 0,80𝑥,
+ALBO
+– zapisanie równania z jedną niewiadomą pozwalającego obliczyć liczbę drzew
+posadzonych w drugim sadzie, np.
+0,85𝑦 = 0,70 ⋅ 0,80 ⋅ (1 410 − 𝑦).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający sprawdza warunki zadania dla wybranych par liczb 𝑥 oraz 𝑦 i wskaże
+właściwą odpowiedź, ale nie uzasadni, że jest to jedyne rozwiązanie zadania, to otrzymuje
+1 punkt za całe rozwiązanie.
+2. Jeżeli zdający w rozwiązaniu używa wartości przybliżonych i otrzymuje wynik różny od
+850, to może otrzymać co najwyżej 1 punkt za całe rozwiązanie.
+Przykładowe pełne rozwiązanie
+Oznaczmy:
+𝑥 – liczba drzew posadzonych w pierwszym sadzie,
+𝑦 – liczba drzew posadzonych w drugim sadzie.
+Po uwzględnieniu warunków zadania otrzymujemy:
+𝑥 + 𝑦 = 1 410 oraz 0,85𝑦 = 0,70 ⋅ 0,80𝑥
+Z pierwszego z tych równań wyznaczamy 𝑦 = 1 410 − 𝑥 i podstawiamy w miejsce 𝑦 do
+drugiego z równań, dzięki czemu otrzymujemy:
+0,85 ⋅ (1 410 − 𝑥) = 0,70 ⋅ 0,80𝑥
+1 198,5 − 0,85𝑥 = 0,56𝑥
+1,41𝑥 = 1 198,5
+𝑥 = 850
+W maju 2024 roku w pierwszym sadzie posadzono 850 drzew.
+Zasady oceniania rozwiązań zadań

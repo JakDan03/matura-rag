@@ -1,0 +1,123 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=4, 5, 6, 7; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=5]
+Zadanie 5. (0–2)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+I.2) przeprowadza proste dowody dotyczące
+podzielności liczb całkowitych i reszt
+z dzielenia nie trudniejsze niż dowód
+podzielności przez 24 iloczynu czterech
+kolejnych liczb naturalnych.
+Zasady oceniania
+2 pkt – założenie, że 𝑛 = 2𝑙 + 1 oraz przekształcenie wyrażenia 3𝑛2 + 4𝑛 + 1 do
+postaci 4(3𝑙2 + 5𝑙 + 2) oraz zapisanie, że 𝑙 jest liczbą całkowitą lub, że suma
+3𝑙2 + 5𝑙 + 2 jest liczbą całkowitą
+ALBO
+– stwierdzenie, że składnik 4𝑛 jest podzielny przez 4, oraz założenie, że 𝑛 = 2𝑙 + 1
+oraz przekształcenie wyrażenia 3𝑛2 + 1 do postaci 4(3𝑙2 + 3𝑙 + 1) i zapisanie,
+że 𝑙 jest liczbą całkowitą lub, że suma 3𝑙2 + 3𝑙 + 1 jest liczbą całkowitą,
+ALBO
+– przekształcenie wyrażenia 3𝑛2 + 4𝑛 + 1 do postaci (3𝑛 + 1)(𝑛 + 1) oraz
+stwierdzenie, że wyrażenie (3𝑛 + 1)(𝑛 + 1) jest iloczynem dwóch liczb parzystych,
+ALBO
+– przekształcenie wyrażenia 3𝑛2 + 4𝑛 + 1 do postaci 4(𝑛2 + 𝑛) + (1 − 𝑛)(1 + 𝑛)
+oraz stwierdzenie, że wyrażenie 4(𝑛2 + 𝑛) + (1 − 𝑛)(1 + 𝑛) jest sumą dwóch
+liczb podzielnych przez 4,
+ALBO
+Zasady oceniania rozwiązań zadań
+– przekształcenie wyrażenia 3𝑛2 + 4𝑛 + 1 do postaci 2(𝑛2 + 𝑛) + (𝑛 + 1)2
+oraz stwierdzenie, że wyrażenie 2(𝑛2 + 𝑛) + (𝑛 + 1)2 jest sumą dwóch liczb
+podzielnych przez 4,
+ALBO
+– rozpatrzenie przypadku, gdy 𝑛 = 4𝑙 + 1, tj. przekształcenie wyrażenia
+3𝑛2 + 4𝑛 + 1 do postaci 4(12𝑙2 + 10𝑙 + 2) i zapisanie, że 𝑙 jest liczbą całkowitą
+lub, że suma 12𝑙2 + 10𝑙 + 2 jest liczbą całkowitą oraz rozpatrzenie przypadku, gdy
+𝑛 = 4𝑙 + 3, tj. przekształcenie wyrażenia 3𝑛2 + 4𝑛 + 1 do postaci
+4(12𝑙2 + 22𝑙 + 10) i zapisanie, że 𝑙 jest liczbą całkowitą lub, że suma
+12𝑙2 + 22𝑙 + 10 jest liczbą całkowitą.
+1 pkt – założenie, że 𝑛 = 2𝑙 + 1 oraz zapisanie wyrażenia 3𝑛2 + 4𝑛 + 1 w postaci
+3(4𝑙2 + 4𝑙 + 1) + 4(2𝑙 + 1) + 1
+ALBO
+– stwierdzenie, że składnik 4𝑛 jest podzielny przez 4, oraz założenie, że 𝑛 = 2𝑙 + 1
+oraz przekształcenie wyrażenia 3𝑛2 + 1 do postaci 3(4𝑙2 + 4𝑙 + 1) + 1,
+ALBO
+– przekształcenie wyrażenia 3𝑛2 + 4𝑛 + 1 do postaci (3𝑛 + 1)(𝑛 + 1),
+ALBO
+– przekształcenie wyrażenia 3𝑛2 + 4𝑛 + 1 do postaci 4(𝑛2 + 𝑛) + (1 − 𝑛)(1 + 𝑛),
+ALBO
+– przekształcenie wyrażenia 3𝑛2 + 4𝑛 + 1 do postaci 2(𝑛2 + 𝑛) + (𝑛 + 1)2,
+ALBO
+– rozpatrzenie przypadku, gdy 𝑛 = 4𝑙 + 1, tj. przekształcenie wyrażenia
+3𝑛2 + 4𝑛 + 1 do postaci 4(12𝑙2 + 10𝑙 + 2) i zapisanie, że 𝑙 jest liczbą całkowitą
+lub, że suma 12𝑙2 + 10𝑙 + 2 jest liczbą całkowitą,
+ALBO
+– rozpatrzenie przypadku, gdy 𝑛 = 4𝑙 + 3, tj. przekształcenie wyrażenia
+3𝑛2 + 4𝑛 + 1 do postaci 4(12𝑙2 + 22𝑙 + 10) i zapisanie, że 𝑙 jest liczbą
+całkowitą lub, że suma 12𝑙2 + 22𝑙 + 10 jest liczbą całkowitą.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli zdający sprawdza prawdziwość tezy tylko dla wybranych wartości 𝑛, to otrzymuje
+0 punktów za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Ponieważ liczba 𝑛 jest nieparzysta, więc zapisujemy ją w postaci 𝑛 = 2𝑙 + 1, gdzie 𝑙 ∈ ℤ.
+Wówczas badana liczba ma postać
+3𝑛2 + 4𝑛 + 1 = 3(2𝑙 + 1)2 + 4(2𝑙 + 1) + 1 = 3(4𝑙2 + 4𝑙 + 1) + 8𝑙 + 4 + 1
+= 12𝑙2 + 12𝑙 + 3 + 8𝑙 + 5 = 12𝑙2 + 20𝑙 + 8 = 4(3𝑙2 + 5𝑙 + 2)
+Ponieważ 𝑙 ∈ ℤ, więc również 3𝑙2 + 5𝑙 + 2 jest liczbą całkowitą. Zatem iloczyn
+4(3𝑙2 + 5𝑙 + 2) jest podzielny przez 4. To należało wykazać.
+Sposób II
+Liczba 3𝑛2 + 4𝑛 + 1 jest sumą trzech składników. Składnik 4𝑛 jest podzielny przez 4
+dla dowolnej liczby całkowitej 𝑛. Wystarczy zatem udowodnić, że liczba 3𝑛2 + 1 jest
+podzielna przez 4 dla dowolnej nieparzystej liczby 𝑛. Ponieważ liczba 𝑛 jest nieparzysta,
+więc zapisujemy ją w postaci 𝑛 = 2𝑙 + 1, gdzie 𝑙 ∈ ℤ. Wówczas liczba 3𝑛2 + 1 ma
+postać
+3𝑛2 + 1 = 3(2𝑙 + 1)2 + 1 = 3(4𝑙2 + 4𝑙 + 1) + 1 = 12𝑙2 + 12𝑙 + 3 + 1
+= 12𝑙2 + 12𝑙 + 4 = 4(3𝑙2 + 3𝑙 + 1)
+Ponieważ 𝑙 ∈ ℤ, więc również 3𝑙2 + 3𝑙 + 1 jest liczbą całkowitą. Zatem iloczyn
+4(3𝑙2 + 3𝑙 + 1) jest podzielny przez 4. To należało wykazać.
+Sposób III
+Obliczamy wyróżnik trójmianu kwadratowego 3𝑛2 + 4𝑛 + 1 oraz jego pierwiastki
+Δ = 42 − 4 ∙ 3 ∙ 1 = 16 − 12 = 4
+𝑛1 = −4 + 2
+6 = − 2
+6 = − 1
+3
+𝑛2 = −4 − 2
+6 = − 6
+6 = −1
+Następnie zapisujemy liczbę 3𝑛2 + 4𝑛 + 1 w postaci iloczynu
+3𝑛2 + 4𝑛 + 1 = 3 (𝑛 + 1
+3) (𝑛 + 1) = (3𝑛 + 1)(𝑛 + 1)
+Liczba 𝑛 jest nieparzysta, zatem liczby 3𝑛 + 1 oraz 𝑛 + 1 są parzyste (suma dwóch liczb
+nieparzystych). Stąd iloczyn (3𝑛 + 1)(𝑛 + 1) jest liczbą podzielną przez 2 ⋅ 2, czyli przez
+4. To należało wykazać.
+Sposób IV
+Zapisujemy liczbę 3𝑛2 + 4𝑛 + 1 w postaci sumy dwóch liczb podzielnych przez 4
+3𝑛2 + 4𝑛 + 1 = 4𝑛2 − 𝑛2 + 4𝑛 + 1 = 4𝑛2 + 4𝑛 + 1 − 𝑛2 = 4(𝑛2 + 𝑛) + (1 − 𝑛)(1 + 𝑛)
+Liczba 4(𝑛2 + 𝑛) jest podzielna przez 4 dla dowolnej liczby całkowitej 𝑛.
+Liczba 𝑛 jest nieparzysta, zatem liczby 1 − 𝑛 oraz 1 + 𝑛 są parzyste (różnica oraz suma
+dwóch liczb nieparzystych). Stąd iloczyn (1 − 𝑛)(1 + 𝑛) jest liczbą podzielną przez 2 ⋅ 2,
+czyli przez 4. Zatem liczba 3𝑛2 + 4𝑛 + 1 jest podzielna prze 4 jako suma dwóch liczb
+podzielnych przez 4.
+Zasady oceniania rozwiązań zadań
+Sposób V
+Rozważmy dwa przypadki: gdy 𝑛 jest liczbą, która przy dzieleniu przez 4 daje resztę 1,
+oraz gdy 𝑛 jest liczbą, która przy dzieleniu przez 4 daje resztę 3.
+Jeśli 𝑛 jest liczbą, która przy dzieleniu przez 4 daje resztę 1, to możemy ją zapisać
+w postaci 𝑛 = 4𝑙 + 1, gdzie 𝑙 ∈ ℤ. Wówczas badana liczba ma postać
+3𝑛2 + 4𝑛 + 1 = 3(4𝑙 + 1)2 + 4(4𝑙 + 1) + 1 = 3(16𝑙2 + 8𝑙 + 1) + 16𝑙 + 4 + 1
+= 48𝑙2 + 24𝑙 + 3 + 16𝑙 + 5 = 48𝑙2 + 40𝑙 + 8 = 4(12𝑙2 + 10𝑙 + 2)
+Ponieważ 𝑙 ∈ ℤ, więc suma 12𝑙2 + 10𝑙 + 2 jest liczbą całkowitą. Zatem iloczyn
+4(12𝑙2 + 10𝑙 + 2) jest podzielny przez 4.
+Jeśli 𝑛 jest liczbą, która przy dzieleniu przez 4 daje resztę 3, to możemy ją zapisać
+w postaci 𝑛 = 4𝑙 + 3, gdzie 𝑙 ∈ ℤ. Wówczas badana liczba ma postać
+3𝑛2 + 4𝑛 + 1 = 3(4𝑙 + 3)2 + 4(4𝑙 + 3) + 1 = 3(16𝑙2 + 24𝑙 + 9) + 16𝑙 + 12 + 1
+= 48𝑙2 + 72𝑙 + 27 + 16𝑙 + 13 = 48𝑙2 + 88𝑙 + 40 = 4(12𝑙2 + 22𝑙 + 10)
+Ponieważ 𝑙 ∈ ℤ, więc suma 12𝑙2 + 22𝑙 + 10 jest liczbą całkowitą. Zatem iloczyn
+4(12𝑙2 + 22𝑙 + 10) jest podzielny przez 4.

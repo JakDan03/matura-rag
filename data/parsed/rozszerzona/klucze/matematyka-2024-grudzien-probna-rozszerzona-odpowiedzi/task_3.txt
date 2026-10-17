@@ -1,0 +1,30 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=6, 7; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=3]
+Zadanie 3. (0–3)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+X.5) oblicza objętości i pola powierzchni […]
+walca […].
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 18𝜋√2.
+2 pkt – obliczenie promienia walca i wysokości walca: 𝑟 = √6 i ℎ = 3√2.
+1 pkt – zapisanie dwóch równań: 2𝑟 ⋅ ℎ = 12√3 i 2𝜋𝑟2 + 2𝜋𝑟ℎ = 12𝜋(√3 + 1).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Niech 𝑟 będzie promieniem podstawy walca, natomiast ℎ – wysokością walca.
+Z warunków zadania otrzymujemy 2𝑟 ⋅ ℎ = 12√3 oraz 2𝜋𝑟2 + 2𝜋𝑟ℎ = 12𝜋(√3 + 1).
+Z pierwszego z tych równań wyznaczamy ℎ = 6√3
+𝑟 i podstawiamy w miejsce ℎ do
+drugiego z równań, otrzymując
+2𝜋𝑟2 + 2𝜋𝑟 ⋅ 6√3
+𝑟 = 12𝜋(√3 + 1)
+2𝜋𝑟2 + 12√3𝜋 = 12𝜋(√3 + 1)
+𝑟2 = 6
+Zatem 𝑟 = √6 oraz ℎ = 6√3
+√6 = 3√2.
+Obliczamy objętość 𝑉 walca:
+𝑉 = 𝜋𝑟2ℎ = 𝜋 ⋅ 6 ⋅ 3√2 = 18𝜋√2
+Zasady oceniania rozwiązań zadań

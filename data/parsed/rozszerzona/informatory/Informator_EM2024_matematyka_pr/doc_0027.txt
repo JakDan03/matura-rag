@@ -1,0 +1,50 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=27; level=rozszerzony; year=2024; section=ALBO]
+Przykładowe zadania z rozwiązaniami 27
+Zasady oceniania
+dla rozwiązań sposobami 1., 2. oraz 3.
+3 pkt – przeprowadzenie pełnego dowodu.
+2 pkt – poprawne określenie znaku różnicy
+𝑓(𝑥2) − 𝑓(𝑥1) = 3(𝑥2 − 𝑥1)
+(𝑥2 + 1)(𝑥1 + 1) > 0
+ALBO
+– poprawne określenie znaku pochodnej funkcji 𝑓 w przedziale (−1, +∞):
+𝑓′(𝑥) = 3
+(𝑥 + 1)2 > 0
+ALBO
+– przekształcenie nierówności 𝑥2 > 𝑥1 do postaci 3 − 1
+𝑥1+1 < 3 − 1
+𝑥2+1 .
+1 pkt – zapisanie założeń 𝑥1, 𝑥2 ∈ (−1, +∞) i 𝑥2 > 𝑥1 oraz obliczenie różnicy
+𝑓(𝑥2) − 𝑓(𝑥1) = 3(𝑥2 − 𝑥1)
+(𝑥2 + 1)(𝑥1 + 1)
+ALBO
+– zapisanie założenia 𝑥 ∈ (−1, +∞) oraz wyznaczenie pochodnej funkcji 𝑓:
+𝑓′(𝑥) = 3
+(𝑥 + 1)2
+ALBO
+– zapisanie założeń 𝑥1, 𝑥2 ∈ (−1, +∞) i 𝑥2 > 𝑥1 oraz przekształcenie nierówności
+𝑥2 > 𝑥1 do postaci 1
+𝑥2+1 < 1
+𝑥1+1 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+dla rozwiązań sposobami 4. oraz 5.
+3 pkt – przeprowadzenie pełnego dowodu.
+2 pkt – zapisanie, że wykres funkcji 𝑓 można otrzymać z przesunięcia wykresu funkcji
+𝑔(𝑥) = − 3
+𝑥 o wektor [−1, 3]
+ALBO
+– uzasadnienie, że wraz ze wzrostem liczby 𝑥 > −1 wartość ułamka 3
+𝑥+1
+zmniejsza się.
+1 pkt – zapisanie wzoru funkcji 𝑓 w postaci 𝑓(𝑥) = 3 − 3
+𝑥+1 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób 1. (z wykorzystaniem definicji).
+Niech 𝑥1, 𝑥2 ∈ (−1, +∞) oraz 𝑥2 > 𝑥1. Wtedy
+𝑓(𝑥2) − 𝑓(𝑥1) = 3𝑥2
+𝑥2 + 1 − 3𝑥1
+𝑥1 + 1 = 3𝑥2(𝑥1 + 1) − 3𝑥1(𝑥2 + 1)
+(𝑥2 + 1)(𝑥1 + 1) = 3(𝑥2 − 𝑥1)
+(𝑥2 + 1)(𝑥1 + 1)
+Ponieważ 𝑥2 > 𝑥1 , więc różnica 𝑥2 − 𝑥1 jest dodatnia.

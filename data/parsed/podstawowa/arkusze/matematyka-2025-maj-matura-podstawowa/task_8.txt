@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=8; level=podstawowy; year=2025; month=maj; task_id=8]
+Zadanie 8. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Dla każdej liczby rzeczywistej 𝑥 różnej od (−2) oraz różnej od 0 wartość wyrażenia
+𝑥2 + 𝑥
+𝑥2 + 4𝑥 + 4 ⋅ 𝑥 + 2
+𝑥 jest równa wartości wyrażenia
+A. 𝑥 + 2
+4𝑥 + 4 B. 𝑥 + 1
+4𝑥 + 5 C. 𝑥 + 1
+𝑥 + 2 D. 2𝑥
+𝑥 + 2

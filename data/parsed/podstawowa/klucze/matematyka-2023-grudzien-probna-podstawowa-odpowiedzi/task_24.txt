@@ -1,0 +1,79 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=21, 22, 23; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=24]
+Zadanie 24. (0–2)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VIII.1) wyznacza promienie i średnice
+okręgów, długości cięciw okręgów oraz
+odcinków stycznych, w tym
+z wykorzystaniem twierdzenia Pitagorasa;
+VIII.8) korzysta z cech podobieństwa
+trójkątów.
+Zasady oceniania
+2 pkt – poprawna metoda i obliczenie promienia okręgu 𝒪: 𝑟 = 7.
+1 pkt – stwierdzenie i wykazanie, że trójkąty 𝐴𝑃𝐶 oraz 𝐵𝑃𝐷 są podobne
+ALBO
+– stwierdzenie i wykazanie, że trójkąty 𝐴𝑃𝐷 oraz 𝐵𝑃𝐶 są podobne,
+ALBO
+– zapisanie równości, wynikającej z podobieństwa trójkątów lub twierdzenia
+o siecznych, prowadzącej do obliczenia długości odcinka 𝑃𝐴, np.
+|𝑃𝐴|
+|𝑃𝐷| =
+|𝑃𝐶|
+|𝑃𝐵| , |𝑃𝐴| ∙ |𝑃𝐵| = |𝑃𝐶| ∙ |𝑃𝐷|.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Z warunków zadania otrzymujemy:
+• |∢𝐴𝐵𝐷| = |∢𝐴𝐶𝐷| , ponieważ są to kąty wpisane oparte na tym samym łuku 𝐴𝐷,
+• |∢𝐵𝐴𝐶| = |∢𝐵𝐷𝐶| , ponieważ są to kąty wpisane oparte na tym samym łuku 𝐵𝐶,
+• |∢𝐴𝑃𝐶| = |∢𝐵𝑃𝐷| , ponieważ są to kąty wierzchołkowe.
+Zatem trójkąty 𝐴𝐶𝑃 oraz 𝐵𝑃𝐷 są podobne na podstawie cechy 𝐾𝐾𝐾 (kąt – kąt – kąt).
+Z podobieństwa trójkątów 𝐴𝐶𝑃 oraz 𝐵𝑃𝐷 otrzymujemy:
+|𝑃𝐴|
+|𝑃𝐷| = |𝑃𝐶|
+|𝑃𝐵|
+|𝑃𝐴|
+5 = 8
+4
+|𝑃𝐴| = 10
+|𝐴𝐵| = |𝐴𝑃| + |𝑃𝐵| = 10 + 4 = 14
+Zatem promień 𝑟 okręgu 𝒪 jest równy:
+𝑟 = 1
+2 ∙ |𝐴𝐵| = 1
+2 ∙ 14 = 7
+Sposób II
+Z warunków zadania otrzymujemy:
+• |∢𝐴𝐷𝐶| = |∢𝐴𝐵𝐶| , ponieważ są to kąty wpisane oparte na tym samym łuku 𝐴𝐶,
+• |∢𝐵𝐴𝐷| = |∢𝐵𝐶𝐷| , ponieważ są to kąty wpisane oparte na tym samym łuku 𝐵𝐷,
+• |∢𝐴𝑃𝐷| = |∢𝐵𝑃𝐶| , ponieważ są to kąty wierzchołkowe.
+Zatem trójkąty 𝐴𝑃𝐷 oraz 𝐵𝑃𝐶 są podobne na podstawie cechy 𝐾𝐾𝐾 (kąt – kąt – kąt).
+Z podobieństwa trójkątów 𝐴𝑃𝐷 oraz 𝐵𝑃𝐶 otrzymujemy:
+|𝑃𝐴|
+|𝑃𝐶| = |𝑃𝐷|
+|𝑃𝐵|
+|𝑃𝐴|
+8 = 5
+4
+|𝑃𝐴| = 10
+|𝐴𝐵| = |𝐴𝑃| + |𝑃𝐵| = 10 + 4 = 14
+Zatem promień 𝑟 okręgu 𝒪 jest równy:
+𝑟 = 1
+2 ∙ |𝐴𝐵| = 1
+2 ∙ 14 = 7
+Zasady oceniania rozwiązań zadań
+Sposób III
+Korzystamy z twierdzenia o siecznych okręgu:
+|𝑃𝐴| ∙ |𝑃𝐵| = |𝑃𝐶| ∙ |𝑃𝐷|
+|𝑃𝐴| ∙ 4 = 8 ∙ 5
+|𝑃𝐴| = 10
+Obliczamy długość średnicy okręgu 𝐴𝐵:
+|𝐴𝐵| = |𝐴𝑃| + |𝑃𝐵| = 10 + 4 = 14
+Zatem promień 𝑟 okręgu 𝒪 jest równy:
+𝑟 = 1
+2 ∙ |𝐴𝐵| = 1
+2 ∙ 14 = 7

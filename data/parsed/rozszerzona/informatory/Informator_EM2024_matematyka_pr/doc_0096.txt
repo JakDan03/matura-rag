@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=96; level=rozszerzony; year=2024; section=KOMBINATORYKA, RACHUNEK PRAWDOPODOBIEŃSTWA I STATYSTYKA]
+96 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+KOMBINATORYKA, RACHUNEK PRAWDOPODOBIEŃSTWA I STATYSTYKA
+Zadanie 28. (0–4)
+Niech 𝑛 będzie ustaloną liczbą naturalną dodatnią. Ze zbioru 𝕄 = {1; 2; 3; … ; 3𝑛 + 1}
+losujemy jednocześnie trzy liczby. Zdarzenie 𝐴 odpowiada jednoczesnemu wylosowaniu
+ze zbioru 𝕄 trzech liczb, których suma przy dzieleniu przez 3 daje resztę 1.
+Oblicz prawdopodobieństwo zdarzenia 𝑨. Zapisz obliczenia.
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów
+praktycznych i teoretycznych.

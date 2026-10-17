@@ -1,0 +1,21 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=11; level=rozszerzony; year=2023; month=maj; task_id=7]
+Zadanie 7. (0–4)
+Dany jest sześcian 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 o krawędzi
+długości 6. Punkt 𝑆 jest punktem przecięcia
+przekątnych 𝐴𝐻 i 𝐷𝐸 ściany bocznej 𝐴𝐷𝐻𝐸
+(zobacz rysunek).
+Oblicz wysokość trójkąta 𝑺𝑩𝑯 poprowadzoną z punktu 𝑺 na bok 𝑩𝑯 tego trójkąta.
+Zapisz obliczenia.
+𝐶
+𝐺
+𝐻
+𝐹
+𝐸
+𝐴
+𝐵
+𝐷
+𝑆
+6
+7.
+0–1–
+2–3–4

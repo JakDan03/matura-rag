@@ -1,0 +1,61 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=23, 24; level=podstawowy; year=2025; month=czerwiec; task_id=24]
+Zadanie 24. (0–4)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+X.5) oblicza objętości i pola powierzchni
+graniastosłupów […].
+VI.7) wykorzystuje własności ciągów […]
+geometrycznych, do rozwiązywania zadań,
+również osadzonych w kontekście
+praktycznym.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑉 = 27.
+3 pkt – obliczenie długości (lub kwadratu długości) jednej z krawędzi prostopadłościanu, np.
+𝑎 = 3
+4 (lub 𝑎2 = 9
+16
+).
+2 pkt – zapisanie równania z jedną niewiadomą 𝑎, np.
+94,5 = 2 ⋅ (𝑎 ⋅ 4𝑎 + 𝑎 ⋅ 16𝑎 + 4𝑎 ⋅ 16𝑎)
+ALBO
+– zapisanie objętości prostopadłościanu w zależności od jednej zmiennej, np. 𝑉 = 64𝑎3.
+1 pkt – zapisanie długości krawędzi prostopadłościanu wychodzących z jednego wierzchołka
+w zależności od jednej zmiennej, np. 𝑎, 4𝑎, 16𝑎.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający myli ciąg geometryczny z arytmetycznym (przyjmuje, że długości krawędzi
+prostopadłościanu są równe 𝑎, 𝑎 + 4, 𝑎 + 8), to może otrzymać co najwyżej 2 punkty
+za całe rozwiązanie (za – konsekwentnie do popełnionego błędu – obliczenie długości
+jednej z krawędzi prostopadłościanu i za obliczenie objętości prostopadłościanu).
+2. Jeżeli zdający rozwiązuje równanie 94,5 = 𝑎 ⋅ 4𝑎 + 𝑎 ⋅ 16𝑎 + 4𝑎 ⋅ 16𝑎 (tzn. pomija
+czynnik 2 we wzorze na pole powierzchni całkowitej prostopadłościanu), to może
+otrzymać co najwyżej 2 punkty za całe rozwiązanie (za zapisanie długości krawędzi
+prostopadłościanu wychodzących z jednego wierzchołka w zależności od jednej zmiennej
+oraz za – konsekwentnie do popełnionego błędu – obliczenie objętości
+prostopadłościanu).
+3. Jeżeli zdający odgadnie długości krawędzi prostopadłościanu wychodzących z tego
+samego wierzchołka: 3
+4
+, 3, 12, oraz sprawdzi rachunkiem, że spełniają one warunki
+zadania, a następnie obliczy objętość ostrosłupa 𝑉 = 27, to otrzymuje 1 punkt za całe
+rozwiązanie.
+Przykładowe pełne rozwiązanie
+Przyjmijmy oznaczenia jak na rysunku, przy czym niech 𝑎 < 𝑏 < 𝑐.
+Z warunków zadania otrzymujemy: 𝑏 = 4𝑎, 𝑐 = 16𝑎. Stąd i z tego, że pole powierzchni
+całkowitej prostopadłościanu jest równe 94,5, otrzymujemy równanie:
+2 ⋅ (𝑎 ⋅ 4𝑎 + 𝑎 ⋅ 16𝑎 + 4𝑎 ⋅ 16𝑎) = 94,5
+2 ⋅ (4𝑎2 + 16𝑎2 + 64𝑎2) = 94,5
+168𝑎2 = 94,5
+𝑎2 = 0,5625
+𝑎 = 0,75 = 3
+4
+Obliczamy objętość prostopadłościanu:
+𝑉 = 𝑎𝑏𝑐 = 𝑎 ⋅ 4𝑎 ⋅ 16𝑎 = 64𝑎3 = 64 ⋅ (3
+4)
+3
+= 64 ⋅ 27
+64 = 27

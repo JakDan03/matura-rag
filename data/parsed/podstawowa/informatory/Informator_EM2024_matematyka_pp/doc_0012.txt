@@ -1,0 +1,26 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=12; level=podstawowy; year=2024; section=LICZBY RZECZYWISTE, WYRAŻENIA ALGEBRAICZNE,]
+12 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+LICZBY RZECZYWISTE, WYRAŻENIA ALGEBRAICZNE,
+RÓWNANIA I NIERÓWNOŚCI, UKŁADY RÓWNAŃ
+Zadanie 1. (0–1)
+Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.
+Wartość wyrażenia 2024 ∶ (1 − 1
+2025) − (1 − 2025
+2024) ∶ 1
+2024 jest równa
+A. 0 B. 1 C. 2024 D. 2026
+Wymaganie ogólne
+I. Sprawność rachunkowa.
+Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora,
+stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych
+oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach
+rzeczywistych i teoretycznych.
+Wymaganie szczegółowe
+I. Liczby rzeczywiste. Zdający:
+1) wykonuje działania (dodawanie, odejmowanie, mnożenie, dzielenie, potęgowanie,
+pierwiastkowanie, logarytmowanie) w zbiorze liczb rzeczywistych.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+D

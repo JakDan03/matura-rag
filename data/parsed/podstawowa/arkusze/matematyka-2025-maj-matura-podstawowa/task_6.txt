@@ -1,0 +1,27 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=7; level=podstawowy; year=2025; month=maj; task_id=6]
+Zadanie 6. (0–1)
+Dana jest nierówność
+3 − 2(1 − 2𝑥) ≥ 2𝑥 − 17
+Na którym rysunku poprawnie zaznaczono na osi liczbowej zbiór wszystkich liczb
+rzeczywistych spełniających powyższą nierówność? Wybierz właściwą odpowiedź
+spośród podanych.
+A.
+B.
+C.
+D.
+𝑥
+0
+1
+3
+𝑥
+0
+1
+3
+𝑥
+0
+1
+−9
+𝑥
+0
+1
+−9

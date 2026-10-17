@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=29; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=30]
+Zadanie 30. (0–3)
+Suma dwóch nieujemnych liczb rzeczywistych 𝑥 oraz 𝑦 jest równa 12.
+Wyznacz 𝒙 oraz 𝒚, dla których wartość wyrażenia 𝟐𝒙𝟐 + 𝒚𝟐 jest najmniejsza.
+Oblicz tę najmniejszą wartość. Zapisz obliczenia.
+30.
+0–1–
+2–3

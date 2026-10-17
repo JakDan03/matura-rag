@@ -1,0 +1,19 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=26; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=26]
+Zadanie 26. (0–1)
+Dany jest prostopadłościan 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻, w którym podstawy 𝐴𝐵𝐶𝐷 i 𝐸𝐹𝐺𝐻 są
+kwadratami o boku długości 6. Przekątna 𝐵𝐻 tego prostopadłościanu tworzy z przekątną
+𝐴𝐻 ściany bocznej 𝐴𝐷𝐻𝐸 kąt o mierze 30° (zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Przekątna 𝐵𝐻 tego prostopadłościanu ma długość równą
+A. 4√3 B. 6√3 C. 12 D. 12√2
+30°
+𝐴
+𝐵
+𝐶
+𝐷
+𝐺
+𝐻
+𝐸
+𝐹
+6
+6

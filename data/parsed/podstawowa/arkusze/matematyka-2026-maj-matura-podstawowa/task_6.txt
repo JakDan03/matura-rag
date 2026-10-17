@@ -1,0 +1,5 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=6; level=podstawowy; year=2026; month=maj; task_id=6]
+Zadanie 6. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wartość wyrażenia 𝑥2 + 10𝑥 + 25 dla 𝑥 = √2 − 5 jest równa
+A. 2 B. √2 C. 2 − 20√2 D. 62 − 10√2

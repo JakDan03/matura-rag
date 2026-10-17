@@ -1,0 +1,34 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=57; level=rozszerzony; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+Przykładowe zadania z rozwiązaniami 57
+𝑐 = 8 lub 𝑐 = 16
+3
+Badamy monotoniczność funkcji 𝑉. Ponieważ
+𝑉′(𝑐) > 0 dla 𝑐 ∈ [4, 16
+3 ) ∪ (8, 28
+3 ]
+𝑉′(𝑐) < 0 dla 𝑐 ∈ (16
+3 , 8)
+więc
+funkcja 𝑉 jest rosnąca w przedziałach [4, 16
+3 ] oraz [8, 28
+3 ]
+funkcja 𝑉 jest malejąca w przedziale [16
+3 , 8].
+Ponieważ 𝑉(4) = 256, 𝑉(8) = 256 oraz 𝑉 (28
+3 ) ≈ 265, więc najmniejsza możliwa
+objętość prostopadłościanu jest równa 256.
+Zadanie 19. (0–4)
+Na rysunku obok przedstawiono położenie miejscowości
+𝐴, 𝐵 i 𝐶 oraz zaznaczono odległości między nimi.
+O godzinie 9:00 z miejscowości 𝐴 do 𝐶 wyruszył zastęp
+harcerzy „Tropiciele” i przemieszczał się
+z prędkością 4 km/h. O tej samej godzinie
+z miejscowości 𝐵 do 𝐴 wyruszył zastęp harcerzy
+„Korsarze” i przemieszczał się z prędkością 2 km/h.
+Wyznacz godzinę, o której odległość między tymi zastępami harcerzy będzie
+najmniejsza. Zapisz obliczenia.
+𝐴
+𝐵
+𝐶
+15 km
+20 km

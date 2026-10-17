@@ -1,0 +1,23 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=32; level=podstawowy; year=2026; month=czerwiec; task_id=32]
+Zadanie 32. (0–3)
+Dany jest kwadrat 𝐴𝐵𝐶𝐷 o boku długości 4.
+Rozważamy wszystkie trójkąty 𝐷𝐸𝐹 spełniające jednocześnie następujące warunki:
+• punkt 𝐸 leży na boku 𝐴𝐵 kwadratu 𝐴𝐵𝐶𝐷
+• punkt 𝐹 leży na boku 𝐵𝐶 kwadratu 𝐴𝐵𝐶𝐷
+• |𝐶𝐹| = 1
+2 ⋅ |𝐸𝐵| = 𝑥, gdzie 𝑥 ∈ (0, 2) (zobacz rysunek).
+Niech 𝑃(𝑥) oznacza pole trójkąta 𝐷𝐸𝐹 w zależności od długości 𝑥 odcinka 𝐶𝐹.
+Wyznacz wzór funkcji 𝑷 zmiennej 𝒙, gdzie 𝒙 ∈ (𝟎, 𝟐). Oblicz długość 𝒙 odcinka 𝑪𝑭,
+dla której pole trójkąta 𝑫𝑬𝑭 jest najmniejsze. Zapisz obliczenia.
+𝐴
+𝐸
+2𝑥
+𝐵
+𝐹
+𝑥
+𝐶
+𝐷
+4
+32.
+0–1–
+2–3

@@ -1,0 +1,41 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=44; level=podstawowy; year=2024; section=1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno]
+44 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 27.
+Wykres funkcji 𝑦 = 𝑓(𝑥) przedstawiono w kartezjańskim układzie współrzędnych (𝑥, 𝑦)
+na rysunku poniżej.
+Zadanie 27.1. (0–1)
+Zapisz w miejscu wykropkowanym poniżej zbiór rozwiązań nierówności 𝒇(𝒙) > 𝟐.
+................................ ................................ ................................ ................................ .................
+Wymaganie ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno
+matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów,
+tabel.
+Wymaganie szczegółowe
+V. Funkcje. Zdający:
+4) odczytuje z wykresu funkcji: […] przedziały, w których funkcja przyjmuje wartości
+większe (nie mniejsze) lub mniejsze (nie większe) od danej liczby […].
+Zasady oceniania
+1 pkt – rozwiązanie poprawne.
+0 pkt – rozwiązanie niepoprawne lub niepełne albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+[−5, −1) ∪ (7, 8]
+𝑦
+𝑥
+2
+4
+6
+8
+2
+4
+6
+8
+−2
+−4
+−6
+−8
+−2
+−4
+−6
+−8
+𝑦 = 𝑓(𝑥)

@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=24; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=23]
+Zadanie 23. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) odcinek o końcach 𝐴 = (−4, 7) oraz
+𝐵 = (6, −1) jest średnicą okręgu 𝒪.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Okrąg 𝒪 jest określony równaniem
+A. (𝑥 − 1)2 + (𝑦 − 3)2 = 41
+B. (𝑥 − 5)2 + (𝑦 + 4)2 = 41
+C. (𝑥 − 1)2 + (𝑦 + 3)2 = 41
+D. (𝑥 − 5)2 + (𝑦 − 4)2 = 41

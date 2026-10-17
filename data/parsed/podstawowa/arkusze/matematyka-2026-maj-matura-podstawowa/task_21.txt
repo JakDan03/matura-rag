@@ -1,0 +1,14 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=23; level=podstawowy; year=2026; month=maj; task_id=21]
+Zadanie 21. (0–2)
+Dany jest trójkąt 𝐾𝐿𝑀, w którym |𝐾𝑀| = 𝑎 oraz |𝐿𝑀| = 𝑏.
+Dwusieczna kąta 𝐿𝑀𝐾 przecina bok 𝐾𝐿 w punkcie 𝑁 (zobacz rysunek).
+Wykaż, że stosunek pola trójkąta 𝑲𝑵𝑴 do pola trójkąta 𝑵𝑳𝑴 jest równy 𝒂
+𝒃 .
+𝑎
+𝑀
+𝑏
+𝐾
+𝐿
+𝑁
+21.
+0–1–2

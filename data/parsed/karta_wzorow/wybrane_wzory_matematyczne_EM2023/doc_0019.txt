@@ -1,0 +1,48 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=19; year=2023; section=𝑃Δ𝐴𝐵𝐶 = 1]
+Strona 19 z 34
+• Wycinek koła
+Pole 𝑃 wycinka koła o promieniu 𝑟 i kącie środkowym 𝛼
+wyrażonym w stopniach jest równe:
+Długość 𝐿 łuku 𝐴𝐵 wycinka koła o promieniu 𝑟 i kącie
+środkowym 𝛼 wyrażonym w stopniach jest równa:
+• Kąty w okręgu
+Miara kąta wpisanego w okrąg o środku 𝑂 jest równa
+połowie miary kąta środkowego, opartego na tym samym
+łuku.
+W szczególności kąt wpisany oparty na półokręgu jest kątem
+prostym.
+Miary kątów wpisanych w okrąg o środku 𝑂, opartych na tym
+samym łuku, są równe.
+• Twierdzenie o kącie między styczną i cięciwą
+Dany jest okrąg o środku w punkcie 𝑂 i cięciwa 𝐴𝐵 tego okręgu. Prosta 𝐴𝐶 jest
+styczna do tego okręgu w punkcie 𝐴, natomiast punkt 𝑃 leży na tym okręgu i nie należy
+do kąta 𝐶𝐴𝐵. Wtedy:
+przy czym wybieramy ten z kątów środkowych 𝐴𝑂𝐵, który jest oparty na łuku
+znajdującym się wewnątrz kąta 𝐶𝐴𝐵.
+𝑃 = 𝛼
+360° ⋅ 𝜋𝑟2
+𝐿 = 𝛼
+360° ⋅ 2𝜋𝑟
+|∡𝐴𝑃𝐵| = |∡𝐶𝐴𝐵| i |∡𝐴𝑂𝐵| = 2 ⋅ |∡𝐶𝐴𝐵|
+𝛼
+𝐴
+𝐵
+𝑟
+𝛼
+2𝛼
+𝛼
+𝛼
+𝑂
+𝑂
+𝐴
+𝐶
+𝐵
+𝑂
+𝐴
+𝐶
+𝐵
+𝑃
+𝑂
+𝐴
+𝐶
+𝐵

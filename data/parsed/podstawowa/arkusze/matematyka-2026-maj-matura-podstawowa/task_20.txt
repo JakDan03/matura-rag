@@ -1,0 +1,22 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=22; level=podstawowy; year=2026; month=maj; task_id=20]
+Zadanie 20. (0–1)
+Na płaszczyźnie dane są cztery proste: 𝑘, 𝑙, 𝑚 oraz 𝑛. Proste 𝑘 oraz 𝑙 są równoległe.
+Prosta 𝑚 przecina proste 𝑘 oraz 𝑙 w punktach – odpowiednio – 𝐴 oraz 𝐶.
+Prosta 𝑛 przecina proste 𝑘 oraz 𝑙 w punktach – odpowiednio – 𝐷 oraz 𝐵.
+Odcinki 𝐴𝐶 i 𝐵𝐷 przecinają się w punkcie 𝑂.
+Ponadto |𝑂𝐴| = 12, |𝑂𝐵| = 6 oraz |𝑂𝐶| = 8 (zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Odcinek 𝑂𝐷 ma długość
+A. 4 B. 9 C. 10 D. 16
+𝑂
+𝑘
+𝑙
+𝑚
+𝐴
+𝐶
+𝑛
+𝐵
+𝐷
+12
+6
+8

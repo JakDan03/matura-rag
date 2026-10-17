@@ -1,0 +1,147 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=9, 10, 11, 12; level=rozszerzony; year=2026; month=czerwiec; task_id=6]
+Zadanie 6. (0–4)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+XII.R1) oblicza prawdopodobieństwo
+warunkowe i stosuje wzór Bayesa, stosuje
+twierdzenie o prawdopodobieństwie
+całkowitym.
+Zasady oceniania (dla sposobu I)
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 5
+29 .
+3 pkt – obliczenie prawdopodobieństwa zdarzenia 𝐵: 𝑃(𝐵) = 116
+900 .
+2 pkt – zapisanie/obliczenie prawdopodobieństw zdarzeń 𝐴1, 𝐴2 i 𝐴3 oraz
+prawdopodobieństw 𝑃(𝐵|𝐴1), 𝑃(𝐵|𝐴2) i 𝑃(𝐵|𝐴3): 𝑃(𝐴1) = 2
+9 oraz 𝑃(𝐴2) = 3
+9 ,
+oraz 𝑃(𝐴3) = 4
+9 , oraz 𝑃(𝐵|𝐴1) = 10
+100 , oraz 𝑃(𝐵|𝐴2) = 12
+100 , oraz
+𝑃(𝐵|𝐴3) = 15
+100 .
+1 pkt – zapisanie/obliczenie prawdopodobieństw zdarzeń 𝐴1, 𝐴2 i 𝐴3: 𝑃(𝐴1) = 2
+9 oraz
+𝑃(𝐴2) = 3
+9 , oraz 𝑃(𝐴3) = 4
+9
+𝐴
+𝐵
+𝐶
+𝐷
+𝐾
+𝐿
+𝑝
+𝑀
+ℴ1
+ℴ2
+𝛼
+𝛽
+𝛼
+𝛼
+ALBO
+– zapisanie/obliczenie prawdopodobieństw 𝑃(𝐵|𝐴1), 𝑃(𝐵|𝐴2) i 𝑃(𝐵|𝐴3):
+𝑃(𝐵|𝐴1) = 10
+100 oraz 𝑃(𝐵|𝐴2) = 12
+100 , oraz 𝑃(𝐵|𝐴3) = 15
+100 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania (dla sposobu II)
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 5
+29 .
+3 pkt – wyznaczenie prawdopodobieństw zdarzeń 𝐴1 ∩ 𝐵 oraz 𝐵, np. 𝑃(𝐴1 ∩ 𝐵) = 0,2
+9
+oraz 𝑃(𝐵) = 1,16𝑛
+2𝑛 + 3𝑛 + 4𝑛 ,
+ALBO
+– zapisanie liczby bochenków chleba razowego dostarczonego przez piekarnię 𝒫1 oraz
+łącznej liczby bochenków chleba razowego dostarczonego przez piekarnie
+w zależności od jednej zmiennej, np. 0,2𝑛 oraz 1,16𝑛.
+2 pkt – wyznaczenie prawdopodobieństwa zdarzenia 𝐴1 ∩ 𝐵, np.
+𝑃(𝐴1 ∩ 𝐵) = 0,2𝑛
+2𝑛 + 3𝑛 + 4𝑛
+ALBO
+– wyznaczenie prawdopodobieństwa zdarzenia 𝐵, np. 𝑃(𝐵) = 1,16𝑛
+2𝑛 + 3𝑛 + 4𝑛 ,
+ALBO
+– zapisanie liczby bochenków chleba dostarczonego przez poszczególne piekarnie
+oraz liczby bochenków chleba razowego dostarczonego przez piekarnię 𝒫1
+w zależności od jednej zmiennej, np. 2𝑛 oraz 3𝑛 i 4𝑛 oraz 0,2𝑛.
+1 pkt – zapisanie liczby bochenków chleba dostarczonego przez poszczególne piekarnie
+w zależności od jednej zmiennej, np. 2𝑛 oraz 3𝑛 i 4𝑛.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Przyjmijmy następujące oznaczenia:
+𝐴1 – zdarzenie polegające na tym, że losowo wybrany chleb pochodzi z piekarni 𝒫1,
+𝐴2 – zdarzenie polegające na tym, że losowo wybrany chleb pochodzi z piekarni 𝒫2,
+𝐴3 – zdarzenie polegające na tym, że losowo wybrany chleb pochodzi z piekarni 𝒫3,
+𝐵 – zdarzenie polegające na tym, że losowo wybrany chleb jest razowy.
+Wtedy 𝑃(𝐴1) = 2
+9 , 𝑃(𝐴2) = 3
+9 , 𝑃(𝐴3) = 4
+9 oraz 𝑃(𝐵|𝐴1) = 10
+100 , 𝑃(𝐵|𝐴2) = 12
+100
+i 𝑃(𝐵|𝐴3) = 15
+100 .
+Ponieważ zdarzenia 𝐴1, 𝐴2, 𝐴3 są parami rozłączne i 𝐴1 ∪ 𝐴2 ∪ 𝐴3 = Ω oraz
+prawdopodobieństwa tych zdarzeń są dodatnie, więc możemy obliczyć 𝑃(𝐵), stosując wzór
+na prawdopodobieństwo całkowite:
+Zasady oceniania rozwiązań zadań
+𝑃(𝐵) = 𝑃(𝐴1) ⋅ 𝑃(𝐵|𝐴1) + 𝑃(𝐴2) ⋅ 𝑃(𝐵|𝐴2) + 𝑃(𝐴3) ⋅ 𝑃(𝐵|𝐴3) =
+= 2
+9 ⋅ 10
+100 + 3
+9 ⋅ 12
+100 + 4
+9 ⋅ 15
+100 = 116
+900
+Stosujemy wzór Bayesa i obliczamy prawdopodobieństwo tego, że losowo wybrany chleb
+pochodzi z piekarni 𝒫1 , jeżeli wiadomo, że ten chleb jest razowy:
+𝑃(𝐴1|𝐵) = 𝑃(𝐴1) ⋅ 𝑃(𝐵|𝐴1)
+𝑃(𝐵) =
+2
+9 ⋅ 10
+100
+116
+900
+= 5
+29
+Sposób II
+Stosunek liczby bochenków chleba dostarczonego przez piekarnie 𝒫1, 𝒫2 oraz 𝒫3 do tego
+supermarketu jest równy – odpowiednio – 2 ∶ 3 ∶ 4, więc liczby bochenków chleba
+dostarczonego do supermarketu przez piekarnie 𝒫1, 𝒫2 oraz 𝒫3 wynoszą – odpowiednio –
+2𝑛, 3𝑛 oraz 4𝑛 (przy pewnym 𝑛 całkowitym dodatnim).
+Przyjmijmy następujące oznaczenia:
+𝐴1 – zdarzenie polegające na tym, że wybrany losowo chleb pochodzi z piekarni 𝒫1,
+𝐵 – zdarzenie polegające na tym, że wybrany losowo chleb jest razowy.
+Z warunków zadania wynika, że liczba bochenków chleba razowego dostarczonego
+z piekarni:
+• 𝒫1 jest równa 0,1 ⋅ 2𝑛 = 0,2𝑛
+• 𝒫2 jest równa 0,12 ⋅ 3𝑛 = 0,36𝑛
+• 𝒫3 jest równa 0,15 ⋅ 4𝑛 = 0,6𝑛.
+Zatem łączna liczba bochenków chleba razowego dostarczonego do supermarketu jest
+równa 0,2𝑛 + 0,36𝑛 + 0,6𝑛 = 1,16𝑛.
+Dlatego 𝑃(𝐵) = 1,16𝑛
+2𝑛 + 3𝑛 + 4𝑛 = 29
+225 oraz 𝑃(𝐴1 ∩ 𝐵) = 0,2𝑛
+2𝑛 + 3𝑛 + 4𝑛 = 1
+45 .
+Obliczamy prawdopodobieństwo zdarzenia polegającego na tym, że losowo wybrany chleb
+pochodzi z piekarni 𝒫1, jeśli wiadomo, że ten chleb jest razowy:
+𝑃(𝐴1|𝐵) = 𝑃(𝐴1 ∩ 𝐵)
+𝑃(𝐵) =
+1
+45
+29
+225
+= 5
+29

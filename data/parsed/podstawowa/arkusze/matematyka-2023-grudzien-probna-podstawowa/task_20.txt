@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=19; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=20]
+Zadanie 20. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dany jest okrąg 𝒪 o środku w punkcie
+𝑆 = (4, −2). Okrąg 𝒪 jest styczny do osi 𝑂𝑥 układu współrzędnych.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Okrąg 𝒪 jest określony równaniem
+A. (𝑥 − 4)2 + (𝑦 + 2)2 = 4 B. (𝑥 − 4)2 + (𝑦 + 2)2 = 2
+C. (𝑥 + 4)2 + (𝑦 − 2)2 = 4 D. (𝑥 + 4)2 + (𝑦 − 2)2 = 2

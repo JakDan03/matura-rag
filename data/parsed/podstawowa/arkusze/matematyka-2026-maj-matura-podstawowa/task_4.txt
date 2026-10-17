@@ -1,0 +1,5 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=5; level=podstawowy; year=2026; month=maj; task_id=4]
+Zadanie 4. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba log8 4 − log8 32 jest równa
+A. (−2) B. (−1) C. 1 D. 2

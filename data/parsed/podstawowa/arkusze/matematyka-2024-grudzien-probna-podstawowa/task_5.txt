@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=6; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=5]
+Zadanie 5. (0–1)
+Pani Aniela wpłaciła do banku kwotę 60 000 zł na lokatę dwuletnią. Po każdym rocznym
+okresie oszczędzania bank doliczał odsetki w wysokości 𝑝% w skali roku od kwoty
+bieżącego kapitału znajdującego się na lokacie – zgodnie z procentem składanym.
+Na koniec okresu oszczędzania kwota na tej lokacie była równa 67 925,76 zł wraz
+z odsetkami (bez uwzględniania podatków).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Oprocentowanie lokaty w skali roku było równe
+A. 6% B. 6,4% C. 6,5% D. 7%

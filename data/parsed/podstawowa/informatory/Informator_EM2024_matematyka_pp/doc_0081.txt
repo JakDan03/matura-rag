@@ -1,0 +1,65 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=81; level=podstawowy; year=2024; section=𝑃𝐴𝐵𝐸]
+Przykładowe zadania z rozwiązaniami 81
+Zasady oceniania
+dla rozwiązania sposobem 1.
+3 pkt – poprawna metoda obliczenia pola trójkąta 𝐷𝐵𝐸 oraz podanie wyniku: 𝑃𝐷𝐵𝐸 = 3.
+2 pkt – wykazanie oraz zapisanie, że 𝑃𝐷𝐵𝐸
+𝑃𝐴𝐵𝐸
+= 3
+4 oraz 𝑃𝐴𝐵𝐸
+𝑃𝐴𝐵𝐶
+= 1
+5
+.
+1 pkt – wykazanie i zapisanie, że stosunek pól trójkątów 𝐷𝐵𝐸 i 𝐴𝐵𝐸 jest równy
+stosunkowi długości ich podstaw 𝐷𝐵 i 𝐴𝐵: 𝑃𝐷𝐵𝐸
+𝑃𝐴𝐵𝐸
+= 3
+4
+ALBO
+– wykazanie i zapisanie, że stosunek pól trójkątów 𝐴𝐵𝐸 i 𝐴𝐵𝐶 jest równy
+stosunkowi długości ich podstaw 𝐵𝐸 i 𝐵𝐶: 𝑃𝐴𝐵𝐸
+𝑃𝐴𝐵𝐶
+= 1
+5
+.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania
+dla rozwiązania sposobem 2.
+3 pkt – poprawna metoda obliczenia pola trójkąta 𝐷𝐵𝐸 oraz podanie wyniku: 𝑃𝐷𝐵𝐸 = 3.
+2 pkt – zapisanie zależności 1
+2 ⋅ |𝐴𝐵| ⋅ |𝐵𝐶| ⋅ sin 𝛽 = 20 oraz wzoru na pole trójkąta 𝐷𝐵𝐸:
+𝑃𝐷𝐵𝐸 = 1
+2 ⋅ (3
+4 |𝐴𝐵|) ⋅ (1
+5 |𝐵𝐶|) ⋅ sin 𝛽.
+1 pkt – zapisanie zależności 1
+2 ⋅ |𝐴𝐵| ⋅ |𝐵𝐶| ⋅ sin 𝛽 = 20
+ALBO
+– zastosowanie wzoru na pole trójkąta 𝐷𝐵𝐸 z sinusem kąta 𝐷𝐵𝐸 oraz zapisanie /
+zastosowanie związków |𝐷𝐵| = 3
+4 |𝐴𝐵| oraz |𝐵𝐸| = 1
+5 |𝐵𝐶|.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania
+dla rozwiązania sposobem 3.
+3 pkt – poprawna metoda obliczenia pola trójkąta 𝐷𝐵𝐸 oraz podanie wyniku: 𝑃𝐷𝐵𝐸 = 3.
+2 pkt – zapisanie zależności 1
+2 ⋅ |𝐴𝐵| ⋅ ℎ𝐶 = 20 oraz wzoru na pole trójkąta:
+𝑃𝐷𝐵𝐸 = 3
+8 ⋅ |𝐴𝐵| ⋅ ℎ𝐸 (lub równoważnego) oraz zapisanie zależności: ℎ𝐸
+ℎ𝐶
+= 1
+5
+wynikającej z podobieństwa trójkątów 𝐶1𝐵𝐶 oraz 𝐸1𝐵𝐸.
+1 pkt – zapisanie zależności 1
+2 ⋅ |𝐴𝐵| ⋅ ℎ𝐶 = 20 oraz wzoru na pole trójkąta:
+𝑃𝐷𝐵𝐸 = 3
+8 ⋅ |𝐴𝐵| ⋅ ℎ𝐸 (lub równoważnego)
+ALBO
+– zapisanie zależności: ℎ𝐸
+ℎ𝐶
+= 1
+5 wynikającej z podobieństwa trójkątów 𝐶1𝐵𝐶 oraz
+𝐸1𝐵𝐸.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.

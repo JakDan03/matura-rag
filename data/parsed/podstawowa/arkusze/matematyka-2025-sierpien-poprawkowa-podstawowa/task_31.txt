@@ -1,0 +1,15 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=29; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=31]
+Zadanie 31. (0–2)
+Hotel ma do dyspozycji gości 80 pokoi jednoosobowych.
+Właściciel hotelu przeanalizował wpływ ceny za dobę hotelową na liczbę wynajętych pokoi
+i stwierdził, że:
+• przy wyjściowej cenie wynoszącej 120 zł za jedną dobę hotelową wszystkie pokoje są
+wynajęte
+• każdy wzrost ceny za dobę hotelową o 5 zł skutkuje spadkiem liczby wynajmowanych
+pokoi o 1.
+Przyjmijmy, że dobowy przychód 𝑃 hotelu z wynajmowania pokoi, w zależności od
+podwyżki ceny wyjściowej za dobę hotelową o 5𝑥 złotych, opisuje funkcja
+𝑃(𝑥) = (80 − 𝑥)(120 + 5𝑥)
+gdzie 𝑥 jest liczbą całkowitą spełniającą warunki 𝑥 ≥ 0 i 𝑥 ≤ 80.
+Oblicz, jaka powinna być cena wynajęcia jednoosobowego pokoju (za dobę hotelową),
+aby dobowy przychód hotelu z wynajmowania pokoi był największy. Zapisz obliczenia.

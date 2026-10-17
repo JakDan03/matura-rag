@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=16; level=podstawowy; year=2024; month=maj; task_id=16]
+Zadanie 16. (0–1)
+Trzywyrazowy ciąg (12, 6, 2𝑚 − 1) jest geometryczny.
+Dokończ zdanie. Wybierz odpowiedź A albo B oraz odpowiedź 1., 2. albo 3.
+Ten ciąg jest
+rosnący
+oraz
+1. 𝑚 = 1
+2A.
+2. 𝑚 = 2
+malejący B. 3. 𝑚 = 3

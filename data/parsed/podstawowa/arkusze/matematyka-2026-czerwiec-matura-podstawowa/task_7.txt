@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=8; level=podstawowy; year=2026; month=czerwiec; task_id=7]
+Zadanie 7. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Zbiorem wszystkich rozwiązań nierówności
+−2(𝑥 + 3)(𝑥 − 2) > 0
+jest przedział
+A. [−3, 2] B. (−3, 2) C. [−2, 3] D. (−2, 3)

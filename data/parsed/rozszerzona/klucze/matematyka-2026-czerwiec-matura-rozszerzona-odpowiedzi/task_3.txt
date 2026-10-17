@@ -1,0 +1,42 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=4, 5; level=rozszerzony; year=2026; month=czerwiec; task_id=3]
+Zadanie 3. (0–3)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+XIII.R4) oblicza pochodną funkcji potęgowej
+o wykładniku rzeczywistym oraz oblicza
+pochodną, korzystając z twierdzeń
+o pochodnej sumy, różnicy, iloczynu, ilorazu
+i funkcji złożonej.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑎 = 2.
+2 pkt – zapisanie równania z jedną niewiadomą 𝑎, np.
+(2𝑎2 + 1)(𝑎 − 1) − (𝑎3 + 𝑎) ⋅ 1
+(𝑎 − 1)2 = − 1
+2 𝑎
+1 pkt – wyznaczenie pochodnej funkcji 𝑓, np. 𝑓′(𝑥) =
+(2𝑎𝑥 + 1)(𝑥 − 1) − (𝑎𝑥2 + 𝑥) ⋅ 1
+(𝑥 − 1)2 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Wyznaczamy pochodną funkcji 𝑓:
+𝑓′(𝑥) =
+(2𝑎𝑥 + 1)(𝑥 − 1) − (𝑎𝑥2 + 𝑥) ⋅ 1
+(𝑥 − 1)2 = 𝑎𝑥2 − 2𝑎𝑥 − 1
+(𝑥 − 1)2
+dla każdego 𝑥 ≠ 1.
+Stąd i z warunku 𝑓′(𝑎) = − 1
+2 𝑎 otrzymujemy:
+𝑎3 − 2𝑎2 − 1
+(𝑎 − 1)2 = − 1
+2 𝑎 ∧ 𝑎 ≠ 1
+2𝑎3 − 4𝑎2 − 2 = −𝑎(𝑎 − 1)2 ∧ 𝑎 ≠ 1
+3𝑎3 − 6𝑎2 + 𝑎 − 2 = 0 ∧ 𝑎 ≠ 1
+3𝑎2(𝑎 − 2) + (𝑎 − 2) = 0 ∧ 𝑎 ≠ 1
+(3𝑎2 + 1)(𝑎 − 2) = 0 ∧ 𝑎 ≠ 1
+𝑎 = 2
+Zasady oceniania rozwiązań zadań

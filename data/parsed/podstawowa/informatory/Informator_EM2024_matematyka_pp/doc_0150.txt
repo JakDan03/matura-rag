@@ -1,0 +1,26 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=150; level=podstawowy; year=2024; section=ALBO]
+150 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 40. (0–2)
+W trójkącie 𝐴𝐵𝐶 dane są długości dwóch boków |𝐴𝐵| = 12, |𝐵𝐶| = 8 oraz miara kąta
+|∡𝐴𝐵𝐶| = 60°. Punkt 𝐷 jest środkiem boku 𝐵𝐶. Zobacz rysunek poniżej.
+Oblicz długość środkowej tego trójkąta, poprowadzonej z wierzchołka 𝑨.
+Zasady oceniania
+dla rozwiązania sposobem 1.
+2 pkt – zapisanie poprawnego równania wynikającego z twierdzenia cosinusów dla trójkąta
+𝐴𝐵𝐷 oraz poprawne obliczenie długości środkowej: |𝐴𝐷| = 4√7.
+1 pkt – zapisanie równania wynikającego z twierdzenia cosinusów dla trójkąta 𝐴𝐵𝐷, np.:
+|𝐴𝐷|2 = |𝐴𝐵|2 + |𝐵𝐷|2 − 2 ⋅ |𝐴𝐵| ⋅ |𝐵𝐷| ⋅ cos |∡𝐴𝐵𝐶|
+|𝐴𝐷|2 = 122 + 42 − 2 ⋅ 12 ⋅ 4 ⋅ cos 60°
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania
+dla rozwiązania sposobem 2.
+2 pkt – poprawne zastosowanie twierdzenia Pitagorasa dla trójkąta 𝐴𝐺𝐷 oraz poprawne
+obliczenie długości środkowej |𝐴𝐷| = 4√7.
+1 pkt – wyodrębnienie trójkąta prostokątnego 𝐴𝐺𝐷 oraz trójkąta 𝐺𝐵𝐷 o kątach: 30°, 60°,
+90°, łącznie z poprawnym określeniem długości jego boków: |𝐺𝐵| = 2, |𝐷𝐺| = 2√3.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+𝐴
+𝐵
+𝐶
+60°
+𝐷

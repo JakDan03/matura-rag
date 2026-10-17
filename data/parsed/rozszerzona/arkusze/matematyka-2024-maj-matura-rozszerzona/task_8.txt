@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=12; level=rozszerzony; year=2024; month=maj; task_id=8]
+Zadanie 8. (0–4)
+Dany jest trójkąt 𝐴𝐵𝐶, który nie jest równoramienny. W tym trójkącie miara kąta 𝐴𝐵𝐶 jest
+dwa razy większa od miary kąta 𝐵𝐴𝐶.
+Wykaż, że długości boków tego trójkąta spełniają warunek
+|𝑨𝑪|𝟐 = |𝑩𝑪|𝟐 + |𝑨𝑩| ⋅ |𝑩𝑪|
+8.
+0–1–
+2–3–4

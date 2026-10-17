@@ -1,0 +1,27 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=116; level=rozszerzony; year=2024; section=|𝐷𝐾| + |𝐾𝐴| = |𝐷′𝐾| + |𝐾𝐴| ≥ |𝐷′𝐴| = |𝐷𝐾′| + |𝐾′𝐴|]
+116 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Zatem
+𝑑 = 𝑓(𝑥) + 𝑓(𝑦) + 300 ≥ 300(1 + √3)
+przy czym równość zachodzi tylko wtedy, gdy 𝑥 = 𝑦 = 50√3. Najkrótsza sieć dróg ma
+zatem długość 300(1 + √3) km i składa się z 5 odcinków: 𝐴𝐾′, 𝐾′𝐿′, 𝐿′𝐶, 𝐵𝐿′ i 𝐷𝐾′.
+Węzeł 𝐾′ jest równo oddalony (w odległości 100√3 km) od miast 𝐴 i 𝐷, natomiast
+węzeł 𝐿′ jest równo oddalony (w odległości 100√3 km) od miast 𝐵 i 𝐶 (zobacz
+rysunek 3.).
+Zauważmy jeszcze, że w przypadku sieci dróg z jednym węzłem, najkrótsza taka sieć będzie
+miała długość równą 600√2 km (i węzeł w środku kwadratu 𝐴𝐵𝐶𝐷). Będzie więc dłuższa
+niż sieć z dwoma węzłami.
+Zadanie 19. (0–4)
+Na rysunku obok przedstawiono położenie miejscowości
+𝐴, 𝐵 i 𝐶 oraz zaznaczono odległości między nimi.
+O godzinie 9:00 z miejscowości 𝐴 do 𝐶 wyruszyli
+harcerze z zastępu „Tropiciele” i maszerowali
+z prędkością 4 km/h. O tej samej godzinie
+z miejscowości 𝐵 do 𝐴 wyruszyli harcerze z zastępu
+„Korsarze” i maszerowali z prędkością 2 km/h.
+Wyznacz godzinę, o której odległość między tymi zastępami harcerzy będzie
+najmniejsza. Zapisz obliczenia.
+𝐴
+𝐵
+𝐶
+15 km
+20 km

@@ -1,0 +1,22 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=19; level=podstawowy; year=2026; month=czerwiec; task_id=19]
+Zadanie 19. (0–1)
+Ramiona kąta o wierzchołku w punkcie 𝐴 przecięto dwiema prostymi równoległymi 𝑘 oraz 𝑙.
+Prosta 𝑘 przecina ramiona tego kąta w punktach 𝐵 oraz 𝐶.
+Prosta 𝑙 przecina ramiona tego kąta w punktach 𝐷 oraz 𝐸.
+Punkty 𝐵 oraz 𝐷 leżą na jednym ramieniu tego kąta, a punkty 𝐶 oraz 𝐸 leżą na drugim
+ramieniu tego kąta. Ponadto |𝐴𝐵| = 6, |𝐵𝐶| = 4 oraz |𝐵𝐷| = 2 (zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Odcinek 𝐷𝐸 ma długość
+A. 8
+3 B. 16
+3 C. 6 D. 8
+𝐴
+𝐵
+𝐷
+𝐸
+𝐶
+6
+2
+4
+𝑘
+𝑙

@@ -1,0 +1,18 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona.pdf; typ=exam_paper; strony=22; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=12]
+Zadanie 12. (0–5)
+W trójkącie ostrokątnym 𝐴𝐵𝐶 miara kąta 𝐵𝐴𝐶 jest dwa razy większa od miary kąta 𝐴𝐵𝐶.
+Punkt 𝐷 jest środkiem boku 𝐴𝐵. Niech 𝛼 oznacza miarę kąta 𝐴𝐵𝐶, natomiast 𝛽 – miarę
+kąta 𝐴𝐷𝐶 (zobacz rysunek).
+Oblicz 𝐭𝐠 𝜷
+𝐬𝐢𝐧(𝟐𝜶) . Zapisz obliczenia.
+12.
+0–1–
+2–3–
+4–5
+𝐴
+𝐵
+𝐶
+𝐷
+𝛼
+2𝛼
+𝛽

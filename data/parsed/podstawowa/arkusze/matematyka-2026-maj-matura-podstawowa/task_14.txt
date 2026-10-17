@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=16; level=podstawowy; year=2026; month=maj; task_id=14]
+Zadanie 14. (0–4)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) wykresem funkcji kwadratowej 𝑓 jest
+parabola o wierzchołku w punkcie 𝑊 = (3, −2).
+Funkcja kwadratowa 𝑔 jest określona za pomocą funkcji 𝑓 wzorem 𝑔(𝑥) = 𝑓(𝑥 + 1).
+Jednym z miejsc zerowych funkcji 𝑔 jest liczba 0.
+Wyznacz wzór funkcji 𝒇 w postaci ogólnej. Zapisz obliczenia.
+14.
+0–1–
+2–3–4

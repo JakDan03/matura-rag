@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=12; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=12.2]
+Zadanie 12.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) wykresem funkcji kwadratowej 𝑓 jest
+parabola, której wierzchołkiem jest punkt (3, 0). Ta parabola przechodzi przez punkt
+o współrzędnych (0, −9).
+Zadanie 12.2. (0–2)
+Uzupełnij zdanie. Wybierz dwie właściwe odpowiedzi spośród oznaczonych literami
+A–F i wpisz te litery w wykropkowanych miejscach.
+Wzór funkcji 𝑓 zapisano w odpowiedziach oznaczonych literami: ……… oraz ……… .
+A. 𝑓(𝑥) = −𝑥2 − 9
+B. 𝑓(𝑥) = −(𝑥 − 3)2
+C. 𝑓(𝑥) = −(𝑥 + 3)2
+D. 𝑓(𝑥) = −𝑥2 + 6𝑥 − 9
+E. 𝑓(𝑥) = −𝑥2 − 6𝑥 + 9
+F. 𝑓(𝑥) = −𝑥2 − 6𝑥 − 9
+12.2.
+0–1–2

@@ -1,0 +1,31 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=13; level=podstawowy; year=2024; section=1. Pensja pana X jest wyższa od pensji pana Y]
+Przykładowe zadania z rozwiązaniami 13
+Zadanie 2. (0–2)
+Pensja pana X jest o 50% wyższa od średniej krajowej, a pensja pana Y jest o 40%
+niższa od średniej krajowej.
+Dokończ zdania. Zaznacz odpowiedź spośród A–D oraz odpowiedź spośród E–H.
+1. Pensja pana X jest wyższa od pensji pana Y
+A. o 40% pensji pana Y.
+B. o 90% pensji pana Y.
+C. o 150% pensji pana Y.
+D. o 275% pensji pana Y.
+2. Pensja pana Y jest niższa od pensji pana X
+E. o 60% pensji pana X.
+F. o 73% pensji pana X.
+G. o 90% pensji pana X.
+H. o 150% pensji pana X.
+Wymaganie ogólne
+I. Sprawność rachunkowa.
+Wykonywanie obliczeń na liczbach rzeczywistych […] przy rozwiązywaniu problemów
+w kontekstach rzeczywistych i teoretycznych.
+Wymaganie szczegółowe
+I. Liczby rzeczywiste. Zdający:
+1) wykonuje działania (dodawanie, odejmowanie, mnożenie, dzielenie, potęgowanie,
+pierwiastkowanie, logarytmowanie) w zbiorze liczb rzeczywistych.
+Zasady oceniania
+2 pkt – poprawne dokończenia dwóch zdań.
+1 pkt – poprawne dokończenie jednego zdania.
+0 pkt – odpowiedź całkowicie niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+1. C
+2. E

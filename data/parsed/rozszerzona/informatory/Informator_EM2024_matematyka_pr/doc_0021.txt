@@ -1,0 +1,24 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=21; level=rozszerzony; year=2024; section=1. Interpretowanie i operowanie informacjami przedstawionymi w tekście […].]
+Przykładowe zadania z rozwiązaniami 21
+Przykładowe pełne rozwiązanie
+Funkcję 𝑓 przedstawiamy w postaci:
+𝑓(𝑥) = −3𝑥 + 41
+𝑥 − 13 = −3(𝑥 − 13) + 2
+𝑥 − 13 = −3 + 2
+𝑥 − 13
+Wyznaczamy punkty kratowe.
+Wartość funkcji 𝑓 będzie liczbą całkowitą tylko wtedy, gdy 2
+𝑥–13 ∈ ℤ.
+Szukamy całkowitych wartości 𝑥 (różnych od 13) takich, dla których (𝑥 − 13) jest
+dzielnikiem 2. To prowadzi do następujących czterech przypadków:
+• 𝑥 − 13 = −2, co daje 𝑥 = 11 i 𝑓(11) = −3 − 1 = −4 ∈ ℤ
+• 𝑥 − 13 = −1, co daje 𝑥 = 12 i 𝑓(12) = −3 − 2 = −5 ∈ ℤ
+• 𝑥 − 13 = 1, co daje 𝑥 = 14 i 𝑓(14) = −3 + 2 = −1 ∈ ℤ
+• 𝑥 − 13 = 2, co daje 𝑥 = 15 i 𝑓(15) = −3 + 1 = −2 ∈ ℤ.
+Do wykresu funkcji 𝑓 należą cztery punkty kratowe o współrzędnych: (11, −4), (12, −5),
+(14, −1), (15, −2).
+Zadanie 5. (0–3)
+Wielomian 𝑊 jest określony wzorem 𝑊(𝑥) = (𝑥 − 1)(𝑥2 − 𝑚𝑥 + 𝑚 − 1) dla
+każdego 𝑥 ∈ ℝ.
+Wyznacz wszystkie wartości parametru 𝒎, dla których wielomian 𝑾 ma dokładnie
+jeden pierwiastek rzeczywisty. Zapisz obliczenia.

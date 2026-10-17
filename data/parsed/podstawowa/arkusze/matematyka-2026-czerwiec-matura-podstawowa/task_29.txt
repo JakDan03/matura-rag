@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=28; level=podstawowy; year=2026; month=czerwiec; task_id=29]
+Zadanie 29. (0–1)
+W pewnej miejscowości zlokalizowane są dwie szkoły. W pierwszej z nich jest trzy razy
+więcej uczniów niż w drugiej. Średni wiek uczniów w pierwszej szkole to 9 lat, a średni wiek
+uczniów w drugiej szkole to 13 lat.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Średni wiek wszystkich uczniów obu szkół, wyrażony w latach, jest równy
+A. 10 B. 10,5 C. 11 D. 11,5

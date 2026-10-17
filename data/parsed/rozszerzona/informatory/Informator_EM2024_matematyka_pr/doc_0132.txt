@@ -1,0 +1,29 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=132; level=rozszerzony; year=2024; section=ALBO]
+132 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Powierzchnia boczna stożka po rozwinięciu jest wycinkiem koła o promieniu długości 𝑙.
+Wyznaczymy miarę 𝛽 kąta środkowego tego wycinka.
+Ze wzorów na pole powierzchni bocznej stożka oraz pole wycinka koła otrzymujemy
+𝜋 ⋅ 𝑟 ⋅ 𝑙 = 𝛽
+2𝜋 ⋅ 𝜋 ⋅ 𝑙2
+𝛽 = 2𝜋 ⋅ 𝑟
+𝑙
+Zatem
+|∡𝐵𝑆𝑃| = 1
+2 𝛽 = 𝜋 ⋅ 𝑟
+𝑙
+Kąt rozwarcia stożka jest równy 𝛼, więc 𝑟
+𝑙 = sin 𝛼
+2 (zobacz rysunek 2.), co po podstawieniu
+do poprzedniego równania daje
+|∡𝐵𝑆𝑃| = 𝜋 ⋅ sin 𝛼
+2
+Wyrazimy długości odcinków 𝐵𝑆 oraz 𝑃𝑆 w zależności od danych podanych w treści
+zadania.
+Rozważmy przekrój osiowy stożka zawierający punkty 𝐵, 𝑃 oraz 𝑆 (zobacz rysunek 2.).
+Punkt 𝑆′ na rysunku 2. jest rzutem prostokątnym punktu 𝑆 na podstawę stożka, natomiast
+punkt 𝑄 – punktem przecięcia tworzącej 𝑆𝐵 z podstawą stożka.
+𝑆
+𝐵
+𝑃
+𝑑
+Rysunek 1.

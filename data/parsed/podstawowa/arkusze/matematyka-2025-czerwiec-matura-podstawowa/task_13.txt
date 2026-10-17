@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=12; level=podstawowy; year=2025; month=czerwiec; task_id=13]
+Zadanie 13. (0–3)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) wykres funkcji kwadratowej 𝑓 przechodzi
+przez punkt (2, 15). Osią symetrii tego wykresu jest prosta o równaniu 𝑥 = −1.
+Jednym z miejsc zerowych funkcji 𝑓 jest liczba 1.
+Wyznacz wzór funkcji 𝒇 w postaci kanonicznej. Zapisz obliczenia.

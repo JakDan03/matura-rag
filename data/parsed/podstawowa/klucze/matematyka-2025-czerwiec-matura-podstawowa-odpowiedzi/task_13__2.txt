@@ -1,0 +1,5 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=32; level=podstawowy; year=2025; month=czerwiec; task_id=13]
+Zadanie 13.
+1 pkt – zapisanie wzoru funkcji 𝑓 w postaci 𝑓(𝑥) = 𝑎(𝑥 − 𝑝)2 + 𝑞 oraz zapisanie 𝑝 = −1
+ALBO
+– wyznaczenie drugiego miejsca zerowego funkcji 𝑓: 𝑥1 = −3.

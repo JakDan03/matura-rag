@@ -1,0 +1,38 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=68; level=rozszerzony; year=2024; section=ALBO]
+68 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Zasady oceniania
+dla rozwiązań sposobami 1. oraz 2.
+5 pkt – obliczenie miary kąta 𝐵𝑆𝑂 (w zaokrągleniu do 1°) oraz obliczenie stosunku pola
+przekroju do pola podstawy ostrosłupa.
+4 pkt – obliczenie wartości cosinusa kąta 𝐵𝑆𝑂 oraz stosunku pola przekroju do pola
+podstawy ostrosłupa
+ALBO
+– wyznaczenie miary kąta 𝐵𝑆𝑂.
+3 pkt – obliczenie stosunku pola przekroju do pola podstawy ostrosłupa
+ALBO
+– obliczenie wartości cosinusa kąta 𝐵𝑆𝑂.
+2 pkt – wyznaczenie długości odcinka 𝑂𝑆 w zależności od długości krawędzi podstawy.
+1 pkt – wyznaczenie długości krawędzi bocznej w zależności od długości krawędzi podstawy.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+dla rozwiązania sposobem 3.
+5 pkt – obliczenie miary kąta 𝐵𝑆𝑂 (w zaokrągleniu do 1°) oraz obliczenie stosunku pola
+przekroju do pola podstawy ostrosłupa.
+4 pkt – obliczenie cosinusa kąta 𝑂𝐸𝐵 lub 𝐹𝐵𝑆.
+3 pkt – obliczenie stosunku pola przekroju do pola podstawy ostrosłupa.
+2 pkt – wyznaczenie długości odcinków 𝑆𝐹 i 𝑂𝐹.
+1 pkt – wyznaczenie długości krawędzi bocznej w zależności od długości krawędzi podstawy.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób 1.
+Przyjmijmy oznaczenia jak na rysunku 1.
+Rysunek 1.
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸
+𝑆
+𝑂
+α
+𝑎
+𝑏

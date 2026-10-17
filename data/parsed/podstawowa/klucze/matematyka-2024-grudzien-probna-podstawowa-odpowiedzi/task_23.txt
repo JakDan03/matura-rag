@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=22, 23; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=23]
+Zadanie 23. (0–1)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+IX.4) posługuje się równaniem okręgu
+(𝑥 − 𝑎)2 + (𝑦 − 𝑏)2 = 𝑟2.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C
+Zasady oceniania rozwiązań zadań

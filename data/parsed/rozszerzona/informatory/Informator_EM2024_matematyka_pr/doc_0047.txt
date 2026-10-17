@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=47; level=rozszerzony; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+Przykładowe zadania z rozwiązaniami 47
+Wymagania ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+IV. Rozumowanie i argumentacja.
+2. Dostrzeganie regularności, podobieństw oraz analogii, formułowanie wniosków na
+ich podstawie i uzasadnianie ich poprawności.
+Wymaganie szczegółowe
+VII. Trygonometria. Zdający:
+6R) rozwiązuje równania trygonometryczne.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik.
+2 pkt – rozwiązanie równania 4 cos2 𝑥 − 4 cos 𝑥 − 3 = 0.
+1 pkt – zastosowanie wzoru na cosinus podwojonego kąta.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.

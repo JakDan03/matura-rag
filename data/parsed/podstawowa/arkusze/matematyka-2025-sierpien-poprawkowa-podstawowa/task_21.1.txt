@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=19; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=21.1]
+Zadanie 21.
+Punkty 𝐴, 𝐵, 𝐶 oraz 𝐷 leżą na okręgu o środku w punkcie 𝑆 i o promieniu 36.
+Punkt 𝑆 leży na odcinku 𝐵𝐷. Kąt 𝐵𝐷𝐴 ma miarę 40°, a kąt 𝐷𝐵𝐶 ma miarę 65°
+(zobacz rysunek).
+Zadanie 21.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Miara kąta ostrego 𝐵𝑆𝐴 jest równa
+A. 20° B. 40° C. 50° D. 80°

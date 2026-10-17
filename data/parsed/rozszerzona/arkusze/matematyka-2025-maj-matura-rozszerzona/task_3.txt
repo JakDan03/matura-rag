@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=6; level=rozszerzony; year=2025; month=maj; task_id=3]
+Zadanie 3. (0–3)
+W trójkącie równobocznym 𝐴𝐵𝐶 punkt 𝐷 leży na boku 𝐵𝐶. Stosunek pola trójkąta 𝐴𝐵𝐷
+do pola trójkąta 𝐴𝐷𝐶 jest równy
+√3−1
+2 .
+Oblicz miarę kąta 𝑫𝑨𝑪. Zapisz obliczenia.
+3.
+0–1–
+2–3

@@ -1,0 +1,88 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=3, 4, 5; level=rozszerzony; year=2024; month=maj; task_id=2]
+Zadanie 2. (0–2)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+XIII.R1) oblicza granice funkcji (w tym
+jednostronne).
+Zasady oceniania
+2 pkt – poprawna metoda obliczenia granicy oraz poprawny wynik: (−∞).
+1 pkt – zapisanie wyrażenia 𝑥3−8
+(𝑥−2)2 w postaci 𝑥2+2𝑥+4
+𝑥−2 (lub w postaci 𝑥 + 4 + 12
+𝑥−2)
+ALBO
+– zapisanie równości
+lim
+𝑥→2−
+𝑥3 − 8
+(𝑥 − 2)2 = lim
+𝑥→2−
+3𝑥2
+2𝑥 − 4
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Przekształcamy wyrażenie 𝑥3−8
+(𝑥−2)2 , korzystając ze wzoru na różnicę sześcianów:
+𝑥3 − 8
+(𝑥 − 2)2 = (𝑥 − 2)(𝑥2 + 2𝑥 + 4)
+(𝑥 − 2)2 = 𝑥2 + 2𝑥 + 4
+𝑥 − 2
+dla każdego 𝑥 ≠ 2.
+Ponieważ lim
+𝑥→2−
+(𝑥2 + 2𝑥 + 4) = 12 oraz lim
+𝑥→2−
+(𝑥 − 2) = 0−, więc
+lim
+𝑥→2−
+𝑥3 − 8
+(𝑥 − 2)2 = −∞
+Sposób II
+Zauważmy, że lim
+𝑥→2−
+(𝑥3 − 8) = 0 oraz lim
+𝑥→2−
+(𝑥 − 2)2 = 0.
+Funkcje 𝑓(𝑥) = 𝑥3 − 8 oraz 𝑔(𝑥) = (𝑥 − 2)2 są różniczkowalne w zbiorze (−∞, 2).
+Ponadto 𝑔′(𝑥) = 2(𝑥 − 2) ≠ 0 dla każdego 𝑥 ∈ (−∞, 2) oraz
+lim
+𝑥→2−
+3𝑥2
+2𝑥 − 4 = −∞
+Zatem na podstawie reguły de l’Hospitala otrzymujemy
+lim
+𝑥→2−
+𝑥3 − 8
+(𝑥 − 2)2 = lim
+𝑥→2−
+3𝑥2
+2𝑥 − 4 = −∞
+Sposób III
+Niech 𝑀 będzie dowolną liczbą dodatnią. Oznaczmy 𝛿 = 12
+7+𝑀 . Wtedy 𝛿 > 0.
+Niech 𝑥 będzie dowolną liczbą rzeczywistą spełniającą warunek −𝛿 < 𝑥 − 2 < 0.
+Wówczas
+𝑥3 − 8
+(𝑥 − 2)2 = 𝑥3 − 8
+𝑥2 − 4𝑥 + 4 = 𝑥 + 4 + 12(𝑥 − 2)
+(𝑥 − 2)2 = 𝑥 + 4 + 12
+𝑥 − 2 < 6 − 12
+𝛿 =
+= 6 − (7 + 𝑀) = −1 − 𝑀 < −𝑀
+Zatem dla każdego 𝑀 > 0 istnieje 𝛿 > 0 takie, że dla każdego 𝑥 spełniającego warunek
+−𝛿 < 𝑥 − 2 < 0 zachodzi
+𝑥3 − 8
+(𝑥 − 2)2 < −𝑀
+To oznacza, że
+lim
+𝑥→2−
+𝑥3 − 8
+(𝑥 − 2)2 = −∞
+Zasady oceniania rozwiązań zadań

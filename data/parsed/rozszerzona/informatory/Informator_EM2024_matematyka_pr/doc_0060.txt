@@ -1,0 +1,50 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=60; level=rozszerzony; year=2024; section=2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów]
+60 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+więc funkcja 𝑓 osiąga wartość najmniejszą dla 𝑡 = 1,5. Zatem funkcja 𝑑 osiąga wartość
+najmniejszą dla argumentu 𝑡 = 1,5.
+Odległość między zastępami harcerzy będzie najmniejsza o godzinie 10:30.
+Sposób 2.
+Niech 𝑑1 będzie odległością (w km) zastępu „Tropiciele” od miejscowości 𝐴.
+Wyznaczamy zależność 𝑑1 od czasu 𝑡 (w godzinach), jaki upłynął od chwili wyruszenia
+zastępu z miejscowości 𝐴:
+𝑑1(𝑡) = 4𝑡 dla 𝑡 ∈ [0, 5].
+Niech 𝑑2 będzie odległością (w km) zastępu „Korsarze” od miejscowości 𝐴.
+Wyznaczamy zależność 𝑑2 od czasu 𝑡 (w godzinach), jaki upłynął od chwili wyruszenia
+zastępu z miejscowości 𝐵:
+𝑑2(𝑡) = 15 − 2𝑡 dla 𝑡 ∈ [0, 15
+2 ].
+Odległość 𝑑 między zastępami w chwili 𝑡 wynosi
+𝑑(𝑡) = √𝑑1
+2(𝑡) + 𝑑2
+2(𝑡) = √16𝑡2 + (15 − 2𝑡)2 dla 𝑡 ∈ [0, 5] oraz
+𝑑(𝑡) = √𝑑1
+2(5) + 𝑑2
+2(𝑡) = √400 + (15 − 2𝑡)2 dla 𝑡 ∈ (5, 15
+2 ],
+przy czym przyjmujemy, że dla 𝑡 ∈ [5, 15
+2 ] „Tropiciele” znajdują się w miejscowości 𝐶.
+Badamy, dla jakiego argumentu 𝑡 ∈ [0, 15
+2 ] funkcja 𝑑 osiąga wartość najmniejszą.
+Wyznaczamy pochodną funkcji 𝑑:
+𝑑′(𝑡) = (√16𝑡2 + (15 − 2𝑡)2)
+′
+= 1
+2√16𝑡2 + (15 − 2𝑡)2
+⋅ [16𝑡2 + (15 − 2𝑡)2]′ =
+= 1
+2√16𝑡2 + (15 − 2𝑡)2
+⋅ [32𝑡 + 2 ⋅ (15 − 2𝑡) ⋅ (−2)] = 20𝑡 − 30
+√16𝑡2 + (15 − 2𝑡)2
+dla 𝑡 ∈ [0, 5] oraz
+𝑑′(𝑡) = (√400 + (15 − 2𝑡)2)
+′
+= 1
+2√400 + (15 − 2𝑡)2
+⋅ [400 + (15 − 2𝑡)2]′ =
+= 1
+2√400 + (15 − 2𝑡)2
+⋅ [2 ⋅ (15 − 2𝑡) ⋅ (−2)] = 4𝑡 − 30
+√400 + (15 − 2𝑡)2
+dla 𝑡 ∈ (5, 15
+2 ].
+Obliczamy miejsca zerowe pochodnej funkcji 𝑑:

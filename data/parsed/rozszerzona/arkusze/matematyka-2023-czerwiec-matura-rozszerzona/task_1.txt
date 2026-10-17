@@ -1,0 +1,5 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=4, 5; level=rozszerzony; year=2023; month=czerwiec; task_id=1]
+Zadanie 1. (0–2)
+Dane są liczby
+𝑎 = 4^(log_2(45)) oraz 𝑏 = log_3(2023)/log_9(2023)
+Oblicz 𝒂 − 𝒃.

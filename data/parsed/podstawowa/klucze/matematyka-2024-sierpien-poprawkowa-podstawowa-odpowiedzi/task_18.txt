@@ -1,0 +1,19 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=17; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=18]
+Zadanie 18. (0–1)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+VII.4) oblicza kąty trójkąta i długości jego
+boków przy odpowiednich danych
+(rozwiązuje trójkąty m.in. z wykorzystaniem
+twierdzenia cosinusów).
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+A

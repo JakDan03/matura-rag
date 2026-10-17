@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=86; level=rozszerzony; year=2024; section=|𝑃𝑆|2 = |𝐶𝑆|2 + |𝐶𝑃|2]
+86 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Zadanie 26. (0–5)
+Dany jest trapez prostokątny 𝐴𝐵𝐶𝐷 o kątach prostych przy wierzchołkach 𝐴 i 𝐷.
+Ramię 𝐵𝐶 trapezu ma długość 5. W ten trapez wpisano okrąg o środku w punkcie 𝑆
+i promieniu 2. Punkt 𝑃 jest punktem styczności tego okręgu i dłuższej podstawy 𝐴𝐵 tego
+trapezu (zobacz rysunek).
+Wykaż, że trójkąty 𝑩𝑷𝑺 i 𝑩𝑺𝑪 są trójkątami podobnymi, oraz oblicz skalę tego
+podobieństwa. Zapisz obliczenia.
+𝐴
+𝐶
+𝐷
+𝑆
+𝐵
+𝑃
+2
+5

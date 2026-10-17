@@ -1,0 +1,61 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=2, 3, 4; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=1]
+Zadanie 1. (0–2)
+Wymagania określone w podstawie programowej1
+Wymaganie ogólne Wymaganie szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście,
+zarówno matematycznym, jak
+i popularnonaukowym […].
+Zdający:
+V.14) posługuje się funkcjami wykładniczą
+i logarytmiczną […] do opisu i interpretacji
+zagadnień związanych z zastosowaniami
+praktycznymi.
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody i poprawny wynik: 6 (milikulombów).
+1 pkt – obliczenie 𝑄0 : 2
+81
+ALBO
+– obliczenie 𝛽: 1
+3 ,
+ALBO
+– zapisanie związku [𝑄(5)]2 = 𝑄(4) ⋅ 𝑄(6).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Z warunków 𝑄(4) = 2 oraz 𝑄(6) = 18 otrzymujemy związki 2 = 𝑄0 ⋅ 𝛽−4 oraz
+18 = 𝑄0 ⋅ 𝛽−6 . Stąd
+2
+18 = 𝑄0 ⋅ 𝛽−4
+𝑄0 ⋅ 𝛽−6
+1
+9 = 𝛽2
+𝛽 = 1
+3
+1 Rozporządzenie Ministra Edukacji z dnia 28 czerwca 2024 r. zmieniające rozporządzenie w sprawie podstawy
+programowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia
+(Dz.U. z 2024 r. poz. 1019).
+Zasady oceniania rozwiązań zadań
+Zatem 2 = 𝑄0 ⋅ (1
+3)
+−4
+, więc 𝑄0 = 2
+81 .
+Obliczamy 𝑄(5):
+𝑄(5) = 2
+81 ⋅ (1
+3)
+−5
+= 2
+81 ⋅ 35 = 6
+Sposób II
+Zauważamy, że ciąg wartości funkcji 𝑄 dla kolejnych liczb naturalnych, tj. 𝑄(1), 𝑄(2),
+𝑄(3), …, jest geometryczny, ma wszystkie wyrazy dodatnie, pierwszy wyraz równy 𝑄0 oraz
+iloraz 1
+𝛽 .
+Z własności ciągu geometrycznego otrzymujemy
+[𝑄(5)]2 = 𝑄(4) ⋅ 𝑄(6)
+[𝑄(5)]2 = 2 ⋅ 18
+𝑄(5) = 6
+W chwili 𝑡 = 5 s w kondensatorze był zgromadzony ładunek 6 milikulombów.

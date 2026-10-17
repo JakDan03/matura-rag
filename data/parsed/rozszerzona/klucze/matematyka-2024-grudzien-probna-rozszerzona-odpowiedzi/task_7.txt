@@ -1,0 +1,47 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=12, 13, 14; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=7]
+Zadanie 7. (0–4)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+IX.R1) znajduje punkty wspólne prostej
+i okręgu;
+IX.R4) wyznacza równanie prostej
+prostopadłej do zadanej prostej […].
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝐶 = (√5 − 1, 3√5 + 3) lub
+𝐶 = (−√5 − 1, −3√5 + 3).
+3 pkt – zapisanie równania z jedną niewiadomą (pierwszą lub drugą współrzędną punktu 𝐶),
+np. (𝑥 + 1)2 + (3𝑥 + 6 − 3)2 = 50.
+2 pkt – wyznaczenie równania symetralnej odcinka 𝐴𝐵: 𝑦 = 3𝑥 + 6.
+1 pkt – obliczenie współczynnika kierunkowego prostej 𝐴𝐵: (− 1
+3)
+ALBO
+– zapisanie równości √(𝑥 − 6)2 + (𝑦 − 4)2 = √(𝑥 + 6)2 + (𝑦 − 8)2.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Z warunku |𝐴𝐶| = |𝐵𝐶| wynika, że punkt 𝐶 leży na symetralnej odcinka 𝐴𝐵.
+Współczynnik kierunkowy 𝑎𝐴𝐵 prostej 𝐴𝐵 jest równy 𝑎𝐴𝐵 = 8−4
+−6−6 = − 1
+3 , więc
+współczynnik kierunkowy prostej, która jest symetralną odcinka 𝐴𝐵, jest równy 𝑎 = 3.
+Obliczamy współrzędne środka 𝑀 odcinka 𝐴𝐵:
+𝑀 = (6 + (−6)
+2 , 4 + 8
+2 ) = (0, 6)
+Ponieważ ta symetralna przechodzi przez punkt 𝑀, więc ma ona równanie
+𝑦 = 3(𝑥 − 0) + 6, czyli 𝑦 = 3𝑥 + 6.
+Obliczamy współrzędne punktu 𝐶, który jest punktem przecięcia symetralnej odcinka 𝐴𝐵
+z danym okręgiem:
+(𝑥 + 1)2 + (3𝑥 + 6 − 3)2 = 50
+(𝑥 + 1)2 + 9(𝑥 + 1)2 = 50
+(𝑥 + 1)2 = 5
+|𝑥 + 1| = √5
+𝑥 = √5 − 1 ∨ 𝑥 = −√5 − 1
+Gdy 𝑥 = √5 − 1, to 𝑦 = 3(√5 − 1) + 6 = 3√5 + 3, więc wtedy 𝐶 = (√5 − 1, 3√5 + 3).
+Zasady oceniania rozwiązań zadań
+Gdy 𝑥 = −√5 − 1, to 𝑦 = 3(−√5 − 1) + 6 = −3√5 + 3, więc wtedy
+𝐶 = (−√5 − 1, −3√5 + 3).
+Odp. 𝐶 = (√5 − 1, 3√5 + 3) lub 𝐶 = (−√5 − 1, −3√5 + 3).

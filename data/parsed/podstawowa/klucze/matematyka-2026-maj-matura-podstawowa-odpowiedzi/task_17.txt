@@ -1,0 +1,16 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=26; level=podstawowy; year=2026; month=maj; task_id=17]
+Zadanie 17. (0–1)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+VI.6) stosuje wzór na 𝑛-ty wyraz […] ciągu
+geometrycznego.
+Zasady oceniania
+1 pkt – poprawne uzupełnienie zdania.
+0 pkt – brak spełnienia powyższego kryterium.
+Rozwiązanie
+Iloczyn 𝑎2 ⋅ 𝑎7 jest równy 18.

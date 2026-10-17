@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=6, 7; level=rozszerzony; year=2023; month=czerwiec; task_id=3]
+Zadanie 3. (0–3)
+Prawdopodobieństwo wystąpienia awarii sieci ciepłowniczej na pewnym osiedlu
+mieszkaniowym w godzinach porannych pojedynczego dnia jest równe 0,1.
+Oblicz prawdopodobieństwo zdarzenia 𝑨 polegającego na tym, że w okresie siedmiu
+dni wystąpią co najwyżej dwa takie dni, w których nastąpi awaria tej sieci na tym
+osiedlu w godzinach porannych. Wynik podaj w ułamku dziesiętnym w zaokrągleniu
+do części setnych. Zapisz obliczenia.

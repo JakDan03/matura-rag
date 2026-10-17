@@ -1,0 +1,32 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=102; level=podstawowy; year=2024; section=2 B. (− 5]
+102 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 52. (0–1)
+Na płaszczyźnie, w kartezjańskim układzie współrzędnych (𝑥, 𝑦), dane są punkty
+𝐴 = (1, 2) oraz 𝐵 = (3, 7).
+Punkty 𝐴𝑂 oraz 𝐵𝑂 są odpowiednio obrazami punktów 𝐴 i 𝐵 w symetrii środkowej
+o środku w punkcie 𝑂 = (0, 0).
+Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.
+Współczynnik kierunkowy prostej przechodzącej przez punkty 𝐴𝑂 i 𝐵𝑂 jest równy
+A. 5
+2 B. (− 5
+2) C. 2
+5 D. (− 2
+5)
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymagania szczegółowe
+IX. Geometria analityczna na płaszczyźnie kartezjańskiej. Zdający:
+2) posługuje się równaniami prostych na płaszczyźnie, w postaci kierunkowej i ogólnej,
+w tym wyznacza równanie prostej o zadanych własnościach (takich, jak np.
+przechodzenie przez dwa dane punkty, znany współczynnik kierunkowy,
+równoległość do innej prostej);
+5) wyznacza obrazy okręgów i wielokątów w symetriach osiowych względem osi
+układu współrzędnych, symetrii środkowej (o środku w początku układu
+współrzędnych).
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+A

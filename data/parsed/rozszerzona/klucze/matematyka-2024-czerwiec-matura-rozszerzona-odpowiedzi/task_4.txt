@@ -1,0 +1,84 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=8, 9, 10; level=rozszerzony; year=2024; month=czerwiec; task_id=4]
+Zadanie 4. (0–3)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+XII.R1) oblicza prawdopodobieństwo
+warunkowe […].
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 1
+15 .
+2 pkt – zapisanie liczby elementów zbioru 𝐴 ∩ 𝐵 i wyznaczenie/zapisanie liczby elementów
+zbioru 𝐵: |𝐴 ∩ 𝐵| = 8 i |𝐵| = (10
+3 )
+ALBO
+– wyznaczenie/zapisanie prawdopodobieństwa zdarzeń 𝐴 ∩ 𝐵 oraz 𝐵:
+𝑃(𝐴 ∩ 𝐵) = 8
+210 oraz 𝑃(𝐵) =
+(10
+3 )
+210 .
+1 pkt – zapisanie liczby elementów zbioru 𝐴 ∩ 𝐵: 8
+ALBO
+– wyznaczenie/zapisanie liczby elementów zbioru 𝐵, np. (10
+3 ),
+ALBO
+– wyznaczenie/zapisanie prawdopodobieństwa zdarzenia 𝐵, np. 𝑃(𝐵) =
+(10
+3 )
+210 ,
+ALBO
+– wyznaczenie/zapisanie prawdopodobieństwa zdarzenia 𝐴 ∩ 𝐵, np. 𝑃(𝐴 ∩ 𝐵) = 8
+210.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Przyjmijmy następujące oznaczenia:
+𝐴 – zdarzenie polegające na wyrzuceniu trzech orłów z rzędu w dziesięciu rzutach monetą,
+𝐵 – zdarzenie polegające na wyrzuceniu trzech orłów w dziesięciu rzutach monetą,
+Ω – zbiór wszystkich zdarzeń elementarnych.
+Wynikiem każdego rzutu jest orzeł (𝑜) lub reszka (𝑟). Wynikiem doświadczenia losowego
+jest dziesięciowyrazowy ciąg o wyrazach ze zbioru {𝑜, 𝑟}. Zatem liczba elementów zbioru Ω
+jest równa 210 = 1024.
+Obliczamy liczbę elementów zbioru 𝐵: |𝐵| = (10
+3 ) = 120.
+Zdarzenie 𝐴 ∩ 𝐵 polega na wyrzuceniu w dziesięciu rzutach dokładnie trzech orłów i to
+trzech orłów z rzędu. Obliczamy liczbę elementów zbioru 𝐴 ∩ 𝐵: |𝐴 ∩ 𝐵| = 8.
+Obliczamy prawdopodobieństwo 𝑃(𝐴|𝐵):
+Zasady oceniania rozwiązań zadań
+𝑃(𝐴|𝐵) = 𝑃(𝐴 ∩ 𝐵)
+𝑃(𝐵) =
+|𝐴 ∩ 𝐵|
+|Ω|
+|𝐵|
+|Ω|
+=
+8
+1024
+120
+1024
+= 8
+120 = 1
+15
+Uwagi:
+1. Zdający może rozwiązać zadanie poprzez obliczenie prawdopodobieństw zdarzeń 𝐵 oraz
+𝐴 ∩ 𝐵.
+2. Zdający może obliczyć prawdopodobieństwo zdarzenia 𝐵, korzystając ze schematu
+Bernoullego. Sukcesem w pojedynczej próbie jest wyrzucenie orła. Prawdopodobieństwo
+𝑝 sukcesu jest równe 𝑝 = 1
+2 . Przy liczbie prób 𝑛 = 10 oraz liczbie sukcesów 𝑘 = 3
+otrzymujemy
+𝑃(𝐵) = (𝑛
+𝑘) ⋅ 𝑝𝑘 ⋅ (1 − 𝑝)𝑛−𝑘 = (10
+3 ) ⋅ (1
+2)
+3
+⋅ (1 − 1
+2)
+7
+= 120
+210

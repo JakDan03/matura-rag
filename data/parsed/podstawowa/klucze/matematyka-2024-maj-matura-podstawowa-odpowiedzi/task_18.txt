@@ -1,0 +1,25 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=20; level=podstawowy; year=2024; month=maj; task_id=18]
+Zadanie 18. (0–2)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymagania szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście,
+zarówno matematycznym, jak
+i popularnonaukowym, a także w formie
+wykresów, diagramów, tabel.
+Zdający:
+VII.1) wykorzystuje definicje funkcji […]
+tangens dla kątów od 0° do 180° […];
+VII.2) korzysta z wzorów
+sin2 𝛼 + cos2 𝛼 = 1, tg 𝛼 =
+sin 𝛼
+cos 𝛼
+.
+Zasady oceniania
+2 pkt – wybranie dwóch odpowiedzi, z których obie są poprawne.
+1 pkt – wybranie jednej lub dwóch odpowiedzi, z których jedna jest poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+Wersja A Wersja B
+BF CF

@@ -1,0 +1,48 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=2, 3; level=rozszerzony; year=2024; month=maj; task_id=1]
+Zadanie 1. (0–2)
+Wymagania egzaminacyjne 20241
+Wymaganie ogólne Wymaganie szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście,
+zarówno matematycznym, jak
+i popularnonaukowym, a także w formie
+wykresów, diagramów, tabel.
+Zdający:
+V.13) posługuje się funkcjami wykładniczą
+i logarytmiczną […] do opisu i interpretacji
+zagadnień związanych z zastosowaniami
+praktycznymi.
+Zasady oceniania
+2 pkt – poprawna metoda obliczenia temperatury kawy po 15 minutach oraz poprawny wynik
+zaokrąglony do jedności: 59 °C.
+1 pkt – obliczenie 𝑘−10: 45
+60 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Z warunków zadania 𝑇(10) = 65, więc 65 = (80 − 20) ⋅ 𝑘−10 + 20 i stąd
+𝑘−10 = 45
+60 = 3
+4 . Zatem
+𝑇(15) = (80 − 20) ⋅ 𝑘−15 + 20 = 60 ⋅ (𝑘−10)1,5 + 20 =
+= 60 ⋅ (3
+4)
+1,5
++ 20 = 60 ⋅ 3
+4 ⋅ √3
+2 + 20 = 45√3
+2 + 20 ≈ 59
+Temperatura kawy po następnych pięciu minutach była równa 59 °C.
+Sposób II
+Z warunków zadania 𝑇(10) = 65, więc 65 = (80 − 20) ⋅ 𝑘−10 + 20 i stąd 𝑘−10 = 3
+4 .
+Przyjmujemy teraz 𝑇𝑝 = 65, 𝑇𝑧 = 20 i obliczamy 𝑇(5):
+1Rozporządzenie Ministra Edukacji i Nauki z dnia 10 czerwca 2022 r. w sprawie wymagań egzaminacyjnych dla
+egzaminu maturalnego przeprowadzanego w roku szkolnym 2022/2023 i 2023/2024 (Dz.U. poz. 1246).
+Zasady oceniania rozwiązań zadań
+𝑇(5) = (65 − 20) ⋅ 𝑘−5 + 20 = 45 ⋅ (𝑘−10)0,5 + 20 =
+= 45 ⋅ √3
+4 + 20 = 45√3
+2 + 20 ≈ 59
+Temperatura kawy po następnych pięciu minutach była równa 59 °C.

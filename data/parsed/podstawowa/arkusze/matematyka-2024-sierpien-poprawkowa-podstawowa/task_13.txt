@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=16; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=13]
+Zadanie 13. (0–1)
+Ciąg (𝑎𝑛) jest określony dla każdej liczby naturalnej 𝑛 ≥ 1.
+Suma 𝑛 początkowych wyrazów tego ciągu wyraża się wzorem 𝑆𝑛 = 𝑛2 + 2𝑛 dla każdej
+liczby naturalnej 𝑛 ≥ 1.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Trzeci wyraz ciągu (𝑎𝑛) jest równy
+A. 5 B. 7 C. 13 D. 15

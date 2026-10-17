@@ -1,0 +1,32 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=65; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+Przykładowe zadania z rozwiązaniami 65
+Komentarz
+Zbadamy, jaki znak ma różnica: 𝑎𝑛+1 − 𝑎𝑛:
+𝑎𝑛+1 − 𝑎𝑛 = (𝑛 + 1)2 − (𝑛 + 1) − (𝑛2 − 𝑛) = 𝑛2 + 2𝑛 + 1 − 𝑛 − 1 − 𝑛2 + 𝑛 = 2𝑛
+Ponieważ 𝑛 ≥ 1 to 2𝑛 > 0, zatem:
+𝑎𝑛+1 − 𝑎𝑛 > 0 dla każdej liczby naturalnej 𝑛 ≥ 1
+To oznacza, że ciąg (𝑎𝑛) jest rosnący.
+Zadanie 37. (0–2)
+Funkcja 𝑓 jest określona wzorem 𝑓(𝑥) = 1
+𝑥 dla każdej liczby rzeczywistej 𝑥 ≠ 0.
+Oblicz wartość 𝒎, dla której liczby 𝒇(𝒎), 𝒇(𝟏), 𝒇(𝟐) są – odpowiednio –
+pierwszym, drugim i trzecim wyrazem ciągu geometrycznego.
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymagania szczegółowe
+V. Funkcje. Zdający:
+2) oblicza wartość funkcji zadanej wzorem algebraicznym.
+VI. Ciągi. Zdający:
+4) sprawdza, czy dany ciąg jest arytmetyczny lub geometryczny;
+7) wykorzystuje własności ciągów, w tym […] geometrycznych do rozwiązywania
+zadań, również osadzonych w kontekście praktycznym.
+Zasady oceniania
+2 pkt – poprawna metoda rozwiązania oraz podanie poprawnego wyniku: 𝑚 = 1
+2.
+1 pkt – obliczenie/zapisanie wartości funkcji 𝑓: 𝑓(𝑚) = 1
+𝑚, 𝑓(1) = 1, 𝑓(2) = 1
+2 oraz
+wykorzystanie definicji albo własności ciągu geometrycznego.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.

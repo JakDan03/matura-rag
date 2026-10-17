@@ -1,0 +1,23 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=13, 14; level=podstawowy; year=2024; month=maj; task_id=14.1]
+Zadanie 14.1. (0–1)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście,
+zarówno matematycznym, jak
+i popularnonaukowym, a także w formie
+wykresów, diagramów, tabel.
+Zdający:
+V.4) odczytuje z wykresu funkcji: […]
+przedziały, w których funkcja przyjmuje
+wartości większe (nie mniejsze) lub
+mniejsze (nie większe) od danej liczby […].
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+[−2, 4]
+Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki
+Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań nierówności
+w postaci [4, −2], to otrzymuje 1 punkt.

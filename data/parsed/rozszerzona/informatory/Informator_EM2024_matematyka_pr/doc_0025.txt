@@ -1,0 +1,24 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=25; level=rozszerzony; year=2024; section=1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów]
+Przykładowe zadania z rozwiązaniami 25
+3𝑝 − 1
+𝑝 = 1 ∨ 3𝑝 − 1
+𝑝 = −1
+3𝑝 − 1 = 𝑝 ∨ 3𝑝 − 1 = −𝑝
+𝑝 = 1
+2 ∨ 𝑝 = 1
+4
+Dla 𝑝 = 1
+4 funkcja 𝑓 przyjmuje postać 𝑓(𝑥) = 1
+4 𝑥2 − 3
+4 𝑥 + 1
+2 i ma dwa rzeczywiste
+miejsca zerowe: 1 oraz 2.
+Dla 𝑝 = 1
+2 funkcja 𝑓 przyjmuje postać 𝑓(𝑥) = 1
+2 𝑥2 − 1
+2 𝑥 i ma dwa rzeczywiste miejsca
+zerowe: 0 oraz 1.
+Zatem funkcja 𝑓 ma dokładnie dwa miejsca zerowe różniące się o 1 tylko wtedy, gdy
+𝑝 = 1
+4 lub 𝑝 = 1
+2 .

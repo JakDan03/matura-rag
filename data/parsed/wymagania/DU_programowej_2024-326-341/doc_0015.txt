@@ -1,0 +1,23 @@
+Dział VIII. Planimetria.
+Poziom: podstawowy
+Zakres podstawowy. Uczeń:
+1) wyznacza promienie i średnice okręgów, długości cięciw okręgów oraz odcinków
+stycznych, w tym z wykorzystaniem twierdzenia Pitagorasa;
+2) rozpoznaje trójkąty ostrokątne, prostokątne i rozwartokątne przy danych długościach
+boków (m.in. stosuje twierdzenie odwrotne do twierdzenia Pitagorasa i twierdzenie
+cosinusów); stosuje twierdzenie: w trójkącie naprzeciw większego kąta wewnętrznego
+leży dłuższy bok;
+3) rozpoznaje wielokąty foremne i korzysta z ich podstawowych własności;
+4) korzysta z własności kątów i przekątnych w prostokątach, równoległobokach, rombach i
+trapezach;
+5) stosuje własności kątów wpisanych i środkowych;
+6) stosuje wzory na pole wycinka koła i długość łuku okręgu;
+7) stosuje twierdzenie Talesa;
+8) korzysta z cech podobieństwa trójkątów;
+9) wykorzystuje zależności między obwodami oraz między polami figur podobnych;
+10) wska zuje podstawowe punkty szczególne w trójkącie: środek okręgu wpisanego w trójkąt,
+środek okręgu opisanego na trójkącie, ortocentrum, środek ciężkości oraz korzysta z ich
+własności;
+11) przeprowadza dowody geometryczne;
+12) stosuje funkcje trygonometryczne do wyznaczania długości odcinków w figurach płaskich
+oraz obliczania pól figur.

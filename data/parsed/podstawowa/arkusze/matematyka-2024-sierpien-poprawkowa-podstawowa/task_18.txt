@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=18; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=18]
+Zadanie 18. (0–1)
+Dany jest trójkąt 𝐴𝐵𝐶, w którym |𝐴𝐵| = 5, |𝐴𝐶| = 2 oraz cos|∡𝐵𝐴𝐶| = 3
+5
+.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Długość boku 𝐵𝐶 tego trójkąta jest równa
+A. √17 B. √23 C. √35 D. √41

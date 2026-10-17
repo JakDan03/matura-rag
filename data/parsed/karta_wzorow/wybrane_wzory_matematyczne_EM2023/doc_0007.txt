@@ -1,0 +1,33 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=7; year=2023; section=5. WZÓR DWUMIANOWY NEWTONA]
+Strona 7 z 34
+5. WZÓR DWUMIANOWY NEWTONA
+Dla dowolnej liczby całkowitej dodatniej 𝑛 oraz dla dowolnych liczb rzeczywistych 𝑎, 𝑏
+mamy:
+Dla dowolnej liczby całkowitej dodatniej 𝑛 oraz dla dowolnych liczb rzeczywistych 𝑎, 𝑏:
+6. WZORY SKRÓCONEGO MNOŻENIA
+Dla dowolnych liczb rzeczywistych 𝑎, 𝑏:
+Dla dowolnej liczby całkowitej dodatniej 𝑛 oraz dowolnych liczb rzeczywistych 𝑎, 𝑏 mamy:
+W szczególności:
+7. FUNKCJA KWADRATOWA
+• Wyróżnikiem Δ trójmianu kwadratowego 𝑎𝑥2 + 𝑏𝑥 + 𝑐 (𝑎 ≠ 0, 𝑏, 𝑐 ∈ ℝ) zmiennej
+rzeczywistej 𝑥 nazywamy liczbę
+• Postać ogólna funkcji kwadratowej: 𝑓(𝑥) = 𝑎𝑥2 + 𝑏𝑥 + 𝑐, 𝑎 ≠ 0, 𝑏, 𝑐 ∈ ℝ, 𝑥 ∈ ℝ .
+(𝑎 + 𝑏)𝑛 = (𝑛
+0) 𝑎𝑛 + (𝑛
+1) 𝑎𝑛−1𝑏 + … + (𝑛
+𝑘) 𝑎𝑛−𝑘𝑏𝑘 + … + ( 𝑛
+𝑛 − 1) 𝑎𝑏𝑛−1 + (𝑛
+𝑛) 𝑏𝑛
+(𝑎 − 𝑏)𝑛 = (𝑛
+0) 𝑎𝑛 − (𝑛
+1) 𝑎𝑛−1𝑏 + … + (−1)𝑘 (𝑛
+𝑘) 𝑎𝑛−𝑘𝑏𝑘 + … + (−1)𝑛 (𝑛
+𝑛) 𝑏𝑛
+(𝑎 + 𝑏)2 = 𝑎2 + 2𝑎𝑏 + 𝑏2 (𝑎 + 𝑏)3 = 𝑎3 + 3𝑎2𝑏 + 3𝑎𝑏2 + 𝑏3
+(𝑎 − 𝑏)2 = 𝑎2 − 2𝑎𝑏 + 𝑏2 (𝑎 − 𝑏)3 = 𝑎3 − 3𝑎2𝑏 + 3𝑎𝑏2 − 𝑏3
+𝑎𝑛 − 𝑏𝑛 = (𝑎 − 𝑏)(𝑎𝑛−1 + 𝑎𝑛−2𝑏 + … + 𝑎𝑛−𝑘𝑏𝑘−1 + … + 𝑎𝑏𝑛−2 + 𝑏𝑛−1)
+𝑎2 − 𝑏2 = (𝑎 − 𝑏)(𝑎 + 𝑏) 𝑎2 − 1 = (𝑎 − 1)(𝑎 + 1)
+𝑎3 − 𝑏3 = (𝑎 − 𝑏)(𝑎2 + 𝑎𝑏 + 𝑏2) 𝑎3 − 1 = (𝑎 − 1)(𝑎2 + 𝑎 + 1)
+𝑎3 + 𝑏3 = (𝑎 + 𝑏)(𝑎2 − 𝑎𝑏 + 𝑏2) 𝑎3 + 1 = (𝑎 + 1)(𝑎2 − 𝑎 + 1)
+𝑎𝑛 − 1 = (𝑎 − 1)(𝑎𝑛−1 + 𝑎𝑛−2 + … + 𝑎 + 1)
+Δ = 𝑏2 − 4𝑎𝑐

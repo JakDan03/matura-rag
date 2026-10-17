@@ -1,0 +1,35 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=9, 10; level=podstawowy; year=2026; month=czerwiec; task_id=12.2]
+Zadanie 12.2. (0–2)
+Wymaganie ogólne Wymagania szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście,
+zarówno matematycznym, jak
+i popularnonaukowym, a także w formie
+wykresów, diagramów, tabel.
+Zdający:
+V.3) odczytuje i interpretuje wartości funkcji
+określonych za pomocą tabel, wykresów,
+wzorów […];
+V.4) odczytuje z wykresu funkcji: dziedzinę,
+[…] przedziały, w których funkcja przyjmuje
+wartości większe (nie mniejsze) lub
+mniejsze (nie większe) od danej liczby […].
+I.6) posługuje się pojęciem przedziału
+liczbowego […].
+Zasady oceniania
+2 pkt – poprawne uzupełnienie dwóch zdań.
+1 pkt – poprawne uzupełnienie jednego zdania.
+0 pkt – brak spełnienia powyższych kryteriów.
+Uwaga:
+Uzupełnienie zdania uznaje się za poprawne tylko wtedy, gdy zapisane krańce przedziału są
+poprawne i można jednoznacznie ustalić, czy przedział zapisany przez zdającego jest
+otwarty czy domknięty.
+Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki
+Jeśli zdający pomyli porządek liczb na osi liczbowej przy zachowaniu poprawnych krańców
+przedziału, np. zapisze, że dziedziną funkcji 𝑓 jest przedział (4, −5], to otrzymuje 1 punkt
+za tak uzupełnione zdanie.
+Rozwiązanie
+1. [−5, 4)
+2. [− 7
+2 , 3]

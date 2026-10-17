@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=29; level=podstawowy; year=2026; month=marzec; term=probna; task_id=30]
+Zadanie 30. (0–1)
+Wykładowca akademicki, aby ustalić oceny semestralne, oblicza średnie ważone ocen
+otrzymanych przez studentów. Ocenom przypisano następujące wagi:
+• ocena z kartkówki – waga 2
+• ocena z projektu – waga 3
+• ocena za aktywność – waga 4.
+Karolina w trakcie semestru otrzymała następujące oceny:
+Kartkówki Projekty Aktywność
+4 4 3 2 5 5 4
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Średnia ważona ocen uzyskanych przez Karolinę jest równa
+A. 3,85 B. 3,9 C. 3,95 D. 4

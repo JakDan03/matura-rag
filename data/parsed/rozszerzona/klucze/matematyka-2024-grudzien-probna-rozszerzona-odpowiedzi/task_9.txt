@@ -1,0 +1,214 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=16, 17, 18, 19, 20; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=9]
+Zadanie 9. (0–4)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VII.R6) rozwiązuje równania
+trygonometryczne.
+Zasady oceniania (dla sposobu I)
+4 pkt – zapisanie, że równanie sin(2𝑥) = −2 nie ma rozwiązań oraz rozwiązanie równania
+sin(2𝑥) = 1 w zbiorze [−𝜋, 2𝜋]: (− 3
+4 𝜋), 1
+4 𝜋 oraz 5
+4 𝜋.
+3 pkt – rozwiązanie równania sin(2𝑥) = 1 w zbiorze liczb rzeczywistych: 𝑥 = 1
+4 𝜋 + 𝜋 ⋅ 𝑘,
+gdzie 𝑘 ∈ ℤ
+ALBO
+– rozwiązanie równania sin(2𝑥) = 1 w zbiorze [−𝜋, 2𝜋]: (− 3
+4 𝜋), 1
+4 𝜋 oraz 5
+4 𝜋.
+2 pkt – przekształcenie równania do alternatywy równań sin(2𝑥) = −2 lub
+sin(2𝑥) = 1.
+1 pkt – przekształcenie równania do postaci
+(sin2 𝑥 + cos2 𝑥)2 − 2 sin2 𝑥 cos2 𝑥 = sin 𝑥 ⋅ cos 𝑥
+ALBO
+– zastosowanie tożsamości sin4 𝑥 + cos4 𝑥 = 1 − 2 sin2 𝑥 ⋅ cos2 𝑥,
+ALBO
+– zastosowanie tożsamości sin4 𝑥 + cos4 𝑥 = 1 − 1
+2 sin2(2𝑥).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania (dla sposobu II)
+4 pkt – spełnienie kryterium za 3 punkty oraz sprawdzenie rachunkiem, że liczby (− 3
+4 𝜋),
+1
+4 𝜋 oraz 5
+4 𝜋 spełniają równanie sin4 𝑥 = sin 𝑥 ⋅ cos 𝑥 − cos4 𝑥.
+3 pkt – rozwiązanie równania sin(2𝑥) = 1 w zbiorze liczb rzeczywistych: 𝑥 = 1
+4 𝜋 + 𝜋 ⋅ 𝑘,
+gdzie 𝑘 ∈ ℤ
+ALBO
+– rozwiązanie równania sin(2𝑥) = 1 w zbiorze [−𝜋, 2𝜋]: (− 3
+4 𝜋), 1
+4 𝜋 oraz 5
+4 𝜋.
+2 pkt – wykorzystanie równości sin4 𝑥 = sin 𝑥 ⋅ cos 𝑥 − cos4 𝑥 i przekształcenie
+nierówności √sin4 𝑥 + cos4 𝑥
+2 ≥ sin2 𝑥 + cos2 𝑥
+2 do postaci sin(2𝑥) ≥ 1.
+1 pkt – zastosowanie nierówności między średnią kwadratową a arytmetyczną i zapisanie
+nierówności √sin4 𝑥 + cos4 𝑥
+2 ≥ sin2 𝑥 + cos2 𝑥
+2 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania rozwiązań zadań
+Zasady oceniania (dla sposobu III)
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: (− 3
+4 𝜋), 1
+4 𝜋 oraz 5
+4 𝜋.
+3 pkt – równoważne przekształcenie równania do alternatywy równań sin3 𝑥 − cos3 𝑥 = 0
+lub sin 𝑥 − cos 𝑥 = 0 i rozwiązanie równań tej alternatywy w zbiorze liczb
+rzeczywistych: 𝑥 = 1
+4 𝜋 + 𝜋 ⋅ 𝑘, gdzie 𝑘 ∈ ℤ.
+2 pkt – przekształcenie równania do postaci (sin3 𝑥 − cos3 𝑥)(sin 𝑥 − cos 𝑥) = 0.
+1 pkt – przekształcenie równania do postaci
+sin4 𝑥 + cos4 𝑥 = sin 𝑥 ⋅ cos 𝑥 ⋅ (sin2 𝑥 + cos2 𝑥).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga.
+Jeżeli zdający przekształci równanie do postaci (sin3 𝑥 − cos3 𝑥)(sin 𝑥 − cos 𝑥) = 0,
+a następnie rozwiąże poprawnie równania sin3 𝑥 − cos3 𝑥 = 0 oraz sin 𝑥 − cos 𝑥 = 0
+w zbiorze [−𝜋, 2𝜋], to otrzymuje 4 punkty za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Przekształcamy równanie równoważnie, korzystając ze wzoru na kwadrat sumy oraz
+z jedynki trygonometrycznej:
+sin4 𝑥 = sin 𝑥 ⋅ cos 𝑥 − cos4 𝑥
+sin4 𝑥 + cos4 𝑥 = sin 𝑥 ⋅ cos 𝑥
+(sin2 𝑥 + cos2 𝑥)2 − 2 sin2 𝑥 ⋅ cos2 𝑥 = sin 𝑥 ⋅ cos 𝑥
+1 − 2(sin 𝑥 ⋅ cos 𝑥)2 = sin 𝑥 ⋅ cos 𝑥
+Korzystamy ze wzoru na sinus podwojonego kąta i otrzymujemy dalej
+1 − 1
+2 sin2(2𝑥) = 1
+2 sin(2𝑥)
+sin2(2𝑥) + sin(2𝑥) − 2 = 0
+sin(2𝑥) = 1 ∨ sin(2𝑥) = −2
+Rozwiązujemy równanie sin(2𝑥) = 1 w zbiorze ℝ:
+2𝑥 = 𝜋
+2 + 2𝜋 ⋅ 𝑘 ∧ 𝑘 ∈ ℤ
+𝑥 = 𝜋
+4 + 𝜋 ⋅ 𝑘 ∧ 𝑘 ∈ ℤ
+Rozwiązaniami równania sin(2𝑥) = 1 w zbiorze [−𝜋, 2𝜋] są liczby: (− 3
+4 𝜋), 1
+4 𝜋 oraz
+5
+4 𝜋.
+Równanie sin(2𝑥) = −2 nie ma rozwiązań w zbiorze ℝ.
+Zatem rozwiązaniami równania sin4 𝑥 = sin 𝑥 ⋅ cos 𝑥 − cos4 𝑥 w zbiorze [−𝜋, 2𝜋] są
+liczby: (− 3
+4 𝜋), 1
+4 𝜋 oraz 5
+4 𝜋.
+Sposób II
+Korzystamy z nierówności między średnią kwadratową a arytmetyczną i otrzymujemy
+√sin4 𝑥 + cos4 𝑥
+2 ≥ sin2 𝑥 + cos2 𝑥
+2
+Stąd, po zastosowaniu tożsamości sin2 𝛼 + cos2 𝛼 = 1 i wzoru na sinus podwojonego kąta
+oraz związku sin4 𝑥 = sin 𝑥 ⋅ cos 𝑥 − cos4 𝑥, dostajemy kolejno:
+√sin 𝑥 ⋅ cos 𝑥
+2 ≥ 1
+2
+sin 𝑥 ⋅ cos 𝑥 ≥ 1
+2
+sin(2𝑥) ≥ 1
+Stąd i z własności funkcji sinus wynika, że sin(2𝑥) = 1.
+Zatem
+2𝑥 = 𝜋
+2 + 2𝜋 ⋅ 𝑘 ∧ 𝑘 ∈ ℤ
+𝑥 = 𝜋
+4 + 𝜋 ⋅ 𝑘 ∧ 𝑘 ∈ ℤ
+Gdy 𝑥 = − 3
+4 𝜋, to wtedy
+sin4 (− 3
+4 𝜋) = (− √2
+2 )
+4
+= 1
+4
+sin (− 3
+4 𝜋) ⋅ cos (− 3
+4 𝜋) − cos4 (− 3
+4 𝜋) = − √2
+2 ⋅ (− √2
+2 ) − (− √2
+2 )
+4
+= 1
+4
+więc liczba (− 3
+4 𝜋) jest rozwiązaniem równania sin4 𝑥 = sin 𝑥 ⋅ cos 𝑥 − cos4 𝑥.
+Gdy 𝑥 = 1
+4 𝜋, to wtedy
+sin4 (1
+4 𝜋) = (√2
+2 )
+4
+= 1
+4
+sin (1
+4 𝜋) ⋅ cos (1
+4 𝜋) − cos4 (1
+4 𝜋) = √2
+2 ⋅ √2
+2 − (√2
+2 )
+4
+= 1
+4
+Zasady oceniania rozwiązań zadań
+więc liczba 1
+4 𝜋 jest rozwiązaniem równania sin4 𝑥 = sin 𝑥 ⋅ cos 𝑥 − cos4 𝑥.
+Gdy 𝑥 = 5
+4 𝜋, to wtedy
+sin4 (5
+4 𝜋) = (− √2
+2 )
+4
+= 1
+4
+sin (5
+4 𝜋) ⋅ cos (5
+4 𝜋) − cos4 (5
+4 𝜋) = − √2
+2 ⋅ (− √2
+2 ) − (− √2
+2 )
+4
+= 1
+4
+więc liczba 5
+4 𝜋 jest rozwiązaniem równania sin4 𝑥 = sin 𝑥 ⋅ cos 𝑥 − cos4 𝑥.
+Zatem rozwiązaniami równania sin4 𝑥 = sin 𝑥 ⋅ cos 𝑥 − cos4 𝑥 w zbiorze [−𝜋, 2𝜋] są
+liczby: (− 3
+4 𝜋), 1
+4 𝜋 oraz 5
+4 𝜋.
+Sposób III
+Przekształcamy równanie równoważnie:
+sin4 𝑥 = sin 𝑥 ⋅ cos 𝑥 − cos4 𝑥
+sin4 𝑥 + cos4 𝑥 = sin 𝑥 ⋅ cos 𝑥
+sin4 𝑥 + cos4 𝑥 = sin 𝑥 ⋅ cos 𝑥 ⋅ (sin2 𝑥 + cos2 𝑥)
+sin4 𝑥 − sin3 𝑥 ⋅ cos 𝑥 + cos4 𝑥 − cos3 𝑥 ⋅ sin 𝑥 = 0
+sin3 𝑥 (sin 𝑥 − cos 𝑥) + cos3 𝑥 (cos 𝑥 − sin 𝑥) = 0
+(sin3 𝑥 − cos3 𝑥)(sin 𝑥 − cos 𝑥) = 0
+sin3 𝑥 = cos3 𝑥 ∨ sin 𝑥 = cos 𝑥
+sin 𝑥 = cos 𝑥 ∨ sin 𝑥 = cos 𝑥
+sin 𝑥 = cos 𝑥
+Gdyby cos 𝑥 = 0, to wtedy sin 𝑥 = cos 𝑥 = 0, więc wstawiając te wartości do tożsamości
+trygonometrycznej sin2 𝑥 + cos2 𝑥 = 1, otrzymalibyśmy 0 + 0 = 1. To oznacza, że
+cos 𝑥 ≠ 0, więc możemy obie strony równania sin 𝑥 = cos 𝑥 podzielić obustronnie przez
+cos 𝑥 i otrzymujemy tg 𝑥 = 1. To równanie w zbiorze [−𝜋, 2𝜋] ma trzy rozwiązania:
+(− 3
+4 𝜋), 1
+4 𝜋 oraz 5
+4 𝜋.
+Zatem rozwiązaniami równania sin4 𝑥 = sin 𝑥 ⋅ cos 𝑥 − cos4 𝑥 w zbiorze [−𝜋, 2𝜋] są
+liczby: (− 3
+4 𝜋), 1
+4 𝜋 oraz 5
+4 𝜋.

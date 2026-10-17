@@ -1,0 +1,39 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=38; level=rozszerzony; year=2024; section=|𝐷𝐾| + |𝐾𝐴| = |𝐷′𝐾| + |𝐾𝐴| ≥ |𝐷′𝐴| = |𝐷𝐾′| + |𝐾′𝐴|]
+38 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+1 pkt – obliczenie wartości funkcji 𝑓 na krańcach przedziału [1
+2 , 4].
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Obliczamy wartości funkcji na końcach przedziału [1
+2 , 4]:
+𝑓 (1
+2) =
+2 ⋅ 1
+2 − 3
+1
+2 + 2
++ 4 log1
+2
+1
+2 = − 4
+5 + 4 = 3 1
+5
+𝑓(4) = 2 ⋅ 4 − 3
+4 + 2 + 4 log1
+2
+4 = 5
+6 − 8 = −7 1
+6
+Zauważmy, że 𝑓 (1
+2) > 0 i 𝑓(4) < 0.
+Funkcja 𝑓 jest funkcją ciągłą, jako suma funkcji ciągłych. Ma zatem własność Darboux.
+Dlatego w przedziale [1
+2 , 4] funkcja 𝑓 przyjmuje wszystkie wartości z zakresu [−7 1
+6 , 3 1
+5].
+W szczególności przyjmuje wartość 0 dla pewnego 𝑥0 ∈ [1
+2 , 4].
+To kończy dowód.
+Zadanie 12. (0–4)
+Funkcja 𝑓 jest określona wzorem 𝑓(𝑥) = 𝑥4 + 0,5 ⋅ (2𝑥 + 1)4 dla każdego 𝑥 ∈ ℝ.
+Oblicz najmniejszą wartość tej funkcji. Zapisz obliczenia.

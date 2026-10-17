@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=25; level=podstawowy; year=2026; month=czerwiec; task_id=25]
+Zadanie 25. (0–1)
+Każda z krawędzi ostrosłupa prawidłowego czworokątnego ma długość 12.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wysokość tego ostrosłupa jest równa
+A. 2√3 B. 3√2 C. 2√6 D. 6√2

@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=7; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=7]
+Zadanie 7. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Dla każdej liczby rzeczywistej 𝑥 różnej od (−3) i (−2) wartość wyrażenia
+𝑥+3
+𝑥2+4𝑥+4 ⋅ 𝑥2+2𝑥
+2𝑥+6 jest równa wartości wyrażenia
+A. 𝑥
+2 B. 𝑥
+4 C. 𝑥
+2𝑥+4 D. 𝑥3+3𝑥2
+6𝑥2+24𝑥+24

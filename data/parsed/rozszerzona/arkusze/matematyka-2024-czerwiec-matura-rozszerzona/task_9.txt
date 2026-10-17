@@ -1,0 +1,5 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=16; level=rozszerzony; year=2024; month=czerwiec; task_id=9]
+Zadanie 9. (0–4)
+Rozwiąż równanie
+𝐬𝐢𝐧(𝟔𝒙) + √𝟑 ⋅ 𝐬𝐢𝐧(𝟓𝒙) + 𝐬𝐢𝐧(𝟒𝒙) = 𝟎
+Zapisz obliczenia.

@@ -1,0 +1,18 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=14; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=12.3]
+Zadanie 12.3. (0–1)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+2. Używanie języka matematycznego do
+tworzenia tekstów matematycznych, w tym
+do opisu prowadzonych rozumowań
+i uzasadniania wniosków, a także do
+przedstawiania danych.
+Zdający:
+V.9) wyznacza wzór funkcji kwadratowej na
+podstawie informacji […] o jej wykresie.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C

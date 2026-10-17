@@ -1,0 +1,45 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=46; level=podstawowy; year=2024; section=1. Największa wartość funkcji 𝑓 jest równa ……… .]
+46 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zasady oceniania
+2 pkt – poprawnie uzupełnione dwie luki.
+1 pkt – poprawnie uzupełniona jedna luka.
+0 pkt – brak spełnienia powyższych kryteriów.
+Pełne rozwiązanie
+1. Największa wartość funkcji 𝑓 jest równa ……… .
+2. Najmniejsza wartość funkcji 𝑓 w przedziale [6, 8] jest równa ……… .
+Zadanie 28. (0–4)
+Funkcja 𝑓 jest określona następująco:
+𝑓(𝑥) = {
+𝑥 + 4 dla 𝑥 ∈ [−8, 0]
+4 dla 𝑥 ∈ (0, 4]
+−2𝑥 + 12 dla 𝑥 ∈ (4, 6)
+Wykres funkcji 𝑦 = 𝑓(𝑥) przedstawiono w kartezjańskim układzie współrzędnych (𝑥, 𝑦)
+na rysunku poniżej.
+Uzupełnij zdania. Wpisz odpowiednie przedziały w wykropkowanych miejscach tak,
+aby zdania były prawdziwe.
+1. Dziedziną funkcji 𝑓 jest przedział …………… .
+2. Zbiorem wartości funkcji 𝑓 jest przedział …………… .
+3. Zbiorem wszystkich argumentów, dla których funkcja 𝑓 przyjmuje wartości
+nieujemne, jest przedział …………… .
+4. Zbiorem wszystkich rozwiązań równania 𝑓(𝑥) = 4 jest przedział …………… .
+6
+0
+𝑦
+𝑥
+2
+4
+6
+8
+2
+4
+6
+8
+−2
+−4
+−6
+−8
+−2
+−4
+−6
+−8
+𝑦 = 𝑓(𝑥)

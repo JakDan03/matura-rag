@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=27; level=podstawowy; year=2024; month=czerwiec; task_id=30]
+Zadanie 30. (0–1)
+W pudełku znajdują się wyłącznie kule białe i czarne. Kul czarnych jest 18.
+Z tego pudełka w sposób losowy wyciągamy jedną kulę.
+Prawdopodobieństwo zdarzenia polegającego na tym, że wyciągniemy kulę czarną,
+jest równe 3
+5
+.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba kul białych w pudełku, przed wyciągnięciem jednej kuli, była równa
+A. 9 B. 12 C. 15 D. 30

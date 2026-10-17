@@ -1,0 +1,26 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=101; level=rozszerzony; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi […].]
+Przykładowe zadania z rozwiązaniami 101
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi […].
+Wymaganie szczegółowe
+XII. Rachunek prawdopodobieństwa i statystyka. Zdający:
+1R) […] stosuje wzór Bayesa […].
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik.
+2 pkt – zastosowanie wzoru Bayesa.
+1 pkt – obliczenie prawdopodobieństw warunkowych 𝑃(−|𝐶) oraz 𝑃(+|𝑍).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Przyjmijmy następujące oznaczenia:
+„+” – zdarzenie polegające na tym, że wylosowana osoba z populacji poddana testowi
+otrzyma wynik pozytywny,
+„–” – zdarzenie polegające na tym, że wylosowana osoba z populacji poddana testowi
+otrzyma wynik negatywny,
+𝑍 – zdarzenie polegające na tym, że wylosowana osoba z populacji jest zdrowa,
+𝐶 – zdarzenie polegające na tym, że wylosowana osoba z populacji jest chora.
+Należy obliczyć 𝑃(𝐶|+).
+Zgodnie z warunkami zadania:
+𝑃(𝐶) = 0,002, więc 𝑃(𝑍) = 0,998
+𝑃(+|𝐶) = 0,99, więc 𝑃(−|𝐶) = 0,01
+𝑃(−|𝑍) = 0,98, więc 𝑃(+|𝑍) = 0,02.

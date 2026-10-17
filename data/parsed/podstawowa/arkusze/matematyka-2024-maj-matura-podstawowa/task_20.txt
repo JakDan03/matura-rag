@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=19; level=podstawowy; year=2024; month=maj; task_id=20]
+Zadanie 20. (0–1)
+Dany jest trójkąt 𝐾𝐿𝑀, w którym |𝐾𝑀| = 𝑎, |𝐿𝑀| = 𝑏 oraz 𝑎 ≠ 𝑏. Dwusieczna kąta
+𝐾𝑀𝐿 przecina bok 𝐾𝐿 w punkcie 𝑁 takim, że |𝐾𝑁| = 𝑐, |𝑁𝐿| = 𝑑 oraz |𝑀𝑁| = 𝑒
+(zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+W trójkącie 𝐾𝐿𝑀 prawdziwa jest równość
+A. 𝑎 ⋅ 𝑏 = 𝑐 ⋅ 𝑑 B. 𝑎 ⋅ 𝑑 = 𝑏 ⋅ 𝑐
+C. 𝑎 ⋅ 𝑐 = 𝑏 ⋅ 𝑑 D. 𝑎 ⋅ 𝑏 = 𝑒 ⋅ 𝑒

@@ -1,0 +1,5 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=13; level=podstawowy; year=2024; month=czerwiec; task_id=14]
+Zadanie 14. (0–2)
+Parabola, która jest wykresem funkcji kwadratowej 𝑓, ma z osiami kartezjańskiego układu
+współrzędnych (𝑥, 𝑦) dokładnie dwa punkty wspólne: 𝑀 = (0, 18) oraz 𝑁 = (3, 0).
+Wyznacz wzór funkcji kwadratowej 𝒇. Zapisz obliczenia.

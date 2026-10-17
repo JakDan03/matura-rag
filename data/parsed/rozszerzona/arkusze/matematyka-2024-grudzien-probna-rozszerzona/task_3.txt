@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona.pdf; typ=exam_paper; strony=6; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=3]
+Zadanie 3. (0–3)
+Iloczyn długości średnicy podstawy walca i wysokości walca jest równy 12√3.
+Pole powierzchni całkowitej tego walca jest równe 12𝜋(√3 + 1).
+Oblicz objętość tego walca. Zapisz obliczenia.
+3.
+0–1–
+2–3

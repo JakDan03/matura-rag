@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=8; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=8]
+Zadanie 8. (0–1)
+Dany jest wielomian 𝑊(𝑥) = −3𝑥3 − 𝑥2 + 𝑘𝑥 + 1, gdzie 𝑘 jest pewną liczbą rzeczywistą.
+Wiadomo, że wielomian 𝑊 można zapisać w postaci 𝑊(𝑥) = (𝑥 + 1) ⋅ 𝑄(𝑥) dla pewnego
+wielomianu 𝑄.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba 𝑘 jest równa
+A. 29 B. (−3) C. 0 D. 3

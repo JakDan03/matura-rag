@@ -1,0 +1,19 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=23; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=24]
+Zadanie 24. (0–1)
+Wymaganie ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+3. Tworzenie pomocniczych obiektów
+matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub
+rozwiązania problemu.
+Zdający:
+X.3) rozpoznaje w […] ostrosłupach […]
+kąty między ścianami […];
+X.5) oblicza objętości […] ostrosłupów, […]
+również z wykorzystaniem trygonometrii.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+B

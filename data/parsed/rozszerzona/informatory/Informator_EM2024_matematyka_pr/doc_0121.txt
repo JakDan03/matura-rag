@@ -1,0 +1,83 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=121; level=rozszerzony; year=2024; section=|𝐷𝐾| + |𝐾𝐴| = |𝐷′𝐾| + |𝐾𝐴| ≥ |𝐷′𝐴| = |𝐷𝐾′| + |𝐾′𝐴|]
+Informacja o egzaminie maturalnym z matematyki dla absolwentów niesłyszących 121
+Poniżej przedstawiono ilustrację geometryczną do sposobów 1. (po lewej) oraz 2. (po
+prawej).
+Punkty 𝑋𝑖 odpowiadają położeniom zastępu „Korsarze” po kolejnych półgodzinnych
+odstępach czasu, licząc od momentu wyruszenia z miejscowości 𝐵.
+Punkty 𝑌𝑖 odpowiadają położeniom zastępu „Tropiciele” po kolejnych półgodzinnych
+odstępach czasu, licząc od momentu wyruszenia z miejscowości 𝐴.
+𝑑 = |𝑋𝑖𝑌𝑖| (w km) Godzina
+|𝑋1𝑌1| ≈ 14,14 9:30
+|𝑋2𝑌2| ≈ 13,60 10:00
+|𝑋3𝑌3| ≈ 13,42 10:30
+|𝑋4𝑌4| ≈ 13,60 11:00
+|𝑋5𝑌5| ≈ 14,14 11:30
+|𝑋6𝑌6| ≈ 15,00 12:00
+|𝑋7𝑌7| ≈ 16,12 12:30
+|𝑋8𝑌8| ≈ 17,46 13:00
+|𝑋9𝑌9| ≈ 18,97 13:30
+|𝑋10𝑌10| ≈ 20,62 14:00
+|𝑋11𝑌10| ≈ 20,40 14:30
+|𝑋12𝑌10| ≈ 20,22 15:00
+|𝑋13𝑌10| ≈ 20,10 15:30
+|𝑋14𝑌10| ≈ 20,02 16:00
+|𝐴𝑌10| ≈ 20,00 16:30
+𝑑 = |𝑋𝑖𝑌𝑖| (w km) Godzina
+|𝑋1𝑌1| ≈ 14,14 9:30
+|𝑋2𝑌2| ≈ 13,60 10:00
+|𝑋3𝑌3| ≈ 13,42 10:30
+|𝑋4𝑌4| ≈ 13,60 11:00
+|𝑋5𝑌5| ≈ 14,14 11:30
+|𝑋6𝑌6| ≈ 15,00 12:00
+|𝑋7𝑌7| ≈ 16,12 12:30
+|𝑋8𝑌8| ≈ 17,46 13:00
+|𝑋9𝑌9| ≈ 18,97 13:30
+|𝑋10𝑌10| ≈ 20,62 14:00
+𝐴
+𝐵
+𝑋1
+𝑋2
+𝑋3
+𝑋4
+𝑋5
+𝑋6
+𝑌1
+𝑌2
+𝑌3
+𝑌4
+𝑌5
+𝑌10 = 𝐶
+𝑋7
+𝑋8
+𝑋9
+𝑋10
+𝑌6
+𝑌7
+𝑌8
+𝑌9
+𝐴
+𝐵
+𝑋1
+𝑋2
+𝑋3
+𝑋4
+𝑋5
+𝑋6
+𝑌1
+𝑌2
+𝑌3
+𝑌4
+𝑌5
+𝑌10 = ⋯ 𝑌15 = 𝐶
+𝑋11
+𝑋12
+𝑋7
+𝑋8
+𝑋9
+𝑋10
+𝑌6
+𝑌7
+𝑌8
+𝑌9
+𝑋13
+𝑋14

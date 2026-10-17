@@ -1,0 +1,29 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=134; level=podstawowy; year=2024; section=1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno]
+134 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C1
+Zadanie 65.2. (0–1)
+Uzupełnij zdanie. Wpisz odpowiednią liczbę w wykropkowanym miejscu, aby zdanie
+było prawdziwe.
+Medianą miesięcznych zarobków w firmie ℱ jest .............. tys. zł.
+Wymaganie ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno
+matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów,
+tabel.
+Wymaganie szczegółowe
+XII. Rachunek prawdopodobieństwa i statystyka. Zdający:
+2) […] znajduje medianę […].
+Zasady oceniania
+1 pkt – rozwiązanie poprawne.
+0 pkt – rozwiązanie niepoprawne albo brak rozwiązania.
+Rozwiązanie
+Medianą miesięcznych zarobków w firmie ℱ jest .............. tys. zł.
+Komentarz
+Medianą zarobków jest wartość znajdująca się pośrodku w uporządkowanym rosnąco
+zestawie zarobków wszystkich 75 pracowników firmy ℱ. Zatem będzie to wartość 4,5 tys. zł,
+znajdująca się na 38 pozycji w tak uporządkowanym zestawie danych.
+4,5

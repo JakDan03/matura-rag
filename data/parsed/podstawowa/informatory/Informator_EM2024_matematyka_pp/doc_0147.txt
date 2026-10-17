@@ -1,0 +1,30 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=147; level=podstawowy; year=2024; section=ALBO]
+Informacja o egzaminie maturalnym z matematyki dla absolwentów niesłyszących 147
+Zadanie 38. (0–4)
+Powierzchnia magazynowa będzie na dwóch takich samych prostokątnych działkach.
+Działki te będą miały jeden wspólny bok. Całość będzie ogrodzona płotem. Dodatkowo
+działki rozdzieli wspólny płot. W ogrodzeniu będą dwie bramy wjazdowe, każda o szerokości
+10 m (zobacz rysunek poniżej). Łączna długość płotu ogradzającego oraz rozdzielającego
+dwie działki to 580 metrów. Szerokości dwóch bram wjazdowych nie wlicza się w długość
+płotu.
+Oblicz wymiary 𝒙 oraz 𝒚 każdej z dwóch prostokątnych działek, tak aby całkowite
+pole powierzchni magazynowej było największe.
+Zasady oceniania
+4 pkt – poprawna metoda obliczenia obu wymiarów działki oraz podanie poprawnych
+wyników: 𝑥 = 100 m oraz 𝑦 = 75 m.
+3 pkt – poprawne zapisanie wzoru na pole działki w zależności od jednej zmiennej oraz
+poprawne obliczenie współrzędnej 𝑥 wierzchołka paraboli: 𝑥 = 100 m.
+2 pkt – poprawne zapisanie wzoru na pole całkowite powierzchni magazynowej w zależności
+od jednej zmiennej:
+𝑃(𝑥) = 2𝑥(150 − 3
+4 𝑥) dla 𝑥 ∈ (0, 560
+3 ).
+1 pkt – zapisanie wzoru na pole całkowite powierzchni magazynowej: 𝑃 = 𝑥 ⋅ 2𝑦
+ALBO
+– zapisanie związku między wymiarami działki: 3𝑥 + 4𝑦 − 20 = 580.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+𝑥
+𝑦
+𝑦
+10 m
+10 m

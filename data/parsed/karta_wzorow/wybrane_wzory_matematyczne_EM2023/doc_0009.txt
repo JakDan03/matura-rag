@@ -1,0 +1,26 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=9; year=2023; section=8. CIĄGI]
+Strona 9 z 34
+• Jeżeli Δ ≥ 0, to funkcję kwadratową można przedstawić w postaci iloczynowej:
+• Wzory Viète’a
+Jeżeli Δ ≥ 0, to
+8. CIĄGI
+• Wzór na 𝑛-ty wyraz ciągu arytmetycznego (𝑎𝑛), określonego dla 𝑛 ≥ 1, o pierwszym
+wyrazie 𝑎1 i różnicy 𝑟:
+• Wzory na sumę 𝑆𝑛 początkowych 𝑛 wyrazów ciągu arytmetycznego:
+• Dla sąsiednich wyrazów ciągu arytmetycznego (𝑎𝑛) prawdziwa jest równość:
+• Wzór na 𝑛-ty wyraz ciągu geometrycznego (𝑎𝑛), określonego dla 𝑛 ≥ 1, o pierwszym
+wyrazie 𝑎1 i ilorazie 𝑞:
+• Wzory na sumę 𝑆𝑛 początkowych 𝑛 wyrazów ciągu geometrycznego:
+𝑓(𝑥) = 𝑎(𝑥 − 𝑥1)(𝑥 − 𝑥2)
+𝑥1 + 𝑥2 = − 𝑏
+𝑎 𝑥1 ⋅ 𝑥2 = 𝑐
+𝑎
+𝑎𝑛 = 𝑎1 + (𝑛 − 1)𝑟
+𝑆𝑛 = 𝑎1 + 𝑎𝑛
+2 ⋅ 𝑛 𝑆𝑛 = 2𝑎1 + (𝑛 − 1)𝑟
+2 ⋅ 𝑛
+𝑎𝑛 = 𝑎𝑛−1 + 𝑎𝑛+1
+2 dla 𝑛 ≥ 2
+𝑎𝑛 = 𝑎1 ⋅ 𝑞𝑛−1 dla 𝑛 ≥ 2
+𝑆𝑛 = 𝑎1 ⋅ 1 − 𝑞𝑛
+1 − 𝑞 dla 𝑞 ≠ 1 𝑆𝑛 = 𝑛 ⋅ 𝑎1 dla 𝑞 = 1

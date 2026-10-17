@@ -1,0 +1,10 @@
+Dział VI. Ciągi.
+Poziom: rozszerzony
+Zakres rozszerzony. Uczeń spełnia wymagania określone dla zakresu podstawowego, a
+ponadto:
+1) oblicza granice ciągów, korzystając z granic ciągów typu
+𝑛𝑛, √𝑎𝑎
+𝑛𝑛
+oraz twierdzeń o granicach
+sumy, różnicy, iloczynu i ilorazu ciągów zbieżnych, a także twierdzenia o trzech ciągach;
+2) rozpoznaje zbieżne szeregi geometryczne i oblicza ich sumę.

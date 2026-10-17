@@ -1,0 +1,36 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=111; level=rozszerzony; year=2024; section=3. Informacja o egzaminie maturalnym z matematyki dla]
+Informacja o egzaminie maturalnym z matematyki dla absolwentów niesłyszących 111
+Zasady oceniania
+4 pkt – poprawna metoda wyznaczenia najmniejszej odległości, na jaką Syzyf zbliży się do
+wierzchołka góry, i poprawna metoda wyznaczenia największej wartości prędkości,
+z jaką wtaczany jest kamień, wraz z poprawnymi wynikami liczbowymi.
+3 pkt – zapisanie, że prędkość jest pochodną funkcji położenia i wyznaczenie ekstremów
+funkcji 𝑠′.
+2 pkt – zbadanie monotoniczności funkcji 𝑠 i wyznaczenie ekstremów funkcji 𝑠.
+1 pkt – wyznaczenie pochodnej funkcji 𝑠.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Najpierw wyznaczymy najmniejszą odległość, na jaką Syzyf zbliży się do wierzchołka góry.
+Wyznaczamy pochodną funkcji 𝑠:
+𝑠′(𝑡) = −3𝑡2 + 33𝑡 + 180 dla 𝑡 ∈ [0, 24]
+i obliczamy jej miejsca zerowe:
+𝑠′(𝑡) = 0
+−3𝑡2 + 33𝑡 + 180 = 0
+𝑡2 − 11𝑡 − 60 = 0
+Δ = 361
+𝑡1 = 15 𝑡2 < 0
+Ponieważ:
+𝑠′(𝑡) > 0 dla 𝑡 ∈ [0,15)
+𝑠′(𝑡) < 0 dla 𝑡 ∈ (15, 24]
+więc
+funkcja 𝑠 jest rosnąca w przedziale [0, 15]
+funkcja 𝑠 jest malejąca w przedziale [15, 24].
+Zatem dla 𝑡 = 15 funkcja 𝑠 przyjmuje wartość największą równą 𝑠(15) = 3037,5. Syzyf
+po 15 godzinach pokonał 3037,5 m, a więc zbliżył się do wierzchołka góry na odległość
+4000 − 3037,5 = 962,5 m.
+Obliczamy największą wartość prędkości, z jaką Syzyf wtacza kulę.
+Niech v oznacza prędkość Syzyfa wtaczającego kulę.
+Ponieważ v = 𝑠′ , więc
+v(𝑡) = 𝑠′(𝑡) = −3𝑡2 + 33𝑡 + 180 dla 𝑡 ∈ [0, 24]
+Korzystamy z własności funkcji kwadratowej i obliczamy największą wartość prędkości,
+z jaką Syzyf wtacza kulę:

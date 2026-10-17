@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona.pdf; typ=exam_paper; strony=18; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=10]
+Zadanie 10. (0–5)
+Trzeci i piąty wyraz malejącego ciągu arytmetycznego (𝑎𝑛), określonego dla każdej liczby
+naturalnej 𝑛 ≥ 1, spełniają warunek 𝑎3 + 𝑎5 = 10.
+Trzywyrazowy ciąg (2𝑎1 + 4, 𝑎4 − 1, − 1
+8 𝑎7) jest geometryczny.
+Oblicz wyrazy tego ciągu geometrycznego. Zapisz obliczenia.
+10.
+0–1–
+2–3–
+4–5

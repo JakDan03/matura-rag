@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=13; level=podstawowy; year=2024; month=maj; task_id=14.1]
+Zadanie 14.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) przedstawiono fragment paraboli, która jest
+wykresem funkcji kwadratowej 𝑓 (zobacz rysunek). Wierzchołek tej paraboli oraz punkty
+przecięcia paraboli z osiami układu współrzędnych mają obie współrzędne całkowite.
+Zadanie 14.1. (0–1)
+Uzupełnij poniższe zdanie. Wpisz odpowiedni przedział w wykropkowanym miejscu
+tak, aby zdanie było prawdziwe.
+Zbiorem wszystkich rozwiązań nierówności 𝑓(𝑥) ≥ 0 jest przedział ……………………… .

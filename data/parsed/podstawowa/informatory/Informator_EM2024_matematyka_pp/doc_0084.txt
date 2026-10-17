@@ -1,0 +1,44 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=84; level=podstawowy; year=2024; section=1. Zapiszemy wzór na pole trójkąta 𝐴𝐵𝐶 i wykorzystamy dane zadania:]
+84 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Sposób 3.
+Wysokości trójkątów 𝐴𝐵𝐶 i 𝐷𝐵𝐸 opuszczone – odpowiednio – z wierzchołków 𝐶 i 𝐸
+oznaczymy jako ℎ𝐶, ℎ𝐸.
+1. Zapiszemy wzór na pole trójkąta 𝐴𝐵𝐶 i wykorzystamy dane zadania:
+𝑃𝐴𝐵𝐶 = 1
+2 ⋅ |𝐴𝐵| ⋅ ℎ𝐶
+20 = 1
+2 ⋅ |𝐴𝐵| ⋅ ℎ𝐶
+stąd
+|𝐴𝐵| ⋅ ℎ𝐶 = 40
+2. Zapiszemy wzór na pole trójkąta 𝐷𝐵𝐸 i wykorzystamy warunek zadania:
+𝑃𝐷𝐵𝐸 = 1
+2 ⋅ |𝐷𝐵| ⋅ ℎ𝐸
+𝑃𝐷𝐵𝐸 = 1
+2 ⋅ (3
+4 ⋅ |𝐴𝐵|) ⋅ ℎ𝐸
+𝑃𝐷𝐵𝐸 = 3
+8 ⋅ |𝐴𝐵| ⋅ ℎ𝐸
+3. Trójkąty 𝐶1𝐵𝐶 oraz 𝐸1𝐵𝐸 są podobne (na podstawie cechy: kąt – kąt – kąt), zatem:
+|𝐸𝐸1|
+|𝐶𝐶1| = |𝐵𝐸|
+|𝐵𝐶| stąd ℎ𝐸
+ℎ𝐶
+= 1
+5
+4. Do otrzymanego wzoru na pole trójkąta 𝐷𝐵𝐸 (punkt 2.) podstawimy wynik z punktu 3.
+i wynik z punktu 1.:
+𝑃𝐷𝐵𝐸 = 3
+8 ⋅ |𝐴𝐵| ⋅ ℎ𝐸 = 3
+8 ⋅ |𝐴𝐵| ⋅ ℎ𝐶
+5 = 3
+40 ⋅ |𝐴𝐵| ⋅ ℎ𝐶 = 3
+40 ⋅ 40 = 3
+𝐶
+𝐷
+𝐵
+𝐴
+𝐸
+ℎ𝐶
+ℎ𝐸
+𝐶1
+𝐸1

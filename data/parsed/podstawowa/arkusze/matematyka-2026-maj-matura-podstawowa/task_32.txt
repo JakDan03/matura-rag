@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=31; level=podstawowy; year=2026; month=maj; task_id=32]
+Zadanie 32. (0–1)
+Średnia arytmetyczna trzech liczb: 𝑎, 𝑏, 𝑐, jest równa 2.
+Średnia arytmetyczna czterech liczb: 𝑑, 𝑒, 𝑓, 𝑔, jest równa 5,5.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Średnia arytmetyczna siedmiu liczb: 𝑎, 𝑏, 𝑐, 𝑑, 𝑒, 𝑓, 𝑔, jest równa
+A. 3,5 B. 3,75 C. 4 D. 4,25

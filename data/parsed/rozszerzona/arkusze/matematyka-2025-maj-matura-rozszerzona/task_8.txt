@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=16; level=rozszerzony; year=2025; month=maj; task_id=8]
+Zadanie 8. (0–5)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dane są okręgi 𝒪1 oraz 𝒪2 o równaniach:
+• 𝒪1: (𝑥 − 1)2 + (𝑦 + 3)2 = 5
+• 𝒪2: (𝑥 − 2)2 + (𝑦 − 4)2 = 45.
+Te okręgi przecinają się w punktach 𝐴 oraz 𝐵. Punkt 𝐴 ma pierwszą współrzędną
+dodatnią. Punkt 𝑀 spełnia warunek 𝐴𝑀⃗⃗⃗⃗⃗⃗ = −2 ⋅ 𝐵𝑀⃗⃗⃗⃗⃗⃗ .
+Oblicz współrzędne punktów 𝑨, 𝑩 oraz 𝑴. Zapisz obliczenia.
+8.
+0–1–
+2–3–
+4–5

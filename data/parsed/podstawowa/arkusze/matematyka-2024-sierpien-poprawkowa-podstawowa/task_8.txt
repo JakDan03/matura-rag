@@ -1,0 +1,37 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=10; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=8]
+Zadanie 8. (0–1)
+Na rysunku, w kartezjańskim układzie współrzędnych (𝑥, 𝑦), przedstawiono interpretację
+geometryczną jednego z poniższych układów równań A–D.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Układem równań, którego interpretację geometryczną przedstawiono na rysunku, jest
+A. { 𝑦 = 𝑥 + 2
+𝑦 = 2𝑥 − 3
+B. { 𝑦 = −𝑥 + 2
+𝑦 = 2𝑥 − 3
+C. { 𝑦 = 𝑥 + 2
+𝑦 = −2𝑥 − 3
+D. { 𝑦 = −𝑥 + 2
+𝑦 = 2𝑥 + 3
+1
+2
+3
+4
+−1
+−2
+5
+0
+𝑥
+−5
+−4
+−3
+1
+2
+3
+4
+𝑦
+5
+−1
+−2
+−3
+−4
+−5

@@ -1,0 +1,180 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=8, 9, 10, 11, 12; level=rozszerzony; year=2023; month=czerwiec; task_id=5]
+Zadanie 5. (0–3)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+II.R1) znajduje pierwiastki całkowite
+i wymierne wielomianu o współczynnikach
+całkowitych.
+III.R1) rozwiązuje nierówności
+wielomianowe typu: 𝑊(𝑥) > 0,
+𝑊(𝑥) ≥ 0, 𝑊(𝑥) < 0, 𝑊(𝑥) ≤ 0 dla
+wielomianów doprowadzonych do postaci
+iloczynowej lub takich, które dają się
+doprowadzić do postaci iloczynowej metodą
+wyłączania wspólnego czynnika przed
+nawias lub metodą grupowania.
+Zasady oceniania
+3 pkt – spełnienie kryterium oceniania za 2 punkty i uzasadnienie prawdziwości nierówności
+(𝑎−2)2(𝑎+4)
+𝑎 ≥ 0 lub (𝑎 − 2)2(𝑎 + 4) ≥ 0, lub 𝑎(𝑎 − 2)2(𝑎 + 4) ≥ 0 z powołaniem
+się na założenie (dla sposobu I)
+ALBO
+– spełnienie kryterium oceniania za 2 punkty i przekształcenie nierówności
+𝑎2+8
+𝑎+8
+𝑎
+3 ≥ √𝑎2 ⋅
+8
+𝑎 ⋅
+8
+𝑎
+3
+do postaci tezy (dla sposobu II),
+ALBO
+– spełnienie kryterium oceniania za 2 punkty oraz obliczenie 𝑓(2): 𝑓(2) = 12 (dla
+sposobu III).
+2 pkt – przekształcenie nierówności 𝑎2 +
+16
+𝑎 ≥ 12 do postaci
+(𝑎−2)2(𝑎+4)
+𝑎 ≥ 0 lub
+(𝑎 − 2)2(𝑎 + 4) ≥ 0, lub 𝑎(𝑎 − 2)2(𝑎 + 4) ≥ 0 (dla sposobu I)
+ALBO
+– spełnienie kryterium oceniania za 1 punkt oraz zapisanie wielomianu 𝑎3 − 12𝑎 + 16
+w postaci (𝑎 − 2)2(𝑎 + 4) (dla sposobu I),
+ALBO
+– zapisanie, że dla każdego 𝑎 > 0 liczby 𝑎2,
+8
+𝑎 ,
+8
+𝑎 są dodatnie oraz zapisanie
+nierówności między średnimi arytmetyczną i geometryczną liczb dodatnich 𝑎2,
+8
+𝑎 ,
+8
+𝑎 :
+𝑎2+8
+𝑎+8
+𝑎
+3 ≥ √𝑎2 ⋅
+8
+𝑎 ⋅
+8
+𝑎
+3
+(dla sposobu II),
+ALBO
+– obliczenie miejsca zerowego pochodnej funkcji 𝑓 oraz wyznaczenie w przedziale
+(0, +∞) argumentu, dla którego funkcja osiąga w tym przedziale wartość najmniejszą
+(wraz z uzasadnieniem): 𝑎 = 2 (dla sposobu III).
+1 pkt – przekształcenie nierówności 𝑎2 +
+16
+𝑎 ≥ 12 do postaci
+𝑎3−12𝑎+16
+𝑎 ≥ 0 lub
+𝑎3 − 12𝑎 + 16 ≥ 0, lub 𝑎(𝑎3 − 12𝑎 + 16) ≥ 0 (dla sposobu I)
+Zasady oceniania rozwiązań zadań
+ALBO
+– zapisanie, że dla każdego 𝑎 > 0 liczby 𝑎2,
+8
+𝑎 ,
+8
+𝑎 są dodatnie (dla sposobu II),
+ALBO
+– obliczenie pochodnej funkcji 𝑓 określonej wzorem 𝑓(𝑎) = 𝑎2 +
+16
+𝑎 dla 𝑎 > 0 (lub w
+szerszym zakresie), np. 𝑓′(𝑎) = 2𝑎 −
+16
+𝑎2 (dla sposobu III).
+0 pkt – rozwiązanie, w którym zastosowano nieprawidłową metodę, albo brak rozwiązania.
+Uwaga:
+Jeśli zdający opiera swoje rozwiązanie na nierówności między średnimi (sposób III) i stosuje
+nierówność między średnimi liczb 𝑎2,
+8
+𝑎 ,
+8
+𝑎 bez zapisania, że liczby te są dodatnie, to może
+otrzymać co najwyżej 2 punkty za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Przekształcamy nierówność 𝑎2 +
+16
+𝑎 ≥ 12:
+𝑎3
+𝑎 + 16
+𝑎 − 12𝑎
+𝑎 ≥ 0
+𝑎3 − 12𝑎 + 16
+𝑎 ≥ 0
+𝑎(𝑎3 − 12𝑎 + 16) ≥ 0 i 𝑎 ≠ 0
+Zauważamy, że pierwiastkiem wielomianu 𝑊(𝑎) = 𝑎3 − 12𝑎 + 16 jest liczba 2. Stąd
+𝑊(𝑎) = (𝑎 − 2)(𝑎2 + 2𝑎 − 8). Ponieważ pierwiastkami trójmianu kwadratowego
+𝑎2 + 2𝑎 − 8 są liczby 2 i (−4), więc 𝑊(𝑎) = (𝑎 − 2)2(𝑎 + 4). Zatem nierówność
+𝑎(𝑎3 − 12𝑎 + 16) ≥ 0 można równoważnie zapisać w postaci
+𝑎(𝑎 − 2)2(𝑎 + 4) ≥ 0
+Dla każdej liczby dodatniej 𝑎 wyrażenie (𝑎 − 2)2 jest liczbą nieujemną, natomiast
+wyrażenie (𝑎 + 4) jest liczbą dodatnią. Zatem dla każdej liczby dodatniej 𝑎 wyrażenie
+𝑎(𝑎 − 2)2(𝑎 + 4) jest nieujemne jako iloczyn liczb nieujemnych. Oznacza to, że nierówność
+𝑎2 +
+16
+𝑎 ≥ 12 jest prawdziwa dla każdej liczby dodatniej 𝑎. To należało wykazać.
+Inna realizacja rozkładu wielomianu 𝑎3 − 12𝑎 + 16 na czynniki:
+𝑎3 − 12𝑎 + 16 = 𝑎3 − 16𝑎 + 4𝑎 + 16 = 𝑎(𝑎2 − 16) + 4(𝑎 + 4) =
+= 𝑎(𝑎 − 4)(𝑎 + 4) + 4(𝑎 + 4) = (𝑎 + 4)[𝑎(𝑎 − 4) + 4] =
+= (𝑎 + 4)(𝑎2 − 4𝑎 + 4) = (𝑎 + 4)(𝑎 − 2)2
+Sposób II
+Dla każdego 𝑎 > 0 liczby 𝑎2,
+8
+𝑎 ,
+8
+𝑎 są dodatnie. Korzystamy z nierówności między
+średnimi arytmetyczną i geometryczną liczb 𝑎2,
+8
+𝑎 ,
+8
+𝑎 i otrzymujemy:
+𝑎2 + 8
+𝑎 + 8
+𝑎
+3 ≥ √𝑎2 ⋅ 8
+𝑎 ⋅ 8
+𝑎
+3
+𝑎2 + 16
+𝑎
+3 ≥ √64
+3
+𝑎2 + 16
+𝑎 ≥ 12
+To należało wykazać.
+Zasady oceniania rozwiązań zadań
+Sposób III
+Niech 𝑓 będzie funkcją określoną wzorem 𝑓(𝑎) = 𝑎2 +
+16
+𝑎 dla każdej liczby rzeczywistej
+𝑎 > 0.
+Obliczamy pochodną funkcji 𝑓:
+𝑓′(𝑎) = 2𝑎 − 16
+𝑎2 = 2𝑎3 − 16
+𝑎2
+Obliczamy miejsca zerowe pochodnej funkcji 𝑓:
+2𝑎3 − 16
+𝑎2 = 0
+2𝑎3 − 16 = 0
+𝑎 = 2
+Ponieważ 𝑓′(𝑎) > 0 dla 𝑎 ∈ (2, +∞) oraz 𝑓′(𝑎) < 0 dla 𝑎 ∈ (0, 2), więc funkcja 𝑓
+jest malejąca w przedziale (0, 2] oraz jest rosnąca w przedziale [2, +∞).
+Zatem dla argumentu 𝑎 = 2 funkcja przyjmuje wartość najmniejszą równą
+𝑓(2) = 22 +
+16
+2 = 12. Stąd 𝑓(𝑎) ≥ 12 dla każdej liczby dodatniej 𝑎.
+To oznacza, że nierówność 𝑎2 +
+16
+𝑎 ≥ 12 jest prawdziwa dla każdego 𝑎 > 0.

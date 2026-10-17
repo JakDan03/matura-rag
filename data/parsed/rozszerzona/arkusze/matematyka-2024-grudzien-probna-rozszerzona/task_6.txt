@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona.pdf; typ=exam_paper; strony=10; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=6]
+Zadanie 6. (0–4)
+Rozwiąż równanie
+|𝟒𝒙 − 𝟖| + |𝒙 − 𝟐| = |𝟐 − 𝒙| + |𝒙 + 𝟐| + 𝟒
+Zapisz obliczenia.
+6.
+0–1–
+2–3-4

@@ -1,0 +1,20 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=25; level=podstawowy; year=2025; month=maj; task_id=21]
+Zadanie 21. (0–1)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+3. Dobieranie argumentów do uzasadnienia
+poprawności rozwiązywania problemów,
+tworzenie ciągu argumentów,
+gwarantujących poprawność rozwiązania
+i skuteczność w poszukiwaniu rozwiązań
+zagadnienia.
+Zdający:
+VII.3) stosuje twierdzenie cosinusów oraz
+wzór na pole trójkąta 𝑃 = 1
+2 ⋅ 𝑎 ⋅ 𝑏 ⋅ sin 𝛾.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+Wersja A Wersja B
+FP FP

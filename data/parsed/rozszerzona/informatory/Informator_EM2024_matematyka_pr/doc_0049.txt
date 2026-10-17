@@ -1,0 +1,31 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=49; level=rozszerzony; year=2024; section=1. Przeprowadzanie rozumowań […];]
+Przykładowe zadania z rozwiązaniami 49
+Wymagania ogólne
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań […];
+4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Wymaganie szczegółowe
+XIII. Optymalizacja i rachunek różniczkowy. Zdający:
+2R) stosuje własność Darboux do uzasadniania istnienia miejsca zerowego funkcji.
+Zasady oceniania
+3 pkt – przeprowadzenie pełnego dowodu.
+2 pkt – podanie dla funkcji 𝑓(𝑥) = 𝑥4 − 7𝑥3 + 9𝑥2 + 8𝑥 − 2 takich trzech argumentów
+𝑥1 < 𝑥2 < 𝑥3 leżących w przedziale (−2, 2), dla których 𝑓(𝑥1) > 0, 𝑓(𝑥2) < 0
+i 𝑓(𝑥3) > 0, oraz uzasadnienie, że funkcja 𝑓 jest ciągła.
+1 pkt – podanie dla funkcji 𝑓(𝑥) = 𝑥4 − 7𝑥3 + 9𝑥2 + 8𝑥 − 2 takich dwóch argumentów
+𝑥1 < 𝑥2 leżących w przedziale (−2, 2), dla których 𝑓(𝑥1) ⋅ 𝑓(𝑥2) < 0.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Niech 𝑓 będzie funkcją określoną wzorem 𝑓(𝑥) = 𝑥4 − 7𝑥3 + 9𝑥2 + 8𝑥 − 2 dla 𝑥 ∈ ℝ.
+Obliczamy wartości funkcji 𝑓 w kilku punktach przedziału (−2, 2):
+𝑓(−1) = (−1)4 − 7 ⋅ (−1)3 + 9 ⋅ (−1)2 + 8 ⋅ (−1) − 2 = 7
+𝑓(0) = −2
+𝑓(1) = 14 − 7 ⋅ 13 + 9 ⋅ 12 + 8 ⋅ 1 − 2 = 9
+Funkcja 𝑓 jest ciągła jako funkcja wielomianowa, więc na mocy twierdzenia Darboux
+funkcja 𝑓 przyjmuje w przedziale (−1, 0) wszystkie wartości ze zbioru (−2, 7).
+Zatem istnieje 𝑥1 ∈ (−1, 0) takie, że 𝑓(𝑥1) = 0.
+Podobnie, funkcja 𝑓 przyjmuje w przedziale (0, 1) wszystkie wartości ze zbioru (−2, 9),
+więc istnieje 𝑥2 ∈ (0, 1) takie, że 𝑓(𝑥2) = 0.
+To oznacza, że w przedziale (−2, 2) równanie podane w treści zadania ma co najmniej
+dwa różne rozwiązania.

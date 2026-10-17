@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=16; level=podstawowy; year=2026; month=marzec; term=probna; task_id=17]
+Zadanie 17. (0–2)
+Kąt o mierze 𝛼 jest rozwarty oraz sin 𝛼 = 1
+√3
+.
+Oblicz wartość wyrażenia 𝟑 𝐬𝐢𝐧 𝜶
+𝐭𝐠 𝜶
+. Zapisz obliczenia.
+17.
+0–1–2

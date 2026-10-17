@@ -1,0 +1,349 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=12, 13, 14, 15, 16, 17, 18, 19, 20; level=rozszerzony; year=2023; month=maj; task_id=5]
+Zadanie 5. (0–3)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+VIII.R3) przeprowadza dowody
+geometryczne.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: |𝑁𝐷| = √3 + 1.
+2 pkt – obliczenie długości odcinka 𝐵𝑁: √3 − 1
+ALBO
+– obliczenie długości odcinka 𝐵𝐷: |𝐵𝐷| = 2√3 i zapisanie równania z jedną
+niewiadomą 𝑥 (długością odcinka 𝐵𝑁),
+ALBO
+– zapisanie równania 𝑥
+2√3−𝑥 = 2+√3
+1 z niewiadomą 𝑥 = |𝐷𝑁| (otrzymanego
+z podobieństwa trójkątów 𝐵𝐿𝑁 i 𝐷𝐸𝑁, sposób VII),
+ALBO
+– obliczenie współrzędnych punktu 𝑁: 𝑁 = ( 1
+√3+1 ,
+√3
+√3+1) i obliczenie długości
+odcinka 𝐵𝐷: |𝐵𝐷| = 2√3 (sposób V),
+ALBO
+– obliczenie współrzędnych punktów 𝑁 i 𝐷: 𝑁 = ( 1
+√3+1 ,
+√3
+√3+1) i 𝐷 = (√3, 3)
+(sposób V),
+ALBO
+– obliczenie współrzędnych punktu 𝑁: 𝑁 = ( 1
+√3+1 ,
+√3
+√3+1) i zapisanie długości |𝐷𝑁|
+w postaci
+|−
+√3
+3 ⋅ 1
+√3+1 − 1 ⋅
+√3
+√3+1 + 4|
+√(−
+√3
+3 )
+2
++(−1)2
+(sposób V).
+1 pkt – zapisanie równania z jedną niewiadomą 𝑥 = |𝐵𝑁|, np.
+1
+2 ∙ 1 ∙ 𝑥 ∙ sin60° + 1
+2 ∙ 𝑥 ∙ 1 ∙ sin30° = 1
+2 (z sumy pól trójkątów 𝐵𝐿𝑁 oraz 𝐾𝐵𝑁),
+1
+sin 105° = 𝑥
+sin 45° (z twierdzenia sinusów dla trójkąta 𝐵𝑁𝐾),
+1
+sin 75° = 𝑥
+sin 45° (z twierdzenia sinusów dla trójkąta 𝐵𝑁𝐿),
+1 − 1
+2 ∙ 𝑥 = 𝑥⋅√3
+2 (ze związków miarowych w trójkątach 𝐵𝐸𝑁 i 𝐸𝐿𝑁),
+ALBO
+– obliczenie długości odcinka 𝐵𝐷 i zapisanie |𝐵𝐷| = 2√3,
+ALBO
+Zasady oceniania rozwiązań zadań
+– zapisanie równania z jedną niewiadomą 𝑥 (pierwszą lub drugą współrzędną
+punktu 𝑁), np. −𝑥 + 1 = √3𝑥 (sposób V),
+ALBO
+– wyznaczenie równań prostych 𝐴𝐶 i 𝐵𝐷 oraz obliczenie współrzędnych punktu 𝐷:
+𝐷 = (√3, 3) (sposób V).
+0 pkt – rozwiązanie, w którym zastosowano nieprawidłową metodę, albo brak rozwiązania.
+Uwaga:
+W rozwiązaniach nie są akceptowane przybliżenia dziesiętne liczb rzeczywistych.
+Przykładowe pełne rozwiązania
+Sposób I (pola trójkątów)
+W trójkącie 𝐷𝐴𝐵 o kątach 90°, 60°, 30° mamy: |𝐴𝐷| = 2, |𝐴𝐵| = 4 i |𝐵𝐷| = 2√3.
+W trójkącie 𝐵𝐿𝑁 miara kąta 𝑁𝐵𝐿 jest równa 60°. W trójkącie 𝐾𝐵𝑁 miara kąta 𝐾𝐵𝑁
+jest równa 30°. Ponieważ pole trójkąta 𝐾𝐵𝐿 (równe 1
+2) jest sumą pól trójkątów 𝐵𝐿𝑁 oraz
+𝐾𝐵𝑁, więc możemy zapisać równość
+1
+2 ∙ |𝐵𝐿| ∙ |𝐵𝑁| ∙ sin 60° + 1
+2 ∙ |𝐵𝑁| ∙ |𝐵𝐾| ∙ sin30° = 1
+2
+Stąd, po uwzględnieniu warunku |𝐵𝐾| = |𝐵𝐿| = 1, otrzymujemy dalej
+|𝐵𝑁| ∙ √3
+2 + |𝐵𝑁| ∙ 1
+2 = 1
+|𝐵𝑁| ∙ (√3 + 1) = 2
+|𝐵𝑁| = √3 − 1
+Zatem |𝑁𝐷| = |𝐵𝐷| − |𝐵𝑁| = 2√3 − (√3 − 1) = √3 + 1.
+To należało wykazać.
+60°
+1
+𝐾
+𝐴
+𝑁
+𝐿
+𝐵
+𝐶
+2
+𝐷
+1
+Sposób II
+W trójkącie 𝐷𝐴𝐵 o kątach 90°, 60°, 30° mamy: |𝐴𝐷| = 2, |𝐴𝐵| = 4 i |𝐵𝐷| = 2√3.
+Kąty w trójkącie 𝐵𝑁𝐾 mają miary: 30°, 45°, 105°. Stosujemy twierdzenie sinusów
+i zapisujemy równość:
+|𝐵𝐾|
+sin105° = |𝐵𝑁|
+sin45°
+Zatem
+|𝐵𝑁| = 1 ∙ sin45°
+sin(60° + 45°) =
+√2
+2
+√3
+2 ∙ √2
+2 + 1
+2 ∙ √2
+2
+= 2
+√3 + 1
+= √3 − 1
+Ostatecznie |𝑁𝐷| = |𝐵𝐷| − |𝐵𝑁| = 2√3 − (√3 − 1) = √3 + 1.
+To należało wykazać.
+Sposób III (trójkąt 𝐵𝐿𝑁)
+Prowadzimy wysokość 𝑁𝐸 w trójkącie 𝐵𝐿𝑁 i oznaczamy 𝑥 = |𝐵𝐸|.
+Trójkąt prostokątny 𝐷𝐴𝐵 ma kąty ostre 60° i 30°, więc:
+|𝐴𝐵| = 2|𝐴𝐷| = 2 ⋅ 2 = 4 i |𝐵𝐷| = |𝐴𝐷|√3 = 2√3
+Trójkąt prostokątny 𝐵𝐿𝐾 ma kąty ostre 45°, więc |𝐾𝐿| = √2.
+W trójkącie prostokątnym 𝑁𝐵𝐸 kąty ostre mają miary 60° i 30°, więc
+|𝑁𝐸| = |𝐵𝐸| ∙ √3 = 𝑥√3 i |𝐵𝑁| = 2|𝐵𝐸| = 2𝑥
+Trójkąt prostokątny 𝐸𝐿𝑁 ma kąty ostre 45°, więc
+|𝑁𝐸| = |𝐸𝐿| = 𝑥√3
+Ale |𝑁𝐸| = |𝐵𝐿| − |𝐵𝐸| = 1 − 𝑥, więc otrzymujemy równanie
+𝑥
+60°
+1 − 𝑥
+𝐾
+𝐴
+𝑁
+𝐿
+𝐵
+𝐶
+2
+𝐷
+1
+𝐸
+Zasady oceniania rozwiązań zadań
+1 − 𝑥 = 𝑥√3
+𝑥√3 + 𝑥 = 1
+(√3 + 1)𝑥 = 1
+Mnożąc obie strony równania przez √3 − 1, otrzymujemy
+2𝑥 = √3 − 1
+czyli
+|𝐵𝑁| = 2𝑥 = √3 − 1
+Zatem |𝑁𝐷| = |𝐵𝐷| − |𝐵𝑁| = 2√3 − (√3 − 1) = √3 + 1.
+To należało wykazać.
+Sposób IV (twierdzenie cosinusów)
+W trójkącie 𝐷𝐴𝐵 o kątach 90°, 60°, 30° mamy: |𝐴𝐷| = 2, |𝐴𝐵| = 4 i |𝐵𝐷| = 2√3.
+W trójkącie 𝐾𝐵𝐿 kąty mają miary: 90°, 45°, 45° oraz: |𝐵𝐾| = |𝐵𝐿| = 1, |𝐾𝐿| = √2.
+Z twierdzenia cosinusów zastosowanego do trójkątów 𝐾𝐵𝑁 oraz 𝐵𝐿𝑁 otrzymujemy
+równości
+|𝐵𝑁|2 = |𝐵𝐾|2 + |𝐾𝑁|2 − 2 ∙ |𝐵𝐾| ∙ |𝐾𝑁| ∙ cos45°
+oraz
+|𝐵𝑁|2 = |𝐵𝐿|2 + |𝐿𝑁|2 − 2 ∙ |𝐵𝐿| ∙ |𝐿𝑁| ∙ cos45°
+Zatem po podstawieniu |𝐵𝐾| = |𝐵𝐿| = 1 i dodaniu stronami równań otrzymujemy równość:
+2 ∙ |𝐵𝑁|2 = |𝐿𝑁|2 + |𝐾𝑁|2
+Ponieważ |∡𝐾𝐵𝑁| = 30°, więc z twierdzenia cosinusów zastosowanego do trójkąta 𝐾𝐵𝑁
+otrzymujemy:
+|𝐾𝑁|2 = |𝐵𝐾|2 + |𝐵𝑁|2 − 2 ∙ |𝐵𝐾| ∙ |𝐵𝑁| ∙ cos30°
+Ponieważ |∡𝑁𝐵𝐿| = 60°, więc z twierdzenia cosinusów zastosowanego do trójkąta 𝐵𝐿𝑁
+otrzymujemy:
+|𝐿𝑁|2 = |𝐵𝐿|2 + |𝐵𝑁|2 − 2 ∙ |𝐵𝐿| ∙ |𝐵𝑁| ∙ cos60°
+Zatem po podstawieniu |𝐵𝐾| = |𝐵𝐿| = 1 i dodaniu stronami równań otrzymujemy równość:
+|𝐿𝑁|2 + |𝐾𝑁|2 = 2 + 2 ∙ |𝐵𝑁|2 − |𝐵𝑁| ∙ √3 − |𝐵𝑁|
+Ale
+2 ∙ |𝐵𝑁|2 = |𝐿𝑁|2 + |𝐾𝑁|2
+więc
+2 ∙ |𝐵𝑁|2 = 2 + 2 ∙ |𝐵𝑁|2 − |𝐵𝑁| ∙ √3 − |𝐵𝑁|
+Zatem |𝐵𝑁| ∙ (√3 + 1) = 2, czyli |𝐵𝑁| = √3 − 1. Dlatego
+|𝑁𝐷| = |𝐵𝐷| − |𝐵𝑁| = 2√3 − (√3 − 1) = √3 + 1.
+To należało wykazać.
+Sposób V (trójkąt w układzie współrzędnych)
+Umieszczamy trójkąt 𝐴𝐵𝐶 w kartezjańskim układzie współrzędnych (𝑥, 𝑦) tak, aby:
+𝐵 = (0, 0), 𝐴 był punktem leżącym na dodatniej półosi 𝑂𝑦, 𝐶 był punktem leżącym na
+dodatniej półosi 𝑂𝑥. Wtedy 𝐾 = (0, 1) i 𝐿 = (1, 0), więc prosta 𝐾𝐿 ma równanie
+𝑦 = −𝑥 + 1. Ponieważ |∡𝐵𝐴𝐶| = 60° i 𝐵𝐷 ⊥ 𝐴𝐶, więc prosta 𝐵𝐷 jest nachylona do osi
+𝑂𝑥 pod kątem 60°. Stąd 𝐵𝐷 ma równanie 𝑦 = √3𝑥.
+Obliczamy współrzędne punktu 𝑁:
+{
+𝑦 = −𝑥 + 1
+𝑦 = √3 𝑥
+{ √3𝑥 = −𝑥 + 1
+𝑦 = √3 𝑥
+{
+𝑥 = 1
+√3 + 1
+𝑦 = √3
+√3 + 1
+czyli 𝑁 = ( 1
+√3+1 ,
+√3
+√3+1).
+Obliczamy współrzędne punktu 𝐴.
+|𝐴𝐷|
+|𝐴𝐵| = cos 60°, więc |𝐴𝐵| = |𝐴𝐷|
+cos 60° = 4 i stąd 𝐴 = (0, 4).
+4
+𝑦 = −𝑥 + 1
+𝑦 = √3 ⋅ 𝑥
+60°
+1
+𝐾
+𝐴
+𝑁
+𝐿
+𝐵
+𝐶
+2
+𝐷
+1
+𝑥
+𝑦
+0
+Zasady oceniania rozwiązań zadań
+Ponieważ |∡𝐵𝐶𝐴| = 30°, więc współczynnik kierunkowy 𝑎 w równaniu prostej 𝐴𝐶 jest
+równy 𝑎 = tg 150° = −
+√3
+3 . Zatem prosta 𝐴𝐶 ma równanie 𝑦 = −
+√3
+3 𝑥 + 4.
+Obliczamy odległość punktu 𝑁 od prostej 𝐴𝐶:
+|− √3
+3 ⋅ 1
+√3 + 1 − 1 ⋅ √3
+√3 + 1 + 4|
+√(− √3
+3 )
+2
++ (−1)2
+=
+|−√3 − 3√3 + 12(√3 + 1)
+3(√3 + 1) |
+2
+√3
+=
+8√3 + 12
+3(√3 + 1)
+2
+√3
+=
+= 8√3 + 12
+3(√3 + 1)
+⋅ √3
+2 = 4 + 2√3
+√3 + 1
+= 2(2 + √3)(√3 − 1)
+2 = √3 + 1
+Zatem |𝑁𝐷| = √3 + 1. To należało wykazać.
+Sposób VI (prosta równoległa do 𝐾𝐿 przechodząca przez 𝐷)
+Prowadzimy wysokość 𝐷𝐸 trójkąta 𝐵𝐶𝐷, a przez punkt 𝐷 prostą równoległą do
+prostej 𝐾𝐿 i oznaczamy przez 𝐹 punkt jej przecięcia z prostą 𝐵𝐶.
+W trójkącie 𝐷𝐴𝐵 o kątach 90°, 60°, 30° mamy: |𝐴𝐷| = 2, |𝐴𝐵| = 4 i |𝐵𝐷| = 2√3.
+Trójkąt prostokątny 𝐵𝐸𝐷 ma również kąty ostre 60° i 30°, więc |𝐵𝐸| =
+|𝐵𝐷|
+2 = √3
+i |𝐷𝐸| = |𝐵𝐷|√3 = 3.
+Trójkąt prostokątny 𝐷𝐸𝐹 ma kąty ostre 45°, więc jest równoramienny.
+Zatem |𝐸𝐹| = |𝐷𝐸| = 3.
+Stąd |𝐿𝐹| = |𝐿𝐸| + |𝐸𝐹| = (|𝐵𝐸| − |𝐵𝐿|) + |𝐸𝐹| = √3 − 1 + 3 = 2 + √3.
+Z twierdzenia Talesa otrzymujemy
+|𝑁𝐷|
+|𝐿𝐹| = |𝐵𝑁|
+|𝐵𝐿|
+𝐹
+60°
+1
+𝐾
+𝐴
+𝑁
+𝐿
+𝐵
+𝐶
+2
+𝐷
+1
+𝐸
+𝐹
+czyli
+|𝑁𝐷|
+2 + √3
+= 2√3 − |𝑁𝐷|
+1
+Stąd
+|𝑁𝐷| = (2 + √3) ⋅ (2√3 − |𝑁𝐷|)
+|𝑁𝐷| + (2 + √3) ⋅ |𝑁𝐷| = 4√3 + 6
+|𝑁𝐷| ⋅ (3 + √3) = 4√3 + 6
+|𝑁𝐷| = 4√3 + 6
+3 + √3
+= 2(2√3 + 3)(3 − √3)
+9 − 3 = √3 + 1
+To należało wykazać.
+Sposób VII (prosta równoległa do 𝐵𝐶 przechodząca przez 𝐷)
+Prowadzimy przez punkt 𝐷 prostą równoległą do prostej 𝐵𝐶 i oznaczamy przez 𝐸 punkt
+jej przecięcia z prostą 𝐾𝐿, natomiast przez 𝐹 – punkt jej przecięcia z prostą 𝐴𝐵.
+W trójkącie 𝐷𝐴𝐵 o kątach 90°, 60°, 30° mamy: |𝐴𝐷| = 2, |𝐴𝐵| = 4 i |𝐵𝐷| = 2√3.
+Trójkąt prostokątny 𝐴𝐹𝐷 ma kąty ostre 60° i 30°, więc |𝐴𝐹| = 1 oraz |𝐷𝐹| = √3.
+Zatem |𝐹𝐾| = 4 − 1 − 1 = 2.
+Trójkąt prostokątny 𝐾𝐹𝐸 ma kąty ostre 45°, więc jest równoramienny.
+Zatem |𝐸𝐹| = |𝐹𝐾| = 2. Stąd |𝐸𝐷| = 2 + √3.
+Trójkąty 𝐷𝐸𝑁 i 𝐵𝐿𝑁 są podobne (kkk), więc
+|𝑁𝐷|
+|𝐸𝐷| = |𝐵𝑁|
+|𝐵𝐿|
+czyli
+60°
+1
+𝐾
+𝐴
+𝑁
+𝐿
+𝐵
+𝐶
+2
+𝐷
+1
+𝐸
+𝐹
+Zasady oceniania rozwiązań zadań
+|𝑁𝐷|
+2 + √3
+= 2√3 − |𝑁𝐷|
+1
+Stąd
+|𝑁𝐷| = (2 + √3) ⋅ (2√3 − |𝑁𝐷|)
+|𝑁𝐷| + (2 + √3) ⋅ |𝑁𝐷| = 4√3 + 6
+|𝑁𝐷| ⋅ (3 + √3) = 4√3 + 6
+|𝑁𝐷| = 4√3 + 6
+3 + √3
+= 2(2√3 + 3)(3 − √3)
+9 − 3 = √3 + 1
+To należało wykazać.

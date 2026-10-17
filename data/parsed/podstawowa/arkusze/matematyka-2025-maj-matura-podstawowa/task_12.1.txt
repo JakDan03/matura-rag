@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=12; level=podstawowy; year=2025; month=maj; task_id=12.1]
+Zadanie 12.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) przedstawiono fragment paraboli, która jest
+wykresem funkcji kwadratowej 𝑓 (zobacz rysunek). Wierzchołek tej paraboli ma
+współrzędne (3, 6). Ta parabola przecina oś 𝑂𝑦 w punkcie o współrzędnych (0, 3).
+Zadanie 12.1. (0–2)
+Wyznacz wzór funkcji 𝒇 w postaci kanonicznej. Zapisz obliczenia.
+12.1.
+0–1–2

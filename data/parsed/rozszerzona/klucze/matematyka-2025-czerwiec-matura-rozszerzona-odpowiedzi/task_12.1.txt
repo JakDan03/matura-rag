@@ -1,0 +1,32 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=43, 44; level=rozszerzony; year=2025; month=czerwiec; task_id=12.1]
+Zadanie 12.1. (0–2)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+X.5) oblicza objętości i pola powierzchni
+graniastosłupów […].
+Zasady oceniania
+2 pkt – poprawne przekształcenia i przeprowadzenie pełnego rozumowania.
+1 pkt – wyznaczenie wysokości graniastosłupa w zależności od długości krawędzi podstawy
+graniastosłupa, np. 𝐻 = 48√3 − 𝑎2 ⋅ √3
+6𝑎 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Rozpatrzmy dowolny z rozważanych graniastosłupów. Oznaczmy przez 𝐻 jego wysokość.
+Pole powierzchni całkowitej tej bryły jest równe 24√3, więc
+24√3 = 2 ⋅ 𝑎2 ⋅ √3
+4 + 3𝑎𝐻
+Stąd
+𝐻 = 48√3 − 𝑎2 ⋅ √3
+6𝑎
+Zatem objętość 𝑉 graniastosłupa jest równa
+𝑉 = 𝑎2 ⋅ √3
+4 ⋅ 𝐻 = 𝑎2 ⋅ √3
+4 ⋅ 48√3 − 𝑎2 ⋅ √3
+6𝑎 = 6𝑎 − 1
+8 𝑎3
+To należało wykazać.

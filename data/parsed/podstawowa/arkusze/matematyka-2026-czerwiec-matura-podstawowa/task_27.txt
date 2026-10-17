@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=26; level=podstawowy; year=2026; month=czerwiec; task_id=27]
+Zadanie 27. (0–4)
+Odcinek 𝐴𝐷 jest wysokością walca, a odcinek 𝐴𝐵 jest średnicą podstawy walca.
+Odcinek 𝐵𝐷 ma długość 4√3. Miara kąta 𝐴𝐵𝐷 jest równa 30° (zobacz rysunek).
+Oblicz objętość i pole powierzchni całkowitej tego walca. Zapisz obliczenia.
+𝐷
+𝐵
+𝐴
+30°
+4√3
+27.
+0–1–
+2–3–4

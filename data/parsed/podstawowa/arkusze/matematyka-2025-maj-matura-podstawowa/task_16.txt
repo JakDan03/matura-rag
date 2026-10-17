@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=17; level=podstawowy; year=2025; month=maj; task_id=16]
+Zadanie 16. (0–1)
+Dany jest ciąg geometryczny (𝑎𝑛) określony dla każdej liczby naturalnej 𝑛 ≥ 1, w którym
+𝑎1 = 27 oraz 𝑎2 = 9.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Czwarty wyraz ciągu (𝑎𝑛) jest równy
+A. 1
+3 B. 1 C. 3 D. 729

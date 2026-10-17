@@ -1,0 +1,22 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=28; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=30]
+Zadanie 30. (0–4)
+Rozważamy wszystkie prostopadłościany 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻, w których krawędź 𝐴𝐸 jest 3 razy
+dłuższa od krawędzi 𝐴𝐵, a suma długości wszystkich dwunastu krawędzi
+prostopadłościanu jest równa 48 (zobacz rysunek).
+Niech 𝑃(𝑥) oznacza funkcję pola powierzchni całkowitej takiego prostopadłościanu
+w zależności od długości 𝑥 krawędzi 𝐴𝐵.
+Wyznacz wzór i dziedzinę funkcji 𝑷. Oblicz długość 𝒙 krawędzi 𝑨𝑩 tego
+z rozważanych prostopadłościanów, którego pole powierzchni całkowitej jest
+największe. Zapisz obliczenia.
+𝐴
+𝐵
+𝐶
+𝐷
+𝐺
+𝐻
+𝐸
+𝐹
+𝑥
+30.
+0–1–
+2–3–4

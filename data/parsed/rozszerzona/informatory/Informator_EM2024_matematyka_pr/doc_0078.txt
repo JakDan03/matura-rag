@@ -1,0 +1,38 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=78; level=rozszerzony; year=2024; section=ALBO]
+78 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Wymagania szczegółowe
+VII. Trygonometria. Zdający:
+2) korzysta z wzorów sin2 𝛼 + cos2 𝛼 = 1 […].
+VIII. Planimetria. Zdający:
+2) […] stosuje twierdzenie odwrotne do twierdzenia Pitagorasa i twierdzenie
+cosinusów […].
+IX. Geometria analityczna na płaszczyźnie kartezjańskiej. Zdający:
+3R) zna pojęcie wektora i oblicza jego współrzędne oraz długość, dodaje wektory […].
+Zasady oceniania
+dla rozwiązania sposobem 1.
+4 pkt – poprawna metoda obliczenia pola równoległoboku i poprawny wynik.
+3 pkt – obliczenie sinusa kąta 𝐵𝐷𝐶.
+2 pkt – zastosowanie twierdzenia cosinusów do obliczenia cosinusa kąta 𝐵𝐷𝐶.
+1 pkt – obliczenie długości boków trójkąta 𝐵𝐶𝐷.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+dla rozwiązań sposobami 2. oraz 3.
+4 pkt – poprawna metoda obliczenia pola równoległoboku i poprawny wynik.
+3 pkt – obliczenie pola trójkąta 𝐵𝐶𝐷.
+2 pkt – zastosowanie wzoru do obliczenia pola trójkąta 𝐵𝐶𝐷.
+1 pkt – wyrażenie współrzędnych punktów 𝐵 i 𝐶 za pomocą współrzędnych punktu 𝐷
+ALBO
+– obliczenie długości boków trójkąta 𝐵𝐶𝐷.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób 1.
+Obliczamy długości boków trójkąta 𝐵𝐶𝐷:
+BC⃗⃗⃗⃗⃗ = BD⃗⃗⃗⃗⃗ + DC⃗⃗⃗⃗⃗ = [−21, −7] + [15, 8] = [−6, 1]
+|𝐵𝐶| = √(−6)2 + 12 = √37
+|𝐶𝐷| = √152 + 82 = √289 = 17
+|𝐵𝐷| = √(−21)2 + (−7)2 = √490 = 7√10
+Oznaczmy kąt 𝐵𝐷𝐶 trójkąta 𝐵𝐶𝐷 przez 𝛼.
+Z twierdzenia cosinusów oraz ze wzoru sin2 𝛼 + cos2 𝛼 = 1 obliczamy sinus kąta 𝛼:
+|𝐵𝐶|2 = |𝐵𝐷|2 + |𝐶𝐷|2 − 2 ⋅ |𝐵𝐷| ⋅ |𝐶𝐷| ⋅ cos 𝛼
+37 = 490 + 289 − 2 ⋅ 7√10 ⋅ 17 ⋅ cos 𝛼
+cos 𝛼 = 53
+17√10

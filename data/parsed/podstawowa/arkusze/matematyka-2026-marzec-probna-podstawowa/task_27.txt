@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=26; level=podstawowy; year=2026; month=marzec; term=probna; task_id=27]
+Zadanie 27. (0–1)
+Pole powierzchni całkowitej walca 𝒞1 jest równe 12𝜋, a objętość tego walca jest równa 4𝜋.
+Walec 𝒞2 jest podobny do walca 𝒞1 w skali 𝑘 = 2.
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Pole powierzchni całkowitej walca 𝒞2 jest równe 48𝜋. P F
+Objętość walca 𝒞2 jest równa 32𝜋. P F

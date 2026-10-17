@@ -1,0 +1,26 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=126; level=podstawowy; year=2024; section=A. 12 B. 72 C. 60 D. 720]
+126 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 63.
+Andrzej ma w szafie 4 koszule: czerwoną, żółtą, zieloną i niebieską; 3 pary spodni:
+niebieskie, czarne i szare; oraz 5 par butów: czarne, szare, zielone, czerwone i niebieskie.
+Andrzej wybiera z szafy zestaw ubrania: jedną koszulę, jedną parę spodni i jedną parę
+butów. Zestawy ubrania wybierane przez Andrzeja określimy jako różne, gdy będą różniły się
+kolorem chociaż jednego rodzaju elementu ubioru w zestawie.
+Zadanie 63.1. (0–1)
+Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.
+Liczba wszystkich możliwych, różnych zestawów ubrania, jakie może wybrać Andrzej, jest
+równa
+A. 12 B. 72 C. 60 D. 720
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów
+praktycznych i teoretycznych.
+Wymagania szczegółowe
+XI. Kombinatoryka. Zdający:
+1) zlicza obiekty w prostych sytuacjach kombinatorycznych;
+2) zlicza obiekty, stosując reguły mnożenia […].
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C

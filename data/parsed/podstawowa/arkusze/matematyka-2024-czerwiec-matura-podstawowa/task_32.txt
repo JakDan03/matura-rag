@@ -1,0 +1,16 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=29; level=podstawowy; year=2024; month=czerwiec; task_id=32]
+Zadanie 32. (0–2)
+Właściciel sklepu z zabawkami przeprowadził lokalne badanie rynkowe dotyczące wpływu
+zmiany ceny zestawu klocków na liczbę kupujących ten produkt. Z badania wynika, że
+dzienny przychód 𝑃 ze sprzedaży zestawów klocków, w zależności od kwoty obniżki ceny
+zestawu o 𝑥 zł, wyraża się wzorem
+𝑃(𝑥) = (70 − 𝑥)(20 + 𝑥)
+gdzie 𝑥 jest liczbą całkowitą spełniającą warunki 𝑥 ≥ 0 i 𝑥 ≤ 60.
+Uzupełnij tabelę. Wpisz w każdą pustą komórkę tabeli właściwą odpowiedź, wybraną
+spośród oznaczonych literami A–E.
+32.1.
+Dzienny przychód ze sprzedaży zestawów klocków będzie największy,
+gdy liczba 𝑥 jest równa
+32.2. Dzienny przychód ze sprzedaży zestawów klocków będzie równy 800 zł,
+gdy liczba 𝑥 jest równa
+A. 25 B. 30 C. 45 D. 50 E. 60

@@ -1,0 +1,84 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=29, 30; level=rozszerzony; year=2023; month=czerwiec; task_id=13]
+Zadanie 13. (0–6)
+Wymagania egzaminacyjne 2023 i 2024
+Wymagania ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+3. Dobieranie argumentów do uzasadnienia
+poprawności rozwiązywania problemów,
+tworzenie ciągu argumentów,
+gwarantujących poprawność rozwiązania
+i skuteczność w poszukiwaniu rozwiązań
+zagadnienia.
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+XIII.R5) rozwiązuje zadania optymalizacyjne
+z zastosowaniem pochodnej.
+Zasady oceniania
+6 pkt – poprawne wyznaczenie wzoru funkcji 𝑉(ℎ) oraz jej dziedziny, oraz wyznaczenie
+wysokości graniastosłupa o największej objętości wraz z uzasadnieniem.
+5 pkt – obliczenie miejsca zerowego pochodnej funkcji 𝑉: ℎ = √3
+3 𝑑.
+4 pkt – wyznaczenie pochodnej funkcji 𝑉, np. 𝑉′(ℎ) = 2(𝑑2 − 3ℎ2).
+3 pkt – wyznaczenie dziedziny funkcji 𝑉(ℎ): (0, 𝑑).
+2 pkt – wyznaczenie objętości 𝑉 graniastosłupa jako funkcji jego wysokości, np.
+𝑉(ℎ) = 2(𝑑2 − ℎ2) ∙ ℎ.
+1 pkt – wyznaczenie długości krawędzi podstawy w zależności od wysokości graniastosłupa:
+𝑎 = √2 ∙ √𝑑2 − ℎ2 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Oznaczmy przez 𝑎 długość krawędzi podstawy
+graniastosłupa, natomiast przez ℎ – wysokość tego
+graniastosłupa.
+a)
+Korzystamy z twierdzenia Pitagorasa dla trójkąta
+𝑂𝐷𝐻 i otrzymujemy:
+𝑑2 = ℎ2 + |𝑂𝐷|2
+|𝑂𝐷| = √𝑑2 − ℎ2
+Ponieważ |𝑂𝐷| =
+1
+2 |𝐵𝐷| =
+𝑎√2
+2 , więc
+𝑎√2
+2 = √𝑑2 − ℎ2 .
+Stąd 𝑎 = √2 ∙ √𝑑2 − ℎ2 i ℎ ∈ (0, 𝑑).
+Pole 𝑃𝑃 podstawy graniastosłupa jest równe
+𝑃𝑃 = (√2 ∙ √𝑑2 − ℎ2)
+2
+= 2(𝑑2 − ℎ2)
+𝐶
+𝐺
+𝐻
+𝐹
+𝐸
+𝐴
+𝐵
+𝐷
+𝑂
+𝑑
+Wyznaczamy objętość graniastosłupa jako funkcję zmiennej ℎ:
+𝑉(ℎ) = 2(𝑑2 − ℎ2) ∙ ℎ = 2(𝑑2ℎ − ℎ3) dla 0 < ℎ < 𝑑.
+b)
+Wyznaczamy pochodną funkcji 𝑉:
+𝑉′(ℎ) = 2(𝑑2 − 3ℎ2)
+Obliczamy miejsce zerowe pochodnej funkcji 𝑉:
+𝑉′(ℎ) = 0
+2(𝑑2 − 3ℎ2) = 0 i ℎ ∈ (0, 𝑑)
+ℎ = 𝑑
+√3
+Ponieważ 𝑉′(ℎ) > 0 dla ℎ ∈ (0, 𝑑
+√3) oraz 𝑉′(ℎ) < 0 dla ℎ ∈ ( 𝑑
+√3 , 𝑑), więc funkcja 𝑉
+jest rosnąca w przedziale (0, 𝑑
+√3] oraz malejąca w przedziale [ 𝑑
+√3 , 𝑑). Zatem funkcja 𝑉
+osiąga wartość największą dla ℎ = 𝑑
+√3 .
+Spośród rozważanych graniastosłupów największą objętość ma graniastosłup o wysokości
+ℎ =
+𝑑
+√3 .

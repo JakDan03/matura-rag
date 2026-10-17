@@ -1,0 +1,296 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=34, 35, 36, 37, 38, 39; level=rozszerzony; year=2026; month=maj; task_id=9]
+Zadanie 9. (0–5)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+IX.R3) zna pojęcie wektora i oblicza jego
+współrzędne oraz długość, dodaje wektory
+i mnoży wektor przez liczbę, oba te
+działania wykonuje zarówno analitycznie,
+jak i geometrycznie;
+IX.R4) wyznacza równanie prostej
+prostopadłej do zadanej prostej i prostej
+stycznej do zadanego okręgu.
+Zasady oceniania (dla sposobu I)
+5 pkt – zastosowanie poprawnej metody i poprawny wynik: (𝑥 − 6
+5)
+2
++ (𝑦 + 3
+5)
+2
+= 16
+5 .
+4 pkt – obliczenie współrzędnych punktów 𝐶 oraz 𝑀: 𝐶 = (2, 1) oraz 𝑀 = (6
+5 , − 3
+5)
+ALBO
+– obliczenie współrzędnych punktu 𝐶 oraz długości odcinka 𝑀𝐶: 𝐶 = (2, 1)
+oraz |𝑀𝐶| = 4
+√5 .
+3 pkt – obliczenie współrzędnych punktu 𝐶: 𝐶 = (2, 1)
+ALBO
+– zapisanie równania z jedną niewiadomą (pierwszą lub drugą współrzędną punktu 𝐶),
+oraz wyznaczenie współrzędnych punktu 𝑀 w zależności od współrzędnych
+punktów 𝐴 oraz 𝐶, np. 6𝑥𝐶 + 2 ⋅ (− 1
+2 𝑥𝐶 + 2) − 14 = 0 oraz
+𝑥𝑀 = 1
+5 (𝑥𝐶 − 𝑥𝐴) + 𝑥𝐴 oraz 𝑦𝑀 = 1
+5 (𝑦𝐶 − 𝑦𝐴) + 𝑦𝐴 .
+Zasady oceniania rozwiązań zadań
+2 pkt – zapisanie równania z jedną niewiadomą (pierwszą lub drugą współrzędną punktu 𝐶),
+np. 6𝑥𝐶 + 2 ⋅ (− 1
+2 𝑥𝐶 + 2) − 14 = 0, 6(4 − 2𝑦𝐶) + 2𝑦𝐶 − 14 = 0
+ALBO
+– wyznaczenie równania stopnia pierwszego symetralnej boku 𝐴𝐵 trójkąta oraz
+wyznaczenie współrzędnych punktu 𝑀 w zależności od współrzędnych punktów 𝐴
+oraz 𝐶, np.
+6𝑥 + 2𝑦 − 14 = 0 oraz 𝑥𝑀 = 1
+5 (𝑥𝐶 − 𝑥𝐴) + 𝑥𝐴 oraz 𝑦𝑀 = 1
+5 (𝑦𝐶 − 𝑦𝐴) + 𝑦𝐴 .
+1 pkt – wyznaczenie równania stopnia pierwszego symetralnej boku 𝐴𝐵 trójkąta, np.
+6𝑥 + 2𝑦 − 14 = 0
+ALBO
+– zapisanie współrzędnych punktu 𝐶 w zależności od jednej zmiennej, np.
+𝐶 = (𝑥𝐶 , − 1
+2 𝑥𝐶 + 2),
+ALBO
+– wyznaczenie współrzędnych punktu 𝑀 w zależności od współrzędnych punktów 𝐴
+oraz 𝐶, np. 𝑥𝑀 = 1
+5 (𝑥𝐶 − 𝑥𝐴) + 𝑥𝐴 oraz 𝑦𝑀 = 1
+5 (𝑦𝐶 − 𝑦𝐴) + 𝑦𝐴 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający zapisze współrzędne punktu 𝐶 = (2, 1) oraz uzasadni (np. rachunkowo),
+że ten punkt spełnia warunki zadania, to za tę część rozwiązania otrzymuje 3 punkty.
+Jeżeli zdający takiego uzasadnienia nie zapisze, to za tę część rozwiązania otrzymuje
+0 punktów.
+2. a) Jeżeli zdający przyjmuje |𝐴𝑀| ∶ |𝑀𝐶| = 4 ∶ 1, to może otrzymać co najwyżej 4 punkty
+za całe rozwiązanie.
+b) Jeżeli zdający przyjmuje stosunek |𝐴𝑀| ∶ |𝑀𝐶| inny niż 1 ∶ 4 lub 4 ∶ 1, to może
+otrzymać co najwyżej 3 punkty za całe rozwiązanie.
+3. Jeżeli zdający przyjmie bez uzasadnienia, że prosta 𝐴𝐶 jest prostopadła do prostej 𝐵𝐶,
+to może otrzymać co najwyżej 2 punkty za całe rozwiązanie (1 punkt za zapisanie
+współrzędnych punktu 𝐶 w zależności od jednej zmiennej lub wyznaczenie/obliczenie
+współrzędnych punktu 𝑀 w zależności od współrzędnych punktów 𝐴 oraz 𝐶, oraz
+1 punkt za konsekwentne rozwiązanie zadania do końca).
+Zasady oceniania (dla sposobu II)
+5 pkt – zastosowanie poprawnej metody i poprawny wynik: (𝑥 − 6
+5)
+2
++ (𝑦 + 3
+5)
+2
+= 16
+5 .
+4 pkt – obliczenie współrzędnych punktu 𝑀 oraz współrzędnych wektora 𝐴𝑀⃗⃗⃗⃗⃗⃗ (lub
+współrzędnych wektora 𝑀𝐶⃗⃗⃗⃗⃗⃗ ): 𝑀 = (6
+5 , − 3
+5) oraz 𝐴𝑀⃗⃗⃗⃗⃗⃗ = [1
+5 , 2
+5] (lub
+𝑀𝐶⃗⃗⃗⃗⃗⃗ = [4
+5 , 8
+5]).
+3 pkt – obliczenie współrzędnych punktu 𝐷 oraz wyznaczenie równania prostej 𝑀𝐸:
+𝐷 = (13
+10 , − 9
+10) oraz np. 𝑦 = − 1
+2 (𝑥 − 8
+5) − 4
+5
+ALBO
+– obliczenie współrzędnych punktu 𝐸 oraz wyznaczenie równania prostej 𝑀𝐷:
+𝐸 = (8
+5 , − 4
+5) oraz np. 𝑦 = −3 (𝑥 − 13
+10) − 9
+10 .
+2 pkt – obliczenie współrzędnych punktów 𝐷 oraz 𝐸: 𝐷 = (13
+10 , − 9
+10) oraz
+𝐸 = (8
+5 , − 4
+5)
+ALBO
+– wyznaczenie równania prostej 𝑀𝐷, np. 𝑦 = −3 (𝑥 − 13
+10) − 9
+10 ,
+ALBO
+– wyznaczenie równania prostej 𝑀𝐸, np. 𝑦 = − 1
+2 (𝑥 − 8
+5) − 4
+5 .
+1 pkt – obliczenie współrzędnych punktu 𝐷: 𝐷 = (13
+10 , − 9
+10)
+ALBO
+– obliczenie współrzędnych punktu 𝐸: 𝐸 = (8
+5 , − 4
+5).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Zauważmy, że punkt 𝐴 nie leży na prostej 𝑥 + 2𝑦 − 4 = 0, natomiast punkt 𝐵 leży na tej
+prostej. Zatem w tej prostej zawiera się ramię 𝐵𝐶 trójkąta 𝐴𝐵𝐶.
+Niech 𝐶 = (𝑥𝐶 , 𝑦𝐶). Wówczas 𝑦𝐶 = − 1
+2 𝑥𝐶 + 2. Ponieważ |𝐶𝐴| = |𝐶𝐵|, więc
+|𝐶𝐴|2 = |𝐶𝐵|2
+(1 − 𝑥𝐶)2 + (−1 − 𝑦𝐶)2 = (4 − 𝑥𝐶)2 + (0 − 𝑦𝐶)2
+1 − 2𝑥𝐶 + 𝑥𝐶
+2 + 1 + 2𝑦𝐶 + 𝑦𝐶
+2 = 16 − 8𝑥𝐶 + 𝑥𝐶
+2 + 𝑦𝐶
+2
+6𝑥𝐶 + 2𝑦𝐶 − 14 = 0
+1
+2
+3
+4
+−1
+−2
+5
+0
+𝑥
+−5
+−4
+−3
+1
+2
+3
+4
+𝑦
+5
+−1
+−2
+−3
+−4
+−5
+𝑥 + 2𝑦 − 4 = 0
+𝐴
+𝐵
+Zasady oceniania rozwiązań zadań
+6𝑥𝐶 + 2 ⋅ (− 1
+2 𝑥𝐶 + 2) − 14 = 0
+𝑥𝐶 = 2
+Zatem 𝐶 = (2, 1).
+Niech 𝑀 = (𝑥𝑀 , 𝑦𝑀). Z warunków zadania wynika, że 𝐴𝑀⃗⃗⃗⃗⃗⃗ = 1
+5 ⋅ 𝐴𝐶⃗⃗⃗⃗⃗ . Obliczamy
+współrzędne punktu 𝑀:
+[𝑥𝑀 − 1, 𝑦𝑀 − (−1)] = 1
+5 ⋅ [2 − 1,1 − (−1)]
+𝑥𝑀 − 1 = 1
+5 ∧ 𝑦𝑀 + 1 = 2
+5
+Zatem 𝑀 = (6
+5 , − 3
+5).
+Obliczamy kwadrat promienia okręgu, który przechodzi przez punkt 𝐶 i ma środek
+w punkcie 𝑀:
+|𝑀𝐶|2 = (2 − 6
+5)
+2
++ (1 + 3
+5)
+2
+= 80
+25 = 16
+5
+Równanie okręgu, który przechodzi przez punkt 𝐶 i ma środek w punkcie 𝑀, ma postać
+(𝑥 − 6
+5)
+2
++ (𝑦 + 3
+5)
+2
+= 16
+5
+Sposób II
+Niech 𝐷 = (𝑥𝐷 , 𝑦𝐷) będzie punktem przecięcia prostej 𝐴𝐵 z prostą, która jest prostopadła
+do 𝐴𝐵 i przechodzi przez punkt 𝑀.
+Niech 𝐸 = (𝑥𝐸 , 𝑦𝐸) będzie punktem przecięcia prostej 𝐴𝐵 z prostą, która jest równoległa
+do 𝐵𝐶 i przechodzi przez punkt 𝑀.
+Zauważmy, że punkt 𝐴 nie leży na prostej 𝑥 + 2𝑦 − 4 = 0, natomiast punkt 𝐵 leży na tej
+prostej. Zatem w tej prostej zawiera się ramię 𝐵𝐶 trójkąta 𝐴𝐵𝐶.
+Z warunków zadania oraz twierdzenia Talesa otrzymujemy:
+𝐴𝐸⃗⃗⃗⃗⃗ = 1
+5 ⋅ 𝐴𝐵⃗⃗⃗⃗⃗
+[𝑥𝐸 − 1, 𝑦𝐸 − (−1)] = 1
+5 ⋅ [4 − 1,0 − (−1)]
+𝑥𝐸 − 1 = 3
+5 ∧ 𝑦𝐸 + 1 = 1
+5
+Stąd 𝐸 = (8
+5 , − 4
+5).
+Zatem prosta 𝑀𝐸 ma równanie 𝑦 = − 1
+2 (𝑥 − 8
+5) − 4
+5 , czyli 𝑦 = − 1
+2 𝑥.
+Ponieważ 𝑀𝐸 ∥ 𝐵𝐶, więc trójkąt 𝐴𝑀𝐸 jest równoramienny i |𝐴𝑀| = |𝑀𝐸|. Stąd prosta
+𝑀𝐷 jest symetralną odcinka 𝐴𝐸. Zatem punkt 𝐷 dzieli odcinek 𝐴𝐵 w stosunku 1 ∶ 9
+(licząc od punktu 𝐴). Obliczamy współrzędne punktu 𝐷:
+𝐴𝐷⃗⃗⃗⃗⃗ = 1
+10 ⋅ 𝐴𝐵⃗⃗⃗⃗⃗
+[𝑥𝐷 − 1, 𝑦𝐷 − (−1)] = 1
+10 ⋅ [4 − 1,0 − (−1)]
+𝑥𝐷 − 1 = 3
+10 ∧ 𝑦𝐷 + 1 = 1
+10
+Stąd 𝐷 = (13
+10 , − 9
+10).
+Współczynnik kierunkowy 𝑎𝐴𝐵 prostej 𝐴𝐵 jest równy 𝑎𝐴𝐵 = 0−(−1)
+4 − 1 = 1
+3 , więc prosta
+𝑀𝐷 ma równanie 𝑦 = −3 (𝑥 − 13
+10) − 9
+10 , czyli 𝑦 = −3𝑥 + 3.
+Obliczamy współrzędne punktu 𝑀:
+− 1
+2 𝑥 = −3𝑥 + 3
+𝑥 = 6
+5
+Stąd 𝑀 = (6
+5 , − 3
+5).
+𝐷
+𝐴
+𝐵
+𝐸
+𝐶
+𝑀
+𝑀𝐸 ∥ 𝐵𝐶
+𝑀𝐷 ⊥ 𝐴𝐵
+𝑥 + 2𝑦 − 4 = 0
+Zasady oceniania rozwiązań zadań
+Z warunków zadania
+𝑀𝐶⃗⃗⃗⃗⃗⃗ = 4 ⋅ 𝐴𝑀⃗⃗⃗⃗⃗⃗ = 4 ⋅ [6
+5 − 1, − 3
+5 − (−1)] = [4
+5 , 8
+5]
+Obliczamy kwadrat promienia okręgu, który przechodzi przez punkt 𝐶 i ma środek
+w punkcie 𝑀:
+|𝑀𝐶⃗⃗⃗⃗⃗⃗ |
+2
+= (4
+5)
+2
++ (8
+5)
+2
+= 16
+5
+Równanie okręgu, który przechodzi przez punkt 𝐶 i ma środek w punkcie 𝑀, ma postać
+(𝑥 − 6
+5)
+2
++ (𝑦 + 3
+5)
+2
+= 16
+5

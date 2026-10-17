@@ -1,0 +1,15 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=20; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=20]
+Zadanie 20. (0–2)
+Podstawy trapezu prostokątnego 𝐴𝐵𝐶𝐷 mają długości: |𝐴𝐵| = 12 oraz |𝐶𝐷| = 6.
+Wysokość 𝐴𝐷 tego trapezu ma długość 24. Na odcinku 𝐴𝐷 leży punkt 𝐸 taki, że
+|∡𝐵𝐸𝐴| = |∡𝐶𝐸𝐷| (zobacz rysunek).
+Oblicz długość odcinka 𝑩𝑬. Zapisz obliczenia.
+20.
+0–1–2
+𝐶
+𝐷
+𝐸
+⋅
+𝐵
+⋅
+𝐴

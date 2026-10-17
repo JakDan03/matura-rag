@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=25; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=25]
+Zadanie 25. (0–1)
+Długości trzech wychodzących z jednego wierzchołka krawędzi prostopadłościanu są trzema
+kolejnymi liczbami naturalnymi parzystymi. Najdłuższa krawędź tego prostopadłościanu ma
+długość 10.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole powierzchni całkowitej tego prostopadłościanu jest równe
+A. 376 B. 466 C. 480 D. 720

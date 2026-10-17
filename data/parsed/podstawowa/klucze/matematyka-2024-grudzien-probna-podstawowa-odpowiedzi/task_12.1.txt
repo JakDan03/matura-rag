@@ -1,0 +1,18 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=12, 13; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=12.1]
+Zadanie 12.1. (0–1)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+3. Tworzenie pomocniczych obiektów
+matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub
+rozwiązania problemu.
+Zdający:
+V.4) odczytuje […] przedziały
+monotoniczności […].
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+D
+Zasady oceniania rozwiązań zadań

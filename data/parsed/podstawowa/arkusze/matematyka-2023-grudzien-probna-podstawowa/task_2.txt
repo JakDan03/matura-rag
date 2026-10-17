@@ -1,0 +1,5 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=4; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=2]
+Zadanie 2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba log2 96 − log2 3 jest równa
+A. log2 93 B. log2 30 C. 4 D. 5

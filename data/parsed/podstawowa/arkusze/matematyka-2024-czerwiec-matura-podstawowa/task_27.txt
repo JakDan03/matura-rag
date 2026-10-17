@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=25; level=podstawowy; year=2024; month=czerwiec; task_id=27]
+Zadanie 27. (0–1)
+Podstawą graniastosłupa prawidłowego czworokątnego jest kwadrat o boku długości 4.
+Przekątna tego graniastosłupa jest nachylona do płaszczyzny podstawy pod kątem 𝛼 takim,
+że tg 𝛼 = 2 (zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wysokość tego graniastosłupa jest równa
+A. 2 B. 8 C. 8√2 D. 16√2
+𝛼
+4
+4

@@ -1,0 +1,75 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=13, 14, 15; level=podstawowy; year=2026; month=maj; task_id=11]
+Zadanie 11. (0–2)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+IV.2) stosuje układy równań do
+rozwiązywania zadań tekstowych.
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody i poprawny wynik: 78.
+1 pkt – zapisanie układu dwóch równań z dwiema niewiadomymi pozwalającego obliczyć
+liczbę biletów ulgowych i liczbę biletów normalnych sprzedanych na przedstawienie,
+np.
+𝑥 + 𝑦 = 200 oraz 0,75 ⋅ (35𝑥 + 25𝑦) = 4665
+ALBO
+– zapisanie równania z jedną niewiadomą pozwalającego obliczyć liczbę biletów
+ulgowych sprzedanych na przedstawienie, np.
+35(200 − 𝑦) + 25𝑦 = 4665
+0,75 ,
+ALBO
+– zapisanie równania z jedną niewiadomą pozwalającego obliczyć liczbę biletów
+normalnych sprzedanych na przedstawienie, np.
+35𝑥 + 25(200 − 𝑥) = 4665
+0,75 ,
+ALBO
+– zapisanie różnicy 4665
+0,75 − 25 ⋅ 200 oraz zapisanie różnicy 35 − 25,
+ALBO
+– zapisanie różnicy 35 ⋅ 200 − 4665
+0,75 oraz zapisanie różnicy 35 − 25,
+ALBO
+– zapisanie różnicy 4665
+0,75 − (25 ⋅ 100 + 35 ⋅ 100) oraz zapisanie różnicy 35 − 25.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli zdający sprawdza warunki zadania dla wybranych par liczb 𝑥 oraz 𝑦 i wskaże
+właściwą odpowiedź, ale nie uzasadni, że jest to jedyne rozwiązanie zadania, to otrzymuje
+1 punkt za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Oznaczmy:
+𝑥 – liczba biletów normalnych sprzedanych na przedstawienie,
+𝑦 – liczba biletów ulgowych sprzedanych na przedstawienie.
+Po uwzględnieniu warunków zadania otrzymujemy:
+𝑥 + 𝑦 = 200 oraz 0,75 ⋅ (35𝑥 + 25𝑦) = 4665
+Z pierwszego z tych równań wyznaczamy 𝑥 = 200 − 𝑦 i podstawiamy w miejsce 𝑥 do
+drugiego z równań, w wyniku czego otrzymujemy:
+0,75 ⋅ [35(200 − 𝑦) + 25𝑦] = 4665 /∶ 0,75
+35(200 − 𝑦) + 25𝑦 = 6220
+7000 − 35𝑦 + 25𝑦 = 6220
+−10𝑦 = −780
+𝑦 = 78
+Na przedstawienie sprzedano 78 biletów ulgowych.
+Sposób II
+Przychód organizatorów ze sprzedaży biletów jest równy:
+4665
+0,75 = 6220
+Gdyby organizatorzy sprzedali wszystkie bilety po 35 złotych, to uzyskaliby przychód
+w wysokości 35 ⋅ 200 = 7000 złotych, a więc o 7000 − 6220 = 780 złotych więcej niż
+w rzeczywistości.
+Bilet normalny kosztuje o 10 złotych więcej niż bilet ulgowy.
+Zatem organizatorzy sprzedali 780 ∶ 10 = 78 biletów ulgowych.
+Uwaga.
+Metodę zaprezentowaną w sposobie II można wykorzystać również dla dowolnej konfiguracji
+liczby biletów ulgowych i normalnych dających łącznie 200 biletów; np. gdyby organizatorzy
+sprzedali 30 biletów normalnych i 170 biletów ulgowych, to uzyskaliby przychód
+w wysokości 30 ⋅ 35 + 170 ⋅ 25 = 5300 złotych, a więc o 6220 − 5300 = 920 złotych
+mniej niż w rzeczywistości.
+Bilet normalny kosztuje o 10 złotych więcej niż bilet ulgowy.
+Zatem organizatorzy w rzeczywistości sprzedali o 920 ∶ 10 = 92 bilety ulgowe mniej –
+a więc sprzedali 170 − 92 = 78 biletów ulgowych.
+Zasady oceniania rozwiązań zadań

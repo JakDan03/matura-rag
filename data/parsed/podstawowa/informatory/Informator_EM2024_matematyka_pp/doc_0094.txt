@@ -1,0 +1,27 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=94; level=podstawowy; year=2024; section=1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów]
+94 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 48. (0–2)
+Trzy różne punkty 𝐴, 𝐵 i 𝐷 leżą na okręgu o środku w punkcie 𝑆. Odcinek 𝐵𝐷 jest
+średnicą tego okręgu. Styczne 𝑘 i 𝑙 do tego okręgu, odpowiednio w punktach 𝐴 i 𝐵,
+przecinają się w punkcie 𝐶 (zobacz rysunek poniżej).
+Wykaż, że trójkąty 𝑨𝑪𝑩 i 𝑨𝑺𝑫 są podobne.
+Wymagania ogólne
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.
+2. Dostrzeganie regularności, podobieństw oraz analogii, formułowanie wniosków na
+ich podstawie i uzasadnianie ich poprawności.
+Wymagania szczegółowe
+VIII. Planimetria. Zdający:
+1) wyznacza promienie i średnice okręgów, długości cięciw okręgów oraz odcinków
+stycznych, w tym z wykorzystaniem twierdzenia Pitagorasa;
+5) stosuje własności kątów wpisanych i środkowych;
+8) korzysta z cech podobieństwa trójkątów;
+11) przeprowadza dowody geometryczne.
+𝐵
+𝑆
+𝑘
+𝐶
+𝐴
+𝑙
+𝐷

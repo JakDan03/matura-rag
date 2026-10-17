@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=12, 13; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=12.3]
+Zadanie 12.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) wykresem funkcji kwadratowej 𝑓 jest
+parabola, której wierzchołkiem jest punkt (3, 0). Ta parabola przechodzi przez punkt
+o współrzędnych (0, −9).
+Zadanie 12.3. (0–1)
+Funkcja kwadratowa 𝑔 jest określona za pomocą funkcji 𝑓 następująco: 𝑔(𝑥) = 𝑓(𝑥) − 1.
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Funkcja 𝑔 ma jedno miejsce zerowe. P F
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) osią symetrii wykresu funkcji 𝑔
+jest prosta o równaniu 𝑥 = 3. P F

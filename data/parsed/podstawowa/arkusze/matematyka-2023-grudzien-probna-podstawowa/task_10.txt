@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=10; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=10]
+Zadanie 10. (0–1)
+Funkcja liniowa 𝑓 jest określona wzorem 𝑓(𝑥) = − 1
+6 𝑥 + 2
+3 .
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Miejscem zerowym funkcji 𝑓 jest liczba 4. P F
+Punkt przecięcia wykresu funkcji 𝑓 z osią 𝑂𝑦 ma współrzędne (0, − 1
+6). P F

@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona.pdf; typ=exam_paper; strony=7; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=4]
+Zadanie 4. (0–3)
+Wykaż, że
+𝟏
+𝐥𝐨𝐠𝟐 𝟑𝟓 + 𝟏 + 𝟏
+𝐥𝐨𝐠𝟕 𝟏𝟒𝟎 − 𝐥𝐨𝐠𝟕 𝟐 + 𝟏
+𝐥𝐨𝐠𝟓 𝟕 + 𝐥𝐨𝐠𝟓 𝟐 + 𝟏 = 𝟏
+4.
+0–1–
+2–3

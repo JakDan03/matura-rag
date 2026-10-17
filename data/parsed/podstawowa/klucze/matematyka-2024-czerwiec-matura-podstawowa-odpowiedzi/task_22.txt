@@ -1,0 +1,268 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=21, 22, 23, 24, 25, 26, 27, 28; level=podstawowy; year=2024; month=czerwiec; task_id=22]
+Zadanie 22. (0–2)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VIII.8) korzysta z cech podobieństwa
+trójkątów.
+Zasady oceniania
+2 pkt – poprawna metoda i obliczenie długości odcinka 𝐵𝑃: |𝐵𝑃| = 12√5
+5
+.
+1 pkt – obliczenie długości odcinka 𝐴𝑆: |𝐴𝑆| = 6√5
+ALBO
+– obliczenie sinusa lub cosinusa jednego z kątów ostrych w trójkącie 𝐴𝐵𝑃 lub 𝐵𝑆𝑃,
+ALBO
+– zapisanie równości |𝐴𝑃| = 2|𝐵𝑃|,
+ALBO
+– zapisanie równości |𝑃𝑆| = 1
+2 |𝐵𝑃|,
+ALBO
+– obliczenie długości odcinka 𝑀𝐵 (gdzie 𝑀 jest rzutem prostokątnym punktu 𝑃 na
+odcinek 𝐴𝐵): |𝑀𝐵| = 12
+5
+.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Punkt 𝑆 jest środkiem odcinka 𝐵𝐶, więc |𝐵𝑆| = 6.
+Trójkąt 𝐴𝐵𝑆 jest prostokątny. Odcinek 𝐵𝑃 jest wysokością trójkąta 𝐴𝐵𝑆 poprowadzoną
+na przeciwprostokątną 𝐴𝑆 (jak na rysunku).
+𝐴
+𝐵
+𝐶
+𝐷
+𝑆
+𝑃
+12
+6
+Z twierdzenia Pitagorasa obliczamy długość odcinka 𝐴𝑆
+|𝐴𝑆|2 = 122 + 62
+|𝐴𝑆|2 = 180
+|𝐴𝑆| = √180 = 6√5
+Ponieważ odcinek 𝐵𝑃 jest wysokością trójkąta prostokątnego poprowadzoną na
+przeciwprostokątną, więc
+|𝐵𝑃| =
+|𝐴𝐵| ⋅ |𝐵𝑆|
+|𝐴𝑆| = 12 ⋅ 6
+6√5
+= 12
+√5
+= 12√5
+5
+Długość odcinka 𝐵𝑃 jest równa 12√5
+5
+.
+Sposób II
+Punkt 𝑆 jest środkiem odcinka 𝐵𝐶, więc |𝐵𝑆| = 6.
+Trójkąt 𝐴𝐵𝑆 jest prostokątny. Odcinek 𝐵𝑃 jest wysokością trójkąta 𝐴𝐵𝑆 poprowadzoną
+na przeciwprostokątną 𝐴𝑆 (jak na rysunku).
+Z twierdzenia Pitagorasa obliczamy długość odcinka 𝐴𝑆
+|𝐴𝑆|2 = 122 + 62
+|𝐴𝑆|2 = 180
+|𝐴𝑆| = √180 = 6√5
+Pole trójkąta 𝐴𝐵𝑆 jest równe
+𝑃𝐴𝐵𝑆 = 1
+2 ⋅ 6√5 ⋅ |𝐵𝑃|
+Ponadto pole trójkąta 𝐴𝐵𝑆 można obliczyć jako połowę iloczynu długości przyprostokątnych
+𝑃𝐴𝐵𝑆 = 1
+2 ⋅ 12 ⋅ 6 = 36
+𝐴
+𝐵
+𝐶
+𝐷
+𝑆
+𝑃
+12
+6
+Zasady oceniania rozwiązań zadań
+Zatem
+1
+2 ⋅ 6√5 ⋅ |𝐵𝑃| = 36
+|𝐵𝑃| = 72
+6√5
+= 12√5
+5
+Długość odcinka 𝐵𝑃 jest równa 12√5
+5
+.
+Sposób III
+Punkt 𝑆 jest środkiem odcinka 𝐵𝐶, więc |𝐵𝑆| = 6.
+Trójkąt 𝐴𝐵𝑆 jest prostokątny. Odcinek 𝐵𝑃 jest wysokością trójkąta 𝐴𝐵𝑆 poprowadzoną
+na przeciwprostokątną 𝐴𝑆.
+Z warunków zadania otrzymujemy:
+• |∢𝐵𝐴𝑃| = |∢𝑃𝐵𝑆|
+• |∢𝐴𝐵𝑃| = |∢𝐵𝑆𝑃|
+Zatem trójkąty 𝐴𝐵𝑆, 𝐴𝑃𝐵, 𝐵𝑃𝑆 są podobne na podstawie cechy kąt-kąt-kąt.
+Oznaczmy:
+𝑥 = |𝑃𝑆|
+𝛼 = |∢𝐵𝐴𝑃| = |∢𝑃𝐵𝑆|
+𝛽 = 90° − 𝛼 = |∢𝐴𝐵𝑃| = |∢𝐵𝑆𝑃|
+𝐴
+𝐵
+𝐶
+𝐷
+𝑆
+𝑃
+12
+6
+𝛼
+𝛼
+𝛽
+𝛽
+Wtedy
+tg 𝛼 = 1
+2
+, |𝐵𝑃| = 2𝑥, |𝐴𝑃| = 4𝑥, |𝐴𝑆| = 5𝑥.
+Z twierdzenia Pitagorasa (dla trójkąta 𝐴𝐵𝑆) obliczamy długość odcinka 𝐴𝑆
+|𝐴𝑆|2 = 122 + 62
+|𝐴𝑆| = √180 = 6√5
+Zatem
+5𝑥 = 6√5
+𝑥 = 6√5
+5
+|𝐵𝑃| = 2𝑥 = 12√5
+5
+Długość odcinka 𝐵𝑃 jest równa 12√5
+5
+.
+Sposób IV
+Punkt 𝑆 jest środkiem odcinka 𝐵𝐶, więc |𝐵𝑆| = 6.
+Trójkąt 𝐴𝐵𝑆 jest prostokątny. Odcinek 𝐵𝑃 jest wysokością trójkąta 𝐴𝐵𝑆 poprowadzoną
+na przeciwprostokątną 𝐴𝑆.
+Z warunków zadania otrzymujemy:
+• |∢𝐵𝐴𝑃| = |∢𝑃𝐵𝑆|
+• |∢𝐴𝐵𝑃| = |∢𝐵𝑆𝑃|
+Zatem trójkąty 𝐴𝐵𝑆 i 𝐵𝑃𝑆 są podobne na podstawie cechy kąt-kąt-kąt.
+𝐴
+𝐵
+𝐶
+𝐷
+𝑆
+𝑃
+12
+6
+𝛼
+𝛼
+𝛽
+𝛽
+Zasady oceniania rozwiązań zadań
+Oznaczmy:
+𝑥 = |𝐵𝑃|
+𝛼 = |∢𝐵𝐴𝑃| = |∢𝑃𝐵𝑆|
+𝛽 = 90° − 𝛼 = |∢𝐴𝐵𝑃| = |∢𝐵𝑆𝑃|
+Wtedy
+tg 𝛼 = 1
+2
+|𝑃𝑆| = 1
+2 𝑥
+Z twierdzenia Pitagorasa (dla trójkąta 𝐵𝑃𝑆) obliczamy długość odcinka 𝐵𝑃
+|𝐵𝑃|2 + |𝑃𝑆|2 = 62
+𝑥2 + (1
+2 𝑥)
+2
+= 36
+5
+4 𝑥2 = 36
+𝑥2 = 144
+5
+𝑥 = 12√5
+5
+Długość odcinka 𝐵𝑃 jest równa 12√5
+5
+.
+Sposób V
+Punkt 𝑆 jest środkiem odcinka 𝐵𝐶, więc |𝐵𝑆| = 6.
+Trójkąt 𝐴𝐵𝑆 jest prostokątny. Odcinek 𝐵𝑃 jest wysokością trójkąta 𝐴𝐵𝑆 poprowadzoną
+na przeciwprostokątną 𝐴𝑆.
+Poprowadźmy odcinek 𝑃𝑀 prostopadły do odcinka 𝐴𝐵 (jak na rysunku).
+Z warunków zadania otrzymujemy:
+• |∢𝐵𝐴𝑃| = |∢𝐵𝑃𝑀|
+• |∢𝐴𝑆𝐵| = |∢𝐴𝑃𝑀| = |∢𝑃𝐵𝑀|
+Zatem trójkąty 𝐴𝐵𝑆, 𝐴𝑀𝑃, 𝑃𝑀𝐵 są podobne na podstawie cechy kąt-kąt-kąt.
+Oznaczmy:
+𝑥 = |𝑀𝐵|
+𝛼 = |∢𝐵𝐴𝑃| = |∢𝐵𝑃𝑀|
+𝛽 = 90° − 𝛼 = |∢𝐴𝑆𝐵| = |∢𝐴𝑃𝑀| = |∢𝑃𝐵𝑀|
+Wtedy
+tg 𝛼 = 1
+2
+, |𝑀𝑃| = 2𝑥, |𝐴𝑀| = 4𝑥, |𝐴𝐵| = 5𝑥 = 12.
+Zatem 𝑥 = 12
+5
+Z twierdzenia Pitagorasa (dla trójkąta 𝑀𝐵𝑃) obliczamy długość odcinka 𝐵𝑃
+|𝐵𝑃|2 = |𝑀𝐵|2 + |𝑀𝑃|2
+|𝐵𝑃|2 = (12
+5 )
+2
++ (24
+5 )
+2
+|𝐵𝑃|2 = 720
+25
+|𝐵𝑃| = √720
+25 = 12√5
+5
+Długość odcinka 𝐵𝑃 jest równa 12√5
+5
+.
+𝐴
+𝐵
+𝐶
+𝐷
+𝑆
+𝑃
+12
+6
+𝛼
+𝛽
+𝛽
+𝑀
+𝛼
+𝛽
+Zasady oceniania rozwiązań zadań
+Sposób VI
+Punkt 𝑆 jest środkiem odcinka 𝐵𝐶, więc |𝐵𝑆| = 6.
+Trójkąt 𝐴𝐵𝑆 jest prostokątny. Odcinek 𝐵𝑃 jest wysokością trójkąta 𝐴𝐵𝑆 poprowadzoną
+na przeciwprostokątną 𝐴𝑆 (jak na rysunku).
+Oznaczmy: 𝛼 = |∢𝐵𝐴𝑆|. Wtedy tg 𝛼 = 1
+2
+, zatem sin 𝛼
+cos 𝛼 = 1
+2
+. Stąd cos 𝛼 = 2 ⋅ sin 𝛼.
+Wykorzystując tę zależność oraz tożsamość sin2 𝛼 + cos2 𝛼 = 1 otrzymujemy
+sin2 𝛼 + (2 ⋅ sin 𝛼)2 = 1
+5 sin2 𝛼 = 1
+sin2 𝛼 = 1
+5
+Stąd sin 𝛼 = 1
+√5
+, ponieważ 𝛼 jest kątem ostrym.
+Zatem
+|𝐵𝑃|
+|𝐴𝐵| = 1
+√5
+|𝐵𝑃|
+12 = 1
+√5
+|𝐵𝑃| = 12
+√5
+= 12√5
+5
+Długość odcinka 𝐵𝑃 jest równa 12√5
+5
+.
+𝐴
+𝐵
+𝐶
+𝐷
+𝑆
+𝑃
+12
+6
+𝛼

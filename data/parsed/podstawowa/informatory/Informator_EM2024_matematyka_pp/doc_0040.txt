@@ -1,0 +1,19 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=40; level=podstawowy; year=2024; section=1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów]
+40 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 23. (0–1)
+Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) wykresy funkcji liniowych
+𝑓(𝑥) = (2𝑚 + 7)𝑥 + 5 oraz 𝑔(𝑥) = 3𝑥 nie mają punktów wspólnych dla
+A. 𝑚 = −2 B. 𝑚 = −1 C. 𝑚 = 1 D. 𝑚 = 2
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.
+Wymaganie szczegółowe
+V. Funkcje. Zdający:
+5) interpretuje współczynniki występujące we wzorze funkcji liniowej.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+A

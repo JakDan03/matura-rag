@@ -1,0 +1,54 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=7, 8; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=4]
+Zadanie 4. (0–3)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+I.R) stosuje wzór na zamianę podstawy
+logarytmu.
+Zasady oceniania
+3 pkt – przeprowadzenie pełnego rozumowania.
+2 pkt – przekształcenie wyrażenia 1
+log2 35 + 1 + 1
+log7 140 − log7 2 + 1
+log5 7 + log5 2 + 1 do
+postaci log70 2 + log70 7 + log70 5.
+1 pkt – przekształcenie wyrażenia 1
+log2 35 + 1 + 1
+log7 140 − log7 2 + 1
+log5 7 + log5 2 + 1 do
+postaci 1
+log2 70 + 1
+log7 70 + 1
+log5 70 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Stosujemy definicję logarytmu oraz wzory na sumę logarytmów oraz na różnicę logarytmów
+i otrzymujemy
+1
+log2 35 + 1 + 1
+log7 140 − log7 2 + 1
+log5 7 + log5 2 + 1 =
+= 1
+log2 35 + log2 2 + 1
+log7 70 + 1
+log5 7 + log5 2 + log5 5 =
+= 1
+log2 70 + 1
+log7 70 + 1
+log5 70
+Stąd, po zastosowaniu wzoru na zamianę podstawy logarytmu oraz na logarytm sumy,
+dostajemy
+1
+log2 70 + 1
+log7 70 + 1
+log5 70 = log70 2 + log70 7 + log70 5 = log70 70 = 1
+Zatem
+1
+log2 35 + 1 + 1
+log7 140 − log7 2 + 1
+log5 7 + log5 2 + 1 = 1
+To należało wykazać.

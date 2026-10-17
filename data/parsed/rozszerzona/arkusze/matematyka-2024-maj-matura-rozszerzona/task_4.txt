@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=7; level=rozszerzony; year=2024; month=maj; task_id=4]
+Zadanie 4. (0–3)
+Funkcja 𝑓 jest określona wzorem
+𝑓(𝑥) = 𝑥3 − 3𝑥 + 2
+𝑥
+dla każdej liczby rzeczywistej 𝑥 różnej od zera. W kartezjańskim układzie współrzędnych
+(𝑥, 𝑦) punkt 𝑃, o pierwszej współrzędnej równej 2, należy do wykresu funkcji 𝑓.
+Prosta o równaniu 𝑦 = 𝑎𝑥 + 𝑏 jest styczna do wykresu funkcji 𝑓 w punkcie 𝑃.
+Oblicz współczynniki 𝒂 oraz 𝒃 w równaniu tej stycznej. Zapisz obliczenia.
+4.
+0–1–
+2–3

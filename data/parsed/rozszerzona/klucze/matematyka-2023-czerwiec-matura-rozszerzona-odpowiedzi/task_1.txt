@@ -1,0 +1,32 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=2, 3; level=rozszerzony; year=2023; month=czerwiec; task_id=1]
+Zadanie 1. (0–2)
+Wymagania egzaminacyjne 2023 i 20241
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+I.R1) stosuje wzór na zamianę podstawy
+logarytmu.
+Zasady oceniania
+2 pkt – poprawne obliczenie 𝑎 − 𝑏: 2023.
+1 pkt – obliczenie 𝑎: 𝑎 = 452
+ALBO
+– obliczenie 𝑏: 𝑏 = 2.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Obliczamy 𝑎:
+𝑎 = 4log2 45 = (22)log2 45 = 2log2 452
+= 452 = 2025
+Stosujemy wzór na zamianę postawy logarytmu i obliczamy 𝑏:
+𝑏 = log3 2023
+log9 2023 = log3 2023
+log3 2023
+log3 9
+= log3 9 = 2
+Zatem 𝑎 − 𝑏 = 2023.
+1Rozporządzenie Ministra Edukacji i Nauki z dnia 10 czerwca 2022 r. w sprawie wymagań egzaminacyjnych dla
+egzaminu maturalnego przeprowadzanego w roku szkolnym 2022/2023 i 2023/2024 (Dz.U. poz. 1246).
+Zasady oceniania rozwiązań zadań

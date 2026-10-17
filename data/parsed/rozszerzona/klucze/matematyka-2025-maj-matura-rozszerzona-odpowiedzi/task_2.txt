@@ -1,0 +1,92 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=3, 4, 5; level=rozszerzony; year=2025; month=maj; task_id=2]
+Zadanie 2. (0–3)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+II.R5) korzysta ze wzorów na: […] (𝑎 + 𝑏)𝑛
+[…].
+Zasady oceniania
+3 pkt – poprawne przekształcenia i przeprowadzenie pełnego rozumowania (tj. spełnienie
+kryterium za 2 punkty oraz zapisanie, że 𝑎 + 2𝑏 > 0 oraz uzasadnienie, że dla liczb
+spełniających warunek 𝑏 ≠ 1
+2 𝑎 zachodzi (𝑎 − 2𝑏)2 > 0).
+2 pkt – przekształcenie nierówności do postaci (𝑎 − 2𝑏)2(𝑎 + 2𝑏) > 0
+ALBO
+– przekształcenie nierówności do postaci (𝑎 − 2𝑏)2 > 0,
+ALBO
+– uzasadnienie, że funkcja 𝑓 osiąga wartość najmniejszą dla 𝑎 = 2𝑏.
+1 pkt – zastosowanie wzoru na sześcian sumy i przekształcenie nierówności do postaci
+𝑎2(𝑎 − 2𝑏) − 4𝑏2(𝑎 − 2𝑏) > 0
+ALBO
+– przekształcenie nierówności do postaci (𝑎 + 2𝑏)[(𝑎 + 2𝑏)2 − 8𝑎𝑏] > 0,
+ALBO
+– przekształcenie nierówności do postaci (𝑎 + 2𝑏)2 > 8𝑎𝑏,
+ALBO
+– rozważenie funkcji 𝑓(𝑎) = 𝑎3 − 2𝑏𝑎2 − 4𝑏2𝑎 + 8𝑏3 określonej dla 𝑎 > 0 oraz
+obliczenie pochodnej tej funkcji i miejsca zerowego tej pochodnej:
+𝑓′(𝑎) = 3𝑎2 − 4𝑏𝑎 − 4𝑏2 oraz 𝑎 = 2𝑏.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga.
+Jeżeli zdający sprawdza prawdziwość nierówności jedynie dla wybranych wartości 𝑎 i 𝑏, to
+otrzymuje 0 punktów za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Przekształcamy równoważnie nierówność, korzystając ze wzoru na sześcian sumy:
+(𝑎 + 2𝑏)3 > 8𝑎2𝑏 + 16𝑎𝑏2
+𝑎3 + 6𝑎2𝑏 + 12𝑎𝑏2 + 8𝑏3 − 8𝑎2𝑏 − 16𝑎𝑏2 > 0
+𝑎3 − 2𝑎2𝑏 − 4𝑎𝑏2 + 8𝑏3 > 0
+𝑎2(𝑎 − 2𝑏) − 4𝑏2(𝑎 − 2𝑏) > 0
+(𝑎 − 2𝑏)(𝑎2 − 4𝑏2) > 0
+(𝑎 − 2𝑏)2(𝑎 + 2𝑏) > 0
+Z założenia 𝑎 > 0 i 𝑏 > 0, więc 𝑎 + 2𝑏 > 0.
+Ponieważ 𝑏 ≠ 1
+2 𝑎, więc 𝑎 − 2𝑏 ≠ 0 i wtedy (𝑎 − 2𝑏)2 > 0 jako kwadrat liczby
+rzeczywistej różnej od zera.
+Zatem (𝑎 − 2𝑏)2(𝑎 + 2𝑏) jest dodatnie jako iloczyn liczb dodatnich, więc nierówność
+(𝑎 − 2𝑏)2(𝑎 + 2𝑏) > 0 jest prawdziwa dla każdej liczby dodatniej 𝑎 i każdej liczby
+dodatniej 𝑏 takich, że 𝑏 ≠ 1
+2 𝑎. To oznacza, że również nierówność
+(𝑎 + 2𝑏)3 > 8𝑎2𝑏 + 16𝑎𝑏2 jest prawdziwa dla każdej dla każdej liczby dodatniej 𝑎
+i każdej liczby dodatniej 𝑏 takich, że 𝑏 ≠ 1
+2 𝑎. To należało wykazać.
+Sposób II
+Przekształcamy równoważnie nierówność, korzystając ze wzorów na kwadrat sumy i różnicy:
+(𝑎 + 2𝑏)3 > 8𝑎2𝑏 + 16𝑎𝑏2
+(𝑎 + 2𝑏)3 > 8𝑎𝑏(𝑎 + 2𝑏)
+(𝑎 + 2𝑏)3 − 8𝑎𝑏(𝑎 + 2𝑏) > 0
+(𝑎 + 2𝑏)[(𝑎 + 2𝑏)2 − 8𝑎𝑏] > 0
+(𝑎 + 2𝑏)(𝑎2 − 4𝑎𝑏 + 4𝑏2) > 0
+(𝑎 − 2𝑏)2(𝑎 + 2𝑏) > 0
+Z założenia 𝑎 > 0 i 𝑏 > 0, więc 𝑎 + 2𝑏 > 0.
+Ponieważ 𝑏 ≠ 1
+2 𝑎, więc 𝑎 − 2𝑏 ≠ 0 i wtedy (𝑎 − 2𝑏)2 > 0 jako kwadrat liczby
+rzeczywistej różnej od zera.
+Zatem (𝑎 − 2𝑏)2(𝑎 + 2𝑏) jest dodatnie jako iloczyn liczb dodatnich, więc nierówność
+(𝑎 − 2𝑏)2(𝑎 + 2𝑏) > 0 jest prawdziwa dla każdej liczby dodatniej 𝑎 i każdej liczby
+dodatniej 𝑏 takich, że 𝑏 ≠ 1
+2 𝑎. To oznacza, że również nierówność
+(𝑎 + 2𝑏)3 > 8𝑎2𝑏 + 16𝑎𝑏2 jest prawdziwa dla każdej dla każdej liczby dodatniej 𝑎
+i każdej liczby dodatniej 𝑏 takich, że 𝑏 ≠ 1
+2 𝑎. To należało wykazać.
+Sposób III
+Niech 𝑓 będzie funkcją określoną wzorem 𝑓(𝑎) = (𝑎 + 2𝑏)3 − 8𝑎2𝑏 − 16𝑎𝑏2 dla
+każdego 𝑎 ∈ (0, +∞).
+Obliczamy pochodną funkcji 𝑓 oraz jej miejsca zerowe:
+𝑓′(𝑎) = 3(𝑎 + 2𝑏)2 − 16𝑏𝑎 − 16𝑏2
+3𝑎2 + 12𝑎𝑏 + 12𝑏2 − 16𝑏𝑎 − 16𝑏2 = 0 ∧ 𝑎 > 0
+Zasady oceniania rozwiązań zadań
+3𝑎2 − 4𝑏𝑎 − 4𝑏2 = 0 ∧ 𝑎 > 0
+(𝑎 = − 2
+3 𝑏 ∨ 𝑎 = 2𝑏) ∧ 𝑎 > 0
+Gdy 𝑏 > 0, to 𝑓′(𝑎) > 0 dla 𝑎 ∈ (2𝑏, +∞) oraz 𝑓′(𝑎) < 0 dla 𝑎 ∈ (0, 2𝑏). Zatem przy
+𝑏 dodatnim funkcja 𝑓 jest malejąca w przedziale (0, 2𝑏] oraz rosnąca w przedziale
+[2𝑏, +∞), czyli funkcja 𝑓 osiąga wartość najmniejszą dla argumentu dodatniego 𝑎 = 2𝑏.
+Ta najmniejsza wartość jest równa 𝑓(2𝑏) = (2𝑏 + 2𝑏)3 − 8 ⋅ (2𝑏)2 ⋅ 𝑏 − 16 ⋅ 2𝑏 ⋅ 𝑏2 = 0.
+Zatem dla każdej dodatniej liczby rzeczywistej 𝑎 i dla każdej dodatniej liczby rzeczywistej 𝑏
+takich, że 𝑎 ≠ 2𝑏, prawdziwa jest nierówność
+(𝑎 + 2𝑏)3 − 8𝑎2𝑏 − 16𝑎𝑏2 > 0
+To należało wykazać.

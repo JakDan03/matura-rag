@@ -1,0 +1,31 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=62; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+62 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 34. (0–2)
+Dany jest ciąg (𝑎𝑛) określony wzorem rekurencyjnym:
+{𝑎1 = −2
+𝑎𝑛+1 = 𝑛 ⋅ 𝑎𝑛 + 4 dla każdej liczby naturalnej 𝑛 ≥ 1
+Oblicz sumę czterech początkowych wyrazów ciągu (𝒂𝒏).
+Wymagania ogólne
+I. Sprawność rachunkowa.
+Wykonywanie obliczeń na liczbach rzeczywistych […] przy rozwiązywaniu problemów
+w kontekstach rzeczywistych i teoretycznych.
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymaganie szczegółowe
+VI. Ciągi. Zdający:
+2) oblicza początkowe wyrazy ciągów określonych rekurencyjnie.
+Zasady oceniania
+2 pkt – poprawne obliczenie drugiego, trzeciego i czwartego wyrazu ciągu (𝑎𝑛) oraz ich
+sumy: 𝑆4 = 36.
+1 pkt – poprawne obliczenie drugiego, trzeciego i czwartego wyrazu ciągu (𝑎𝑛):
+𝑎2 = 2, 𝑎3 = 8, 𝑎4 = 28.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Obliczymy cztery kolejne wyrazy ciągu, stosując wzór rekurencyjny:
+𝑎1 = −2
+𝑎2 = 1 ⋅ 𝑎1 + 4 = 1 ⋅ (−2) + 4 = 2
+𝑎3 = 2 ⋅ 𝑎2 + 4 = 2 ⋅ 2 + 4 = 8
+𝑎4 = 3 ⋅ 𝑎3 + 4 = 3 ⋅ 8 + 4 = 28
+Obliczymy sumę 𝑆4 czterech kolejnych początkowych wyrazów ciągu (𝑎𝑛):
+𝑆4 = −2 + 2 + 8 + 28 = 36

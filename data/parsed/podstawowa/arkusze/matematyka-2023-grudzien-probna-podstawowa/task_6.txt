@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=7; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=6]
+Zadanie 6. (0–1)
+Dany jest układ równań {𝑥 − 3𝑦 + 5 = 0
+2𝑥 + 𝑦 + 3 = 0
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Rozwiązaniem tego układu równań jest para liczb
+A. 𝑥 = 1 i 𝑦 = 2 B. 𝑥 = 0 i 𝑦 = −3
+C. 𝑥 = −2 i 𝑦 = 1 D. 𝑥 = −1 i 𝑦 = −1

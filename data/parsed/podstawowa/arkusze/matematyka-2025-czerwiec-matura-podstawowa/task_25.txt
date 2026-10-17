@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=24; level=podstawowy; year=2025; month=czerwiec; task_id=25]
+Zadanie 25. (0–1)
+Pole powierzchni całkowitej ostrosłupa prawidłowego czworokątnego jest równe 20.
+Pole powierzchni bocznej tego ostrosłupa jest cztery razy większe od pola jego podstawy.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Długość krawędzi podstawy tego ostrosłupa jest równa
+A. 2 B. √5 C. √10 D. 4

@@ -1,0 +1,61 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=3, 4; level=rozszerzony; year=2026; month=maj; task_id=2]
+Zadanie 2. (0–3)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+XII.1) oblicza prawdopodobieństwo
+w modelu klasycznym.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 1
+28 .
+2 pkt – wyznaczenie liczby wszystkich zdarzeń elementarnych oraz wyznaczenie liczby
+wszystkich zdarzeń elementarnych sprzyjających zdarzeniu 𝐴, np.
+|Ω| = 8! oraz |𝐴| = 2 ⋅ 6!.
+1 pkt – wyznaczenie liczby wszystkich zdarzeń elementarnych, np. |Ω| = 8!
+ALBO
+– zapisanie, że trzecim i szóstym wyrazem ciągu, który jest zdarzeniem elementarnym
+sprzyjającym zdarzeniu 𝐴, musi być liczba podzielna przez 3,
+ALBO
+– wyznaczenie liczby wszystkich zdarzeń elementarnych sprzyjających zdarzeniu 𝐴,
+np. |𝐴| = 2 ⋅ 6!.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający zapisze, że trzecim i szóstym wyrazem ciągu, który jest zdarzeniem
+elementarnym sprzyjającym zdarzeniu 𝐴, musi być liczba podzielna przez 3, ale –
+obliczając liczbę zdarzeń sprzyjających zdarzeniu 𝐴 – zapisze |𝐴| = 6! (lub
+|𝐴| = 2 ⋅ 2 ⋅ 6!) oraz rozwiąże zadanie konsekwentnie do końca, to może otrzymać
+2 punkty.
+2. Jeżeli zdający zapisze |Ω| = (8
+2) (lub |Ω| = 8 ⋅ 7) bez stosownego komentarza i na tym
+zakończy, to otrzymuje 0 punktów.
+Przykładowe pełne rozwiązanie
+Zdarzeniami elementarnymi są wszystkie permutacje zbioru {1, 2, 3, 4, 5, 6, 7, 8}. Jest to
+model klasyczny. Niech Ω oznacza zbiór wszystkich zdarzeń elementarnych. Wówczas
+|Ω| = 8!.
+Iloczyn trzech liczb całkowitych jest podzielny przez 3, gdy co najmniej jedna z tych liczb jest
+podzielna przez 3. Wobec tego, aby iloczyn trzech kolejnych wyrazów ciągu był liczbą
+podzielną przez 3, to jeden z tych trzech wyrazów musi być liczbą podzielną przez 3.
+W zbiorze {1, 2, 3, 4, 5, 6, 7, 8} są dokładnie dwie liczby podzielne przez 3: 3 oraz 6.
+Niech ciąg (𝑎1, 𝑎2, 𝑎3, 𝑎4, 𝑎5, 𝑎6, 𝑎7, 𝑎8) będzie zdarzeniem elementarnym, które sprzyja
+zdarzeniu 𝐴. W tym ciągu liczbowym znajdują się dokładnie dwie liczby podzielne przez 3:
+3 oraz 6. Zatem jedna z tych liczb znajduje się wśród wyrazów 𝑎1, 𝑎2, 𝑎3 (gdyż iloczyn
+𝑎1 ⋅ 𝑎2 ⋅ 𝑎3 jest podzielny przez 3), a druga z nich znajduje się wśród wyrazów 𝑎6, 𝑎7, 𝑎8
+(gdyż iloczyn 𝑎6 ⋅ 𝑎7 ⋅ 𝑎8 jest podzielny przez 3), więc wyrazy 𝑎4 oraz 𝑎5 nie są
+podzielne przez 3. Stąd i z tego, że iloczyny 𝑎3 ⋅ 𝑎4 ⋅ 𝑎5 oraz 𝑎4 ⋅ 𝑎5 ⋅ 𝑎6 są podzielne
+przez 3, wynika, że wyrazy 𝑎3 oraz 𝑎6 muszą być podzielne przez 3, tj.
+{𝑎3, 𝑎6} = {3, 6}.
+Jeżeli zdarzenie elementarne jest ciągiem, w którym trzecim i szóstym wyrazem są liczby 3
+oraz 6, to iloczyn każdych trzech kolejnych wyrazów takiego ciągu jest liczbą podzielną
+przez 3. Zatem takie zdarzenie elementarne sprzyja zdarzeniu 𝐴.
+Dlatego zdarzeniu 𝐴 sprzyjają jedynie zdarzenia elementarne będące ciągami, których
+trzecim oraz szóstym wyrazem są liczby 3 oraz 6. Liczba wszystkich takich ciągów jest
+równa |𝐴| = 2 ⋅ 6!.
+Obliczamy prawdopodobieństwo zdarzenia 𝐴:
+𝑃(𝐴) = |𝐴|
+|Ω| = 2 ⋅ 6!
+8! = 1
+28

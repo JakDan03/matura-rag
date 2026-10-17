@@ -1,0 +1,26 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=92; level=rozszerzony; year=2024; section=|𝐺𝑃| = |𝐹𝐶|]
+92 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Zadanie 27. (0–4)
+Tomek i Marek chcą wejść docelowo na szczyt 𝑆
+pewnej góry. W chwili początkowej znajdują się
+w punkcie 𝑃 położonym na stoku góry dokładnie
+na północ od szczytu na wysokości 𝐻0 metrów
+n.p.m. Tomek i Marek chcą dotrzeć do bazy 𝐵
+znajdującej się dokładnie na południe od szczytu na
+przeciwległym południowym stoku góry na
+wysokości 𝐻1 metrów n.p.m., a następnie z bazy
+wejść na szczyt leżący na wysokości 𝐻2 metrów
+n.p.m. (zobacz rysunek 1.).
+Oblicz długość najkrótszej drogi, jaką muszą
+pokonać, aby dotrzeć do bazy. Zapisz
+obliczenia.
+Przyjmij, że góra jest stożkiem o kącie rozwarcia 𝛼.
+Wskazówka: Powierzchnia boczna stożka po rozcięciu
+wzdłuż tworzącej i rozłożeniu jest wycinkiem koła.
+Najkrótsza droga do bazy odpowiada najkrótszej drodze
+z punktu 𝑃 do 𝐵 na wycinku koła.
+𝑆
+𝛼
+𝐵
+𝑃
+Rys. 1.

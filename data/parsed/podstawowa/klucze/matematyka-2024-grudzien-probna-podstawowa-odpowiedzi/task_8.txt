@@ -1,0 +1,98 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=7, 8, 9; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=8]
+Zadanie 8. (0–3)
+Wymaganie ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+III.1) przekształca równania i nierówności
+w sposób równoważny, w tym np.
+przekształca równoważnie równanie
+5
+𝑥 + 1 = 𝑥 + 3
+2𝑥−1;
+III.4) rozwiązuje równania […] kwadratowe.
+SP VI. Równania z jedną niewiadomą.
+3) rozwiązuje równania, które po prostych
+przekształceniach wyrażeń algebraicznych
+sprowadzają się do równań pierwszego
+stopnia z jedną niewiadomą.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody oraz zapisanie założenia: 𝑥 ≠ 1, oraz poprawny
+wynik: 𝑥 = −6.
+2 pkt – przekształcenie równania 𝑥 + 3
+𝑥 − 1 = 𝑥
+2𝑥 − 2 do równania liniowego, np.
+2(𝑥 + 3) = 𝑥, oraz rozwiązanie tego równania: 𝑥 = −6
+ALBO
+– przekształcenie równania 𝑥 + 3
+𝑥 − 1 = 𝑥
+2𝑥 − 2 do równania kwadratowego, np.
+(𝑥 + 3)(2𝑥 − 2) = 𝑥(𝑥 − 1), oraz rozwiązanie tego równania:
+𝑥 = −6 oraz 𝑥 = 1,
+ALBO
+– przekształcenie równania 𝑥 + 3
+𝑥 − 1 = 𝑥
+2𝑥 − 2 do równania liniowego, np.
+2(𝑥 + 3) = 𝑥, oraz zapisanie założenia: 𝑥 ≠ 1,
+ALBO
+– przekształcenie równania 𝑥 + 3
+𝑥 − 1 = 𝑥
+2𝑥 − 2 do równania kwadratowego, np.
+(𝑥 + 3)(2𝑥 − 2) = 𝑥(𝑥 − 1), oraz zapisanie założenia: 𝑥 ≠ 1.
+1 pkt – przekształcenie równania 𝑥 + 3
+𝑥 − 1 = 𝑥
+2𝑥 − 2 do równania liniowego, np.
+2(𝑥 + 3) = 𝑥
+ALBO
+– przekształcenie równania 𝑥 + 3
+𝑥 − 1 = 𝑥
+2𝑥 − 2 do równania kwadratowego, np.
+(𝑥 + 3)(2𝑥 − 2) = 𝑥(𝑥 − 1),
+ALBO
+– zapisanie założenia: 𝑥 ≠ 1.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli zdający stosuje metodę analizy starożytnych i nie zapisze założenia, ale uwzględni je
+w końcowej odpowiedzi, to może otrzymać 3 punkty za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Każde z wyrażeń: 𝑥 + 3
+𝑥 − 1 , 𝑥
+2𝑥 − 2 ma sens liczbowy dla 𝑥 ≠ 1.
+Przekształcamy równanie równoważnie:
+𝑥 + 3
+𝑥 − 1 = 𝑥
+2𝑥 − 2 /⋅ 2(𝑥 − 1), gdzie 𝑥 ≠ 1
+2(𝑥 + 3) = 𝑥, gdzie 𝑥 ≠ 1
+Rozwiązujemy otrzymane równanie liniowe:
+2𝑥 + 6 = 𝑥
+𝑥 = −6
+Rozwiązaniem równania 𝑥 + 3
+𝑥 − 1 = 𝑥
+2𝑥 − 2 jest liczba (−6).
+Sposób II
+Każde z wyrażeń: 𝑥 + 3
+𝑥 − 1 , 𝑥
+2𝑥 − 2 ma sens liczbowy dla 𝑥 ≠ 1.
+Przekształcamy równanie równoważnie:
+𝑥 + 3
+𝑥 − 1 = 𝑥
+2𝑥 − 2
+(𝑥 + 3)(2𝑥 − 2) = 𝑥(𝑥 − 1), gdzie 𝑥 ≠ 1
+Rozwiązujemy otrzymane równanie kwadratowe:
+2𝑥2 − 2𝑥 + 6𝑥 − 6 = 𝑥2 − 𝑥
+𝑥2 + 5𝑥 − 6 = 0
+Obliczamy wyróżnik trójmianu 𝑥2 + 5𝑥 − 6:
+Δ = 52 − 4 ⋅ 1 ⋅ (−6) = 49
+Stąd
+𝑥1 = −5 − √49
+2 ⋅ 1 = −6
+𝑥2 = −5 + √49
+2 ⋅ 1 = 1
+Wobec założenia 𝑥 ≠ 1 jedynym rozwiązaniem równania 𝑥 + 3
+𝑥 − 1 = 𝑥
+2𝑥 − 2 jest liczba (−6).
+Zasady oceniania rozwiązań zadań

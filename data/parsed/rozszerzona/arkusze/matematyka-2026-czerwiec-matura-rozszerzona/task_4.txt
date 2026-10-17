@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=7; level=rozszerzony; year=2026; month=czerwiec; task_id=4]
+Zadanie 4. (0–3)
+Wykaż, że dla każdej liczby rzeczywistej 𝒙 i dla każdej liczby rzeczywistej 𝒚
+prawdziwa jest nierówność
+𝒙𝒚 + 𝒙 + 𝒚 ≤ 𝒙𝟐 + 𝒚𝟐 + 𝟏
+4.
+0–1–
+2–3

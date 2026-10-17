@@ -1,0 +1,30 @@
+Dział II. Wyrażenia algebraiczne.
+Poziom: rozszerzony
+Zakres rozszerzony. Uczeń spełnia wymagania określone dla za kresu podstawowego, a
+ponadto:
+1) dzieli wielomian jednej zmiennej W(x) przez dwumian postaci x − a;
+2) rozkłada wielomiany na czynniki metodą wyłączania wspólnego czynnika przed nawias
+oraz metodą grupowania wyrazów;
+3) znajduje pierwiastki całkowite wielomianu o współczynnikach całkowitych;
+4) stosuje podstawowe własności trójkąta Pascala oraz następujące własności współczynnika
+dwumianowego (symbolu Newtona): (𝑛𝑛
+0) = 1, (𝑛𝑛
+1) = 𝑛𝑛, ( 𝑛𝑛
+𝑛𝑛−1) = 𝑛𝑛,
+(𝑛𝑛
+𝑘𝑘) = ( 𝑛𝑛
+𝑛𝑛−𝑘𝑘), (𝑛𝑛
+𝑘𝑘) + ( 𝑛𝑛
+𝑘𝑘+1) = (𝑛𝑛+1
+𝑘𝑘+1);
+5) korzysta ze wzorów na: a3 + b3, a3 − b3, an − bn, (a + b)n i (a − b)n;
+6) dodaje i odejmuje wyrażenia wymierne, np.:
+𝑥𝑥 +1 −
+𝑥𝑥,
+𝑥𝑥 +
+𝑥𝑥2 +
+𝑥𝑥3,
+𝑥𝑥 + 1
+𝑥𝑥 + 2 +
+𝑥𝑥 − 1
+𝑥𝑥 + 1.

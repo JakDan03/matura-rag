@@ -1,0 +1,49 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=3, 4; level=rozszerzony; year=2026; month=czerwiec; task_id=2]
+Zadanie 2. (0–3)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+XI.R1) oblicza liczbę możliwych sytuacji,
+spełniających określone kryteria,
+z wykorzystaniem reguły mnożenia
+i dodawania (także łącznie) oraz wzorów na
+liczbę: permutacji, kombinacji i wariacji.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 33 600.
+2 pkt – wyznaczenie liczby wszystkich kodów spełniających warunki zadania, np.
+(8
+3) ⋅ (5
+2) ⋅ 5 ⋅ 4 ⋅ 3, (8
+2) ⋅ (6
+3) ⋅ 5 ⋅ 4 ⋅ 3.
+1 pkt – wyznaczenie liczby wszystkich możliwych ustawień cyfry 4 oraz cyfry 8:
+(8
+3) oraz (5
+2) (lub (8
+2) oraz (6
+3))
+ALBO
+– wyznaczenie liczby wszystkich możliwych ustawień cyfr nieparzystych: (8
+3) ⋅ 5 ⋅ 4 ⋅ 3.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Cyfrę 2 umieszczamy na pierwszej pozycji kodu.
+Spośród ośmiu dostępnych pozycji w kodzie wybieramy trzy pozycje, na których umieścimy
+czwórki. Liczba wszystkich takich wyborów jest równa (8
+3).
+Po umieszczeniu czwórek w kodzie mamy pięć dostępnych pozycji. Spośród nich wybieramy
+dwie, na których umieścimy ósemki. Liczba wszystkich takich wyborów jest równa (5
+2).
+Pozostały jeszcze trzy nieobsadzone pozycje, na których należy umieścić trzy – parami
+różne – cyfry nieparzyste. Liczba wszystkich takich możliwych obsadzeń tych trzech pozycji
+jest równa 5 ⋅ 4 ⋅ 3.
+Korzystamy z reguły mnożenia i obliczamy liczbę wszystkich kodów spełniających warunki
+zadania:
+(8
+3) ⋅ (5
+2) ⋅ 5 ⋅ 4 ⋅ 3 = 8 ⋅ 7 ⋅ 6
+1 ⋅ 2 ⋅ 3 ⋅ 5 ⋅ 4
+1 ⋅ 2 ⋅ 5 ⋅ 4 ⋅ 3 = 33 600

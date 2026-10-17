@@ -1,0 +1,42 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=35; level=podstawowy; year=2024; section=ALBO]
+Przykładowe zadania z rozwiązaniami 35
+Zasady oceniania
+2 pkt – obliczenie pierwiastków trójmianu kwadratowego 3𝑥2 − 8𝑥 + 4:
+𝑥1 = 2
+3 oraz 𝑥2 = 2
+oraz zapisanie zbioru rozwiązań nierówności: 𝑥 ∈ (2
+3 , 2)
+ALBO
+– obliczenie pierwiastków trójmianu kwadratowego 3𝑥2 − 8𝑥 + 4:
+𝑥1 = 2
+3 oraz 𝑥2 = 2
+oraz przedstawienie zbioru rozwiązań nierówności w postaci graficznej z poprawnie
+zaznaczonymi końcami przedziałów
+1 pkt – obliczenie pierwiastków trójmianu kwadratowego 3𝑥2 − 8𝑥 + 4:
+𝑥1 = 2
+3 oraz 𝑥2 = 2.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Przekształcamy nierówność:
+(3𝑥 − 4)(𝑥 − 1) < 𝑥
+3𝑥2 − 3𝑥 − 4𝑥 + 4 < 𝑥
+3𝑥2 − 8𝑥 + 4 < 0
+Obliczamy wyróżnik trójmianu 3𝑥2 − 8𝑥 + 4 (zobacz w Wybranych wzorach matematycznych):
+Δ = (−8)2 − 4 ⋅ 3 ⋅ 4 = 16
+i obliczamy jego pierwiastki:
+𝑥1 = −(−8) − √16
+2 ⋅ 3 = 2
+3
+𝑥2 = −(−8) + √16
+2 ⋅ 3 = 2
+Podajemy zbiór rozwiązań nierówności: 𝑥 ∈ (2
+3 , 2) lub zaznaczamy zbiór rozwiązań na osi
+liczbowej:
+2
+3
+𝑥
+2
+2
+3
+𝑥
+2

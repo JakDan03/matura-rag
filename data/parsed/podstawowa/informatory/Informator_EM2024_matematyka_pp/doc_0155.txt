@@ -1,0 +1,23 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=155; level=podstawowy; year=2024; section=ALBO]
+Informacja o egzaminie maturalnym z matematyki dla absolwentów niesłyszących 155
+Zadanie 62. (0–2)
+Pojedynczy znak (np. litera, przecinek, wykrzyknik, itp.) w piśmie Braille’a dla niewidomych
+jest kombinacją od 1 do 6 wypukłych punktów. Punkty te mogą zajmować miejsca ułożone
+w dwóch kolumnach po trzy miejsca w każdej kolumnie. Poniżej podano przykład napisu
+w piśmie Braille’a. Czarne kropki w znaku oznaczają wypukłości, a białe kropki oznaczają
+brak wypukłości. Pojedynczy znak w piśmie Braille’a musi zawierać co najmniej jeden punkt
+wypukły.
+Oblicz, ile różnych pojedynczych znaków można zapisać w piśmie Braille’a.
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody do obliczenia wszystkich znaków, uwzględnienie
+warunku zadania i podanie wyniku: 63.
+1 pkt – zapisanie wzoru na liczbę wszystkich możliwych znaków bez uwzględnienia warunku
+zadania (tzn. łącznie ze znakiem bez punktu wypukłego): 2 ⋅ 2 ⋅ 2 ⋅ 2 ⋅ 2 ⋅ 2
+ALBO
+– zastosowanie metody dodawania polegającej na bezpośrednim zliczeniu i dodaniu
+liczby znaków: z jednym punktem wypukłym, z dwoma punktami wypukłymi, z trzema
+punktami wypukłymi, z czterema punktami wypukłymi, z pięcioma punktami
+wypukłymi i z sześcioma punktami wypukłymi oraz poprawne zliczenie znaków
+w co najmniej trzech spośród sześciu wymienionych grup.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+m a t u r y

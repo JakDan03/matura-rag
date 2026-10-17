@@ -1,0 +1,103 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=16; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=16]
+Zadanie 16. (0–2)
+Dane są dwa kąty o miarach 𝛼 oraz 𝛽, spełniające warunki:
+𝛼 ∈ (0°, 180°) i tg 𝛼 = − 2
+3 oraz 𝛽 ∈ (0°, 180°) i cos 𝛽 = 1
+√10 .
+Na rysunkach A–F w kartezjańskim układzie współrzędnych (𝑥, 𝑦) zaznaczono różne kąty
+– w tym kąt o mierze 𝛼 oraz kąt o mierze 𝛽. Jedno z ramion każdego z tych kątów pokrywa
+się z dodatnią półosią 𝑂𝑥, a drugie przechodzi przez jeden z punktów o współrzędnych
+całkowitych: 𝐴 lub 𝐵, lub 𝐶, lub 𝐷, lub 𝐸, lub 𝐹.
+Uzupełnij tabelę. Wpisz w każdą pustą komórkę tabeli właściwą odpowiedź, wybraną
+spośród oznaczonych literami A–F.
+16.1. Kąt 𝛼 jest zaznaczony na rysunku
+16.2. Kąt 𝛽 jest zaznaczony na rysunku
+A. B.
+C. D.
+E. F.
+1
+2
+3
+−3
+−2
+−1
+2
+1
+−1
+3
+𝑦
+𝑥
+𝐴
+0
+1
+2
+3
+−3
+−2
+−1
+2
+1
+−1
+3
+𝑦
+𝑥
+𝐵
+0
+1
+2
+3
+−3
+−2
+−1
+2
+1
+−1
+3
+𝑦
+𝑥
+𝐶
+0
+1
+2
+3
+−3
+−2
+−1
+2
+1
+−1
+3
+𝑦
+𝑥
+𝐷
+0
+1
+2
+3
+−3
+−2
+−1
+2
+1
+−1
+3
+𝑦
+𝑥
+𝐸
+0
+1
+2
+3
+−3
+−2
+−1
+2
+1
+−1
+3
+𝑦
+𝑥
+𝐹
+0
+16.
+0–1–2

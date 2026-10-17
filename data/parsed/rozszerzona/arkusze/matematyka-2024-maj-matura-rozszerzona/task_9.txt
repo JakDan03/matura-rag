@@ -1,0 +1,16 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=14; level=rozszerzony; year=2024; month=maj; task_id=9]
+Zadanie 9. (0–4)
+Dany jest kwadrat 𝐴𝐵𝐶𝐷 o boku długości 𝑎. Punkt 𝐸 jest środkiem boku 𝐶𝐷. Przekątna
+𝐵𝐷 dzieli trójkąt 𝐴𝐶𝐸 na dwie figury: 𝐴𝐺𝐹 oraz 𝐶𝐸𝐹𝐺 (zobacz rysunek).
+Oblicz pola figur 𝑨𝑮𝑭 oraz 𝑪𝑬𝑭𝑮. Zapisz obliczenia.
+9.
+0–1–
+2–3–4
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸
+𝐹
+𝐺
+𝑎

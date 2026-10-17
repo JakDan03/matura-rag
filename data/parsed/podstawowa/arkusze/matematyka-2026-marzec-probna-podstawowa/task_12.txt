@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=12; level=podstawowy; year=2026; month=marzec; term=probna; task_id=12]
+Zadanie 12. (0–3)
+Funkcja kwadratowa 𝑓 jest określona wzorem 𝑓(𝑥) = −16𝑥2 + 40𝑥 + 11.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) wykresem funkcji 𝑓 jest parabola
+o wierzchołku w punkcie 𝐶. Ta parabola przecina oś 𝑂𝑥 w punktach 𝐴 oraz 𝐵.
+Oblicz pole trójkąta 𝑨𝑩𝑪. Zapisz obliczenia.
+12.
+0–1–
+2–3

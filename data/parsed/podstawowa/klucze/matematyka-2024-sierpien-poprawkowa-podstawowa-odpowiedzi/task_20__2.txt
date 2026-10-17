@@ -1,0 +1,5 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=37; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=20]
+Zadanie 20.
+1 pkt – zapisanie, że trójkąty 𝐴𝐵𝐸 oraz 𝐷𝐶𝐸 są podobne
+ALBO
+– zapisanie równości |𝐵𝐸|2 = 122 + |𝐴𝐸|2.

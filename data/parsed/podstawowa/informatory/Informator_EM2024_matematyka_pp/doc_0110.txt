@@ -1,0 +1,67 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=110; level=podstawowy; year=2024; section=ALBO]
+110 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zasady oceniania
+4 pkt – poprawna metoda obliczenia współrzędnych punktu 𝑃 oraz długości odcinka 𝐴𝑃
+oraz poprawne wyniki: 𝑃 = (9
+4 , 0), |𝐴𝑃| = 5√41
+4
+.
+3 pkt – obliczenie współrzędnych punktu 𝑃: 𝑃 = (9
+4 , 0) .
+2 pkt – zapisanie układu równań z dwiema niewiadomymi, np.
+√(𝑥𝑝 − 2)
+2
++ (𝑦𝑝 − 8)
+2
+= √(𝑥𝑝 − 10)
+2
++ (𝑦𝑝 − 2)
+2
+i 𝑦𝑝 = 0.
+1 pkt – zapisanie drugiej współrzędnej punktu 𝑃 np.: 𝑦𝑝 = 0, 𝑃 = (𝑥𝑝, 0)
+ALBO
+– zapisanie równości |𝐴𝑃| = |𝐵𝑃| w zależności od współrzędnych punktu
+𝑃 = (𝑥𝑝, 𝑦𝑝), np.
+√(𝑥𝑝 − 2)
+2
++ (𝑦𝑝 − 8)
+2
+= √(𝑥𝑝 − 10)
+2
++ (𝑦𝑝 − 2)
+2
+.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Ponieważ punkt 𝑃 leży na osi 𝑂𝑥, więc jego współrzędne są równe 𝑃 = (𝑥𝑝, 0).
+Stąd, że |𝐴𝑃| = |𝐵𝑃| i ze wzoru na odległość między dwoma punktami otrzymujemy
+równanie
+√(𝑥𝑝 − 2)
+2
++ (0 − 8)2 = √(𝑥𝑝 − 10)
+2
++ (0 − 2)2
+(𝑥𝑝 − 2)
+2
++ (0 − 8)2 = (𝑥𝑝 − 10)
+2
++ (0 − 2)2
+𝑥𝑝
+2 − 4𝑥𝑝 + 4 + 64 = 𝑥𝑝
+2 − 20𝑥𝑝 + 100 + 4
+16𝑥𝑝 = 36
+𝑥𝑝 = 9
+4
+Zatem 𝑃 = (9
+4 , 0).
+Obliczamy długość odcinka 𝐴𝑃:
+|𝐴𝑃| = √(9
+4 − 2)
+2
++ (0 − 8)2 = √(1
+4)
+2
++ (−8)2 = √ 1
+16 + 64 = √1025
+16 = 5√41
+4

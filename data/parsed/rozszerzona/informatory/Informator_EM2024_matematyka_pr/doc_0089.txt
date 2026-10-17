@@ -1,0 +1,37 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=89; level=rozszerzony; year=2024; section=|𝐵𝐺|2 + |𝐺𝐶|2 = |𝐵𝐶|2]
+Przykładowe zadania z rozwiązaniami 89
+Sposób 2.
+Wykażemy, że trójkąty 𝐵𝑃𝑆 i 𝐵𝑆𝐶 są podobne.
+Niech 𝐸 i 𝐹 oznaczają punkty styczności okręgu i odcinków – odpowiednio – 𝐵𝐶
+oraz 𝐶𝐷. Oznaczmy przez 𝐺 rzut prostokątny wierzchołka 𝐶 na podstawę 𝐴𝐵 trapezu
+(rysunek 3.).
+Punkt 𝑆 jest równooddalony od boków 𝐴𝐵 i 𝐵𝐶 trapezu jako środek okręgu wpisanego
+w trapez, więc wysokość trapezu jest równa 4.
+Do trójkąta 𝐵𝐺𝐶 stosujemy twierdzenie Pitagorasa i obliczamy długość odcinka 𝐵𝐺:
+|𝐵𝐺|2 + |𝐺𝐶|2 = |𝐵𝐶|2
+|𝐵𝐺|2 + 42 = 52
+|𝐵𝐺| = 3
+Ponieważ 𝐺 jest rzutem prostokątnym wierzchołka 𝐶 na podstawę 𝐴𝐵, więc
+|𝐺𝑃| = |𝐹𝐶|
+Korzystamy z twierdzenia o okręgu wpisanym w czworokąt i otrzymujemy
+|𝐴𝐷| + |𝐵𝐶| = |𝐴𝐵| + |𝐶𝐷|
+4 + 5 = |𝐴𝑃| + |𝐹𝐶| + |𝐵𝐺| + |𝐹𝐶| + |𝐷𝐹|
+9 = 2 ⋅ |𝐴𝑃| + 2 ⋅ |𝐹𝐶| + 3
+6 = 2 ⋅ |𝑆𝑃| + 2 ⋅ |𝐹𝐶|
+|𝐹𝐶| = 1
+Zatem |𝑃𝐵| = |𝑃𝐺| + |𝐺𝐵| = 4.
+Stosujemy twierdzenie Pitagorasa do trójkąta 𝐵𝑃𝑆 celem obliczenia |𝐵𝑆|:
+|𝐵𝑃|2 + |𝑃𝑆|2 = |𝐵𝑆|2
+42 + 22 = |𝐵𝑆|2
+𝐶
+𝐷
+2
+5
+𝑆
+𝐵
+𝑃
+𝐹
+𝐴
+𝐺
+𝐸
+Rysunek 3.

@@ -1,0 +1,18 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=8; level=podstawowy; year=2026; month=maj; task_id=8]
+Zadanie 8. (0–1)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+III.5) rozwiązuje równania wielomianowe
+postaci 𝑊(𝑥) = 0 dla wielomianów
+doprowadzonych do postaci iloczynowej.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+Wersja A Wersja B
+C B

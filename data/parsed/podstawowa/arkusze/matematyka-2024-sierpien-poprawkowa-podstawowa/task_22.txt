@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=24; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=22]
+Zadanie 22. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) proste 𝑘 oraz 𝑙 są określone równaniami
+𝑘: 𝑦 = (3𝑚 − 2)𝑥 − 2
+𝑙: 𝑦 = (2𝑚 + 4)𝑥 + 2
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Proste 𝑘 oraz 𝑙 są równoległe, gdy liczba 𝑚 jest równa
+A. (−6) B. (−2) C. 2 D. 6

@@ -1,0 +1,155 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=22, 23, 24, 25; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=11]
+Zadanie 11. (0–5)
+Wymagania ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+3. Tworzenie pomocniczych obiektów
+matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub
+rozwiązania problemu.
+Zdający:
+III.R3) stosuje wzory Viète’a dla równań
+kwadratowych;
+III.R5) analizuje równania […] kwadratowe
+z parametrami […].
+Zasady oceniania
+Rozwiązanie zadania składa się z trzech etapów.
+Pierwszy etap polega na rozwiązaniu nierówności ∆> 0. Za poprawne wykonanie tego
+etapu zdający otrzymuje 1 punkt.
+1 pkt – poprawne rozwiązanie nierówności ∆> 0: 𝑚 ∈ (−∞, − 1
+2) ∪ (3
+2 , +∞).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli zdający rozwiązuje warunek ∆≥ 0, to za tę część rozwiązania otrzymuje 0 punktów.
+Drugi etap polega na wyznaczeniu tych wartości parametru 𝑚, dla których jest spełniony
+warunek |𝑥1
+2 − 𝑥2
+2| ≤ 12. Za poprawne wykonanie tego etapu zdający otrzymuje 3 punkty.
+Podział punktów za drugi etap rozwiązania:
+3 pkt – rozwiązanie nierówności z jedną niewiadomą 𝑚 równoważnej warunkowi
+32 − 4 ⋅ (−𝑚2 + 𝑚 + 3) ≤ 16: 𝑚 ∈ [1 − 2√5
+2 , 1 + 2√5
+2 ].
+2 pkt – zapisanie nierówności z jedną niewiadomą 𝑚 równoważnej warunkowi
+|𝑥1
+2 − 𝑥2
+2| ≤ 12, np. 32 − 4 ⋅ (−𝑚2 + 𝑚 + 3) ≤ 16.
+1 pkt – przekształcenie nierówności |𝑥1
+2 − 𝑥2
+2| ≤ 12 do postaci pozwalającej na
+bezpośrednie jednokrotne zastosowanie wzorów Viète’a, np.
+|𝑥1 − 𝑥2| ⋅ |𝑥1 + 𝑥2| ≤ 12.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Trzeci etap polega na wyznaczeniu wszystkich wartości parametru 𝑚, które spełniają
+jednocześnie dwa warunki: Δ > 0 i |𝑥1
+2 − 𝑥2
+2| ≤ 12: 𝑚 ∈ [1 − 2√5
+2 , − 1
+2) ∪ (3
+2 , 1 + 2√5
+2 ].
+Za poprawne wykonanie tego etapu zdający otrzymuje 1 punkt.
+1 pkt – poprawne wyznaczenie wszystkich wartości parametru 𝑚, które spełniają
+jednocześnie warunki Δ > 0 i |𝑥1
+2 − 𝑥2
+2| ≤ 12:
+𝑚 ∈ [1 − 2√5
+2 , − 1
+2) ∪ (3
+2 , 1 + 2√5
+2 ].
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania rozwiązań zadań
+Uwagi:
+1. Jeżeli zdający w etapie I lub II popełni błąd, który nie jest błędem rachunkowym, to za III
+etap otrzymuje 0 punktów.
+2. Jeżeli zdający w etapach I i II nie popełni błędów innych niż rachunkowe i otrzyma zbiory
+rozwiązań, które nie są rozłączne i żaden z nich nie jest zbiorem liczb rzeczywistych,
+a następnie poprawnie wyznaczy część wspólną zbiorów rozwiązań z etapów I i II, to za
+III etap może otrzymać 1 punkt.
+3. Jeżeli zdający w II etapie rozwiązania popełni błąd – przyjmie, że
+𝑥1 + 𝑥2 = ±(±𝑚2 + 𝑚 + 3) lub 𝑥1 ⋅ 𝑥2 = ±3, lub 𝑥1 + 𝑥2 = ± 𝑏
+2𝑎 , to za II etap może
+otrzymać co najwyżej 2 punkty (1 punkt za przekształcenie nierówności |𝑥1
+2 − 𝑥2
+2| ≤ 12
+do postaci pozwalającej na bezpośrednie jednokrotne zastosowanie wzorów Viète’a oraz
+1 punkt za konsekwentne rozwiązanie nierówności do końca), a za III etap otrzymuje
+0 punktów.
+4. Jeżeli zdający w II etapie rozwiązania popełni błąd, który nie jest rachunkowy, np.:
+• pominie istotne nawiasy przy przekształcaniu nierówności |𝑥1
+2 − 𝑥2
+2| ≤ 12 do
+postaci pozwalającej na zastosowanie wzorów Viète’a
+• przyjmie, że 𝑥1
+2 − 𝑥2
+2 = (𝑥1 − 𝑥2)2
+i konsekwentnie do popełnionego błędu doprowadzi rozwiązanie II etapu zadania do
+końca, to może uzyskać co najwyżej 2 punkty za II etap (1 punkt za zastosowanie
+wzorów Viète’a oraz 1 punkt za konsekwentne rozwiązanie nierówności do końca), a za III
+etap otrzymuje 0 punktów.
+5. Jeżeli w II etapie rozwiązania zdający popełni błędy i otrzyma nierówność 𝑉(𝑚) ≤ 0, to
+za podanie zbioru rozwiązań nierówności otrzymuje 1 punkt tylko wtedy, gdy wielomian 𝑉
+jest stopnia co najmniej drugiego i ma co najmniej dwa różne pierwiastki rzeczywiste.
+6. Jeżeli zdający wprowadza dodatkowe założenie, które nie wynika z warunków zadania
+(np. 𝑥1 + 𝑥2 > 0, 𝑥1 ⋅ 𝑥2 > 0), to za całe rozwiązanie może otrzymać co najwyżej
+3 punkty (co najwyżej 1 punkt za I etap i co najwyżej 2 punkty za II etap).
+Przykładowe pełne rozwiązanie
+I etap
+Funkcja kwadratowa 𝑓 ma dwa różne miejsca zerowe wtedy i tylko wtedy, gdy wyróżnik Δ
+trójmianu kwadratowego 𝑥2 − 3𝑥 − 𝑚2 + 𝑚 + 3 jest dodatni.
+Rozwiązujemy warunek ∆> 0:
+(−3)2 − 4 ∙ 1 ⋅ (−𝑚2 + 𝑚 + 3) > 0
+4𝑚2 − 4𝑚 − 3 > 0
+(2𝑚 − 1)2 − 4 > 0
+(2𝑚 − 1 − 2) ⋅ (2𝑚 − 1 + 2) > 0
+4 (𝑚 − 3
+2) (𝑚 + 1
+2) > 0
+𝑚 ∈ (−∞, − 1
+2) ∪ (3
+2 , +∞)
+II etap
+Wyznaczamy wszystkie wartości parametru 𝑚, dla których jest spełniony warunek
+|𝑥1
+2 − 𝑥2
+2| ≤ 12, korzystając ze wzorów Viète’a.
+|𝑥1
+2 − 𝑥2
+2| ≤ 12
+|𝑥1 − 𝑥2| ⋅ |𝑥1 + 𝑥2| ≤ 12
+|𝑥1 − 𝑥2| ⋅ 3 ≤ 12
+|𝑥1 − 𝑥2| ≤ 4
+Ponieważ obie strony nierówności |𝑥1 − 𝑥2| ≤ 4 są nieujemne, więc przekształcamy tę
+nierówność równoważnie do postaci (𝑥1 − 𝑥2)2 ≤ 16. Stąd otrzymujemy
+(𝑥1 + 𝑥2)2 − 4 ⋅ 𝑥1 ⋅ 𝑥2 ≤ 16
+32 − 4 ⋅ (−𝑚2 + 𝑚 + 3) ≤ 16
+4𝑚2 − 4𝑚 − 19 ≤ 0
+Obliczamy wyróżnik Δ𝑚 trójmianu kwadratowego 4𝑚2 − 4𝑚 − 19 i rozwiązujemy
+nierówność 4𝑚2 − 4𝑚 − 19 ≤ 0:
+Δ𝑚 = (−4)2 − 4 ⋅ 4 ⋅ (−19) = 20 ⋅ 16
+𝑚 = 4 − 8√5
+8 = 1 − 2√5
+2 ∨ 𝑚 = 4 + 8√5
+8 = 1 + 2√5
+2
+𝑚 ∈ [1 − 2√5
+2 , 1 + 2√5
+2 ]
+III etap
+Wyznaczamy wszystkie wartości parametru 𝑚, które jednocześnie spełniają warunki
+𝑚 ∈ (−∞, − 1
+2) ∪ (3
+2 , +∞) oraz 𝑚 ∈ [1 − 2√5
+2 , 1 + 2√5
+2 ]:
+𝑚 ∈ [1 − 2√5
+2 , − 1
+2) ∪ (3
+2 , 1 + 2√5
+2 ].
+Zasady oceniania rozwiązań zadań

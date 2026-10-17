@@ -1,0 +1,43 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=135; level=rozszerzony; year=2024; section=|𝐵𝑆| = 𝐻2 − 𝐻1]
+Informacja o egzaminie maturalnym z matematyki dla absolwentów niesłyszących 135
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik.
+3 pkt – zastosowanie wzoru na prawdopodobieństwo uzyskania 𝑘 sukcesów w 𝑛 próbach
+i zapisanie nierówności 1 − (0,6)𝑛 > 0,95.
+2 pkt – zapisanie nierówności 1 − 𝑃(𝑆𝑛
+0) > 0,95.
+1 pkt – zapisanie prawdopodobieństwa sukcesu i porażki.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Próbą Bernoullego jest rozegranie jednej partii szachów ojca z synem. Sukcesem w tej
+próbie jest wygrana ojca.
+Z treści zadania wynika, że ojciec wygrywa 40% rozegranych partii. W związku z tym
+prawdopodobieństwo sukcesu ojca w tej próbie jest równe 𝑝 = 0,4, natomiast
+prawdopodobieństwo porażki jest równe 𝑞 = 0,6.
+Niech 𝑛 oznacza szukaną liczbę partii oraz niech
+𝑆𝑛
+0 – oznacza niewygranie przez ojca żadnej partii szachów,
+𝑆𝑛
+1 – oznacza wygranie przez ojca jednej partii szachów,
+𝑆𝑛
+2 – oznacza wygranie przez ojca dwóch partii szachów,
+⋮
+𝑆𝑛
+𝑛 – oznacza wygranie przez ojca 𝑛 partii szachów.
+Korzystamy ze schematu Bernoullego. Prawdopodobieństwo wygrania przez pana Nowaka
+co najmniej jednej partii szachów jest równe
+𝑃(𝑆𝑛
+1 ∪ 𝑆𝑛
+2 ∪ 𝑆𝑛
+3 ∪ … ∪ 𝑆𝑛
+𝑛) = 1 − 𝑃(𝑆𝑛
+0)
+Zatem
+1 − 𝑃(𝑆𝑛
+0) > 0,95
+1 − (𝑛
+0) ⋅ (0,4)0 ⋅ (0,6)𝑛 > 0,95
+1 − (0,6)𝑛 > 0,95
+(0,6)𝑛 < 0,05
+𝑛 ≥ 6
+Pan Nowak musi rozegrać z synem co najmniej sześć partii.

@@ -1,0 +1,26 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=25; year=2023; section=𝑃𝛥𝐴𝐵𝐶 = 1]
+Strona 25 z 34
+• Współrzędne wektora, długość wektora, działania na wektorach
+Dane są punkty 𝐴 = (𝑥𝐴, 𝑦𝐴) oraz 𝐵 = (𝑥𝐵, 𝑦𝐵). Współrzędne wektora 𝐴𝐵⃗⃗⃗⃗⃗
+zaczepionego w punkcie 𝐴:
+Jeżeli 𝑢⃗ = [𝑢1, 𝑢2] oraz 𝑣 = [𝑣1, 𝑣2] są wektorami oraz 𝑎 ∈ ℝ, to:
+Długością |𝑢⃗ | wektora 𝑢⃗ = [𝑢1, 𝑢2] nazywamy liczbę
+• Przekształcenia geometryczne
+Przesunięcie o wektor 𝑢⃗ = [𝑎, 𝑏] przekształca punkt 𝑃 = (𝑥, 𝑦) na punkt
+𝑃’ = (𝑥 + 𝑎, 𝑦 + 𝑏).
+Symetria osiowa 𝑆𝑂𝑥 względem osi 𝑂𝑥 przekształca punkt 𝑃 = (𝑥, 𝑦) na punkt
+𝑃’ = (𝑥, −𝑦).
+Symetria osiowa 𝑆𝑂𝑦 względem osi 𝑂𝑦 przekształca punkt 𝑃 = (𝑥, 𝑦) na punkt
+𝑃’ = (−𝑥, 𝑦).
+Symetria środkowa 𝑆𝐾 względem punktu 𝐾 = (𝑎, 𝑏) przekształca punkt 𝑃 = (𝑥, 𝑦)
+na punkt 𝑃’ = (2𝑎 − 𝑥, 2𝑏 − 𝑦).
+W szczególności symetria środkowa względem początku układu współrzędnych
+przekształca punkt 𝑃 = (𝑥, 𝑦) na punkt 𝑃’ = (−𝑥, −𝑦).
+• Pole trójkąta
+Pole trójkąta 𝐴𝐵𝐶 o wierzchołkach 𝐴 = (𝑥𝐴, 𝑦𝐴), 𝐵 = (𝑥𝐵, 𝑦𝐵) oraz 𝐶 = (𝑥𝐶, 𝑦𝐶) jest
+równe:
+𝐴𝐵⃗⃗⃗⃗⃗ = [𝑥𝐵 − 𝑥𝐴, 𝑦𝐵 − 𝑦𝐴]
+𝑢⃗ + 𝑣 = [𝑢1 + 𝑣1, 𝑢2 + 𝑣2] 𝑎 ⋅ 𝑢⃗ = [𝑎 ⋅ 𝑢1, 𝑎 ⋅ 𝑢2]
+|𝑢⃗ | = √(𝑢1)2 + (𝑢2)2
+𝑃𝛥𝐴𝐵𝐶 = 1
+2 ⋅ |(𝑥𝐵 − 𝑥𝐴)(𝑦𝐶 − 𝑦𝐴) − (𝑦𝐵 − 𝑦𝐴)(𝑥𝐶 − 𝑥𝐴)|

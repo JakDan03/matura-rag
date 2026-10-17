@@ -1,0 +1,19 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=16; level=podstawowy; year=2026; month=marzec; term=probna; task_id=18]
+Zadanie 18. (0–1)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+VII.4) oblicza kąty trójkąta prostokątnego
+i długości jego boków przy odpowiednich
+danych (rozwiązuje trójkąty prostokątne,
+w tym z wykorzystaniem funkcji
+trygonometrycznych).
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C

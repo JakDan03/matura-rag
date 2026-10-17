@@ -1,0 +1,30 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=83; level=podstawowy; year=2024; section=1. Zapiszemy wzór na pole trójkąta 𝐴𝐵𝐶 i wykorzystamy dane zadania:]
+Przykładowe zadania z rozwiązaniami 83
+Sposób 2.
+Oznaczmy |∡𝐷𝐵𝐸| = |∡𝐴𝐵𝐶| = 𝛽.
+1. Zapiszemy wzór na pole trójkąta 𝐴𝐵𝐶 i wykorzystamy dane zadania:
+𝑃𝐴𝐵𝐶 = 1
+2 ⋅ |𝐴𝐵| ⋅ |𝐵𝐶| ⋅ sin 𝛽
+20 = 1
+2 ⋅ |𝐴𝐵| ⋅ |𝐵𝐶| ⋅ sin 𝛽
+stąd
+|𝐴𝐵| ⋅ |𝐵𝐶| ⋅ sin 𝛽 = 40
+2. Zapiszemy wzór na pole trójkąta 𝐷𝐵𝐸 i wykorzystamy warunki zadania:
+𝑃𝐷𝐵𝐸 = 1
+2 ⋅ |𝐷𝐵| ⋅ |𝐵𝐸| ⋅ sin 𝛽
+𝑃𝐷𝐵𝐸 = 1
+2 ⋅ (3
+4 ⋅ |𝐴𝐵|) ⋅ (1
+5 |𝐵𝐶|) ⋅ sin 𝛽
+𝑃𝐷𝐵𝐸 = 3
+40 ⋅ |𝐴𝐵| ⋅ |𝐵𝐶| ⋅ 𝑠𝑖𝑛 𝛽
+3. Do otrzymanego wzoru na pole trójkąta 𝐷𝐵𝐸 podstawimy wynik z punktu 1.:
+𝑃𝐷𝐵𝐸 = 3
+40 ⋅ |𝐴𝐵| ⋅ |𝐵𝐶| ⋅ sin 𝛽 = 3
+40 ⋅ 40 = 3
+𝐶
+𝐷
+𝐵
+𝐴
+𝐸
+𝛽

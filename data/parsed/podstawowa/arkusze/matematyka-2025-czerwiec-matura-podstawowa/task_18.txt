@@ -1,0 +1,16 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=16; level=podstawowy; year=2025; month=czerwiec; task_id=18]
+Zadanie 18. (0–1)
+Dany jest trójkąt prostokątny o kątach ostrych 𝛼 oraz 𝛽 (zobacz rysunek).
+Sinus kąta 𝛼 jest równy 4
+7
+.
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Cosinus kąta 𝛼 jest równy 3
+7
+. P F
+Cosinus kąta 𝛽 jest równy 4
+7
+. P F
+𝛼
+𝛽

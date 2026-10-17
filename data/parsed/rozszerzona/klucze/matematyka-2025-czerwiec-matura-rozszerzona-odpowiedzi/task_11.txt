@@ -1,0 +1,369 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=35, 36, 37, 38, 39, 40, 41, 42, 43; level=rozszerzony; year=2025; month=czerwiec; task_id=11]
+Zadanie 11. (0–6)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+IX.R1) znajduje punkty wspólne prostej
+i okręgu;
+IX.R4) wyznacza równanie prostej
+prostopadłej do zadanej prostej i prostej
+stycznej do zadanego okręgu.
+VIII.4) korzysta z własności kątów
+i przekątnych w prostokątach,
+równoległobokach, rombach i trapezach.
+Zasady oceniania (dla sposobów I–III)
+6 pkt – zastosowanie poprawnej metody i poprawny wynik: (𝑥 + 1)2 + (𝑦 + 2)2 = 5.
+5 pkt – zapisanie równania z jedną niewiadomą – pierwszą lub drugą współrzędną punktu 𝑆,
+np.:
+[𝑥𝑆 − (3
+5 𝑥𝑆 + 8
+5)]
+2
++ [−𝑥𝑆 − 3 − (− 6
+5 𝑥𝑆 − 11
+5 )]
+2
+= 𝑥𝑆
+2 + (−𝑥𝑆 − 3)2
+(ze związków 𝑟 = |𝑆𝑇| oraz 𝑟 = |𝑆𝑂|),
+(𝑥𝑆 − 4)2 + (−𝑥𝑆 − 3 − (−7))
+2
+=
+= (3
+5 𝑥𝑆 + 8
+5 − 4)
+2
++ (− 6
+5 𝑥𝑆 − 11
+5 − (−7))
+2
++ 𝑥𝑆
+2 + (−𝑥𝑆 − 3)2
+(ze związków |𝐵𝑆|2 = |𝐵𝑇|2 + 𝑟2 oraz 𝑟 = |𝑆𝑂|).
+4 pkt – wyznaczenie równania dwusiecznej kąta 𝐴𝐵𝐶 równoległoboku: 𝑦 = −𝑥 − 3
+ALBO
+– zapisanie współrzędnych środka 𝑆 za pomocą jednej niewiadomej, np.
+𝑆 = (𝑥𝑆 , −𝑥𝑆 − 3).
+3 pkt – obliczenie współrzędnych punktu 𝐸: 𝐸 = (−2, 5)
+ALBO
+– obliczenie współrzędnych takich punktów 𝑃1 oraz 𝑃2 , że 𝑃1 leży na półprostej 𝐵𝐴⃑⃑⃑⃑⃑
+oraz 𝑃2 leży na półprostej 𝐵𝐶⃑⃑⃑⃑⃑ oraz |𝐵𝑃1| = |𝐵𝑃2|,
+ALBO
+– obliczenie tangensa kąta 𝛼: tg 𝛼 = 1
+3 (dla sposobu II),
+ALBO
+– zapisanie związku
+|1
+2 𝑥𝑆 + 𝑦𝑆 + 5|
+√(1
+2)
+2
++12
+= |2𝑥𝑠 + 𝑦𝑆 − 1|
+√22+12
+(dla sposobu III).
+2 pkt – wyznaczenie równania prostej 𝐵𝐶 oraz obliczenie długości odcinka 𝐴𝐵:
+𝑦 = −2𝑥 + 1 oraz |𝐴𝐵| = √180
+ALBO
+– wyznaczenie równania prostej 𝐴𝐵 oraz obliczenie długości odcinka 𝐵𝐶:
+𝑦 = − 1
+2 𝑥 − 5 oraz |𝐵𝐶| = √75,
+ALBO
+– obliczenie współczynników kierunkowych prostych 𝐴𝐵 oraz 𝐵𝐶: 𝑎𝐴𝐵 = − 1
+2 oraz
+𝑎𝐵𝐶 = −2 (dla sposobu II),
+ALBO
+– wyznaczenie równań prostych 𝐴𝐵 oraz 𝐵𝐶, np. 𝑦 = − 1
+2 𝑥 − 5 oraz 𝑦 = −2𝑥 + 1
+(dla sposobu III).
+1 pkt – obliczenie współrzędnych wierzchołka 𝐵: 𝐵 = (4, −7)
+ALBO
+– obliczenie współrzędnych wierzchołka 𝐶: 𝐶 = (−1, 3).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I (poprzez trójkąt równoramienny)
+Środek symetrii równoległoboku jest punktem przecięcia przekątnych równoległoboku.
+Zatem punkt 𝑀 jest środkiem odcinka 𝐴𝐶 oraz środkiem odcinka 𝐵𝐷. Stosujemy wzory
+na współrzędne środka odcinka i obliczamy współrzędne wierzchołka 𝐵:
+𝑥𝐵 + (−13)
+2 = − 9
+2 ∧ 𝑦𝐵 + 9
+2 = 1
+𝐵 = (4, −7)
+Stosujemy wzory na współrzędne środka odcinka i obliczamy współrzędne wierzchołka 𝐶:
+−8 + 𝑥𝐶
+2 = − 9
+2 ∧ −1 + 𝑦𝐶
+2 = 1
+𝐶 = (−1, 3)
+Zasady oceniania rozwiązań zadań
+Obliczamy |𝐴𝐵|: |𝐴𝐵| = √(4 − (−8))
+2
++ (−7 − (−1))
+2
+= √180.
+Wyznaczamy równanie prostej 𝐵𝐶: 𝑦 = 3−(−7)
+−1−4 ⋅ (𝑥 − 4) + (−7), czyli 𝑦 = −2𝑥 + 1.
+Niech 𝐸 będzie punktem na boku 𝐵𝐶 równoległoboku (lub na przedłużeniu tego boku
+w stronę 𝐶) takim, że |𝐵𝐸| = |𝐵𝐴|. Obliczamy współrzędne punktu 𝐸:
+(𝑥 − 4)2 + (𝑦 + 7)2 = 180 ∧ 𝑦 = −2𝑥 + 1
+(𝑥 − 4)2 + (−2𝑥 + 7 + 1)2 = 180 ∧ 𝑦 = −2𝑥 + 1
+5𝑥2 − 40𝑥 − 100 = 0 ∧ 𝑦 = −2𝑥 + 1
+(𝑥, 𝑦) = (−2, 5) ∨ (𝑥, 𝑦) = (10, −19)
+Punkt (10, −19) nie spełnia warunku narzuconego na 𝐸 (bowiem 10 > 𝑥𝐵),
+więc 𝐸 = (−2, 5).
+Okrąg 𝒪 jest styczny do prostych 𝐴𝐵 oraz 𝐵𝐶, więc jego środek 𝑆 leży na dwusiecznej
+kąta 𝐴𝐵𝐶 równoległoboku 𝐴𝐵𝐶𝐷. Ponieważ trójkąt 𝐴𝐵𝐸 jest równoramienny, więc środek
+𝐹 odcinka 𝐴𝐸 leży na prostej 𝐵𝑆 i odcinek 𝐴𝐸 jest prostopadły do prostej 𝐵𝑆.
+Obliczamy współrzędne punktu 𝐹:
+𝑥𝐹 = 𝑥𝐴 + 𝑥𝐸
+2 = −8 − 2
+2 = −5 ∧ 𝑦𝐹 = 𝑦𝐴 + 𝑦𝐸
+2 = −1 + 5
+2 = 2
+𝑦
+𝑥
+1
+1
+0
+𝑀
+𝐴
+𝐵
+𝐶
+𝐷
+Wyznaczamy równanie prostej 𝐵𝑆: 𝑦 = −7−2
+4−(−5) ⋅ (𝑥 − 4) + (−7), czyli 𝑦 = −𝑥 − 3.
+Zatem 𝑆 = (𝑥𝑆 , −𝑥𝑆 − 3).
+Niech 𝑇 będzie punktem styczności okręgu 𝒪 z prostą 𝐵𝐶.
+Wyznaczamy równanie prostej 𝑆𝑇: 𝑦 = 1
+2 ⋅ (𝑥 − 𝑥𝑆) + (−𝑥𝑆 − 3).
+Wyznaczamy współrzędne punktu 𝑇:
+𝑦 = 1
+2 ⋅ (𝑥 − 𝑥𝑆) + (−𝑥𝑆 − 3) ∧ 𝑦 = −2𝑥 + 1
+−2𝑥 + 1 = 1
+2 𝑥 − 3
+2 𝑥𝑆 − 3 ∧ 𝑦 = −2𝑥 + 1
+𝑥 = 3
+5 𝑥𝑆 + 8
+5 ∧ 𝑦 = − 6
+5 𝑥𝑆 − 11
+5
+czyli 𝑇 = (3
+5 𝑥𝑆 + 8
+5 , − 6
+5 𝑥𝑆 − 11
+5 ).
+Oznaczmy przez 𝑟 promień okręgu 𝒪. Ponieważ okrąg przechodzi przez początek układu
+współrzędnych, więc 𝑟 = √𝑥𝑆
+2 + (−𝑥𝑆 − 3)2. Jednocześnie
+𝑟 = |𝑆𝑇| = √[𝑥𝑆 − (3
+5 𝑥𝑆 + 8
+5)]
+2
++ [−𝑥𝑆 − 3 − (− 6
+5 𝑥𝑆 − 11
+5 )]
+2
+= √(2
+5 𝑥𝑆 − 8
+5)
+2
++ (1
+5 𝑥𝑆 − 4
+5)
+2
+więc
+𝑥𝑆
+2 + (−𝑥𝑆 − 3)2 = (2
+5 𝑥𝑆 − 8
+5)
+2
++ (1
+5 𝑥𝑆 − 4
+5)
+2
+Stąd otrzymujemy
+𝑥𝑆
+2 + (𝑥𝑆 + 3)2 = 4
+25 (𝑥𝑆 − 4)2 + 1
+25 (𝑥𝑆 − 4)2
+2𝑥𝑆
+2 + 6𝑥𝑆 + 9 = 1
+5 (𝑥𝑆 − 4)2
+9𝑥𝑆
+2 + 38𝑥𝑆 + 29 = 0
+𝑥𝑆 = −1 ∨ 𝑥𝑆 = − 29
+9
+Ponieważ − 29
+9 < −3, a druga współrzędna punku 𝑆 ma być ujemna, więc 𝑥𝑆 = −1, czyli
+𝑆 = (−1, −2). Obliczamy promień okręgu: 𝑟 = √(−1)2 + (−2)2 = √5.
+Okrąg 𝒪 ma równanie (𝑥 + 1)2 + (𝑦 + 2)2 = 5.
+Zasady oceniania rozwiązań zadań
+Sposób II (poprzez współczynniki kierunkowe)
+Środek symetrii równoległoboku jest punktem przecięcia przekątnych równoległoboku.
+Zatem punkt 𝑀 jest środkiem odcinka 𝐴𝐶 oraz środkiem odcinka 𝐵𝐷. Stosujemy wzory
+na współrzędne środka odcinka i obliczamy współrzędne wierzchołka 𝐵:
+𝑥𝐵 + (−13)
+2 = − 9
+2 ∧ 𝑦𝐵 + 9
+2 = 1
+𝐵 = (4, −7)
+Stosujemy wzory na współrzędne środka odcinka i obliczamy współrzędne wierzchołka 𝐶:
+−8 + 𝑥𝐶
+2 = − 9
+2 ∧ −1 + 𝑦𝐶
+2 = 1
+𝐶 = (−1, 3)
+Obliczamy współczynnik kierunkowy 𝑎𝐴𝐵 prostej 𝐴𝐵: 𝑎𝐴𝐵 = −7−(−1)
+4−(−8) = − 1
+2 .
+Obliczamy współczynnik kierunkowy 𝑎𝐵𝐶 prostej 𝐵𝐶: 𝑎𝐵𝐶 = 3−(−7)
+−1−4 = −2.
+Oznaczmy miarę kąta 𝐴𝐵𝐶 równoległoboku przez 2𝛼. Obliczamy tangens tego kąta,
+korzystając z interpretacji geometrycznej współczynnika kierunkowego prostej oraz wzoru na
+tangens różnicy kątów:
+𝑦
+𝑥
+1
+1
+0
+𝑀
+𝐴
+𝐵
+𝐶
+𝐷
+tg(2𝛼) = 𝑎𝐴𝐵 − 𝑎𝐵𝐶
+1 + 𝑎𝐴𝐵 ⋅ 𝑎𝐵𝐶
+tg(2𝛼) =
+− 1
+2 − (−2)
+1 + (− 1
+2) ⋅ (−2)
+= 3
+4
+Korzystamy ze wzoru na tangens podwojonego kąta i otrzymujemy
+3
+4 = 2 tg 𝛼
+1 − tg2 𝛼
+3tg2 𝛼 + 8 tg 𝛼 − 3 = 0
+tg 𝛼 = −8 − 10
+6 = −3 ∨ tg 𝛼 = −8 + 10
+6 = 1
+3
+Ponieważ kąt 𝐴𝐵𝐶 równoległobku jest ostry, więc tg 𝛼 = 1
+3 .
+Oznaczmy środek okręgu 𝒪 przez 𝑆. Obliczamy współczynnik kierunkowy 𝑎𝐵𝑆 prostej
+𝐵𝑆, korzystając z interpretacji geometrycznej współczynnika kierunkowego prostej oraz
+wzoru na tangens sumy kątów:
+𝑎𝐵𝑆 = 𝑎𝐵𝐶 + tg 𝛼
+1 − 𝑎𝐵𝐶 ⋅ tg 𝛼
+𝑎𝐵𝑆 =
+−2 + 1
+3
+1 − (−2) ⋅ 1
+3
+= −1
+Wyznaczamy równanie prostej 𝐵𝑆: 𝑦 = −1 ⋅ (𝑥 − 4) + (−7), czyli 𝑦 = −𝑥 − 3. Zatem
+𝑆 = (𝑥𝑆 , −𝑥𝑆 − 3).
+Niech 𝑟 będzie długością promienia okręgu 𝒪. Ponieważ okrąg przechodzi przez początek
+układu współrzędnych, więc 𝑟 = √𝑥𝑆
+2 + (−𝑥𝑆 − 3)2. Ponadto
+𝑟
+|𝐵𝑆| = sin 𝛼
+więc
+𝑟
+|𝐵𝑆| = 1
+√10
+|𝐵𝑆|2 = 𝑟2 ⋅ 10
+(𝑥𝑆 − 4)2 + (−𝑥𝑆 − 3 − (−7))
+2
+= 𝑟2 ⋅ 10
+(𝑥𝑆 − 4)2 + (−𝑥𝑆 + 4)2 = [𝑥𝑆
+2 + (−𝑥𝑆 − 3)2] ⋅ 10
+18𝑥𝑆
+2 + 76𝑥𝑆 + 58 = 0
+9𝑥𝑆
+2 + 38𝑥𝑆 + 29 = 0
+Zasady oceniania rozwiązań zadań
+𝑥𝑆 = −1 ∨ 𝑥𝑆 = − 29
+9
+Ponieważ − 29
+9 < −3, a druga współrzędna punku 𝑆 ma być ujemna, więc 𝑥𝑆 = −1, czyli
+𝑆 = (−1, −2). Obliczamy promień okręgu: 𝑟 = √(−1)2 + (−2)2 = √5.
+Okrąg 𝒪 ma równanie (𝑥 + 1)2 + (𝑦 + 2)2 = 5.
+Sposób III (z własności dwusiecznej)
+Środek symetrii równoległoboku jest punktem przecięcia przekątnych równoległoboku.
+Zatem punkt 𝑀 jest środkiem odcinka 𝐴𝐶 oraz środkiem odcinka 𝐵𝐷. Stosujemy wzory
+na współrzędne środka odcinka i obliczamy współrzędne wierzchołka 𝐵:
+𝑥𝐵 + (−13)
+2 = − 9
+2 ∧ 𝑦𝐵 + 9
+2 = 1
+𝐵 = (4, −7)
+Stosujemy wzory na współrzędne środka odcinka i obliczamy współrzędne wierzchołka 𝐶:
+−8 + 𝑥𝐶
+2 = − 9
+2 ∧ −1 + 𝑦𝐶
+2 = 1
+𝐶 = (−1, 3)
+𝑦
+𝑥
+1
+1
+0
+𝑀
+𝐴
+𝐵
+𝐶
+𝐷
+Wyznaczamy równanie prostej 𝐴𝐵: 𝑦 = −7−(−1)
+4−(−8) ⋅ (𝑥 + 8) + (−1), czyli 𝑦 = − 1
+2 𝑥 − 5.
+Wyznaczamy równanie prostej 𝐵𝐶: 𝑦 = 3−(−7)
+−1−4 ⋅ (𝑥 − 4) + (−7), czyli 𝑦 = −2𝑥 + 1.
+Niech 𝑆 = (𝑥𝑆, 𝑦𝑆) będzie środkiem okręgu 𝒪, a 𝑟 – długością promienia okręgu 𝒪.
+Punkt 𝑆 leży na dwusiecznej kąta 𝐴𝐵𝐶 równoległoboku 𝐴𝐵𝐶𝐷, więc odległość punktu 𝑆
+od prostej 𝐴𝐵 jest równa odległości punktu 𝑆 od prostej 𝐵𝐶. Zatem
+| 1
+2 𝑥𝑆 + 𝑦𝑆 + 5|
+√(1
+2)
+2
++ 12
+= |2𝑥𝑆 + 𝑦𝑆 − 1|
+√22 + 12
+|𝑥𝑆 + 2𝑦𝑆 + 10| = |2𝑥𝑆 + 𝑦𝑆 − 1|
+𝑥𝑆 + 2𝑦𝑆 + 10 = 2𝑥𝑆 + 𝑦𝑆 − 1 ∨ 𝑥𝑆 + 2𝑦𝑆 + 10 = −2𝑥𝑆 − 𝑦𝑠 + 1
+𝑦𝑆 = 𝑥𝑆 − 11 ∨ 𝑦𝑆 = −𝑥𝑆 − 3
+Ponieważ punkt (0, 0) leży w równoległoboku 𝐴𝐵𝐶𝐷, a prosta 𝑦 = 𝑥 − 11 ma tylko jeden
+punkt wspólny z równoległobokiem, więc dwusieczna kąta 𝐴𝐵𝐶 ma równanie 𝑦 = −𝑥 − 3.
+Stąd 𝑦𝑆 = −𝑥𝑆 − 3 oraz
+𝑟 =
+|2𝑥𝑆 + 𝑦𝑆 − 1|
+√22 + 12 =
+|2𝑥𝑆 − 𝑥𝑆 − 3 − 1|
+√5
+=
+|𝑥𝑆 − 4|
+√5
+Okrąg przechodzi przez początek układu współrzędnych, więc 𝑟 = √𝑥𝑆
+2 + (−𝑥𝑆 − 3)2.
+Wobec powyższego otrzymujemy
+√𝑥𝑆
+2 + (−𝑥𝑆 − 3)2 = |𝑥𝑆 − 4|
+√5
+𝑥𝑆
+2 + (𝑥𝑠 + 3)2 = (𝑥𝑆 − 4)2
+5
+9𝑥𝑆
+2 + 38𝑥𝑆 + 29 = 0
+𝑥𝑆 = −1 ∨ 𝑥𝑆 = − 29
+9
+Ponieważ − 29
+9 < −3, a druga współrzędna punku 𝑆 ma być ujemna, więc 𝑥𝑆 = −1, czyli
+𝑆 = (−1, −2). Obliczamy promień okręgu: 𝑟 = √(−1)2 + (−2)2 = √5.
+Okrąg 𝒪 ma równanie (𝑥 + 1)2 + (𝑦 + 2)2 = 5.
+Zasady oceniania rozwiązań zadań

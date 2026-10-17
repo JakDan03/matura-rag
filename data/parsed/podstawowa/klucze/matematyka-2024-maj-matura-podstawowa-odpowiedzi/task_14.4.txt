@@ -1,0 +1,22 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=15; level=podstawowy; year=2024; month=maj; task_id=14.4]
+Zadanie 14.4. (0–2)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście,
+zarówno matematycznym, jak
+i popularnonaukowym, a także w formie
+wykresów, diagramów, tabel.
+Zdający:
+V.12) na podstawie wykresu funkcji
+𝑦 = 𝑓(𝑥) szkicuje wykresy funkcji
+𝑦 = 𝑓(𝑥 − 𝑎), […] 𝑦 = 𝑓(−𝑥).
+Zasady oceniania
+2 pkt – dwie poprawne odpowiedzi.
+1 pkt – jedna poprawna odpowiedź.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+Wersja A Wersja B
+A A
+E E

@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=19; level=podstawowy; year=2026; month=maj; task_id=16]
+Zadanie 16. (0–1)
+Ciąg arytmetyczny (𝑎𝑛) jest określony dla każdej liczby naturalnej 𝑛 ≥ 1.
+W tym ciągu 𝑎1 = 1 oraz 𝑎5 = 17.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Dziewiąty wyraz ciągu (𝑎𝑛) jest równy
+A. 29 B. 33 C. 34 D. 37

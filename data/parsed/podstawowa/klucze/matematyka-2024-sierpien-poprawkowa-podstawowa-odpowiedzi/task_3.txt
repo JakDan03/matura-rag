@@ -1,0 +1,55 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=3, 4, 5; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=3]
+Zadanie 3. (0–2)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+I.2) przeprowadza proste dowody dotyczące
+podzielności liczb całkowitych i reszt
+z dzielenia nie trudniejsze niż dowód
+podzielności przez 24 iloczynu czterech
+kolejnych liczb naturalnych.
+Zasady oceniania
+2 pkt – przekształcenie wyrażenia (2𝑛 + 5)2 + 3 do postaci 4(𝑛2 + 5𝑛 + 7)
+ALBO
+– przekształcenie wyrażenia (2𝑛 + 5)2 + 3 do postaci 4𝑛2 + 20𝑛 + 28 oraz
+zapisanie, że składniki 4𝑛2, 20𝑛, 28 są podzielne przez 4,
+ALBO
+– przekształcenie wyrażenia (2𝑛 + 5)2 + 3 do postaci (2𝑛 + 4)(2𝑛 + 6) + 4 oraz
+zapisanie, że liczba (2𝑛 + 4)(2𝑛 + 6) jest podzielna przez 4 jako iloczyn dwóch
+liczb parzystych.
+1 pkt – przekształcenie wyrażenia (2𝑛 + 5)2 + 3 do postaci 4𝑛2 + 20𝑛 + 25 + 3
+ALBO
+– przekształcenie wyrażenia (2𝑛 + 5)2 + 3 do postaci (2𝑛 + 4)(2𝑛 + 6) + 4.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający sprawdza prawdziwość tezy tylko dla wybranych wartości 𝑛, to otrzymuje
+0 punktów za całe rozwiązanie.
+2. Jeżeli zdający przyjmuje np. 𝑛 = 4𝑘 + 𝑟, gdzie 𝑘 ∈ ℕ i 𝑟 jest resztą z dzielenia liczby
+𝑛 przez 4 (lub 𝑛 = 2𝑘 + 𝑟, gdzie 𝑘 ∈ ℕ i 𝑟 jest resztą z dzielenia liczby 𝑛 przez 2),
+i przeprowadzi pełne rozumowanie dla wszystkich przypadków, to otrzymuje 2 punkty.
+Gdy przeprowadzi pełne rozumowanie dla co najmniej połowy przypadków, ale nie
+przeprowadzi pełnego rozumowania dla wszystkich przypadków, to otrzymuje 1 punkt za
+całe rozwiązanie.
+3. Jeżeli zdający rozpatruje tylko jeden przypadek 𝑛 = 4𝑘, to otrzymuje 0 punktów za całe
+rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Przekształcamy równoważnie dane wyrażenie
+(2𝑛 + 5)2 + 3 = 4𝑛2 + 20𝑛 + 25 + 3 = 4𝑛2 + 20𝑛 + 28 = 4(𝑛2 + 5𝑛 + 7)
+Ponieważ 𝑛 jest liczbą naturalną, więc 𝑛2 + 5𝑛 + 7 jest liczbą naturalną.
+Zatem liczba (2𝑛 + 5)2 + 3 = 4(𝑛2 + 5𝑛 + 7) jest podzielna przez 4.
+To należało wykazać.
+Sposób II
+Przekształcamy równoważnie dane wyrażenie
+(2𝑛 + 5)2 + 3 = (2𝑛 + 5)2 − 1 + 4 = (2𝑛 + 5 − 1)(2𝑛 + 5 + 1) + 4
+= (2𝑛 + 4)(2𝑛 + 6) + 4
+Ponieważ 𝑛 jest liczbą naturalną, więc liczby 2𝑛 + 4 oraz 2𝑛 + 6 są parzyste. Stąd
+wynika, że iloczyn (2𝑛 + 4)(2𝑛 + 6) jest liczbą podzielną przez 4.
+Zatem suma (2𝑛 + 4)(2𝑛 + 6) + 4 dwóch liczb podzielnych przez 4 jest podzielna przez 4.
+To należało wykazać.
+Zasady oceniania rozwiązań zadań

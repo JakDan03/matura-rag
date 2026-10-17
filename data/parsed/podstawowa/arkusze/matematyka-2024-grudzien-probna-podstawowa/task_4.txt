@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=6; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=4]
+Zadanie 4. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Dla każdej dodatniej liczby rzeczywistej 𝑥 i dla każdej dodatniej liczby rzeczywistej 𝑦
+wartość wyrażenia log7 𝑥 + 6 log7 𝑦 jest równa wartości wyrażenia
+A. log7 ( 𝑥
+𝑦6) B. log7(𝑥𝑦)6 C. log7(6𝑥𝑦) D. log7(𝑥𝑦6)

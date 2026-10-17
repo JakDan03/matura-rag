@@ -1,0 +1,18 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=18, 19; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=22.1]
+Zadanie 22.1. (0–1)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+VII.3) stosuje […] wzór na pole trójkąta
+𝑃 = 1
+2 ⋅ 𝑎 ⋅ 𝑏 ⋅ sin 𝛾.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+B
+Zasady oceniania rozwiązań zadań

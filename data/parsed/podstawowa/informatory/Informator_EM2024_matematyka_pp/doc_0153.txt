@@ -1,0 +1,39 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=153; level=podstawowy; year=2024; section=ALBO]
+Informacja o egzaminie maturalnym z matematyki dla absolwentów niesłyszących 153
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+A
+Zadanie 59.2. (0–3)
+Oblicz miarę kąta 𝑩𝑺𝑨 wycinka koła (rysunek 1.), z którego powstała czapeczka.
+Miarę kąta 𝑩𝑺𝑨 podaj w zaokrągleniu do jednego stopnia.
+Zasady oceniania
+3 pkt – poprawna metoda obliczenia miary kąta 𝐵𝑆𝐴 oraz podanie poprawnego wyniku
+|∡𝐵𝑆𝐴| ≈ 134°.
+2 pkt – poprawne wyprowadzenie i zapisanie związku 𝛼 = 𝑟
+𝑙 ⋅ 360° oraz zapisanie
+równania wynikającego z twierdzenia Pitagorasa: 𝑙2 = 𝑟2 + 𝐻2.
+1 pkt – zapisanie równania 𝛼
+360° ⋅ 2𝜋𝑙 = 2𝜋𝑟
+ALBO
+– zapisanie równania 𝛼
+360° ⋅ 𝜋𝑙2 = 𝜋𝑟𝑙.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Wprowadzimy oznaczenia:
+𝑟 = 𝑑
+2 – promień okręgu w podstawie stożka
+𝛼 = |∡𝐵𝑆𝐴| – miara kąta 𝐵𝑆𝐴 wycinka koła
+𝛽 – połowa miary kąta rozwarcia stożka
+𝐴
+𝑆
+𝑙
+𝐵
+𝛼
+𝑆
+𝑙
+𝐻
+𝛽
+𝑟
+𝑂

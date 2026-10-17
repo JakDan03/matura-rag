@@ -1,0 +1,5 @@
+Dział XII. Rachunek prawdopodobieństwa i statystyka.
+Poziom: podstawowy
+Zakres podstawowy. Uczeń:
+1) oblicza prawdopodobieństwo w modelu klasycznym;
+2) oblicza średnią arytmetyczną i średnią ważoną, znajduje medianę i dominantę.

@@ -1,0 +1,47 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=109; level=rozszerzony; year=2024; section=3. Informacja o egzaminie maturalnym z matematyki dla]
+Informacja o egzaminie maturalnym z matematyki dla absolwentów niesłyszących 109
+2 pkt – zapisanie równania |𝑥1 − 𝑥2| = 1 w postaci równania z jedną niewiadomą 𝑝, np.
+|1 − 1−2𝑝
+𝑝 | = 1.
+1 pkt – zapisanie i sprawdzenie rachunkiem, że liczba 𝑥1 = 1 jest miejscem zerowym
+funkcji 𝑓 oraz wyznaczenie miejsca zerowego 𝑥2 funkcji 𝑓: 𝑥2 = 1−2𝑝
+𝑝 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Ponieważ 𝑓 jest funkcją kwadratową, więc 𝑝 ≠ 0.
+Zauważamy, że liczba 𝑥1 = 1 jest miejscem zerowym funkcji 𝑓:
+𝑓(1) = 𝑝 ⋅ 12 + (𝑝 − 1) ⋅ 1 + 1 − 2𝑝 = 0
+Korzystamy ze wzorów Viète’a i wyznaczamy miejsce zerowe 𝑥2 funkcji 𝑓:
+𝑥1 ⋅ 𝑥2 = 1 − 2𝑝
+𝑝
+𝑥2 = 1 − 2𝑝
+𝑝
+Miejsca zerowe 𝑥1 , 𝑥2 funkcji 𝑓 różnią się o 1, gdy |𝑥1 − 𝑥2| = 1.
+Rozwiązujemy równanie |𝑥1 − 𝑥2| = 1:
+|𝑥1 − 𝑥2| = 1
+|1 − 1 − 2𝑝
+𝑝 | = 1
+|3𝑝 − 1
+𝑝 | = 1
+3𝑝 − 1
+𝑝 = 1 ∨ 3𝑝 − 1
+𝑝 = −1
+3𝑝 − 1 = 𝑝 ∨ 3𝑝 − 1 = −𝑝
+𝑝 = 1
+2 ∨ 𝑝 = 1
+4
+Dla 𝑝 = 1
+4 funkcja 𝑓 przyjmuje postać 𝑓(𝑥) = 1
+4 𝑥2 − 3
+4 𝑥 + 1
+2 i ma dwa rzeczywiste
+miejsca zerowe: 1 oraz 2.
+Dla 𝑝 = 1
+2 funkcja 𝑓 przyjmuje postać 𝑓(𝑥) = 1
+2 𝑥2 − 1
+2 𝑥 i ma dwa rzeczywiste miejsca
+zerowe: 0 oraz 1.
+Zatem funkcja 𝑓 ma dokładnie dwa miejsca zerowe różniące się o 1 tylko wtedy, gdy
+𝑝 = 1
+4 lub 𝑝 = 1
+2 .

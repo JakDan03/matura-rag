@@ -1,0 +1,87 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=52, 53; level=rozszerzony; year=2024; month=maj; task_id=13.2]
+Zadanie 13.2. (0–4)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+XIII.R3) oblicza pochodną funkcji potęgowej
+o wykładniku rzeczywistym oraz oblicza
+pochodną, korzystając z twierdzeń
+o pochodnej sumy, różnicy, iloczynu
+i ilorazu;
+XIII.R4) stosuje pochodną do badania
+monotoniczności funkcji;
+XIII.R5) rozwiązuje zadania optymalizacyjne
+z zastosowaniem pochodnej.
+Zasady oceniania
+4 pkt – uzasadnienie, że funkcja 𝑃 przyjmuje wartość najmniejszą dla 𝑎 = 8√3
+i obliczenie wartości najmniejszej funkcji 𝑃: 96√3 + 1728.
+3 pkt – uzasadnienie (np. poprzez badanie monotoniczności funkcji), że funkcja 𝑃 przyjmuje
+wartość najmniejszą dla 𝑎 = 8√3
+ALBO
+– zapisanie, że dla 𝑎 = 8√3 funkcja 𝑃 osiąga wartość najmniejszą i obliczenie
+𝑃(8√3): 𝑃(8√3) = 96√3 + 1728.
+2 pkt – poprawne rozwiązanie równania 𝑎√3 − 13824√3
+𝑎2 = 0: 𝑎 = 24.
+1 pkt – wyznaczenie pochodnej funkcji 𝑃: 𝑃′(𝑎) = 𝑎√3 − 13824√3
+𝑎2 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający wyznaczy pochodną funkcji 𝑃 z błędem, ale wyznaczona pochodna ma
+postać 𝐴𝑎 + 𝐵
+𝑎2 , gdzie 𝐴 oraz 𝐵 są liczbami niewymiernymi, lub postać ułamka,
+w którego liczniku jest wielomian stopnia trzeciego, a w mianowniku 𝑚𝑎2,
+i konsekwentnie rozwiąże zadanie do końca, to może otrzymać co najwyżej 3 punkty za
+całe rozwiązanie (za miejsce zerowe pochodnej, za uzasadnienie istnienia najmniejszej
+wartości funkcji oraz za obliczenie najmniejszej wartości funkcji 𝑃).
+Jeżeli natomiast otrzyma inną błędną postać pochodnej, to może otrzymać co najwyżej
+2 punkty za całe rozwiązanie (za miejsce zerowe pochodnej oraz za uzasadnienie
+istnienia najmniejszej wartości funkcji 𝑃).
+2. Badanie znaku pochodnej zdający może opisać w inny sposób, np. szkicując wykres
+funkcji, która w ten sam sposób jak pochodna zmienia znak, i zaznaczając na rysunku, np.
+znakami „+” i „-” znak pochodnej.
+Zasady oceniania rozwiązań zadań
+3. Jeżeli zdający otrzyma miejsce zerowe pochodnej, które należy do przedziału (0, 8√3), to
+może otrzymać co najwyżej 1 punkt (za wyznaczenie pochodnej albo za obliczenie
+miejsca zerowego pochodnej).
+4. Za poprawne uzasadnienie, że funkcja 𝑃 osiąga wartość najmniejszą dla 𝑎 = 8√3
+można uznać sytuację, gdy zdający bada znak pochodnej oraz zapisuje słownie lub
+graficznie, że funkcja 𝑃 jest malejąca w przedziale (0, 𝑎0), gdzie 𝑎0 jest miejscem
+zerowym pochodnej funkcji 𝑓, będącej rozszerzeniem funkcji 𝑃 na zbiór (0, +∞).
+5. Jeżeli zdający błędnie uzasadnia, że dla 𝑎 = 8√3 funkcja 𝑃 osiąga wartość
+najmniejszą, to nie otrzymuje punktu za obliczenie 𝑃(8√3).
+Przykładowe pełne rozwiązanie
+Obliczamy najmniejszą wartość funkcji 𝑃 określonej wzorem 𝑃(𝑎) = 𝑎2√3
+2 + 13824√3
+𝑎 dla
+𝑎 ∈ (0, 8√3 ].
+Wyznaczamy pochodną funkcji 𝑃: 𝑃′(𝑎) = 𝑎√3 − 13824√3
+𝑎2 dla 𝑎 ∈ (0, 8√3 ].
+Obliczamy miejsca zerowe pochodnej funkcji 𝑃:
+𝑃′(𝑎) = 0
+𝑎√3 − 13824√3
+𝑎2 = 0
+𝑎3√3 − 13824√3 = 0
+𝑎3 = 13824 = 243
+𝑎 = 24 ∉ (0, 8√3 ]
+Badamy znak pochodnej:
+𝑃′(𝑎) < 0
+𝑎√3 − 13824√3
+𝑎2 < 0
+𝑎3√3 − 13824√3 < 0
+𝑎3 < 13824
+𝑎 < 24
+więc 𝑃′(𝑎) < 0 dla 𝑎 ∈ (0, 8√3 ].
+Zatem funkcja 𝑃 jest malejąca w przedziale (0, 8√3 ].
+Stąd dla 𝑎 = 8√3 funkcja 𝑃 osiąga wartość najmniejszą równą
+𝑃(8√3) = 𝑎2√3
+2 + 13824√3
+𝑎 =
+(8√3)
+2
+⋅ √3
+2 + 13824√3
+8√3 = 96√3 + 1728.

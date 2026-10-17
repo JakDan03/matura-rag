@@ -1,0 +1,44 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=15; year=2023; section=10. PLANIMETRIA]
+Strona 15 z 34
+10. PLANIMETRIA
+Przyjmujemy następujące oznaczenia w trójkącie 𝐴𝐵𝐶:
+𝑎, 𝑏, 𝑐 – długości boków w trójkącie 𝐴𝐵𝐶
+𝛼, 𝛽, 𝛾 – miary kątów wewnętrznych trójkąta
+leżących, odpowiednio, przy wierzchołkach
+𝐴, 𝐵 oraz 𝐶
+𝑅, 𝑟 – długości promieni okręgów,
+odpowiednio, opisanego i wpisanego
+w trójkąt 𝐴𝐵𝐶
+ℎ𝑎, ℎ𝑏, ℎ𝑐 – wysokości trójkąta opuszczone, odpowiednio, z wierzchołków 𝐴, 𝐵 i 𝐶.
+𝑝 – połowa obwodu trójkąta 𝐴𝐵𝐶, tj.
+• Twierdzenie Pitagorasa (wraz z twierdzeniem odwrotnym do niego)
+Jeżeli w trójkącie 𝐴𝐵𝐶 kąt 𝛾 jest kątem prostym, to:
+Jeżeli w trójkącie 𝐴𝐵𝐶 długości boków spełniają równość 𝑎2 + 𝑏2 = 𝑐2, to kąt 𝛾 jest
+kątem prostym.
+• Twierdzenie sinusów
+• Twierdzenie cosinusów
+𝑝 = 𝑎 + 𝑏 + 𝑐
+2
+𝑎2 + 𝑏2 = 𝑐2
+𝑎
+sin 𝛼 = 2𝑅 𝑏
+sin 𝛽 = 2𝑅 𝑐
+sin 𝛾 = 2𝑅
+𝑎2 = 𝑏2 + 𝑐2 − 2𝑏𝑐 ⋅ cos 𝛼
+𝑏2 = 𝑎2 + 𝑐2 − 2𝑎𝑐 ⋅ cos 𝛽
+𝑐2 = 𝑎2 + 𝑏2 − 2𝑎𝑏 ⋅ cos 𝛾
+𝛼
+𝛽
+𝛾
+𝑐
+𝑎
+𝑏
+𝐵
+𝐴
+𝐶
+𝑎
+𝑏
+𝑐
+𝐶
+𝐴
+𝐵

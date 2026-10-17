@@ -1,0 +1,18 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=13, 14; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=14.2]
+Zadanie 14.2. (0–1)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+V.8) interpretuje współczynniki występujące
+we wzorze funkcji kwadratowej w postaci
+ogólnej, kanonicznej i iloczynowej (jeśli
+istnieje).
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+FF

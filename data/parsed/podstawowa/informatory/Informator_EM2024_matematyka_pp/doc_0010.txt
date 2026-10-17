@@ -1,0 +1,31 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=10; level=podstawowy; year=2024; section=WYBRANE OZNACZENIA I SYMBOLE MATEMATYCZNE]
+10 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+WYBRANE OZNACZENIA I SYMBOLE MATEMATYCZNE
+W zadaniach z matematyki na poziomie podstawowym mogą być stosowane następujące
+oznaczenia i symbole matematyczne:
+• ℕ – zbiór liczb naturalnych
+• ℤ – zbiór liczb całkowitych
+• ℚ – zbiór liczb wymiernych
+• ℝ – zbiór liczb rzeczywistych
+• 𝐴 ∪ 𝐵 – suma zbiorów 𝐴 oraz 𝐵
+• 𝐴 ∩ 𝐵 – iloczyn zbiorów 𝐴 i 𝐵 (część wspólna zbiorów 𝐴 i 𝐵)
+• 𝐴\𝐵 – różnica zbioru 𝐴 i zbioru 𝐵
+• 𝐴 ⊂ 𝐵 – zbiór A jest podzbiorem zbioru 𝐵
+• 𝑥 ∈ 𝐴 – element 𝑥 należy do zbioru 𝐴
+• [𝑎, 𝑏] – zbiór wszystkich liczb rzeczywistych 𝑥 takich, że 𝑎 ≤ 𝑥 ≤ 𝑏
+[𝑎, 𝑏) – zbiór wszystkich liczb rzeczywistych 𝑥 takich, że 𝑎 ≤ 𝑥 < 𝑏
+(𝑎, 𝑏] – zbiór wszystkich liczb rzeczywistych 𝑥 takich, że 𝑎 < 𝑥 ≤ 𝑏
+(𝑎, 𝑏) – zbiór wszystkich liczb rzeczywistych 𝑥 takich, że 𝑎 < 𝑥 < 𝑏
+Krańce przedziałów domkniętych zdający może oznaczać także – odpowiednio:
+〈𝑎, 𝑏〉, ⟨𝑎, 𝑏), (𝑎, 𝑏⟩.
+MATERIAŁY I PRZYBORY POMOCNICZE NA EGZAMINIE Z MATEMATYKI
+Materiały i przybory pomocnicze, z których mogą korzystać zdający na egzaminie maturalnym
+z matematyki, to:
+• linijka
+• cyrkiel
+• kalkulator prosty
+• Wybrane wzory matematyczne na egzamin maturalny z matematyki.
+Szczegółowe informacje dotyczące materiałów i przyborów pomocniczych, z których mogą
+korzystać zdający na egzaminie maturalnym (w tym osoby, którym dostosowano warunki
+przeprowadzenia egzaminu), będą ogłaszane w komunikacie dyrektora Centralnej Komisji
+Egzaminacyjnej.

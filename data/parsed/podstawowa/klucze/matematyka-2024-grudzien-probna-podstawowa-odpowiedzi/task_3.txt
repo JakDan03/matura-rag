@@ -1,0 +1,42 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=4, 5; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=3]
+Zadanie 3. (0–2)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+I.2) przeprowadza proste dowody dotyczące
+podzielności liczb całkowitych […];
+I.4) stosuje […] prawa działań na potęgach
+[…].
+Zasady oceniania
+2 pkt – przekształcenie wyrażenia 2100 + 449 + 1624 do postaci 21 ⋅ 𝑛, gdzie 𝑛 jest liczbą
+naturalną, np.: 296 ⋅ 21, 448 ⋅ 21.
+1 pkt – przekształcenie wyrażenia 2100 + 449 + 1624 do postaci 2100 + 298 + 296
+ALBO
+– przekształcenie wyrażenia 2100 + 449 + 1624 do postaci 450 + 449 + 448,
+ALBO
+– przekształcenie wyrażenia 2100 + 449 + 1624 do postaci 1625 + 1624 ⋅ 4 + 1624.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Korzystamy z własności działań na potęgach i otrzymujemy:
+2100 + 449 + 1624 = 2100 + (22)49 + (24)24 = 2100 + 298 + 296
+Wyłączamy wspólny czynnik przed nawias
+2100 + 298 + 296 = 296 ⋅ (24 + 22 + 1) = 296 ⋅ 21
+Liczba 296 jest liczbą całkowitą, zatem liczba 2100 + 449 + 1624 jest podzielna przez 21.
+Sposób II
+Korzystamy z własności działań na potęgach i otrzymujemy:
+2100 + 449 + 1624 = (22)50 + 449 + (42)24 = 450 + 449 + 448
+Wyłączamy wspólny czynnik przed nawias
+450 + 449 + 448 = 448 ⋅ (42 + 4 + 1) = 448 ⋅ 21
+Liczba 448 jest liczbą całkowitą, zatem liczba 2100 + 449 + 1624 jest podzielna przez 21.
+Sposób III
+Korzystamy z własności działań na potęgach i otrzymujemy:
+2100 + 449 + 1624 = (24)25 + (42)24 ⋅ 4 + 1624 = 1625 + 1624 ⋅ 4 + 1624
+Wyłączamy wspólny czynnik przed nawias
+Zasady oceniania rozwiązań zadań
+1625 + 1624 ⋅ 4 + 1624 = 1624 ⋅ (16 + 4 + 1) = 1624 ⋅ 21
+Liczba 1624 jest liczbą całkowitą, zatem liczba 2100 + 449 + 1624 jest podzielna przez 21.

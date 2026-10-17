@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=14; level=podstawowy; year=2026; month=czerwiec; task_id=13.2]
+Zadanie 13.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) wykresem funkcji kwadratowej 𝑓 jest
+parabola o wierzchołku w punkcie 𝑊 = (−3, 7).
+Zadanie 13.2. (0–1)
+Funkcja kwadratowa 𝑔 jest określona za pomocą funkcji 𝑓 wzorem 𝑔(𝑥) = 𝑓(𝑥 − 5).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wierzchołek paraboli będącej wykresem funkcji 𝑔 ma współrzędne
+A. (−8, 7) B. (−3, 2) C. (−3, 12) D. (2, 7)

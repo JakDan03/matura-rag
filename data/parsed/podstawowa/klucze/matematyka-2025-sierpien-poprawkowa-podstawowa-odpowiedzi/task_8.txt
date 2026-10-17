@@ -1,0 +1,81 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=6, 7, 8; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=8]
+Zadanie 8. (0–3)
+Wymaganie ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+III.1) przekształca równania i nierówności
+w sposób równoważny, w tym np.
+przekształca równoważnie równanie
+5
+𝑥 + 1 = 𝑥 + 3
+2𝑥−1;
+III.4) rozwiązuje równania […] kwadratowe.
+I.6) posługuje się pojęciem przedziału
+liczbowego […].
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i rozwiązanie równania 3
+3𝑥 − 7 = 5𝑥
+𝑥 − 8 w zbiorze
+liczb rzeczywistych oraz wskazanie tego rozwiązania równania, które należy do
+przedziału (5
+4 , +∞): 𝑥 = 4
+3
+.
+2 pkt – rozwiązanie równania 3
+3𝑥 − 7 = 5𝑥
+𝑥 − 8 w zbiorze liczb rzeczywistych:
+𝑥 = 6
+5 oraz 𝑥 = 4
+3
+.
+1 pkt – przekształcenie równania 3
+3𝑥 − 7 = 5𝑥
+𝑥 − 8 do równania kwadratowego, np.
+3(𝑥 − 8) = 5𝑥(3𝑥 − 7).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający popełni błędy rachunkowe przy przekształcaniu równania i otrzyma
+równanie kwadratowe postaci 𝑎𝑥2 + 𝑏𝑥 + 𝑐 = 0, które ma co najmniej jedno rozwiązanie
+rzeczywiste i konsekwentnie rozwiąże zadanie do końca, to otrzymuje 2 punkty za całe
+rozwiązanie.
+2. Jeżeli zdający nie spełni kryterium za 1 punkt, a przy przekształcaniu równania popełnia
+błędy i otrzyma równanie kwadratowe postaci 𝑎𝑥2 + 𝑏𝑥 + 𝑐 = 0, które nie ma rozwiązań
+rzeczywistych, albo otrzyma równanie, które nie jest kwadratowe, to otrzymuje 0 punktów
+za całe rozwiązanie.
+3. Jeżeli zdający, przekształcając równanie wymierne do równania kwadratowego, zastosuje
+błędną metodę - np. zapisze 15𝑥 = (3𝑥 − 7)(𝑥 − 8), to otrzymuje 0 punktów za całe
+rozwiązanie.
+Zasady oceniania rozwiązań zadań
+Przykładowe pełne rozwiązanie
+Przekształcamy równanie:
+3
+3𝑥 − 7 = 5𝑥
+𝑥 − 8
+3(𝑥 − 8) = 5𝑥(3𝑥 − 7)
+Rozwiązujemy otrzymane równanie kwadratowe:
+3𝑥 − 24 = 15𝑥2 − 35𝑥
+15𝑥2 − 38𝑥 + 24 = 0
+Obliczamy wyróżnik Δ trójmianu kwadratowego 15𝑥2 − 38𝑥 + 24:
+Δ = (−38)2 − 4 ⋅ 15 ⋅ 24 = 1444 − 1440 = 4
+Stąd:
+𝑥1 = −(−38) − √4
+2 ⋅ 15 = 6
+5 ∉ (5
+4 , +∞)
+𝑥2 = −(−38) + √4
+2 ⋅ 15 = 4
+3 ∈ (5
+4 , +∞)
+Ponadto 4
+3 ≠ 7
+3 oraz 4
+3 ≠ 8. Zatem jedynym rozwiązaniem równania 3
+3𝑥 − 7 = 5𝑥
+𝑥 − 8
+w zbiorze (5
+4 , +∞) jest liczba 4
+3 .

@@ -1,0 +1,138 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=34, 35, 36, 37; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=30]
+Zadanie 30. (0–4)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+XIII) rozwiązuje zadania optymalizacyjne
+w sytuacjach dających się opisać funkcją
+kwadratową.
+Zasady oceniania
+4 pkt – poprawna metoda obliczenia długości krótszej podstawy trapezu o największym polu
+i obliczenie największego pola trapezu oraz poprawne wyniki:
+𝑏 = 3 dm, 𝑃 = 112,5 dm2.
+3 pkt – zapisanie poprawnego wzoru na pole trapezu w zależności od zmiennej 𝑏 oraz
+prawidłowe obliczenie pierwszej współrzędnej wierzchołka paraboli: 𝑏 = 3
+ALBO
+– zapisanie poprawnego wzoru na pole trapezu w zależności od zmiennej ℎ oraz
+prawidłowe obliczenie pierwszej współrzędnej wierzchołka paraboli: ℎ = 15,
+ALBO
+– zapisanie poprawnej nierówności między średnią geometryczną i średnią
+arytmetyczną dla liczb dodatnich, np. (12 + 𝑏) i (18 − 𝑏)
+√(12 + 𝑏)(18 − 𝑏) ≤
+12+𝑏+18−𝑏
+2 ,
+ALBO
+– wyznaczenie pochodnej funkcji 𝑃 oraz obliczenie jej miejsca zerowego, np.
+𝑃′(𝑏) = −𝑏 + 3, 𝑏 = 3.
+2 pkt – zapisanie poprawnego wzoru na pole trapezu w zależności od jednej zmiennej:
+𝑃(𝑏) =
+1
+2 (12 + 𝑏)(18 − 𝑏) lub 𝑃(ℎ) =
+1
+2 (30 − ℎ)ℎ.
+1 pkt – zapisanie związku między krótszą podstawą a wysokością trapezu: 𝑏 + ℎ = 18
+oraz zapisanie wzoru na pole trapezu w zależności od dwóch zmiennych:
+𝑃(𝑏) =
+1
+2 (12 + 𝑏)ℎ.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający zapisze pole trapezu jako funkcję 𝑃 jednej zmiennej, ale otrzyma wartość
+pierwszej współrzędnej wierzchołka paraboli zawierającej wykres funkcji 𝑃, która leży
+poza dziedziną funkcji 𝑃, to może otrzymać co najwyżej 2 punkty za całe rozwiązanie.
+2. Jeżeli zdający zapisze pole trapezu jako funkcję 𝑃 jednej zmiennej, a następnie obliczy
+wartości tej funkcji dla pierwszej współrzędnej wierzchołka i dwóch argumentów leżących
+Zasady oceniania rozwiązań zadań
+symetrycznie względem pierwszej współrzędnej wierzchołka i nie odwoła się do własności
+wykresu funkcji kwadratowej, to otrzymuje co najwyżej 3 punkty za całe rozwiązanie.
+3. Jeżeli zdający nie zapisze pola trapezu jako funkcji jednej zmiennej, a jedynie oblicza
+wartości pola dla wybranych par liczb 𝑏 oraz ℎ i na tej podstawie wskazuje największą
+wartość pola, to za całe rozwiązanie otrzymuje 0 punktów, o ile nie nabył prawa do innej
+liczby punktów.
+Przykładowe pełne rozwiązanie
+Sposób I
+Przyjmujemy oznaczenia:
+𝑎 = 12 – dłuższa podstawa trapezu,
+𝑏 – krótsza podstawa trapezu,
+ℎ – wysokość trapezu.
+Z warunków zadania otrzymujemy:
+𝑏 + ℎ = 18
+Stąd wyznaczamy ℎ:
+ℎ = 18 − 𝑏
+Pole trapezu wyrażamy jako funkcję zmiennej 𝑏:
+𝑃(𝑏) = 1
+2 (12 + 𝑏)(18 − 𝑏) = − 1
+2 (𝑏 + 12)(𝑏 − 18)
+Wyznaczamy dziedzinę funkcji 𝑃. Z warunków zadania wynika, że:
+𝑏 > 0 oraz ℎ = 18 − 𝑏 > 0 oraz 𝑏 < 12
+Zatem
+𝑏 > 0 oraz 𝑏 < 18 oraz 𝑏 < 12
+Zmienna 𝑏 może przyjmować wartość z przedziału (0, 12).
+Wykresem funkcji 𝑃 jest fragment paraboli skierowanej ramionami do dołu. Obliczamy
+pierwszą współrzędną wierzchołka paraboli:
+𝑝 = −12 + 18
+2 = 6
+2 = 3 ∈ (0, 12)
+Zatem funkcja 𝑃 przyjmuje wartość największą dla argumentu 3.
+Dla 𝑏 = 3 pole tego trapezu jest równe:
+𝑃(3) = 1
+2 (12 + 3)(18 − 3) = 112,5
+Największe pole równe 112,5 dm2 ma trapez, którego krótsza podstawa ma 3 dm.
+Sposób II
+Przyjmujemy oznaczenia:
+𝑎 = 12 – dłuższa podstawa trapezu,
+𝑏 – krótsza podstawa trapezu,
+ℎ – wysokość trapezu.
+Z warunków zadania otrzymujemy:
+𝑏 + ℎ = 18
+Stąd wyznaczamy 𝑏:
+𝑏 = 18 − ℎ
+Pole trapezu wyrażamy jako funkcję zmiennej ℎ:
+𝑃(ℎ) = 1
+2 (12 + 18 − ℎ)ℎ = 1
+2 (30 − ℎ)ℎ
+Wyznaczamy dziedzinę funkcji 𝑃. Z warunków zadania wynika, że:
+ℎ > 0 oraz 𝑏 = 18 − ℎ > 0 oraz 𝑏 = 18 − ℎ < 12
+Zatem
+ℎ > 0 oraz ℎ < 18 oraz ℎ > 6
+Zmienna ℎ może przyjmować wartość z przedziału (6, 18).
+Wykresem funkcji 𝑃 jest fragment paraboli skierowanej ramionami do dołu. Obliczamy
+pierwszą współrzędną wierzchołka paraboli:
+𝑝 = 30 + 0
+2 = 15 ∈ (6, 18)
+Zatem funkcja 𝑃 przyjmuje wartość największą dla argumentu 15.
+Dla ℎ = 15 pole tego trapezu jest równe:
+𝑃(15) = 1
+2 (30 − 15)15 = 112,5
+Obliczamy długość krótszej podstawy trapezu:
+𝑏 = 18 − 15 = 3
+Największe pole równe 112,5 dm2 ma trapez, którego krótsza podstawa ma 3 dm.
+Zasady oceniania rozwiązań zadań
+Sposób III
+Przyjmujemy oznaczenia:
+𝑎 = 12 – dłuższa podstawa trapezu,
+𝑏 – krótsza podstawa trapezu,
+ℎ – wysokość trapezu.
+Z warunków zadania otrzymujemy:
+𝑏 + ℎ = 18
+Stąd wyznaczamy ℎ:
+ℎ = 18 − 𝑏
+Pole trapezu wyrażamy jako funkcję zmiennej 𝑏:
+𝑃(𝑏) = 1
+2 (12 + 𝑏)(18 − 𝑏)
+Z nierówności między średnią geometryczną i średnią arytmetyczną dla liczb dodatnich
+(12 + 𝑏) i (18 − 𝑏) otrzymujemy
+√(12 + 𝑏)(18 − 𝑏) ≤ 12 + 𝑏 + 18 − 𝑏
+2
+√(12 + 𝑏)(18 − 𝑏) ≤ 15
+Stąd
+(12 + 𝑏)(18 − 𝑏) ≤ 225
+przy czym równość zachodzi tylko wtedy, gdy 12 + 𝑏 = 18 − 𝑏, czyli dla 𝑏 = 3.
+Wtedy pole trapezu jest największe i równe 𝑃(3) =
+1
+2 ⋅ 225 = 112,5.

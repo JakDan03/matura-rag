@@ -1,0 +1,31 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=99; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+Przykładowe zadania z rozwiązaniami 99
+Przykładowe pełne rozwiązanie
+W trójkącie naprzeciw najmniejszego kąta wewnętrznego leży najkrótszy bok, więc musimy
+obliczyć sinus kąta 𝐴𝐶𝐵.
+Oznaczmy: |∡𝐴𝐶𝐵| = 𝛼.
+Z twierdzenia cosinusów obliczymy cos 𝛼:
+|𝐴𝐵|2 = |𝐴𝐶|2 + |𝐵𝐶|2 − 2 ⋅ |𝐴𝐶| ⋅ |𝐵𝐶| ⋅ cos 𝛼
+42 = 62 + 52 − 2 ⋅ 6 ⋅ 5 ⋅ cos 𝛼
+16 = 36 + 25 − 60 ⋅ cos 𝛼
+60 ⋅ cos 𝛼 = 61 − 16
+cos 𝛼 = 45
+60 = 3
+4
+Z „jedynki trygonometrycznej” obliczymy sin 𝛼:
+sin2 𝛼 = 1 − (3
+4)
+2
+= 7
+16
+Ponieważ 𝛼 jest kątem ostrym, więc
+sin 𝛼 = √ 7
+16 = √7
+4
+𝐴
+5
+𝐶
+𝐵
+4
+6
+𝛼

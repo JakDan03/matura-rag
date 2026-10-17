@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=17; level=podstawowy; year=2025; month=czerwiec; task_id=19.2]
+Zadanie 19.
+Dany jest trójkąt prostokątny o bokach długości 10, 24, 26 (zobacz rysunek).
+Zadanie 19.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Długość promienia okręgu opisanego na tym trójkącie jest równa
+A. 80
+13 B. 20
+3 C. 12 D. 13
+10
+24
+26

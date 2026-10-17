@@ -1,0 +1,101 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=13, 14, 15, 16; level=podstawowy; year=2025; month=czerwiec; task_id=13]
+Zadanie 13. (0–3)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+V.9) wyznacza wzór funkcji kwadratowej na
+podstawie informacji o tej funkcji lub o jej
+wykresie.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑓(𝑥) = 3(𝑥 + 1)2 − 12.
+2 pkt – obliczenie współczynnika 𝑎: 𝑎 = 3
+ALBO
+– obliczenie współczynnika 𝑞: 𝑞 = −12.
+1 pkt – zapisanie wzoru funkcji 𝑓 w postaci 𝑓(𝑥) = 𝑎(𝑥 + 1)2 + 𝑞
+ALBO
+– zapisanie wzoru funkcji 𝑓 w postaci 𝑓(𝑥) = 𝑎(𝑥 − 1)(𝑥 + 3),
+ALBO
+– zapisanie układu trzech niezależnych równań z trzema niewiadomymi 𝑎, 𝑏, 𝑐
+prowadzącego do obliczenia wartości współczynników 𝑎, 𝑏 oraz 𝑐, np.:
+4𝑎 + 2𝑏 + 𝑐 = 15 oraz −𝑏
+2𝑎 = −1 oraz 𝑎 + 𝑏 + 𝑐 = 0.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Wykres funkcji 𝑓 jest symetryczny względem prostej o równaniu 𝑥 = −1, zatem drugie
+miejsce zerowe funkcji 𝑓 jest równe 𝑥2 = −3.
+Korzystamy ze wzoru na postać iloczynową funkcji kwadratowej i zapisujemy:
+𝑓(𝑥) = 𝑎(𝑥 − 1)(𝑥 + 3), gdzie 𝑎 ≠ 0
+Punkt (2, 15) leży na wykresie funkcji 𝑓, zatem dla argumentu 2 funkcja 𝑓 przyjmuje
+wartość 15. Stąd otrzymujemy:
+𝑓(2) = 15
+𝑎(2 − 1)(2 + 3) = 15
+5𝑎 = 15
+𝑎 = 3
+Zapisujemy wzór funkcji 𝑓 w postaci iloczynowej:
+𝑓(𝑥) = 3(𝑥 − 1)(𝑥 + 3)
+Przekształcamy wzór funkcji 𝑓 do postaci kanonicznej:
+𝑓(𝑥) = 3(𝑥 − 1)(𝑥 + 3) = 3(𝑥2 + 2𝑥 − 3) = 3(𝑥2 + 2𝑥 + 1 − 4) =
+= 3[(𝑥 + 1)2 − 4] = 3(𝑥 + 1)2 − 12
+Uwaga.
+Postać kanoniczną funkcji 𝑓 możemy też uzyskać, obliczając współrzędne wierzchołka
+paraboli będącej wykresem tej funkcji. Ponieważ osią symetrii tej paraboli jest prosta
+o równaniu 𝑥 = −1, więc pierwsza współrzędna wierzchołka paraboli jest równa 𝑝 = −1.
+Druga współrzędna wierzchołka paraboli jest równa
+𝑞 = 𝑓(−1) = 3(−1 − 1)(−1 + 3) = −12
+Stąd otrzymujemy postać kanoniczną funkcji 𝑓: 𝑓(𝑥) = 3(𝑥 + 1)2 − 12.
+Sposób II
+Ponieważ osią symetrii wykresu funkcji 𝑓 jest prosta o równaniu 𝑥 = −1, więc pierwszą
+współrzędną wierzchołka paraboli, która jest wykresem tej funkcji, jest 𝑝 = −1.
+Korzystamy ze wzoru na postać kanoniczną funkcji kwadratowej i zapisujemy:
+𝑓(𝑥) = 𝑎(𝑥 + 1)2 + 𝑞, gdzie 𝑎 ≠ 0
+Miejscem zerowym funkcji 𝑓 jest liczba 1, zatem punkt (1, 0) leży na wykresie tej funkcji.
+Stąd i z tego, że wykres funkcji 𝑓 przechodzi przez punkt (2, 15), otrzymujemy układ
+równań:
+{ 𝑓(1) = 0
+𝑓(2) = 15
+{ 𝑎(1 + 1)2 + 𝑞 = 0
+𝑎(2 + 1)2 + 𝑞 = 15
+{ 4𝑎 + 𝑞 = 0
+9𝑎 + 𝑞 = 15
+Odejmujemy równania stronami i otrzymujemy:
+−5𝑎 = −15
+𝑎 = 3
+Stąd:
+𝑞 = −4𝑎 = −12
+Zatem 𝑓(𝑥) = 3(𝑥 + 1)2 − 12.
+Zasady oceniania rozwiązań zadań
+Sposób III
+Korzystamy ze wzoru na postać ogólną funkcji kwadratowej i zapisujemy:
+𝑓(𝑥) = 𝑎𝑥2 + 𝑏𝑥 + 𝑐, gdzie 𝑎 ≠ 0
+Ponieważ osią symetrii wykresu funkcji 𝑓 jest prosta o równaniu 𝑥 = −1, więc pierwszą
+współrzędną wierzchołka paraboli, która jest wykresem tej funkcji, jest 𝑝 = −1.
+Stąd:
+−𝑏
+2𝑎 = −1
+𝑏 = 2𝑎
+Miejscem zerowym funkcji 𝑓 jest liczba 1, zatem:
+𝑓(1) = 0
+𝑎 + 𝑏 + 𝑐 = 0
+Podstawiamy do równania w miejsce 𝑏 wyrażenie 2𝑎 i otrzymujemy:
+𝑎 + 2𝑎 + 𝑐 = 0
+𝑐 = −3𝑎
+Punkt (2, 15) leży na wykresie funkcji 𝑓, zatem dla argumentu 2 funkcja 𝑓 przyjmuje
+wartość 15. Stąd otrzymujemy:
+𝑓(2) = 15
+4𝑎 + 2𝑏 + 𝑐 = 15
+Podstawiamy do równania w miejsce 𝑏 wyrażenie 2𝑎, natomiast w miejsce 𝑐 podstawiamy
+wyrażenie (−3𝑎) i otrzymujemy:
+4𝑎 + 2 ⋅ (2𝑎) − 3𝑎 = 15
+5𝑎 = 15
+𝑎 = 3
+Zatem:
+𝑏 = 2𝑎 = 6 oraz 𝑐 = −3𝑎 = −9
+Zapisujemy wzór funkcji 𝑓 w postaci ogólnej:
+𝑓(𝑥) = 3𝑥2 + 6𝑥 − 9
+Przekształcamy wzór funkcji 𝑓 do postaci kanonicznej:
+𝑓(𝑥) = 3𝑥2 + 6𝑥 − 9 = 3(𝑥2 + 2𝑥 − 3) = 3(𝑥2 + 2𝑥 + 1 − 4) =
+= 3[(𝑥 + 1)2 − 4] = 3(𝑥 + 1)2 − 12

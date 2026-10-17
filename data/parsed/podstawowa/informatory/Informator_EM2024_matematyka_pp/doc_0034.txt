@@ -1,0 +1,40 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=34; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+34 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+𝑥 − 3
+4 = 7
+4 lub 𝑥 − 3
+4 = − 7
+4
+𝑥 = 7
+4 + 3
+4 = 10
+4 = 5
+2 lub 𝑥 = − 7
+4 + 3
+4 = − 4
+4 = −1
+Sposób 3. rozwiązania równania 2𝑥2 − 3𝑥 − 5 = 0.
+Rozwiążemy równanie kwadratowe, wykorzystując metodę grupowania wyrazów:
+2𝑥2 − 5𝑥 + 2𝑥 − 5 = 0
+2𝑥 (𝑥 − 5
+2) + 2 (𝑥 − 5
+2) = 0
+(𝑥 − 5
+2) (2𝑥 + 2) = 0
+𝑥 − 5
+2 = 0 lub 2𝑥 + 2 = 0
+𝑥 = 5
+2 lub 𝑥 = −1
+Otrzymane pierwiastki są różne od liczby (− 1
+2) oraz od liczby (−2), więc są
+rozwiązaniami danego równania.
+Zadanie 19. (0–2)
+Rozwiąż nierówność
+(𝟑𝒙 − 𝟒)(𝒙 − 𝟏) < 𝒙
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymaganie szczegółowe
+III. Równania i nierówności. Zdający:
+4) rozwiązuje równania i nierówności kwadratowe.

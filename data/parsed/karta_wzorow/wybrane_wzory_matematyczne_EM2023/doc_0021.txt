@@ -1,0 +1,46 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=21; year=2023; section=2 ⋅ |𝐴𝐶| ⋅ |𝐵𝐷|]
+Strona 21 z 34
+Równoległobok – czworokąt, który ma dwie pary boków równoległych.
+Wzory na pole 𝑃 równoległoboku:
+Romb – czworokąt, który ma wszystkie boki jednakowej długości.
+Wzory na pole 𝑃 rombu:
+Deltoid – czworokąt wypukły, który ma oś symetrii zawierającą jedną z przekątnych.
+Wzór na pole 𝑃 deltoidu:
+• Okrąg opisany na czworokącie
+Na czworokącie można opisać okrąg wtedy i tylko wtedy, gdy sumy miar jego
+przeciwległych kątów wewnętrznych są równe 180°.
+𝑃 = 𝑎ℎ 𝑃 = 𝑎 ⋅ 𝑏 ⋅ sin 𝛼
+𝑃 = 1
+2 ⋅ |𝐴𝐶| ⋅ |𝐵𝐷| ⋅ sin 𝛾
+𝑃 = 𝑎ℎ 𝑃 = 𝑎2 ⋅ sin 𝛼
+𝑃 = 1
+2 ⋅ |𝐴𝐶| ⋅ |𝐵𝐷|
+𝑃 = 1
+2 ⋅ |𝐴𝐶| ⋅ |𝐵𝐷|
+𝛼 + 𝛾 = 𝛽 + 𝛿
+𝛼 + 𝛾 = 180° 𝛽 + 𝛿 = 180°
+𝑏
+ℎ
+𝐶
+𝐷
+𝛾
+𝐵
+𝛼
+𝑎
+𝐴
+𝑎
+ℎ
+𝐷
+𝐶
+𝛼
+𝐵
+𝑎
+𝐴
+𝐶
+𝐴
+𝐷
+𝐵
+𝛼
+𝛽
+𝛾
+𝛿

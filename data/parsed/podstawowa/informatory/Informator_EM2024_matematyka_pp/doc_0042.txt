@@ -1,0 +1,27 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=42; level=podstawowy; year=2024; section=A. (−3) B. 3 C. 3 − √2 D. 3 − 2√2]
+42 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 25. (0–1)
+Dana jest funkcja 𝑓 określona wzorem 𝑓(𝑥) = 𝑥2 − 𝑏 − 2√2 dla każdej liczby
+rzeczywistej 𝑥. Miejscem zerowym funkcji 𝑓 jest 𝑥 = √2 + 1.
+Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.
+Współczynnik 𝑏 we wzorze funkcji 𝑓 jest równy
+A. (−3) B. 3 C. 3 − √2 D. 3 − 2√2
+Wymagania ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+I. Sprawność rachunkowa.
+Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora,
+stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych
+oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach
+rzeczywistych i teoretycznych.
+Wymagania szczegółowe
+II. Wyrażenia algebraiczne. Zdający:
+1) stosuje wzory skróconego mnożenia na: (𝑎 + 𝑏)2, (𝑎 − 𝑏)2, 𝑎2 − 𝑏2.
+V. Funkcje. Zdający:
+2) oblicza wartość funkcji zadanej wzorem algebraicznym.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+B

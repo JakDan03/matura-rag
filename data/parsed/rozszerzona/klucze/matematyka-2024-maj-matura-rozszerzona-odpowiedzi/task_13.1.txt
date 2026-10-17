@@ -1,0 +1,40 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=51, 52; level=rozszerzony; year=2024; month=maj; task_id=13.1]
+Zadanie 13.1. (0–2)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+X.4) oblicza objętości i pola powierzchni
+graniastosłupów […].
+Zasady oceniania
+2 pkt – przeprowadzenie pełnego rozumowania.
+1 pkt – wyznaczenie wysokości 𝐻 graniastosłupa w zależności od długości krawędzi
+podstawy, np. 𝐻 = 13824
+𝑎2√3 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający rozważa inną bryłę niż graniastosłup prawidłowy trójkątny, to otrzymuje
+0 punktów za całe rozwiązanie.
+2. Jeżeli zdający przeprowadzi rozumowanie tylko dla 𝑎 = 8√3, to otrzymuje 0 punktów za
+całe rozwiązanie.
+Przykładowe pełne rozwiązanie
+Rozpatrzmy dowolny z rozważanych graniastosłupów. Oznaczmy jego wysokość przez 𝐻.
+Korzystamy ze wzoru na objętość graniastosłupa oraz wzoru na pole trójkąta
+równobocznego i otrzymujemy:
+3456 = 𝑎2√3
+4 ⋅ 𝐻
+𝐻 = 4608√3
+𝑎2
+Stąd oraz ze wzoru na pole powierzchni całkowitej graniastosłupa dostajemy
+𝑃 = 2 ⋅ 𝑎2√3
+4 + 3𝑎𝐻
+𝑃 = 𝑎2√3
+2 + 3𝑎 ⋅ 4608√3
+𝑎2
+𝑃(𝑎) = 𝑎2√3
+2 + 13824√3
+𝑎

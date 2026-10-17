@@ -1,0 +1,5 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=10; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=10]
+Zadanie 10. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Suma wszystkich rozwiązań równania (3𝑥 − 12)(10 + 5𝑥)(𝑥 − 3) = 0 jest równa
+A. (−5) B. (−1) C. 5 D. 9

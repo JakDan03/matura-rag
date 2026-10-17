@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=77; level=rozszerzony; year=2024; section=4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach]
+Przykładowe zadania z rozwiązaniami 77
+Zadanie 24. (0–4)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) czworokąt 𝐴𝐵𝐶𝐷 jest równoległobokiem
+takim, że 𝐵𝐷⃗⃗⃗⃗⃗⃗ = [−21, −7] i 𝐷𝐶⃗⃗⃗⃗⃗ = [15, 8].
+Oblicz pole tego równoległoboku. Zapisz obliczenia.
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach
+nietypowych.

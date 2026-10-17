@@ -1,0 +1,35 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=10; level=podstawowy; year=2024; month=czerwiec; task_id=11.1]
+Zadanie 11.
+Na rysunku 1., w kartezjańskim układzie współrzędnych (𝑥, 𝑦), przedstawiono wykres funkcji 𝑓.
+Każdy z punktów przecięcia wykresu funkcji 𝑓 z prostą o równaniu 𝑦 = 2 ma obie
+współrzędne całkowite.
+Rysunek 1.
+Zadanie 11.1. (0–1)
+Uzupełnij poniższe zdanie. Wpisz odpowiedni przedział w wykropkowanym miejscu
+tak, aby zdanie było prawdziwe.
+Zbiorem wszystkich rozwiązań nierówności 𝑓(𝑥) ≤ 2 jest przedział ……………………… .
+3
+2
+𝑦
+–3
+–2
+1
+–1
+4
+5
+6
+1
+2
+3
+–1
+–2
+𝑥
+–3
+5
+4
+6
+7
+–4
+–5
+0
+𝑦 = 𝑓(𝑥)

@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=20; level=rozszerzony; year=2024; month=maj; task_id=12]
+Zadanie 12. (0–6)
+Wyznacz wszystkie wartości parametru 𝒎, dla których równanie
+𝒙𝟐 − (𝟑𝒎 + 𝟏) ⋅ 𝒙 + 𝟐𝒎𝟐 + 𝒎 + 𝟏 = 𝟎
+ma dwa różne rozwiązania rzeczywiste 𝒙𝟏 , 𝒙𝟐 spełniające warunek
+𝒙𝟏
+𝟑 + 𝒙𝟐
+𝟑 + 𝟑 ⋅ 𝒙𝟏 ⋅ 𝒙𝟐 ⋅ (𝒙𝟏 + 𝒙𝟐 − 𝟑) ≤ 𝟑𝒎 − 𝟕
+Zapisz obliczenia.
+12.
+0–1–
+2–3–
+4–5–6

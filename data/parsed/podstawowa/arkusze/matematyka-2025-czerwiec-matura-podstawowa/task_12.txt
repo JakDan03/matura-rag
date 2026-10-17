@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=11; level=podstawowy; year=2025; month=czerwiec; task_id=12]
+Zadanie 12. (0–1)
+Funkcja liniowa 𝑓 jest określona wzorem 𝑓(𝑥) = 5𝑥. W kartezjańskim układzie
+współrzędnych (𝑥, 𝑦) wykres funkcji 𝑓 przesunięto o jedną jednostkę w prawo wzdłuż
+osi 𝑂𝑥 i w wyniku tego przesunięcia otrzymano wykres funkcji liniowej 𝑔.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Funkcja 𝑔 jest określona wzorem
+A. 𝑔(𝑥) = 5𝑥 − 5
+B. 𝑔(𝑥) = 5𝑥 − 1
+C. 𝑔(𝑥) = 5𝑥 + 1
+D. 𝑔(𝑥) = 5𝑥 + 5

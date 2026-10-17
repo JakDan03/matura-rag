@@ -1,0 +1,5 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=5; level=podstawowy; year=2025; month=maj; task_id=3]
+Zadanie 3. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba log3 108 − 2log3 2 jest równa
+A. 3 B. 9 C. log3 104 D. 2log3 54

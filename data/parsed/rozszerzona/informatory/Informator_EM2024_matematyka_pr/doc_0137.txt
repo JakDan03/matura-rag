@@ -1,0 +1,27 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=137; level=rozszerzony; year=2024; section=𝑃(𝐶|+) = 𝑃(+|𝐶) ⋅ 𝑃(𝐶)]
+Informacja o egzaminie maturalnym z matematyki dla absolwentów niesłyszących 137
+Przykładowe pełne rozwiązanie
+Przyjmijmy następujące oznaczenia:
+„+” – zdarzenie polegające na tym, że wylosowana osoba z populacji poddana testowi
+otrzyma wynik pozytywny,
+„–” – zdarzenie polegające na tym, że wylosowana osoba z populacji poddana testowi
+otrzyma wynik negatywny,
+𝑍 – zdarzenie polegające na tym, że wylosowana osoba z populacji jest zdrowa,
+𝐶 – zdarzenie polegające na tym, że wylosowana osoba z populacji jest chora.
+Należy obliczyć 𝑃(𝐶|+), czyli prawdopodobieństwo zdarzenia polegającego na tym, że
+pan X jest chory pod warunkiem otrzymania pozytywnego wyniku testu.
+Ponieważ 0,2% populacji choruje na tę chorobę, to 99,8% populacji to ludzie zdrowi, stąd:
+𝑃(𝐶) = 0,002 oraz 𝑃(𝑍) = 0,998.
+Prawdopodobieństwo zdarzenia, że chora osoba ma pozytywny wynik testu wynosi 0,99,
+więc prawdopodobieństwo, że ta osoba ma wynik negatywny, wynosi 1 − 0,99 = 0,01. Stąd
+𝑃(+|𝐶) = 0,99 oraz 𝑃(−|𝐶) = 0,01.
+Prawdopodobieństwo zdarzenia, że zdrowa osoba ma negatywny wynik testu wynosi 0,98,
+więc prawdopodobieństwo, że ta osoba ma wynik pozytywny, wynosi 1 − 0,98 = 0,02. Stąd
+𝑃(−|𝑍) = 0,98 oraz 𝑃(+|𝑍) = 0,02.
+Stosujemy twierdzenie Bayesa i obliczamy szukane prawdopodobieństwo:
+𝑃(𝐶|+) = 𝑃(+|𝐶) ⋅ 𝑃(𝐶)
+𝑃(+|𝑍) ⋅ 𝑃(𝑍) + 𝑃(+|𝐶) ⋅ 𝑃(𝐶)
+𝑃(𝐶|+) = 0,99 ⋅ 0,002
+0,02 ⋅ 0,998 + 0,99 ⋅ 0,002 = 99
+1097 ≈ 0,09
+Zatem szukane prawdopodobieństwo wynosi około 0,09.

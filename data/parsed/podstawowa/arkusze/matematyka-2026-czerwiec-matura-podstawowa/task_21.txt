@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=21; level=podstawowy; year=2026; month=czerwiec; task_id=21]
+Zadanie 21. (0–1)
+Kąt o mierze 𝛼 jest rozwarty oraz sin 𝛼 = 3
+5
+.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Cosinus kąta o mierze 𝛼 jest równy
+A. (− 4
+5) B. (− 3
+4) C. 3
+4 D. 4
+5

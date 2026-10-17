@@ -1,0 +1,46 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=8, 9, 10; level=podstawowy; year=2025; month=maj; task_id=9]
+Zadanie 9. (0–2)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+IV.2) stosuje układy równań do
+rozwiązywania zadań tekstowych.
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody i poprawny wynik: 735 000 zł.
+1 pkt – zapisanie układu równań pozwalającego obliczyć kwoty przyznane poszczególnym
+zespołom, np.
+𝑥 + 𝑦 = 1 200 000 oraz 0,13𝑥 + 0,11𝑦 = 146 700
+ALBO
+– zapisanie równania z jedną niewiadomą pozwalającego obliczyć kwotę przyznaną
+zespołowi A, np.:
+2% ⋅ 𝑥 = 14 700,
+0,13𝑥 + 0,11 ⋅ (1 200 000 − 𝑥) = 146 700,
+ALBO
+– zapisanie równania z jedną niewiadomą pozwalającego obliczyć kwotę przyznaną
+zespołowi B, np.
+0,13 ⋅ (1 200 000 − 𝑦) + 0,11𝑦 = 146 700.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania rozwiązań zadań
+Uwagi:
+1. Jeżeli zdający sprawdza warunki zadania dla wybranych par liczb 𝑥 oraz 𝑦 i wskaże
+właściwą odpowiedź, ale nie uzasadni, że jest to jedyne rozwiązanie zadania, to otrzymuje
+1 punkt za całe rozwiązanie.
+2. Jeżeli zdający w rozwiązaniu używa wartości przybliżonych i otrzymuje wynik różny od
+735 000, to może otrzymać co najwyżej 1 punkt za całe rozwiązanie.
+Przykładowe pełne rozwiązanie
+Oznaczmy:
+𝑥 – kwota przyznana zespołowi A,
+𝑦 – kwota przyznana zespołowi B.
+Po uwzględnieniu warunków zadania otrzymujemy:
+𝑥 + 𝑦 = 1 200 000 oraz 0,13𝑥 + 0,11𝑦 = 146 700
+Z pierwszego z tych równań wyznaczamy 𝑦 = 1 200 000 − 𝑥 i podstawiamy w miejsce 𝑦
+do drugiego z równań, otrzymując
+0,13𝑥 + 0,11 ⋅ (1 200 000 − 𝑥) = 146 700
+0,13𝑥 + 132 000 − 0,11𝑥 = 146 700
+0,02𝑥 = 14 700
+𝑥 = 735 000
+Zespół A otrzymał 735 000 zł.

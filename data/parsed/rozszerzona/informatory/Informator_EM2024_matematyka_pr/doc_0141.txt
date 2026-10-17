@@ -1,0 +1,47 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=141; level=rozszerzony; year=2024; section=𝐾 ∈ {𝐶, 𝐷, 𝐸, 𝐹, 𝐺}).]
+Informacja o egzaminie maturalnym z matematyki dla absolwentów niesłyszących 141
+Podobnie rozumując, otrzymujemy
+𝑛(𝐴, 𝐶) ⋅ 𝑛(𝐶, 𝐵) = (11
+2 ) ⋅ (13
+0 ) = 55 ⋅ 1 = 55
+𝑛(𝐴, 𝐷) ⋅ 𝑛(𝐷, 𝐵) = (11
+3 ) ⋅ (13
+1 ) = 165 ⋅ 13 = 2145
+𝑛(𝐴, 𝐸) ⋅ 𝑛(𝐸, 𝐵) = (11
+4 ) ⋅ (13
+2 ) = 330 ⋅ 78 = 25740
+𝑛(𝐴, 𝐹) ⋅ 𝑛(𝐹, 𝐵) = (13
+1 ) ⋅ (11
+3 ) = 13 ⋅ 165 = 2145
+𝑛(𝐴, 𝐺) ⋅ 𝑛(𝐺, 𝐵) = (13
+0 ) ⋅ (11
+2 ) = 1 ⋅ 55 = 55
+więc 𝑛(𝐴, 𝐵) = 55 + 2145 + 25740 + 2145 + 55 = 30140.
+Rysunek 2.
+𝐶
+𝐴
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Rysunek 3.
+𝐶
+𝐴
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11

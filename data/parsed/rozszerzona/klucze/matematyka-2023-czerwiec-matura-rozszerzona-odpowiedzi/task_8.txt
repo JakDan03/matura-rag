@@ -1,0 +1,153 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=15, 16, 17; level=rozszerzony; year=2023; month=czerwiec; task_id=8]
+Zadanie 8. (0–4)
+Wymagania egzaminacyjne 2023 i 2024
+Wymagania ogólne Wymaganie szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+2. Używanie języka matematycznego do
+tworzenia tekstów matematycznych, w tym
+do opisu prowadzonych rozumowań
+i uzasadniania wniosków, a także do
+przedstawiania danych.
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VII.R6) rozwiązuje równania
+trygonometryczne o stopniu trudności nie
+większym niż w przykładzie
+4 cos 2𝑥 cos 5𝑥 = 2 cos 7𝑥 + 1.
+Zasady oceniania
+4 pkt – poprawne metoda rozwiązania równania i poprawny wynik: −
+𝜋
+8 ,
+3𝜋
+8 , −
+5𝜋
+12 , −
+𝜋
+12,
+𝜋
+4 .
+3 pkt – rozwiązanie równania sin(5𝑥) = sin (𝑥 −
+𝜋
+2) (lub równania cos 𝑥 = cos (5𝑥 +
+𝜋
+2) )
+w zbiorze liczb rzeczywistych: 𝑥 = −
+𝜋
+8 +
+𝑘𝜋
+2 lub 𝑥 =
+𝜋
+4 +
+𝑘𝜋
+3 , gdzie 𝑘 ∈ ℤ
+ALBO
+– przekształcenie równania do alternatywy elementarnych równań trygonometrycznych
+i rozwiązanie jednego z tych równań w zbiorze [−
+𝜋
+2 ,
+𝜋
+2],
+ALBO
+– przekształcenie równania do alternatywy elementarnych równań trygonometrycznych
+i rozwiązanie wszystkich równań tej alternatywy w zbiorze ℝ.
+2 pkt – równoważne przekształcenie równania do postaci, która jest równością sinusów lub
+cosinusów, np. sin(5𝑥) = sin (𝑥 −
+𝜋
+2), cos 𝑥 = cos (5𝑥 +
+𝜋
+2)
+ALBO
+– zastosowanie wzoru na sumę sinusów lub na sumę cosinusów i przekształcenie
+równania do postaci alternatywy elementarnych równań trygonometrycznych, np.
+sin (2𝑥 +
+𝜋
+4) = 0 lub cos (3𝑥 −
+𝜋
+4) = 0, cos (
+𝜋
+4 − 2𝑥) = 0 lub cos (
+𝜋
+4 − 3𝑥) = 0.
+1 pkt – zastosowanie wzoru redukcyjnego i przekształcenie równania do postaci, w której
+występuje tylko jedna funkcja trygonometryczna, np. sin(5𝑥) + sin (
+𝜋
+2 − 𝑥) = 0,
+cos (
+𝜋
+2 − 5𝑥) + cos 𝑥 = 0.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I (równość sinusów)
+Zapisujemy równanie w postaci równoważnej, w której występuje tylko jedna funkcja
+trygonometryczna zmiennej 𝑥:
+sin(5𝑥) + cos 𝑥 = 0
+sin(5𝑥) + sin (𝜋
+2 − 𝑥) = 0
+sin(5𝑥) = − sin (𝜋
+2 − 𝑥)
+Ponieważ funkcja sinus jest nieparzysta, więc
+sin(5𝑥) = sin (𝑥 − 𝜋
+2)
+Stąd
+5𝑥 = 𝑥 − 𝜋
+2 + 2𝑘𝜋 lub 5𝑥 = 𝜋 − (𝑥 − 𝜋
+2) + 2𝑘𝜋
+𝑥 = − 𝜋
+8 + 𝑘𝜋
+2 lub 𝑥 = 𝜋
+4 + 𝑘𝜋
+3
+gdzie 𝑘 ∈ ℤ.
+Wyznaczamy rozwiązania równania sin(5𝑥) + cos 𝑥 = 0 w zbiorze [–
+𝜋
+2 ,
+𝜋
+2]:
+− 𝜋
+8 , 3𝜋
+8 , − 5𝜋
+12 , − 𝜋
+12, 𝜋
+4
+Sposób II (poprzez sumę sinusów)
+Zapisujemy równanie w postaci równoważnej, w której występuje tylko jedna funkcja
+trygonometryczna zmiennej 𝑥:
+sin(5𝑥) + cos 𝑥 = 0
+sin(5𝑥) + sin (𝜋
+2 − 𝑥) = 0
+Korzystamy ze wzoru na sumę sinusów i otrzymujemy
+2 sin (
+5𝑥 + 𝜋
+2 − 𝑥
+2 ) ⋅ cos (
+5𝑥 − (𝜋
+2 − 𝑥)
+2 ) = 0
+sin (2𝑥 + 𝜋
+4) = 0 lub cos (3𝑥 − 𝜋
+4) = 0
+2𝑥 + 𝜋
+4 = 𝑘𝜋 lub 3𝑥 − 𝜋
+4 = 𝜋
+2 + 𝑘𝜋
+𝑥 = − 𝜋
+8 + 𝑘𝜋
+2 lub 𝑥 = 𝜋
+4 + 𝑘𝜋
+3
+gdzie 𝑘 ∈ ℤ.
+Wyznaczamy rozwiązania równania sin(5𝑥) + cos 𝑥 = 0 w zbiorze [–
+𝜋
+2 ,
+𝜋
+2]:
+− 𝜋
+8 , 3𝜋
+8 , − 5𝜋
+12 , − 𝜋
+12, 𝜋
+4
+Zasady oceniania rozwiązań zadań

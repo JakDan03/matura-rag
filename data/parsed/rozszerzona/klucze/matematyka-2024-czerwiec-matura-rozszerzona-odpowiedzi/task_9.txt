@@ -1,0 +1,74 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=25, 26, 27; level=rozszerzony; year=2024; month=czerwiec; task_id=9]
+Zadanie 9. (0–4)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VII.R6) rozwiązuje równania
+trygonometryczne o stopniu trudności nie
+większym niż w przykładzie
+4 cos 2𝑥 cos 5𝑥 = 2 cos 7𝑥 + 1.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑘𝜋
+5 oraz − 5
+6 𝜋 + 2𝜋𝑘 oraz
+5
+6 𝜋 + 2𝜋𝑘, gdzie 𝑘 ∈ ℤ.
+3 pkt – rozwiązanie równania sin(5𝑥) = 0 w zbiorze liczb rzeczywistych: 𝑘𝜋
+5 , gdzie 𝑘 ∈ ℤ
+ALBO
+– rozwiązanie równania cos 𝑥 = −
+√3
+2 w zbiorze liczb rzeczywistych: − 5
+6 𝜋 + 2𝜋𝑘 lub
+5
+6 𝜋 + 2𝜋𝑘, gdzie 𝑘 ∈ ℤ.
+2 pkt – przekształcenie równoważne równania do postaci alternatywy dwóch równań
+trygonometrycznych: sin(5𝑥) = 0 lub cos 𝑥 = −
+√3
+2 .
+1 pkt – zastosowanie wzorów na sinus sumy i różnicy kątów i przekształcenie równania do
+postaci
+sin(5𝑥) cos 𝑥 + cos(5𝑥) sin 𝑥 + √3 ⋅ sin(5𝑥) + sin(5𝑥) cos 𝑥 − cos(5𝑥) sin 𝑥 = 0
+ALBO
+– zastosowanie wzoru na sumę sinusów i przekształcenie równania do postaci
+2 sin 6𝑥+4𝑥
+2 cos 6𝑥−4𝑥
+2 + √3 ⋅ sin(5𝑥) = 0.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Stosujemy wzory na sinus sumy oraz różnicy kątów i przekształcamy równanie równoważnie,
+otrzymując:
+sin(6𝑥) + √3 ⋅ sin(5𝑥) + sin(4𝑥) = 0
+sin(5𝑥 + 𝑥) + √3 ⋅ sin(5𝑥) + sin(5𝑥 − 𝑥) = 0
+sin(5𝑥) cos 𝑥 + cos(5𝑥) sin 𝑥 + √3 ⋅ sin(5𝑥) + sin(5𝑥) cos 𝑥 − cos(5𝑥) sin 𝑥 = 0
+sin(5𝑥) ⋅ (2 cos 𝑥 + √3) = 0
+sin(5𝑥) = 0 ∨ 2 cos 𝑥 + √3 = 0
+5𝑥 = 𝑘𝜋 ∨ cos 𝑥 = − √3
+2
+𝑥 = 𝑘𝜋
+5 ∨ 𝑥 = − 5
+6 𝜋 + 2𝜋𝑘 ∨ 𝑥 = 5
+6 𝜋 + 2𝜋𝑘
+gdzie 𝑘 ∈ ℤ.
+Sposób II
+Stosujemy wzór na sumę sinusów i przekształcamy równanie równoważnie, otrzymując:
+sin(6𝑥) + √3 ⋅ sin(5𝑥) + sin(4𝑥) = 0
+2 sin 6𝑥 + 4𝑥
+2 cos 6𝑥 − 4𝑥
+2 + √3 ⋅ sin(5𝑥) = 0
+2 sin(5𝑥) cos 𝑥 + √3 ⋅ sin(5𝑥) = 0
+sin(5𝑥) ⋅ (2 cos 𝑥 + √3) = 0
+sin(5𝑥) = 0 ∨ 2 cos 𝑥 + √3 = 0
+5𝑥 = 𝑘𝜋 ∨ cos 𝑥 = − √3
+2
+𝑥 = 𝑘𝜋
+5 ∨ 𝑥 = − 5
+6 𝜋 + 2𝜋𝑘 ∨ 𝑥 = 5
+6 𝜋 + 2𝜋𝑘
+gdzie 𝑘 ∈ ℤ.
+Zasady oceniania rozwiązań zadań

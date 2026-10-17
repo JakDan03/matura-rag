@@ -1,0 +1,28 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=128; level=podstawowy; year=2024; section=1. Gdy w zestawie jest niebieska koszula, to spodnie mogą być wybrane na 2 sposoby (bez]
+128 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Przykładowe pełne rozwiązanie
+Rozpiszemy schematy zestawów ubrań, w których jeden element jest niebieski.
+1. Gdy w zestawie jest niebieska koszula, to spodnie mogą być wybrane na 2 sposoby (bez
+niebieskich), a buty na 4 sposoby (bez niebieskich).
+Zestawów z niebieską koszulą jest 2 ⋅ 4 = 8.
+2. Gdy w zestawie są niebieskie spodnie, to koszule mogą być wybrane na 3 sposoby (bez
+niebieskiej), a buty na 4 sposoby (bez niebieskich).
+Zestawów z niebieskimi spodniami jest 3 ⋅ 4 = 12.
+3. Gdy w zestawie są niebieskie buty, to koszule mogą być wybrane na 3 sposoby (bez
+niebieskiej), a spodnie na 2 sposoby (bez niebieskich).
+Zestawów z niebieskimi butami jest 3 ⋅ 2 = 6.
+4. Zestaw z jednym elementem niebieskim może być: zestawem z niebieską koszulą lub
+zestawem z niebieskimi spodniami, lub zestawem z niebieskimi butami.
+Zatem takich zestawów można wybrać 8 + 12 + 6 = 26.
+czarne albo szare
+(2 możliwości)
+czarne albo szare, albo zielone, albo czerwone
+(4 możliwości)
+czerwona albo żółta, albo zielona
+(3 możliwości)
+czarne albo szare, albo zielone, albo czerwone
+(4 możliwości)
+czerwona albo żółta, albo zielona
+(3 możliwości)
+czarne albo szare
+(2 możliwości)

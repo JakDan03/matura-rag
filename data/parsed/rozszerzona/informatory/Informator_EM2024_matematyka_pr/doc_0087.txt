@@ -1,0 +1,47 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=87; level=rozszerzony; year=2024; section=1) Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów]
+Przykładowe zadania z rozwiązaniami 87
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+1) Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania […].
+Wymagania szczegółowe
+VIII. Planimetria. Zdający:
+11) przeprowadza dowody geometryczne.
+1R) stosuje własności czworokątów […] opisanych na okręgu.
+Zasady oceniania
+dla rozwiązań sposobami 1.–3.
+5 pkt – obliczenie skali podobieństwa trójkątów 𝐵𝑃𝑆 oraz 𝐵𝑆𝐶.
+4 pkt – obliczenie długości odcinka stycznej (zawierającej odcinek 𝐵𝐶) od punktu 𝐵 do
+punktu styczności z okręgiem
+ALBO
+– stwierdzenie, że każdy z obliczonych stosunków odpowiednich boków trójkątów 𝐵𝑃𝑆
+i 𝐵𝑆𝐶 jest skalą podobieństwa.
+3 pkt – uzasadnienie, że trójkąty 𝐵𝑃𝑆 i 𝐵𝑆𝐶 są podobne.
+2 pkt – uzasadnienie, że kąt 𝐵𝑆𝐶 jest kątem prostym
+ALBO
+– obliczenie długości boków trójkątów 𝐵𝑆𝐶 oraz 𝐵𝑃𝑆
+ALBO
+– obliczenie długości boków trójkąta 𝐵𝑃𝑆 i uzasadnienie równości miar kątów 𝑃𝐵𝑆
+oraz 𝑆𝐵𝐶 (lub: 𝐵𝐶𝑆 oraz 𝑆𝐶𝐷).
+1 pkt – uzasadnienie równości miar kątów 𝑃𝐵𝑆 oraz 𝑆𝐵𝐶 (lub: 𝐵𝐶𝑆 oraz 𝑆𝐶𝐷)
+ALBO
+– obliczenie długości boków trójkąta 𝐵𝑃𝑆.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób 1.
+Wykażemy, że trójkąty 𝐵𝑃𝑆 i 𝐵𝑆𝐶 są podobne.
+Punkt 𝑆 jest równooddalony od boków 𝐴𝐵 i 𝐵𝐶 trapezu jako środek okręgu wpisanego
+w trapez, więc leży na dwusiecznej kąta 𝐴𝐵𝐶. Zatem |∡𝑃𝐵𝑆| = |∡𝑆𝐵𝐶|.
+Podobna argumentacja prowadzi do stwierdzenia, że |∡𝐵𝐶𝑆| = |∡𝑆𝐶𝐷|.
+Oznaczmy miary kątów 𝑃𝐵𝑆 oraz 𝐵𝐶𝑆 jako – odpowiednio – 𝛼 oraz 𝛽 (rysunek 1.).
+𝐶
+𝐷
+𝑆
+𝐴
+𝐵
+𝑃
+𝛽
+𝛽
+𝛼
+𝛼
+Rysunek 1.

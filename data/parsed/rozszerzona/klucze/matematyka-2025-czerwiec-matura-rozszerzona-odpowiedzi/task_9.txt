@@ -1,0 +1,61 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=27, 28, 29; level=rozszerzony; year=2025; month=czerwiec; task_id=9]
+Zadanie 9. (0–5)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+VI.R2) rozpoznaje zbieżne szeregi
+geometryczne i oblicza ich sumę.
+Zasady oceniania
+5 pkt – zastosowanie poprawnej metody i poprawny wynik: 245
+4 .
+4 pkt – obliczenie 𝑏1 oraz 𝑞: 𝑏1 = 35 oraz 𝑞 = 3
+7 .
+3 pkt – obliczenie różnicy ciągu (𝑎𝑛): 𝑟 = 4 oraz odrzucenie przypadku 𝑟 = −5.
+2 pkt – zapisanie równania z jedną niewiadomą 𝑟 (albo 𝑎1), np.
+15 + 9𝑟 = (15 − 3𝑟)(15 + 2𝑟 − 6),
+𝑎1 + 14 ⋅ 15 − 𝑎1
+5 = (𝑎1 + 2 ⋅ 15 − 𝑎1
+5 ) ⋅ (𝑎1 + 7 ⋅ 15 − 𝑎1
+5 − 6).
+1 pkt – zapisanie układu dwóch niezależnych równań z niewiadomymi 𝑎1 oraz 𝑟, np.
+𝑎1 + 14𝑟 = (𝑎1 + 2𝑟) ⋅ (𝑎1 + 7𝑟 − 6) i 𝑎1 + 5𝑟 = 15.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Zdający może odrzucić otrzymaną wartość 𝑟 = −5 bez komentarza.
+2. Jeżeli zdający nie odrzuci wartości 𝑞 = − 3
+2 i zastosuje wzór na sumę szeregu
+geometrycznego dla 𝑞 = − 3
+2 , to może otrzymać co najwyżej 3 punkty za całe
+rozwiązanie (1 punkt za zapisanie układu równań, 1 punkt za zapisanie równania z jedną
+niewiadomą, 1 punkt za obliczenie 𝑞 = 3
+7 oraz sumy dla 𝑞 = 3
+7 ).
+Przykładowe pełne rozwiązanie
+Oznaczmy przez 𝑟 różnicę ciągu arytmetycznego (𝑎𝑛), natomiast przez 𝑞 – iloraz ciągu
+geometrycznego (𝑏𝑛).
+Ponieważ 𝑎6 = 15 oraz 𝑎15 = 𝑎3 ⋅ (𝑎8 − 6), więc stąd i z własności ciągu arytmetycznego
+otrzymujemy
+𝑎6 + 9𝑟 = (𝑎6 − 3𝑟) ⋅ (𝑎6 + 2𝑟 − 6)
+15 + 9𝑟 = (15 − 3𝑟)(15 + 2𝑟 − 6)
+15 + 9𝑟 = (15 − 3𝑟)(2𝑟 + 9)
+6𝑟2 + 6𝑟 − 120 = 0
+𝑟2 + 𝑟 − 20 = 0
+𝑟 = −5 ∨ 𝑟 = 4
+Ciąg (𝑎𝑛) jest rosnący, więc 𝑟 = 4.
+Zatem 𝑏1 = 𝑎6 + 5𝑟 = 15 + 5 ⋅ 4 = 35, 𝑏2 = 15 oraz 𝑞 = 𝑏2
+𝑏1
+= 3
+7 .
+Ponieważ |3
+7| < 1, więc suma 𝑆 wszystkich wyrazów ciągu (𝑏𝑛) istnieje i jest równa
+𝑆 = 𝑏1
+1 − 𝑞 = 35
+1 − 3
+7
+= 245
+4
+Zasady oceniania rozwiązań zadań

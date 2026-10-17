@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=26; level=podstawowy; year=2024; month=maj; task_id=30]
+Zadanie 30. (0–2)
+Dany jest pięcioelementowy zbiór 𝐾 = {5, 6, 7, 8, 9}. Wylosowanie każdej liczby z tego
+zbioru jest jednakowo prawdopodobne. Ze zbioru 𝐾 losujemy ze zwracaniem kolejno dwa
+razy po jednej liczbie i zapisujemy je w kolejności losowania.
+Oblicz prawdopodobieństwo zdarzenia 𝑨 polegającego na tym, że suma
+wylosowanych liczb jest liczbą parzystą. Zapisz obliczenia.
+30.
+0–1–2

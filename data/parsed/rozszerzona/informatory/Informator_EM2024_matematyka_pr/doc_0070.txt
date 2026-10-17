@@ -1,0 +1,50 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=70; level=rozszerzony; year=2024; section=𝑃𝐴𝐶𝑆]
+70 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Korzystamy z twierdzenia cosinusów zastosowanego do trójkąta 𝐶𝑆𝐸 i wyznaczamy
+długość odcinka 𝑆𝐶:
+|𝑆𝐶|2 = 𝑏2 + (1
+2 𝑏)
+2
+− 2 ⋅ 1
+2 𝑏 ⋅ 𝑏 ⋅ cos |∡𝐵𝐸𝐶|
+|𝑆𝐶|2 = 16𝑎2 + 4𝑎2 − 16𝑎2 ⋅ 31
+32
+|𝑆𝐶|2 = 9
+2 𝑎2
+|𝑆𝐶| = 3𝑎
+√2
+Stosujemy twierdzenie Pitagorasa do trójkąta 𝑂𝐶𝑆 w celu wyznaczenia długości odcinka
+𝑂𝑆:
+|𝑂𝑆|2 = |𝑆𝐶|2 − (√2𝑎
+2 )
+2
+|𝑂𝑆|2 = 9
+2 𝑎2 − 1
+2 𝑎2
+|𝑂𝑆| = 2𝑎
+Obliczamy stosunek pola przekroju 𝐴𝐶𝑆 do pola podstawy ostrosłupa:
+𝑃𝐴𝐶𝑆
+𝑃𝐴𝐵𝐶𝐷
+=
+1
+2 ⋅ 𝑎√2 ⋅ |𝑂𝑆|
+𝑎2 =
+1
+2 ⋅ 𝑎√2 ⋅ 2𝑎
+𝑎2 = √2
+W celu obliczenia cosinusa kąta 𝐵𝑆𝑂 zastosujemy do trójkąta 𝐵𝑆𝑂 (zobacz rysunek 2.)
+twierdzenie cosinusów:
+(𝑎√2
+2 )
+2
+= (2𝑎)2 + (2𝑎)2 − 2 ⋅ 2𝑎 ⋅ 2𝑎 ⋅ cos 𝛼
+Z ostatniego równania otrzymujemy cos 𝛼 = 15
+16 , więc 𝛼 ≈ 20°.
+Sposób 3.
+Wyznaczamy zależność 𝑏 od 𝑎.
+Z treści zadania mamy 4𝑎
+4𝑎+4𝑏 = 1
+5 , co daje 𝑏 = 4𝑎.
+Stosujemy twierdzenie Pitagorasa dla trójkąta prostokątnego 𝐵𝑂𝐸 i obliczamy długość
+odcinka 𝑂𝐸:
+|𝑂𝐸|2 = |𝐵𝐸|2 − |𝑂𝐵|2

@@ -1,0 +1,27 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=104; level=rozszerzony; year=2024; section=𝐾 ∈ {𝐶, 𝐷, 𝐸, 𝐹, 𝐺}).]
+104 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+2R) stosuje współczynnik dwumianowy (symbol Newtona) i jego własności przy
+rozwiązywaniu problemów kombinatorycznych.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik.
+3 pkt – obliczenie liczby wszystkich najkrótszych dróg z 𝐴 do 𝐾 (gdzie
+𝐾 ∈ {𝐶, 𝐷, 𝐸, 𝐹, 𝐺}).
+2 pkt – zapisanie, że liczba wszystkich najkrótszych dróg z 𝐴 do 𝐵 przechodzących przez
+punkt 𝐾 (gdzie 𝐾 ∈ {𝐶, 𝐷, 𝐸, 𝐹, 𝐺}) jest iloczynem liczby wszystkich najkrótszych
+dróg z 𝐴 do 𝐾 i liczby wszystkich najkrótszych dróg z 𝐾 do 𝐵.
+1 pkt – zapisanie, że każda najkrótsza droga z 𝐴 do 𝐵 musi przechodzić przez jeden
+z punktów 𝐶– 𝐺.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+W poniższym rozwiązaniu przez 𝑛(𝐾, 𝐿) rozumieć będziemy liczbę wszystkich najkrótszych
+dróg z punktu 𝐾 do punktu 𝐿.
+Zaznaczmy na schemacie ulic punkty 𝐶, 𝐷, 𝐸, 𝐹, 𝐺 (zobacz rysunek 1.).
+Rysunek 1.
+𝐹
+𝐺
+𝐸
+𝐶
+𝐷
+𝐴
+𝐵
+park

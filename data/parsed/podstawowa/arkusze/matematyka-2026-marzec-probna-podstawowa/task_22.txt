@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=20; level=podstawowy; year=2026; month=marzec; term=probna; task_id=22]
+Zadanie 22. (0–1)
+Sześciokąt foremny wpisano w koło o promieniu 1 (zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole zacieniowanej figury jest równe
+A. 𝜋 −
+√3
+4 B. 𝜋 − 3√3
+2 C. 𝜋 − √3
+4 D. 𝜋 − 3√3
+2

@@ -1,0 +1,166 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=31, 32, 33, 34, 35; level=rozszerzony; year=2024; month=czerwiec; task_id=12]
+Zadanie 12. (0–6)
+Wymagania egzaminacyjne 2024
+Wymagania ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+3. Tworzenie pomocniczych obiektów
+matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub
+rozwiązania problemu.
+Zdający:
+III.R3) stosuje wzory Viète’a dla równań
+kwadratowych;
+III.R5) analizuje równania i nierówności
+liniowe z parametrami oraz równania
+i nierówności kwadratowe z parametrami,
+w szczególności wyznacza liczbę rozwiązań
+w zależności od parametrów, podaje
+warunki, przy których rozwiązania mają
+żądaną własność, i wyznacza rozwiązania
+w zależności od parametrów.
+Zasady oceniania
+Rozwiązanie zadania składa się z trzech etapów.
+Pierwszy etap polega na zapisaniu warunku ∆> 0 w postaci nierówności z niewiadomą 𝑚
+i rozwiązaniu tej nierówności. Za poprawne wykonanie tego etapu zdający otrzymuje
+1 punkt.
+1 pkt – zapisanie warunku ∆> 0 w postaci nierówności z niewiadomą 𝑚 i rozwiązanie tej
+nierówności: (𝑚 + 1)2 + 4 ⋅ (3 − 𝑚) ⋅ (𝑚 + 1)2 > 0 oraz
+𝑚 ∈ (−∞, −1) ∪ (−1, 13
+4 ).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli zdający rozwiązuje warunek ∆≥ 0, to za tę część rozwiązania otrzymuje 0 punktów.
+Drugi etap polega na wyznaczeniu tych wartości parametru 𝑚, dla których jest spełniony
+warunek 𝑥1
+2 + 𝑥2
+2 = 𝑥1 ⋅ 𝑥2 + 7. Za poprawne wykonanie tego etapu zdający otrzymuje
+4 punkty.
+Podział punktów za drugi etap rozwiązania:
+4 pkt – wyznaczenie wszystkich wartości parametru 𝑚, dla których jest spełniony warunek
+𝑥1
+2 + 𝑥2
+2 = 𝑥1 ⋅ 𝑥2 + 7: 1, −3−2√42
+3 , −3+2√42
+3 .
+3 pkt – zapisanie równania z niewiadomą 𝑚 w postaci −3𝑚3−3𝑚2+59𝑚−53
+(3−𝑚)2 = 0 lub
+3𝑚3 + 3𝑚2 − 59𝑚 + 53 = 0 oraz wyznaczenie jednego z rozwiązań tego równania
+(np. 𝑚 = 1) i podzielenie wielomianu 3𝑚3 + 3𝑚2 − 59𝑚 + 53 przez odpowiedni
+dwumian, np. (3𝑚3 + 3𝑚2 − 59𝑚 + 53): (𝑚 − 1) = 3𝑚2 + 6𝑚 − 53
+ALBO
+– zapisanie równania z niewiadomą 𝑚 w postaci −3𝑚3−3𝑚2+59𝑚−53
+(3−𝑚)2 = 0 lub
+3𝑚3 + 3𝑚2 − 59𝑚 + 53 = 0 oraz zastosowanie metody grupowania i zapisanie
+wielomianu 3𝑚3 + 3𝑚2 − 59𝑚 + 53 w postaci iloczynu co najmniej dwóch
+wielomianów stopni dodatnich, np. (𝑚 − 1)(3𝑚2 + 6𝑚 − 53).
+2 pkt – zapisanie równania z jedną niewiadomą 𝑚, wynikającego z warunku
+𝑥1
+2 + 𝑥2
+2 = 𝑥1 ⋅ 𝑥2 + 7, np. (− 𝑚+1
+3−𝑚)
+2
+− 2 ⋅ −(𝑚+1)2
+3−𝑚 = −(𝑚+1)2
+3−𝑚 + 7.
+1 pkt – przekształcenie warunku 𝑥1
+2 + 𝑥2
+2 = 𝑥1 ⋅ 𝑥2 + 7 do postaci pozwalającej na
+bezpośrednie zastosowanie wzorów Viète’a, np. (𝑥1 + 𝑥2)2 − 2𝑥1𝑥2 = 𝑥1𝑥2 + 7.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Trzeci etap polega na zapisaniu warunku 3 − 𝑚 ≠ 0 oraz wyznaczeniu wszystkich
+wartości parametru 𝑚, które spełniają jednocześnie warunki: 3 − 𝑚 ≠ 0 i Δ > 0,
+i (𝑥1 + 𝑥2)2 − 2𝑥1𝑥2 = 𝑥1𝑥2 + 7.
+Za poprawne wykonanie tego etapu zdający otrzymuje 1 punkt.
+1 pkt – zapisanie warunku 3 − 𝑚 ≠ 0 i poprawne wyznaczenie wszystkich wartości
+parametru 𝑚, które spełniają jednocześnie warunki 3 − 𝑚 ≠ 0 i Δ > 0,
+i (𝑥1 + 𝑥2)2 − 2𝑥1𝑥2 = 𝑥1𝑥2 + 7: 1, −3−2√42
+3 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+I etap
+Równanie (3 − 𝑚)𝑥2 + (𝑚 + 1)𝑥 − (𝑚 + 1)2 = 0 ma dwa różne rozwiązania rzeczywiste
+tylko wtedy, gdy 3 − 𝑚 ≠ 0 i wyróżnik trójmianu (3 − 𝑚)𝑥2 + (𝑚 + 1)𝑥 − (𝑚 + 1)2 jest
+dodatni. Rozwiązujemy warunek ∆> 0:
+(𝑚 + 1)2 + 4 ∙ (3 − 𝑚)(𝑚 + 1)2 > 0
+(𝑚 + 1)2[1 + 4 ⋅ (3 − 𝑚)] > 0
+(𝑚 + 1)2 ⋅ (13 − 4𝑚) > 0
+−4 ⋅ (𝑚 + 1)2 ⋅ (𝑚 − 13
+4 ) > 0
+𝑚 ∈ (−∞, −1) ∪ (−1, 13
+4 )
+II etap
+Sposób I
+Wyznaczamy wszystkie wartości parametru 𝑚, dla których jest spełniony warunek
+𝑥1
+2 + 𝑥2
+2 = 𝑥1𝑥2 + 7, korzystając ze wzorów Viète’a:
+(𝑥1 + 𝑥2)2 − 2𝑥1𝑥2 = 𝑥1𝑥2 + 7
+Zasady oceniania rozwiązań zadań
+(− 𝑚 + 1
+3 − 𝑚)
+2
+− 2 ⋅ −(𝑚 + 1)2
+3 − 𝑚 = −(𝑚 + 1)2
+3 − 𝑚 + 7
+(𝑚 + 1
+𝑚 − 3)
+2
+− 3 ⋅
+(𝑚 + 1)2
+𝑚 − 3 − 7 = 0
+(𝑚 + 1)2 − 3 ⋅ (𝑚 + 1)2(𝑚 − 3) − 7(𝑚 − 3)2
+(𝑚 − 3)2 = 0
+𝑚2 + 2𝑚 + 1 − 3(𝑚2 + 2𝑚 + 1)(𝑚 − 3) − 7(𝑚2 − 6𝑚 + 9) = 0 ∧ 𝑚 ≠ 3
+−3𝑚3 − 3𝑚2 + 59𝑚 − 53 = 0 ∧ 𝑚 ≠ 3
+−3𝑚3 + 3𝑚 − 3𝑚2 + 3𝑚 + 53𝑚 − 53 = 0 ∧ 𝑚 ≠ 3
+−3𝑚(𝑚2 − 1) − 3𝑚(𝑚 − 1) + 53(𝑚 − 1) = 0 ∧ 𝑚 ≠ 3
+(𝑚 − 1)[−3𝑚(𝑚 + 1) − 3𝑚 + 53] = 0 ∧ 𝑚 ≠ 3
+(𝑚 − 1)[−3𝑚2 − 6𝑚 + 53] = 0 ∧ 𝑚 ≠ 3
+(𝑚 = 1 ∨ 𝑚 = −3 − 2√42
+3 ∨ 𝑚 = −3 + 2√42
+3 ) ∧ 𝑚 ≠ 3
+𝑚 = 1 ∨ 𝑚 = −3 − 2√42
+3 ∨ 𝑚 = −3 + 2√42
+3
+Sposób II
+Wyznaczamy wszystkie wartości parametru 𝑚, dla których jest spełniony warunek
+𝑥1
+2 + 𝑥2
+2 = 𝑥1𝑥2 + 7, korzystając ze wzorów Viète’a:
+(𝑥1 + 𝑥2)2 − 2𝑥1𝑥2 = 𝑥1𝑥2 + 7
+(− 𝑚 + 1
+3 − 𝑚)
+2
+− 2 ⋅ −(𝑚 + 1)2
+3 − 𝑚 = −(𝑚 + 1)2
+3 − 𝑚 + 7
+(𝑚 + 1
+𝑚 − 3)
+2
+− 3 ⋅ (𝑚 + 1)2
+𝑚 − 3 − 7 = 0
+(𝑚 + 1)2 − 3 ⋅ (𝑚 + 1)2(𝑚 − 3) − 7(𝑚 − 3)2
+(𝑚 − 3)2 = 0
+𝑚2 + 2𝑚 + 1 − 3(𝑚2 + 2𝑚 + 1)(𝑚 − 3) − 7(𝑚2 − 6𝑚 + 9) = 0 ∧ 𝑚 ≠ 3
+−3𝑚3 − 3𝑚2 + 59𝑚 − 53 = 0 ∧ 𝑚 ≠ 3
+Zauważamy, że liczba 1 jest pierwiastkiem wielomianu −3𝑚3 − 3𝑚2 + 59𝑚 − 53.
+Dzielimy wielomian −3𝑚3 − 3𝑚2 + 59𝑚 − 53 przez dwumian 𝑚 − 1. Dzielenie to
+możemy wykonać, korzystając np. z algorytmu Hornera
+−3 −3 59 −53
+1 −3 −6 53 0
+Otrzymujemy (𝑚 − 1)(−3𝑚2 − 6𝑚 + 53) = 0. Stąd 𝑚 = 1 lub 𝑚 = −3−2√42
+3 , lub
+𝑚 = −3+2√42
+3 .
+III etap
+Wyznaczamy wszystkie wartości parametru 𝑚 ≠ 3, które jednocześnie spełniają warunki
+𝑚 ∈ (−∞, −1) ∪ (−1, 13
+4 ) oraz 𝑚 ∈ {1, −3−2√42
+3 , −3+2√42
+3 }: 𝑚 ∈ {1, −3−2√42
+3 }.
+Zasady oceniania rozwiązań zadań

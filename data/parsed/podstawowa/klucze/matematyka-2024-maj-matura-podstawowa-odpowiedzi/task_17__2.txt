@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=41; level=podstawowy; year=2024; month=maj; task_id=17]
+Zadanie 17.
+1 pkt – zapisanie równania z dwiema niewiadomymi, gdzie jedną z niewiadomych jest
+różnica ciągu arytmetycznego, np.: −1 = 𝑎1 + 2𝑟, −165 =
+2𝑎1+14𝑟
+2 ⋅ 15 .

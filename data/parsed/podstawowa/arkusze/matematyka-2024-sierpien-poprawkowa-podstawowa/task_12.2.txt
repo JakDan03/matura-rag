@@ -1,0 +1,30 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=14; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=12.2]
+Zadanie 12.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) przedstawiono fragment paraboli, która jest
+wykresem funkcji kwadratowej 𝑓 (zobacz rysunek). Wierzchołek tej paraboli oraz punkty
+przecięcia paraboli z osią 𝑂𝑥 układu współrzędnych mają obie współrzędne całkowite.
+Zadanie 12.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Osią symetrii wykresu funkcji 𝑓 jest prosta o równaniu
+A. 𝑥 = 1 B. 𝑦 = 1 C. 𝑥 = −2 D. 𝑦 = −2
+6
+5
+𝑦
+3
+1
+4
+2
+–1
+–2
+–3
+4
+5
+2
+1
+𝑥
+3
+–1
+–2
+–3
+𝑦 = 𝑓(𝑥)
+0

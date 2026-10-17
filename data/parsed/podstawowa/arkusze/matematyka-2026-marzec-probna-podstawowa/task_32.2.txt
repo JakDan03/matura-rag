@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=31; level=podstawowy; year=2026; month=marzec; term=probna; task_id=32.2]
+Zadanie 32.
+Funkcja kwadratowa 𝑓 jest określona wzorem 𝑓(𝑥) = −5(𝑥 − 𝜋)2 + √2.
+Zadanie 32.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Funkcja 𝑓 przyjmuje wartość najmniejszą w przedziale [0, 6] dla argumentu
+A. 0 B. 3 C. 𝜋 D. 6

@@ -1,0 +1,354 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=25, 26, 27, 28, 29, 30, 31, 32; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=12]
+Zadanie 12. (0–5)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VII.1) wykorzystuje definicje funkcji: sinus,
+cosinus i tangens […].
+VII.R5) korzysta z wzorów na sinus, cosinus
+i tangens sumy i różnicy kątów, a także na
+funkcje trygonometryczne kątów
+podwojonych;
+VII.R7) stosuje twierdzenie sinusów.
+Zasady oceniania (dla sposobu I)
+5 pkt – zastosowanie poprawnej metody i poprawny wynik: 2.
+4 pkt – zapisanie związków tg 𝛽
+sin(2𝛼) = |𝐴𝐶|
+|𝐸𝐷| i |𝐸𝐷| = 1
+2 ⋅ |𝐶𝐹| oraz uzasadnienie, że
+|𝐶𝐹| = |𝐴𝐶|.
+3 pkt – zapisanie równości tg 𝛽
+sin(2𝛼) = |𝐴𝐶|
+|𝐸𝐷| oraz uzasadnienie, że |𝐶𝐹| = |𝐴𝐶|.
+2 pkt – uzasadnienie, że |𝐶𝐹| = |𝐴𝐶|
+ALBO
+– zdefiniowanie punktu 𝐹 jako obrazu punktu 𝐶 w symetrii osiowej względem
+prostej 𝑘 oraz zapisanie równości tg 𝛽
+sin(2𝛼) = |𝐴𝐶|
+|𝐸𝐷| .
+1 pkt – zdefiniowanie punktu 𝐹 jako obrazu punktu 𝐶 w symetrii osiowej względem
+prostej 𝑘
+ALBO
+– zapisanie równości tg 𝛽
+sin(2𝛼) = |𝐴𝐶|
+|𝐸𝐷| .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania (dla sposobu II)
+5 pkt – zastosowanie poprawnej metody i poprawny wynik: 2.
+4 pkt – zapisanie związku 2sin 𝛼
+sin(3𝛼) = sin 𝛽
+sin(2𝛼+𝛽) i zastosowanie wzoru na sinus sumy kątów
+do sin(3𝛼) oraz sin(2𝛼 + 𝛽), np.:
+2 sin 𝛼 [sin(2𝛼) cos 𝛽 + cos(2𝛼) sin 𝛽] = sin 𝛽 [sin(2𝛼) cos 𝛼 + cos(2𝛼) sin 𝛼].
+3 pkt – wyeliminowanie długości odcinków z układu 𝑏
+sin 𝛼 = 2𝑐
+sin(180°−3𝛼)
+i 𝑏
+sin 𝛽 = 𝑐
+sin[180°−(2𝛼+𝛽)] , np. zapisanie związku 2sin 𝛼
+sin(3𝛼) = sin 𝛽
+sin(2𝛼+𝛽) .
+2 pkt – zapisanie związków 𝑏
+sin 𝛼 = 2𝑐
+sin(180°−3𝛼) i 𝑏
+sin 𝛽 = 𝑐
+sin[180°−(2𝛼+𝛽)] .
+1 pkt – zapisanie związku 𝑏
+sin 𝛼 = 2𝑐
+sin(180°−3𝛼)
+ALBO
+– zapisanie związku 𝑏
+sin 𝛽 = 𝑐
+sin[180°−(2𝛼+𝛽)] .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania (dla sposobu III)
+5 pkt – zastosowanie poprawnej metody i poprawny wynik: 2.
+4 pkt – zapisanie równań: tg 𝛽
+sin(2𝛼) = 𝑏
+𝑥 oraz 𝑎2 − 𝑏2 = 4𝑐𝑥 oraz 𝑎2 = 2𝑏(𝑐 + 𝑥).
+3 pkt – spełnienie wszystkich trzech warunków określonych w zasadach oceniania za
+1 punkt
+ALBO
+– zapisanie równań tg 𝛽
+sin(2𝛼) = 𝑏
+𝑥 oraz 𝑎2 − 𝑏2 = 4𝑐𝑥,
+ALBO
+– zapisanie równań tg 𝛽
+sin(2𝛼) = 𝑏
+𝑥 oraz 𝑎2 = 2𝑏(𝑐 + 𝑥),
+ALBO
+– zapisanie równań 𝑎2 − 𝑏2 = 4𝑐𝑥 oraz 𝑎2 = 2𝑏(𝑐 + 𝑥).
+2 pkt – spełnienie dwóch warunków spośród 1)–3) określonych w zasadach oceniania za
+1 punkt
+ALBO
+– zapisanie związku 𝑎2 = 2𝑏(𝑐 + 𝑥),
+ALBO
+– zapisanie związku 𝑎2 − 𝑏2 = 4𝑐𝑥.
+1 pkt – spełnienie jednego z poniższych trzech warunków:
+1) zapisanie równości tg 𝛽
+sin(2𝛼) = 𝑏
+𝑥
+2) zapisanie związku 𝑏
+sin 𝛼 = 𝑎
+sin(2𝛼)
+3) zapisanie równań 𝑎2 = ℎ2 + (𝑐 + 𝑥)2 oraz 𝑏2 = ℎ2 + (𝑐 − 𝑥)2.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania (dla sposobu IV)
+5 pkt – zastosowanie poprawnej metody i poprawny wynik: 2.
+4 pkt – zapisanie związków:
+(𝑎2 − 𝑏2) ⋅ tg 𝛽 = 4𝑏𝑐 ⋅ sin(2𝛼) i 2𝑐
+sin(180°−3𝛼) = 𝑏
+sin 𝛼 , i 𝑏
+sin 𝛼 = 𝑎
+sin(2𝛼) oraz
+zapisanie tożsamości sin(3𝛼) = sin(2𝛼) ⋅ cos 𝛼 + cos(2𝛼) ⋅ sin 𝛼
+(lub sin(3𝛼) = sin(2𝛼) ⋅ cos 𝛼 + (2 cos2 𝛼 − 1) ⋅ sin 𝛼).
+3 pkt – zapisanie związków (𝑎2 − 𝑏2) ⋅ tg 𝛽 = 4𝑏𝑐 ⋅ sin(2𝛼) i 2𝑐
+sin(180°−3𝛼) = 𝑏
+sin 𝛼 oraz
+𝑏
+sin 𝛼 = 𝑎
+sin(2𝛼) .
+2 pkt – zapisanie związku (𝑎2 − 𝑏2) ⋅ tg 𝛽 = 4𝑏𝑐 ⋅ sin(2𝛼).
+1 pkt – zapisanie związku 4𝑐𝑑 ⋅ cos 𝛽 = 𝑎2 − 𝑏2
+ALBO
+– zapisanie związku 𝑑 ⋅ sin 𝛽 = 𝑏 ⋅ sin(2𝛼).
+Zasady oceniania rozwiązań zadań
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Przyjmijmy następujące oznaczenia:
+𝑘 – prosta prostopadła do 𝐴𝐵 i przechodząca przez punkt 𝐷,
+𝐹 – obraz punktu 𝐶 w symetrii osiowej względem prostej 𝑘,
+𝐸 – spodek wysokości trapezu poprowadzonej z wierzchołka 𝐶 na podstawę 𝐴𝐵.
+Czworokąt 𝐴𝐵𝐹𝐶 jest trapezem równoramiennym o podstawach 𝐴𝐵 i 𝐶𝐹 oraz ramionach
+𝐴𝐶 i 𝐵𝐹. Zatem |∡𝐶𝐵𝐹| = |∡𝐶𝐴𝐵| − |∡𝐶𝐵𝐴| = 2𝛼 − 𝛼 = 𝛼 oraz
+|∡𝐵𝐶𝐹| = |∡𝐴𝐵𝐶| = 𝛼, więc trójkąt 𝐵𝐶𝐹 jest równoramienny (zobacz rysunek). Stąd
+|𝐶𝐹| = |𝐹𝐵| = |𝐴𝐶|.
+Ponieważ tg 𝛽 = |𝐶𝐸|
+|𝐸𝐷| oraz sin(2𝛼) = |𝐶𝐸|
+|𝐴𝐶| , więc
+tg 𝛽
+sin(2𝛼) =
+|𝐶𝐸|
+|𝐸𝐷|
+|𝐶𝐸|
+|𝐴𝐶|
+=
+|𝐴𝐶|
+|𝐸𝐷|
+Ponieważ trapez 𝐴𝐵𝐹𝐶 jest równoramienny i 𝐷 jest środkiem podstawy 𝐴𝐵 tego trapezu,
+więc |𝐸𝐷| = 1
+2 ⋅ |𝐶𝐹|.
+Zatem
+tg 𝛽
+sin(2𝛼) = |𝐴𝐶|
+|𝐸𝐷| = |𝐴𝐶|
+1
+2 ⋅ |𝐶𝐹|
+= |𝐴𝐶|
+1
+2 ⋅ |𝐴𝐶|
+= 2
+𝐴
+𝐵
+𝐶
+𝐷
+𝛼
+2𝛼
+𝛽
+𝐸
+𝛼
+𝛼
+𝐹
+𝑘
+Sposób II
+Przyjmijmy następujące oznaczenia: |𝐴𝐷| = |𝐵𝐷| = 𝑐, |𝐴𝐶| = 𝑏, |𝐵𝐶| = 𝑎, |𝐶𝐷| = 𝑑
+(zobacz rysunek).
+Stosujemy do trójkątów 𝐴𝐵𝐶 i 𝐴𝐷𝐶 twierdzenie sinusów i otrzymujemy
+𝑏
+sin 𝛼 = 2𝑐
+sin(180° − 3𝛼) ∧ 𝑏
+sin 𝛽 = 𝑐
+sin[180° − (2𝛼 + 𝛽)]
+Stąd, po zastosowaniu wzorów redukcyjnych, dostajemy
+𝑏
+sin 𝛼 = 2𝑐
+sin(3𝛼) ∧ 𝑏
+sin 𝛽 = 𝑐
+sin(2𝛼 + 𝛽)
+𝑏
+𝑐 = 2 sin 𝛼
+sin(3𝛼) ∧ 𝑏
+𝑐 = sin 𝛽
+sin(2𝛼 + 𝛽)
+2 sin 𝛼
+sin(3𝛼) = sin 𝛽
+sin(2𝛼 + 𝛽)
+2 sin 𝛼 ⋅ sin(2𝛼 + 𝛽) = sin 𝛽 ⋅ sin(3𝛼)
+Stosujemy wzór na sinus sumy kątów, otrzymując kolejno:
+2 sin 𝛼 sin(2𝛼) cos 𝛽 + 2 sin 𝛼 cos(2𝛼) sin 𝛽 = sin 𝛽 sin(2𝛼) cos 𝛼 + sin 𝛽 cos(2𝛼) sin 𝛼
+2 sin 𝛼 sin(2𝛼) cos 𝛽 = sin 𝛽 sin(2𝛼) cos 𝛼 − sin 𝛽 cos(2𝛼) sin 𝛼
+2 sin 𝛼 sin(2𝛼) cos 𝛽 = sin 𝛽 [sin(2𝛼) cos 𝛼 − cos(2𝛼) sin 𝛼]
+Stosujemy wzór na sinus różnicy kątów i dostajemy
+2 sin 𝛼 sin(2𝛼) cos 𝛽 = sin 𝛽 sin 𝛼
+Stąd
+sin 𝛼 = 0 ∨ 2 sin(2𝛼) cos 𝛽 = sin 𝛽
+Trójkąt 𝐴𝐵𝐶 jest ostrokątny, więc sin 𝛼 = 0 jest wykluczone przez warunki zadania.
+Zatem 2 sin(2𝛼) cos 𝛽 = sin 𝛽, czyli
+tg 𝛽
+sin(2𝛼) = 2
+𝐴
+𝐵
+𝐶
+𝐷
+𝛼
+2𝛼
+𝛽
+𝑐
+𝑐
+𝑎
+𝑑
+𝑏
+Zasady oceniania rozwiązań zadań
+Sposób III
+Przyjmijmy następujące oznaczenia: |𝐴𝐷| = |𝐵𝐷| = 𝑐, |𝐴𝐶| = 𝑏, |𝐵𝐶| = 𝑎, |𝐶𝐷| = 𝑑,
+𝐸 – spodek wysokości trójkąta 𝐴𝐷𝐶 poprowadzonej z wierzchołka 𝐶 na bok 𝐴𝐷,
+ℎ – wysokość trójkąta 𝐴𝐷𝐶 poprowadzona z wierzchołka 𝐶,
+𝑥 – długość odcinka 𝐷𝐸 (zobacz rysunek).
+Przy przyjętych oznaczeniach mamy
+tg 𝛽
+sin(2𝛼) =
+ℎ
+𝑥
+ℎ
+𝑏
+= 𝑏
+𝑥
+Po zastosowaniu do trójkąta 𝐴𝐵𝐶 twierdzenia sinusów oraz wzoru na sinus podwojonego
+kąta otrzymujemy:
+𝑏
+sin 𝛼 = 𝑎
+sin(2𝛼)
+𝑏
+sin 𝛼 = 𝑎
+2 sin 𝛼 cos 𝛼
+cos 𝛼 = 𝑎
+2𝑏
+Z definicji cosinusa zastosowanej do trójkąta prostokątnego 𝐸𝐵𝐶 mamy cos 𝛼 = 𝑐 + 𝑥
+𝑎 ,
+więc po uwzględnieniu związku cos 𝛼 = 𝑎
+2𝑏 otrzymujemy
+𝑎
+2𝑏 = 𝑐 + 𝑥
+𝑎
+𝑎2 = 2𝑏(𝑐 + 𝑥)
+𝐴
+𝐵
+𝐶
+𝐷
+𝛼
+2𝛼
+𝛽
+𝑐 − 𝑥
+𝑐
+𝑎
+𝑑
+𝑏
+𝑥
+ℎ
+𝐸
+Po zastosowaniu twierdzenia Pitagorasa do trójkątów 𝐴𝐸𝐶 i 𝐸𝐵𝐶 otrzymujemy
+𝑏2 = ℎ2 + (𝑐 − 𝑥)2 ∧ 𝑎2 = ℎ2 + (𝑐 + 𝑥)2
+Stąd
+𝑎2 − 𝑏2 = ℎ2 + (𝑐 + 𝑥)2 − ℎ2 − (𝑐 − 𝑥)2
+czyli
+𝑎2 − 𝑏2 = 4𝑐𝑥
+Stąd i z zależności 𝑎2 = 2𝑏(𝑐 + 𝑥) otrzymujemy kolejno
+𝑎2 = 2𝑏(𝑐 + 𝑥) ∧ 𝑎2 − 𝑏2 = 4𝑐𝑥
+2𝑏(𝑐 + 𝑥) − 𝑏2 = 4𝑐𝑥
+2𝑏𝑐 + 2𝑏𝑥 − 𝑏2 = 4𝑐𝑥
+2𝑏𝑐 − 𝑏2 = 4𝑐𝑥 − 2𝑏𝑥
+𝑏(2𝑐 − 𝑏) = 2𝑥(2𝑐 − 𝑏)
+𝑏 = 2𝑥 ∨ 𝑏 = 2𝑐
+Gdy 𝑏 = 2𝑐, to trójkąt 𝐴𝐵𝐶 jest równoramienny i |∡𝐴𝐵𝐶| = |∡𝐵𝐶𝐴|, czyli 𝛼 = 180 − 3𝛼,
+tj. 𝛼 = 45°. Wtedy |∡𝐵𝐴𝐶| = 2𝛼 = 90° i trójkąt 𝐴𝐵𝐶 nie jest ostrokątny.
+Zatem 𝑏 = 2𝑥 i ostatecznie
+tg 𝛽
+sin(2𝛼) = 𝑏
+𝑥 = 2𝑥
+𝑥 = 2
+Sposób IV
+Przyjmijmy następujące oznaczenia: |𝐴𝐷| = |𝐵𝐷| = 𝑐, |𝐴𝐶| = 𝑏, |𝐵𝐶| = 𝑎, |𝐶𝐷| = 𝑑
+(zobacz rysunek).
+Stosujemy do trójkątów 𝐵𝐶𝐷 i 𝐴𝐷𝐶 twierdzenie cosinusów i otrzymujemy:
+𝑎2 = 𝑐2 + 𝑑2 − 2𝑐𝑑 ⋅ cos(180° − 𝛽)
+𝑏2 = 𝑐2 + 𝑑2 − 2𝑐𝑑 ⋅ cos 𝛽
+𝐴
+𝐵
+𝐶
+𝐷
+𝛼
+2𝛼
+𝛽
+𝑐
+𝑐
+𝑎
+𝑑
+𝑏
+Zasady oceniania rozwiązań zadań
+Stąd, po zastosowaniu wzorów redukcyjnych, dostajemy
+𝑎2 − 𝑏2 = 4𝑐𝑑 ⋅ cos 𝛽
+cos 𝛽 = 𝑎2 − 𝑏2
+4𝑐𝑑
+Stosujemy do trójkąta 𝐴𝐷𝐶 twierdzenie sinusów i otrzymujemy:
+𝑏
+sin 𝛽 = 𝑑
+sin(2𝛼)
+sin 𝛽 = 𝑏 ⋅ sin(2𝛼)
+𝑑
+Zatem
+tg 𝛽 =
+𝑏 ⋅ sin(2𝛼)
+𝑑
+𝑎2 − 𝑏2
+4𝑐𝑑
+= 4𝑏𝑐 ⋅ sin(2𝛼)
+𝑎2 − 𝑏2
+Stosujemy do trójkąta 𝐴𝐵𝐶 twierdzenie sinusów i otrzymujemy
+2𝑐
+sin(180° − 3𝛼) = 𝑏
+sin 𝛼 ∧ 𝑏
+sin 𝛼 = 𝑎
+sin(2𝛼)
+Stąd, po zastosowaniu wzorów redukcyjnych oraz wzoru na sinus podwojonego kąta,
+otrzymujemy
+sin(3𝛼) = 2𝑐 ⋅ sin 𝛼
+𝑏 ∧ sin(2𝛼) = 𝑎 ⋅ sin 𝛼
+𝑏
+sin(3𝛼) = 2𝑐 ⋅ sin 𝛼
+𝑏 ∧ cos 𝛼 = 𝑎
+2𝑏
+Stąd i ze wzoru na sinus sumy kątów oraz cosinus podwojonego kąta uzyskujemy kolejno:
+sin(3𝛼) = sin(2𝛼) ⋅ cos 𝛼 + cos(2𝛼) ⋅ sin 𝛼
+2𝑐 ⋅ sin 𝛼
+𝑏 = 𝑎 ⋅ sin 𝛼
+𝑏 ⋅ 𝑎
+2𝑏 + [2 ⋅ ( 𝑎
+2𝑏)
+2
+− 1] ⋅ sin 𝛼
+2𝑐
+𝑏 = 𝑎2
+2𝑏2 + 𝑎2
+2𝑏2 − 1
+2𝑏𝑐 = 𝑎2 − 𝑏2
+Stąd i z zależności tg 𝛽 = 4𝑏𝑐 ⋅ sin(2𝛼)
+𝑎2 − 𝑏2 otrzymujemy
+tg 𝛽
+sin(2𝛼) = 4𝑏𝑐
+𝑎2 − 𝑏2 = 4𝑏𝑐
+2𝑏𝑐 = 2

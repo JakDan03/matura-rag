@@ -1,0 +1,73 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=5, 6; level=rozszerzony; year=2024; month=maj; task_id=3]
+Zadanie 3. (0–3)
+Wymagania egzaminacyjne 2024
+Wymagania ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+I. Sprawność rachunkowa.
+Zdający:
+XII.R2) stosuje schemat Bernoullego.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 0,996.
+2 pkt – zapisanie poprawnego prawdopodobieństwa uzyskania co najwyżej jednego sukcesu
+w dziesięciu próbach Bernoullego, np.
+𝑃 = (10
+0 ) ⋅ (0,99)10 + (10
+1 ) ⋅ (0,01)1 ⋅ (0,99)9,
+𝑃 = (0,99)10 + 10 ⋅ 0,01 ⋅ (0,99)9
+1 pkt – zapisanie prawdopodobieństwa odniesienia sukcesu (𝑝) i porażki (𝑞) w pojedynczej
+próbie: 𝑝 = 0,01 , 𝑞 = 0,99
+ALBO
+– zapisanie prawdopodobieństwa w postaci 𝑞10 + 10𝑝 ⋅ 𝑞9, gdzie 𝑝 jest
+prawdopodobieństwem odniesienia sukcesu, 𝑞 – porażki,
+ALBO
+– przedstawienie fragmentu drzewa zawierającego wszystkie istotne gałęzie
+odpowiadające sytuacji wylosowania dziesięciu opakowań ze śmietaną, która zawiera
+co najmniej 36% tłuszczu oraz odpowiadające sytuacji wylosowania dziesięciu
+opakowań, wśród których będzie dziewięć opakowań ze śmietaną, która zawiera co
+najmniej 36% tłuszczu i jedno opakowanie ze śmietaną, która zawiera mniej niż 36%
+tłuszczu,
+ALBO
+– przedstawienie fragmentu drzewa zawierającego gałąź odpowiadającą wylosowaniu
+dziesięciu opakowań, wśród których będzie dziewięć opakowań ze śmietaną, która
+zawiera co najmniej 36% tłuszczu i jedno opakowanie ze śmietaną, która zawiera
+mniej niż 36% tłuszczu oraz określenie na każdym odcinku gałęzi
+prawdopodobieństwa sukcesu i porażki.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający zapisze poprawne prawdopodobieństwa
+𝑃(𝑆10
+0 ) = (10
+0 ) ⋅ (0,01)0 ⋅ (0,99)10 oraz 𝑃(𝑆10
+1 ) = (10
+1 ) ⋅ (0,01)1 ⋅ (0,99)9, ale
+z dalszego rozwiązania nie wynika, że 𝑃 = 𝑃(𝑆10
+0 ) + 𝑃(𝑆10
+1 ), to otrzymuje co najwyżej
+1 punkt za całe rozwiązanie.
+2. Jeżeli zdający przyjmuje 𝑝 = 0,1 oraz 𝑞 = 0,9 (albo 𝑝 = 0,01 i 𝑞 = 0,9)
+i konsekwentnie rozwiąże zadanie do końca, to otrzymuje 2 punkty za całe rozwiązanie.
+3. Jeżeli zdający przyjmuje 𝑝 = 0,99 i 𝑞 = 0,01, konsekwentnie rozwiąże zadanie do
+końca, lecz błędnie interpretuje wynik końcowy, to otrzymuje 1 punkt za całe rozwiązanie.
+4. Jeżeli zdający nie określi sukcesu w pojedynczej próbie, ale z rozwiązania wynika, że
+poprawnie interpretuje warunki zadania, to może otrzymać 3 punkty za całe rozwiązanie.
+Przykładowe pełne rozwiązanie
+Sukcesem w pojedynczej próbie Bernoullego jest wylosowanie jednego opakowania ze
+śmietaną, która zawiera mniej niż 36% tłuszczu. Określamy prawdopodobieństwo sukcesu
+(𝑝) i porażki (𝑞) w pojedynczej próbie Bernoullego: 𝑝 = 0,01 , 𝑞 = 1 − 𝑝 = 0,99.
+Niech 𝑆10
+𝑘 oznacza zdarzenie polegające na tym, że wśród dziesięciu losowo wybranych
+opakowań ze śmietaną znajduje się dokładnie 𝑘 opakowań ze śmietaną, która zawiera
+mniej niż 36% tłuszczu (𝑘 ∈ {0, 1}).
+Obliczamy prawdopodobieństwo 𝑃 zdarzenia polegającego na tym, że wśród dziesięciu
+opakowań ze śmietaną poddanych kontroli znajdzie się co najwyżej jedno opakowanie ze
+śmietaną, która zawiera mniej niż 36% tłuszczu:
+𝑃 = 𝑃(𝑆10
+0 ) + 𝑃(𝑆10
+1 ) = (10
+0 ) ⋅ (0,01)0 ⋅ (0,99)10 + (10
+1 ) ⋅ (0,01)1 ⋅ (0,99)9 =
+= (0,99)9 ⋅ (0,99 + 10 ⋅ 0,01) = (0,99)9 ⋅ 1,09 ≈ 0,996

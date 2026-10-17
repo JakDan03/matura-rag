@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=18; level=podstawowy; year=2026; month=maj; task_id=15]
+Zadanie 15. (0–3)
+Ciąg (𝑎𝑛) jest określony wzorem 𝑎𝑛 = 3𝑛 + 5 dla każdej liczby naturalnej 𝑛 ≥ 1.
+Trzywyrazowy ciąg (𝑎1 , 𝑎9 , 𝑎𝑘) jest geometryczny.
+Oblicz 𝒌. Zapisz obliczenia.
+15.
+0–1–
+2–3

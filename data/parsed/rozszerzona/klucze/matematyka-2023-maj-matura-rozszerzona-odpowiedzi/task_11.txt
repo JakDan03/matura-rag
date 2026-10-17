@@ -1,0 +1,202 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=36, 37, 38, 39, 40; level=rozszerzony; year=2023; month=maj; task_id=11]
+Zadanie 11. (0–5)
+Wymagania egzaminacyjne 2023 i 2024
+Wymagania ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+3. Tworzenie pomocniczych obiektów
+matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub
+rozwiązania problemu.
+Zdający:
+III.R3) stosuje wzory Viète’a dla równań
+kwadratowych;
+III.R5) analizuje równania i nierówności
+liniowe z parametrami oraz równania
+i nierówności kwadratowe z parametrami,
+w szczególności wyznacza liczbę rozwiązań
+w zależności od parametrów, podaje
+warunki, przy których rozwiązania mają
+żądaną własność, i wyznacza rozwiązania
+w zależności od parametrów.
+Zasady oceniania
+Rozwiązanie zadania składa się z trzech etapów.
+Pierwszy etap polega na rozwiązaniu nierówności ∆> 0. Za poprawne wykonanie tego
+etapu zdający otrzymuje 1 punkt.
+1 pkt – poprawne rozwiązanie nierówności ∆> 0: 𝑚 ∈ (−∞, 2) ∪ (11
+5 , +∞).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli zdający rozwiązuje warunek ∆≥ 0, to za tę część rozwiązania otrzymuje 0 punktów.
+Drugi etap polega na wyznaczeniu tych wartości parametru 𝑚, dla których jest spełniony
+warunek 𝑥1
+3 + 𝑥2
+3 > −28. Za poprawne wykonanie tego etapu zdający otrzymuje 3 punkty.
+Podział punktów za drugi etap rozwiązania:
+3 pkt – rozwiązanie nierówności z jedną niewiadomą 𝑚, wynikającej z warunku
+𝑥1
+3 + 𝑥2
+3 > −28: 𝑚 ∈ (2, 9
+4).
+2 pkt – zapisanie nierówności z jedną niewiadomą 𝑚, wynikającej z warunku
+𝑥1
+3 + 𝑥2
+3 > −28, np. −64 − 3 ∙ (− 𝑚−3
+𝑚−2) ∙ (−4) > −28
+ALBO
+– zapisanie nierówności (−2 − √5𝑚−11
+𝑚−2 )
+3
++ (−2 + √5𝑚−11
+𝑚−2 )
+3
+> −28 i poprawne
+zastosowanie wzoru skróconego mnożenia na sześcian sumy/różnicy do co najmniej
+jednego ze składników sumy (−2 − √5𝑚−11
+𝑚−2 )
+3
++ (−2 + √5𝑚−11
+𝑚−2 )
+3
+.
+1 pkt – przekształcenie nierówności 𝑥1
+3 + 𝑥2
+3 > −28 do postaci pozwalającej na
+bezpośrednie zastosowanie wzorów Viète’a, np.
+(𝑥1 + 𝑥2)3 − 3𝑥1𝑥2(𝑥1 + 𝑥2) > −28
+ALBO
+Zasady oceniania rozwiązań zadań
+– wyznaczenie pierwiastków trójmianu kwadratowego 𝑥2 + 4𝑥 − 𝑚−3
+𝑚−2 w zależności
+od 𝑚: 𝑥1 =
+−4−√20𝑚−44
+𝑚−2
+2⋅1 , 𝑥2 =
+−4+√20𝑚−44
+𝑚−2
+2⋅1 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Trzeci etap polega na wyznaczeniu wszystkich wartości parametru 𝑚, które spełniają
+jednocześnie dwa warunki: Δ > 0 i 𝑥1
+3 + 𝑥2
+3 > −28: 𝑚 ∈ (11
+5 , 9
+4).
+Za poprawne wykonanie tego etapu zdający otrzymuje 1 punkt.
+1 pkt – poprawne wyznaczenie wszystkich wartości parametru 𝑚, które spełniają
+jednocześnie warunki Δ > 0 i 𝑥1
+3 + 𝑥2
+3 > −28: 𝑚 ∈ (11
+5 , 9
+4).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający popełni w I i/lub II etapie jedynie błędy rachunkowe i otrzyma zbiory
+rozwiązań z I i II etapu, które nie są rozłączne i żaden z nich nie jest zbiorem liczb
+rzeczywistych, a następnie poprawnie wyznaczy część wspólną zbiorów rozwiązań
+z etapów I i II, to za III etap otrzymuje 1 punkt.
+2. Jeżeli zdający w II etapie rozwiązania popełni błąd i przyjmie, że 𝑥1 + 𝑥2 = ± 𝑚−3
+𝑚−2 lub
+𝑥1 ⋅ 𝑥2 = ± 4, to za II etap może otrzymać co najwyżej 1 punkt, a za III etap otrzymuje
+0 punktów.
+3. Jeżeli zdający w II etapie rozwiązania popełni błąd, który nie jest rachunkowy (np. pominie
+istotne nawiasy przy przekształcaniu nierówności 𝑥1
+3 + 𝑥2
+3 > −28 do postaci
+pozwalającej na bezpośrednie zastosowanie wzorów Viète’a, albo przyjmie, że
+𝑥1
+3 + 𝑥2
+3 = (𝑥1 + 𝑥2)[(𝑥1 + 𝑥2)2 − 𝑥1 ⋅ 𝑥2], i konsekwentnie do popełnionego błędu
+doprowadzi rozwiązanie II etapu zadania do końca, to może uzyskać co najwyżej 1 punkt
+za II etap.
+Przykładowe pełne rozwiązanie
+I etap
+Trójmian kwadratowy 𝑥2 + 4𝑥 − 𝑚−3
+𝑚−2 , gdzie 𝑚 ≠ 2, ma dwa różne pierwiastki rzeczywiste
+wtedy i tylko wtedy, gdy wyróżnik tego trójmianu jest dodatni. Rozwiązujemy warunek ∆> 0:
+42 − 4 ∙ (− 𝑚 − 3
+𝑚 − 2) > 0
+20𝑚 − 44
+𝑚 − 2 > 0
+(20𝑚 − 44) ⋅ (𝑚 − 2) > 0
+20 (𝑚 − 11
+5 ) ⋅ (𝑚 − 2) > 0
+𝑚 ∈ (−∞, 2) ∪ (11
+5 , +∞)
+II etap
+Sposób I
+Wyznaczamy wszystkie wartości parametru 𝑚 ≠ 2, dla których jest spełniony warunek
+𝑥1
+3 + 𝑥2
+3 > −28, korzystając ze wzorów Viète’a:
+(𝑥1 + 𝑥2)3 − 3𝑥1𝑥2(𝑥1 + 𝑥2) > −28
+−64 − 3 ∙ (− 𝑚 − 3
+𝑚 − 2) ∙ (−4) > −28
+𝑚 − 3
+𝑚 − 2 < −3
+(4𝑚 − 9)(𝑚 − 2) < 0
+𝑚 ∈ (2, 9
+4)
+Sposób II
+Wyznaczamy pierwiastki 𝑥1, 𝑥2 trójmianu kwadratowego 𝑥2 + 4𝑥 − 𝑚−3
+𝑚−2 :
+𝑥1 =
+−4 − √20𝑚 − 44
+𝑚 − 2
+2 ⋅ 1 = −2 − √5𝑚 − 11
+𝑚 − 2
+𝑥2 =
+−4 + √20𝑚 − 44
+𝑚 − 2
+2 ⋅ 1 = −2 + √5𝑚 − 11
+𝑚 − 2
+Nierówność 𝑥1
+3 + 𝑥2
+3 > −28 możemy więc zapisać w postaci
+(−2 − √5𝑚 − 11
+𝑚 − 2 )
+3
++ (−2 + √5𝑚 − 11
+𝑚 − 2 )
+3
+> −28
+Oznaczmy √5𝑚−11
+𝑚−2 przez 𝑝. Wtedy
+(−2 − 𝑝)3 + (−2 + 𝑝)3 > −28
+Korzystając ze wzoru na sześcian różnicy i sześcian sumy, otrzymujemy dalej
+(−8 − 12𝑝 − 6𝑝2 − 𝑝3) + (−8 + 12𝑝 − 6𝑝2 + 𝑝3) > −28
+−12𝑝2 − 16 > −28
+12𝑝2 − 12 < 0
+𝑝2 − 1 < 0
+Zasady oceniania rozwiązań zadań
+Zatem
+(√5𝑚 − 11
+𝑚 − 2 )
+2
+− 1 < 0
+5𝑚 − 11
+𝑚 − 2 − 1 < 0
+5𝑚 − 11 − 𝑚 + 2
+𝑚 − 2 < 0
+4𝑚 − 9
+𝑚 − 2 < 0
+(4𝑚 − 9)(𝑚 − 2) < 0
+𝑚 ∈ (2, 9
+4)
+Uwaga:
+Nierówność (−2 − 𝑝)3 + (−2 + 𝑝)3 > −28 możemy również przekształcić, korzystając ze
+wzoru na sumę sześcianów. Wtedy otrzymujemy
+(−2 − 𝑝 + (−2) + 𝑝)[(−2 − 𝑝)2 − (−2 − 𝑝)(−2 + 𝑝) + (−2 + 𝑝)2] > −28
+−4(4 + 4𝑝 + 𝑝2 + 𝑝2 − 4 + 4 − 4𝑝 + 𝑝2) > −28
+3𝑝2 + 4 < 7
+𝑝2 − 1 < 0
+III etap
+Wyznaczamy wszystkie wartości parametru 𝑚 ≠ 2, które jednocześnie spełniają warunki
+𝑚 ∈ (−∞, 2) ∪ (11
+5 , +∞) oraz 𝑚 ∈ (2, 9
+4): 𝑚 ∈ (11
+5 , 9
+4).

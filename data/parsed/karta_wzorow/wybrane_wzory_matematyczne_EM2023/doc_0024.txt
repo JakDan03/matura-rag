@@ -1,0 +1,27 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=24; year=2023; section=𝐴1 ⋅ 𝐵2 − 𝐴2 ⋅ 𝐵1 = 0]
+Strona 24 z 34
+• Proste równoległe
+Dwie proste o równaniach kierunkowych 𝑦 = 𝑎1𝑥 + 𝑏1 oraz 𝑦 = 𝑎2𝑥 + 𝑏2 są
+równoległe wtedy i tylko wtedy, gdy:
+Dwie proste o równaniach ogólnych 𝐴1𝑥 + 𝐵1𝑦 + 𝐶1 = 0 oraz 𝐴2𝑥 + 𝐵2𝑦 + 𝐶2 = 0 są
+równoległe wtedy i tylko wtedy, gdy:
+• Proste prostopadłe
+Dwie proste o równaniach kierunkowych 𝑦 = 𝑎1𝑥 + 𝑏1 oraz 𝑦 = 𝑎2𝑥 + 𝑏2 są
+prostopadłe wtedy i tylko wtedy, gdy:
+Dwie proste o równaniach ogólnych 𝐴1𝑥 + 𝐵1𝑦 + 𝐶1 = 0 oraz 𝐴2𝑥 + 𝐵2𝑦 + 𝐶2 = 0 są
+prostopadłe wtedy i tylko wtedy, gdy:
+• Odległość punktu od prostej
+Odległość 𝑑 punktu 𝑃(𝑥0, 𝑦0) od prostej o równaniu ogólnym 𝐴𝑥 + 𝐵𝑦 + 𝐶 = 0 jest
+równa:
+• Równanie okręgu
+Równanie okręgu o środku 𝑆 = (𝑎, 𝑏) i promieniu 𝑟 > 0 w postaci kanonicznej:
+Równanie okręgu o środku 𝑆 = (𝑎, 𝑏) i promieniu 𝑟 > 0 w postaci ogólnej:
+gdzie 𝑐 = 𝑎2 + 𝑏2 − 𝑟2.
+𝑎1 = 𝑎2
+𝐴1 ⋅ 𝐵2 − 𝐴2 ⋅ 𝐵1 = 0
+𝑎1 ⋅ 𝑎2 = −1
+𝐴1 ⋅ 𝐴2 + 𝐵1 ⋅ 𝐵2 = 0
+𝑑 = |𝐴 ⋅ 𝑥0 + 𝐵 ⋅ 𝑦0 + 𝐶|
+√𝐴2 + 𝐵2
+(𝑥 − 𝑎)2 + (𝑦 − 𝑏)2 = 𝑟2
+𝑥2 + 𝑦2 − 2𝑎𝑥 − 2𝑏𝑦 + 𝑐 = 0

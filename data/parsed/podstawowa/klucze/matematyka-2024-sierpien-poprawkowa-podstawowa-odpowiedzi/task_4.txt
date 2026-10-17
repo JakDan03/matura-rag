@@ -1,0 +1,21 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=5; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=4]
+Zadanie 4. (0–2)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+I.1) wykonuje działania ([…]
+logarytmowanie) w zbiorze liczb
+rzeczywistych;
+I.9) […] posługuje się wzorami na logarytm
+iloczynu, logarytm ilorazu i logarytm potęgi.
+Zasady oceniania
+2 pkt – wybranie dwóch odpowiedzi, z których obie są poprawne.
+1 pkt – wybranie jednej lub dwóch odpowiedzi, z których jedna jest poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+CE

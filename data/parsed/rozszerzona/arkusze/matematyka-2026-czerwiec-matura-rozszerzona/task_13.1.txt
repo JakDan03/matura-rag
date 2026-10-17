@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=28; level=rozszerzony; year=2026; month=czerwiec; task_id=13.1]
+Zadanie 13.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) rozważamy wszystkie trójkąty prostokątne
+𝐴𝐵𝐶, w których 𝐶 = (0, 0), wierzchołek 𝐵 leży na dodatniej półosi 𝑂𝑦, wierzchołek 𝐴
+leży na dodatniej półosi 𝑂𝑥, natomiast bok 𝐴𝐵 jest zawarty w prostej przechodzącej przez
+punkt 𝐾 = (1, 2).
+Zadanie 13.1. (0–2)
+Wykaż, że pole 𝑷 trójkąta 𝑨𝑩𝑪 w zależności od współczynnika kierunkowego 𝒂
+prostej 𝑨𝑩 jest określone wzorem
+𝑷(𝒂) = −𝒂𝟐 + 𝟒𝒂 − 𝟒
+𝟐𝒂
+13.1
+0–1–2

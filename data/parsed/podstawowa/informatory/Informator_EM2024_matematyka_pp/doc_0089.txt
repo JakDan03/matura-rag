@@ -1,0 +1,23 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=89; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+Przykładowe zadania z rozwiązaniami 89
+Zadanie 47. (0–3)
+Dany jest prostokąt 𝐴𝐵𝐶𝐷, w którym |𝐴𝐷| = 2. Kąt 𝐵𝐷𝐴 ma miarę 𝛼, taką, że tg 𝛼 = 2.
+Przekątna 𝐵𝐷 i prosta przechodząca przez wierzchołek 𝐶 prostopadła do 𝐵𝐷 przecinają
+się w punkcie 𝐸 (zobacz rysunek).
+Oblicz długość odcinka 𝑪𝑬.
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymagania szczegółowe
+VIII. Planimetria. Zdający:
+8) korzysta z cech podobieństwa trójkątów;
+12) stosuje funkcje trygonometryczne do wyznaczania długości odcinków w figurach
+płaskich oraz obliczania pól figur.
+𝐶
+𝐷
+𝐸
+𝐴
+𝐵
+𝛼
+2

@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=14; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=12]
+Zadanie 12. (0–1)
+Proces stygnięcia naparu z ziół w otoczeniu o stałej temperaturze 22 °C opisuje funkcja
+wykładnicza 𝑇(𝑥) = 78 ⋅ 2−0,05𝑥 + 22, gdzie 𝑇(𝑥) to temperatura naparu wyrażona
+w stopniach Celsjusza (°C) po 𝑥 minutach liczonych od momentu 𝑥 = 0, w którym zioła
+zalano wrzątkiem.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Temperatura naparu po 20 minutach od momentu zalania ziół wrzątkiem jest równa
+A. 22 °C B. 39 °C C. 78 °C D. 61 °C

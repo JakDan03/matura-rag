@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=11; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=11]
+Zadanie 11. (0–2)
+Właściciel restauracji kupił 75 kilogramów pomidorów: 𝑥 kg pomidorów malinowych
+w cenie 11 złotych za kilogram oraz 𝑦 kg pomidorów cherry w cenie 7,98 złotych za
+kilogram. Za pomidory zapłacił łącznie 752,52 złotych.
+Oblicz, ile kilogramów pomidorów malinowych kupił właściciel restauracji.
+Zapisz obliczenia.

@@ -1,0 +1,53 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=24, 25; level=podstawowy; year=2026; month=maj; task_id=15]
+Zadanie 15. (0–3)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VI.7) wykorzystuje własności ciągów, w tym
+arytmetycznych i geometrycznych, do
+rozwiązywania zadań […].
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑘 = 41.
+2 pkt – obliczenie wszystkich wyrazów ciągu geometrycznego: (8, 32, 128)
+ALBO
+– zapisanie równania z jedną niewiadomą 𝑘, wynikającego z własności ciągu
+geometrycznego, np. 322 = 8 ⋅ (3𝑘 + 5).
+1 pkt – obliczenie wyrazów 𝑎1 oraz 𝑎9: 𝑎1 = 8, 𝑎9 = 32
+ALBO
+– wykorzystanie własności ciągu geometrycznego i zapisanie związku między
+wyrazami 𝑎1 , 𝑎9 , 𝑎𝑘 , np. (𝑎9)2 = 𝑎1 ⋅ 𝑎𝑘 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli zdający rozważa ciąg geometryczny (𝑎1, 𝑎𝑙, 𝑎𝑘), gdzie 𝑙 jest liczbą naturalną
+większą od 2 i różną od 9, oraz rozwiąże zadanie konsekwentnie do końca, to może
+otrzymać co najwyżej 2 punkty za całe rozwiązanie (1 punkt za zapisanie wszystkich
+wyrazów tego ciągu lub zapisanie równania z jedną niewiadomą 𝑘 wynikającego
+z własności ciągu geometrycznego oraz 1 punkt za konsekwentne obliczenie 𝑘).
+Przykładowe pełne rozwiązania
+Sposób I
+Korzystamy ze wzoru na 𝑛-ty wyraz ciągu (𝑎𝑛) i obliczamy wyrazy 𝑎1 oraz 𝑎9:
+𝑎1 = 3 ⋅ 1 + 5 = 8
+𝑎9 = 3 ⋅ 9 + 5 = 32
+Zatem iloraz trzywyrazowego ciągu geometrycznego (8, 32, 𝑎𝑘) jest równy 32
+8 = 4.
+Stąd:
+𝑎𝑘 = 32 ⋅ 4 = 128
+Obliczamy 𝑘:
+𝑎𝑘 = 128
+3𝑘 + 5 = 128
+𝑘 = 41
+Zasady oceniania rozwiązań zadań
+Sposób II
+Korzystamy ze wzoru na 𝑛-ty wyraz ciągu (𝑎𝑛) i zapisujemy:
+𝑎1 = 3 ⋅ 1 + 5 = 8
+𝑎9 = 3 ⋅ 9 + 5 = 32
+𝑎𝑘 = 3𝑘 + 5
+Z warunków zadania wynika, że ciąg (8, 32, 3𝑘 + 5) jest geometryczny.
+Z własności ciągu geometrycznego otrzymujemy:
+322 = 8 ⋅ (3𝑘 + 5)
+32 ⋅ 4 ⋅ 8 = 8 ⋅ (3𝑘 + 5) /∶ 8
+128 = 3𝑘 + 5
+𝑘 = 41

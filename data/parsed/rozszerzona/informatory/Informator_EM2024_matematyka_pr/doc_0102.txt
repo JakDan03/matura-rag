@@ -1,0 +1,22 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=102; level=rozszerzony; year=2024; section=𝑃(𝐶|+) = 𝑃(+|𝐶) ⋅ 𝑃(𝐶)]
+102 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Stosujemy twierdzenie Bayesa i obliczamy szukane prawdopodobieństwo:
+𝑃(𝐶|+) = 𝑃(+|𝐶) ⋅ 𝑃(𝐶)
+𝑃(+|𝑍) ⋅ 𝑃(𝑍) + 𝑃(+|𝐶) ⋅ 𝑃(𝐶)
+𝑃(𝐶|+) = 0,99 ⋅ 0,002
+0,02 ⋅ 0,998 + 0,99 ⋅ 0,002 = 99
+1097 ≈ 0,09
+Zadanie 31. (0–4)
+W pewnym mieście jest prostopadły układ ulic,
+a ruch na każdej z nich jest dwukierunkowy.
+W centrum miasta znajduje się park, gdzie
+obowiązuje całkowity zakaz ruchu pojazdów.
+Schemat ulic w tym mieście wraz
+z położeniem parku przedstawiono poniżej na
+rysunku. Tomek znajduje się w punkcie 𝐴
+miasta i chce dojechać samochodem
+najkrótszą drogą do punktu 𝐵.
+Oblicz, ile jest najkrótszych dróg z 𝑨 do 𝑩. Zapisz obliczenia.
+𝐴
+𝐵
+starówka

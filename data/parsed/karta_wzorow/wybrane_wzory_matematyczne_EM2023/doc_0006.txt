@@ -1,0 +1,38 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=6; year=2023; section=4. SILNIA. WSPÓŁCZYNNIK DWUMIANOWY]
+Strona 6 z 34
+Wzór na zamianę podstawy logarytmu:
+jeżeli 𝑎 > 0, 𝑎 ≠ 1, 𝑏 > 0, 𝑏 ≠ 1 oraz 𝑐 > 0, to:
+W szczególności:
+Zapisy log 𝑥 oraz lg 𝑥 oznaczają log10 𝑥.
+4. SILNIA. WSPÓŁCZYNNIK DWUMIANOWY
+• Silnią liczby całkowitej dodatniej 𝑛 nazywamy iloczyn kolejnych liczb całkowitych od
+1 do 𝑛 włącznie:
+Ponadto przyjmujemy umowę, że 0! = 1.
+Dla dowolnej liczby całkowitej 𝑛 ≥ 0 prawdziwa jest równość:
+• Dla liczb całkowitych 𝑛, 𝑘 spełniających warunki 0 ≤ 𝑘 ≤ 𝑛 definiujemy współczynnik
+dwumianowy (𝑛
+𝑘) (symbol Newtona):
+Prawdziwe są równości:
+log𝑏 𝑐 = log𝑎 𝑐
+log𝑎 𝑏
+log𝑎 𝑏 = 1
+log𝑏 𝑎
+𝑛! = 1 ⋅ 2 ⋅ … ⋅ 𝑛
+(𝑛 + 1)! = 𝑛! ⋅ (𝑛 + 1)
+(𝑛
+𝑘) = 𝑛!
+𝑘! (𝑛 − 𝑘)!
+(𝑛
+𝑘) = 𝑛(𝑛 − 1)(𝑛 − 2) ⋅ … ⋅ (𝑛 − 𝑘 + 1)
+𝑘!
+(𝑛
+0) = 1 (𝑛
+1) = 𝑛 ( 𝑛
+𝑛 − 1) = 𝑛 (𝑛
+𝑛) = 1
+(𝑛
+𝑘) = ( 𝑛
+𝑛 − 𝑘) (𝑛
+𝑘) + ( 𝑛
+𝑘 + 1) = (𝑛 + 1
+𝑘 + 1)

@@ -1,0 +1,49 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=69; level=rozszerzony; year=2024; section=𝑃𝐴𝐶𝑆]
+Przykładowe zadania z rozwiązaniami 69
+Wyznaczamy 𝑏 w zależności od 𝑎.
+Z treści zadania mamy 4𝑎
+4𝑎+4𝑏 = 1
+5 , co daje 𝑏 = 4𝑎.
+Wyznaczamy |𝑂𝑆| w zależności od 𝑎.
+Trójkąt 𝑂𝐵𝐸 jest prostokątny, punkt 𝑆 jest środkiem
+przeciwprostokątnej, więc 𝑆 jest środkiem okręgu
+opisanego na trójkącie 𝑂𝐵𝐸 (zobacz rysunek 2.).
+Zatem |𝑂𝑆| = 2𝑎.
+Obliczamy stosunek pola przekroju 𝐴𝐶𝑆 do pola podstawy
+ostrosłupa:
+𝑃𝐴𝐶𝑆
+𝑃𝐴𝐵𝐶𝐷
+=
+1
+2 ⋅ 𝑎√2 ⋅ |𝑂𝑆|
+𝑎2 =
+1
+2 ⋅ 𝑎√2 ⋅ 2𝑎
+𝑎2 = √2
+Do trójkąta 𝐵𝑆𝑂 stosujemy twierdzenie cosinusów w celu obliczenia cosinusa kąta 𝐵𝑆𝑂:
+(𝑎√2
+2 )
+2
+= (2𝑎)2 + (2𝑎)2 − 2 ⋅ 2𝑎 ⋅ 2𝑎 ⋅ cos 𝛼
+Z ostatniego równania otrzymujemy cos 𝛼 = 15
+16 , więc 𝛼 ≈ 20°.
+Sposób 2.
+Przyjmijmy oznaczenia jak na rysunku 1.
+Wyznaczamy 𝑏 w zależności od 𝑎.
+Z treści zadania mamy 4𝑎
+4𝑎+4𝑏 = 1
+5 , co daje 𝑏 = 4𝑎.
+Stąd i z twierdzenia cosinusów zastosowanego do trójkąta 𝐵𝐸𝐶 obliczamy cosinus
+kąta 𝐵𝐸𝐶:
+𝑎2 = 𝑏2 + 𝑏2 − 2 ⋅ 𝑏 ⋅ 𝑏 ⋅ cos |∡𝐵𝐸𝐶|
+𝑎2 = 16𝑎2 + 16𝑎2 − 2 ⋅ 4𝑎 ⋅ 4𝑎 ⋅ cos |∡𝐵𝐸𝐶|
+cos |∡𝐵𝐸𝐶| = 31
+32
+𝑂
+𝐵
+𝐸
+𝑆
+α
+2𝑎
+2𝑎
+Rysunek 2.

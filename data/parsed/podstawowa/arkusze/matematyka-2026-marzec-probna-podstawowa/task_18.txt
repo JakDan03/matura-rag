@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=17; level=podstawowy; year=2026; month=marzec; term=probna; task_id=18]
+Zadanie 18. (0–1)
+Dany jest trójkąt prostokątny 𝐴𝐵𝐶, w którym bok 𝐵𝐶 jest przeciwprostokątną oraz |𝐴𝐶| = 6.
+Tangens kąta 𝐵𝐶𝐴 jest równy 3
+2
+.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Odcinek 𝐴𝐵 ma długość
+A. 3 B. 4 C. 9 D. √117

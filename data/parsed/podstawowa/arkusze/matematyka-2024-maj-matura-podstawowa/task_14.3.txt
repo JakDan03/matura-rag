@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=13, 14; level=podstawowy; year=2024; month=maj; task_id=14.3]
+Zadanie 14.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) przedstawiono fragment paraboli, która jest
+wykresem funkcji kwadratowej 𝑓 (zobacz rysunek). Wierzchołek tej paraboli oraz punkty
+przecięcia paraboli z osiami układu współrzędnych mają obie współrzędne całkowite.
+Zadanie 14.3. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Dla funkcji 𝑓 prawdziwa jest równość
+A. 𝑓(−4) = 𝑓(6) B. 𝑓(−4) = 𝑓(5)
+C. 𝑓(−4) = 𝑓(4) D. 𝑓(−4) = 𝑓(7)

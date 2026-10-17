@@ -1,0 +1,253 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=23, 24, 25, 26, 27, 28; level=rozszerzony; year=2023; month=maj; task_id=7]
+Zadanie 7. (0–4)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+X.1) rozpoznaje wzajemne położenie
+prostych w przestrzeni, w szczególności
+proste prostopadłe nieprzecinające się.
+X.R5) wyznacza przekroje sześcianu […].
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: √6.
+3 pkt – zapisanie równania z jedną niewiadomą (długością odcinka 𝑆𝑃), np.:
+|𝑆𝑃|
+6 = 3√2
+6√3 (z podobieństwa trójkątów 𝑃𝐻𝑆 i 𝐴𝐻𝐵, sposób I),
+18√2 = 1
+2 ⋅ 3√2 ⋅ 6 + 1
+2 ⋅ 6√3 ⋅ |𝑆𝑃| (z równości pól 𝑃𝐻𝐴𝐵 = 𝑃𝐵𝐴𝑆 + 𝑃𝐻𝑆𝐵 ),
+9√2 = 1
+2 ⋅ 6√3 ⋅ |𝑆𝑃| (z równości 𝑃𝐻𝑆𝐵 = 1
+2 ⋅ |𝐻𝑆| ⋅ |𝐴𝐵| = 1
+2 ⋅ |𝐻𝐵| ⋅ |𝑆𝑃|,
+sposób II),
+ALBO
+– obliczenie pola trójkąta 𝐻𝑆𝑅 oraz długości odcinka 𝐻𝑅: 𝑃∆𝐻𝑆𝑅 = 9√2
+2 oraz
+|𝐻𝑅| = 3√3,
+ALBO
+– obliczenie długości odcinków 𝐻𝑃 i 𝐻𝑆: |𝐻𝑃| = 2√3 i |𝐻𝑆| = 3√2,
+ALBO
+– obliczenie długości odcinków 𝐻𝑃 oraz cosinusa/tangensa kąta 𝑆𝐻𝑃: |𝐻𝑃| = 2√3
+i cos ∡𝑆𝐻𝑃 =
+√6
+3 (tg ∡𝑆𝐻𝑃 =
+√2
+2 ),
+ALBO
+– obliczenie długości 𝐴𝐾: 𝐴𝐾 = 2√6.
+2 pkt – obliczenie długości boków trójkąta 𝐻𝑆𝐵: |𝐻𝑆| = 3√2, |𝐻𝐵| = 6√3, |𝑆𝐵| = 3√6
+ALBO
+– zapisanie proporcji wynikającej z podobieństwa dwóch trójkątów prostokątnych, przy
+czym jednym z nich jest trójkąt 𝐻𝑆𝑃,
+ALBO
+– obliczenie/zapisanie długości odcinków 𝐵𝐻 oraz 𝑆𝑅: |𝐵𝐻| = 6√3 oraz |𝑆𝑅| = 3,
+ALBO
+– obliczenie wartości funkcji trygonometrycznej kąta 𝑆𝐻𝑅: np. cos ∡𝑆𝐻𝑅 =
+√6
+3 ,
+sin ∡𝑆𝐻𝑅 =
+√3
+3 , tg ∡𝑆𝐻𝑅 =
+√2
+2 ,
+ALBO
+– obliczenie pola trójkąta 𝐻𝐴𝐵: 𝑃𝛥𝐻𝐴𝐵 = 18√2,
+ALBO
+– obliczenie długości odcinka 𝑆𝐵 i sinusa kąta 𝑆𝐵𝐻: |𝑆𝐵| = 3√6 i sin ∡𝑆𝐵𝐻 = 1
+3 ,
+ALBO
+– zapisanie pola trójkąta 𝐻𝐴𝐵 jako sumy pól trójkątów 𝑆𝐴𝐵 oraz 𝐻𝑆𝐵 i zapisanie
+𝑃𝐻𝑆𝐵 = 1
+2 ⋅ |𝐻𝐵| ⋅ |𝑆𝑃| (lub 𝑃𝐻𝑆𝐵 = 1
+2 ⋅ 𝑃𝐻𝐴𝐵),
+ALBO
+– zapisanie pola trójkąta 𝐻𝑆𝐵 na dwa sposoby: 𝑃𝐻𝑆𝐵 = 1
+2 ⋅ |𝐻𝑆| ⋅ |𝐴𝐵| oraz
+𝑃𝐻𝑆𝐵 = 1
+2 ⋅ |𝐻𝐵| ⋅ |𝑆𝑃|,
+ALBO
+– obliczenie pola trójkąta 𝐻𝑆𝐵: 𝑃𝐻𝑆𝐵 = 9√2.
+1 pkt – obliczenie/zapisanie długości jednego z odcinków 𝐵𝐻, 𝑆𝑅, 𝐻𝑆 albo 𝐵𝑆:
+|𝐵𝐻| = 6√3, |𝑆𝑅| = 3, |𝐻𝑆| = 3√2, |𝐵𝑆| = 3√6.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli jedynym błędem zdającego jest:
+a) zastosowanie niepoprawnej definicji jednej funkcji trygonometrycznej
+b) błędne zastosowanie twierdzenia Pitagorasa
+c) zastosowanie niepoprawnej tożsamości √𝑥2 + 𝑦2 = 𝑥 + 𝑦
+d) błędne zastosowanie twierdzenia cosinusów lub sinusów
+e) błędne zastosowanie wzoru Herona
+to zdający może otrzymać co najwyżej 2 punkty za całe rozwiązanie.
+2. Jeżeli zdający korzysta ze związku |𝐻𝑃| = 1
+3 ⋅ |𝐻𝐵| (gdzie 𝑃 jest spodkiem wysokości
+poprowadzonej z wierzchołka 𝑆 na podstawę 𝐻𝐵 trójkąta 𝐻𝑆𝐵) i nie uzasadni jego
+prawdziwości, to może otrzymać co najwyżej 2 punkty za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Przyjmijmy oznaczenia jak na rysunku:
+𝑆 – środek odcinka 𝐴𝐻,
+𝑅 – środek odcinka 𝐵𝐻,
+𝑃 – spodek wysokości trójkąta 𝑆𝐵𝐻 poprowadzonej
+z punktu 𝑆 na bok 𝐵𝐻.
+𝐶
+𝐺
+𝐻
+𝐹
+𝐸
+𝐴
+𝐵
+𝐷
+𝑆
+6
+𝑃
+𝑅
+Zasady oceniania rozwiązań zadań
+Sposób I
+Obliczamy |𝐴𝐻| = 6√2, |𝐵𝐻| = 6√3.
+Trójkąty 𝐴𝐻𝐵 i 𝑃𝐻𝑆 są podobne (cecha kkk), więc
+|𝑆𝑃|
+|𝐴𝐵| =
+|𝑆𝐻|
+|𝐵𝐻|
+|𝑆𝑃|
+6 = 3√2
+6√3
+|𝑆𝑃| = √6
+Uwaga:
+Równanie |𝑆𝑃|
+6 = 3√2
+6√3 otrzymamy, stosując dwukrotnie definicję sinusa kąta 𝑆𝐻𝑃
+w trójkątach prostokątnych 𝐻𝑆𝑃 i 𝐻𝐴𝐵.
+Sposób II
+Obliczamy |𝐴𝐻| = 6√2, |𝐵𝐻| = 6√3, |𝐻𝑆| = 3√2.
+Obliczamy pole trójkąta 𝐻𝑆𝐵:
+𝑃∆𝐻𝑆𝐵 = 1
+2 ⋅ |𝐻𝑆| ∙ |𝐴𝐵| = 1
+2 ∙ 3√2 ∙ 6 = 9√2
+Ale
+𝑃∆𝐻𝑆𝐵 = 1
+2 ⋅ |𝐻𝐵| ∙ |𝑆𝑃| = 1
+2 ∙ 6√3 ∙ |𝑆𝑃| = 3√3 ⋅ |𝑆𝑃|
+Stąd
+3√3 ∙ |𝑆𝑃| = 9√2
+więc |𝑆𝑃| = √6.
+Sposób IIa
+Odcinek 𝑆𝑅 łączy środki boków w trójkącie 𝐴𝐵𝐻, jest więc równoległy do boku 𝐴𝐵 i ma
+długość równą |𝑆𝑅| = 1
+2 ⋅ 6 = 3.
+Zauważmy, że trójkąt 𝐻𝐴𝐵 jest prostokątny, zatem trójkąt 𝐻𝑆𝑅 też jest prostokątny.
+Obliczamy |𝐴𝐻| = 6√2, |𝐵𝐻| = 6√3.
+Obliczamy pole trójkąta 𝐻𝑆𝑅:
+𝑃∆𝐻𝑆𝑅 = 1
+2 |𝐻𝑆| ∙ |𝑆𝑅| = 1
+2 ∙ 3√2 ∙ 3 = 9√2
+2
+Ale
+𝑃∆𝐻𝑆𝑅 = 1
+2 |𝐻𝑅| ∙ |𝑆𝑃| = 1
+2 ∙ 3√3 ∙ |𝑆𝑃|
+6
+𝐻
+𝑃
+𝑆
+𝐵
+𝐴
+6
+𝐻
+𝑃
+𝑆
+𝐵
+𝐴
+6
+𝐻
+𝑃
+𝑅
+𝑆
+𝐵
+𝐴
+Stąd
+1
+2 ∙ 3√3 ∙ |𝑆𝑃| = 9√2
+2
+więc |𝑆𝑃| = √6.
+Sposób III
+Wyznaczamy cosinus kąta 𝑆𝐻𝑃:
+cos ∡𝑆𝐻𝑃 = |𝐴𝐻|
+|𝐵𝐻| = 6√2
+6√3
+= √6
+3
+Ponieważ cos ∡𝑆𝐻𝑃 = |𝐻𝑃|
+|𝐻𝑆| = |𝐻𝑃|
+3√2 , więc |𝐻𝑃|
+3√2 =
+√6
+3
+i stąd |𝐻𝑃| = 2√3.
+Z twierdzenia Pitagorasa w trójkącie 𝐻𝑃𝑆 mamy (3√2)
+2
+= |𝑆𝑃|2 + (2√3)
+2
+,
+więc |𝑆𝑃| = √6.
+Sposób IV
+Obliczamy |𝐴𝐻| = 6√2, |𝐵𝐻| = 6√3.
+Zauważamy, że trójkąt 𝐻𝐴𝐵 jest prostokątny. Pole trójkąta 𝐻𝐴𝐵 jest równe
+𝑃𝛥𝐻𝐴𝐵 = 6√2 ⋅ 6
+2 = 18√2
+Niech punkt 𝐾 będzie rzutem wierzchołka 𝐴 na bok 𝐵𝐻 trójkąta 𝐻𝐴𝐵, zatem
+|𝐴𝐾| ⋅ |𝐻𝐵|
+2 = 18√2
+|𝐴𝐾| = 36√2
+|𝐻𝐵| = 36√2
+6√3
+= 2√6
+Ponieważ trójkąty 𝐻𝑆𝑃 i 𝐻𝐴𝐾 są podobne, więc
+|𝐻𝑆|
+|𝑆𝑃| =
+|𝐻𝐴|
+|𝐴𝐾|
+Stąd
+|𝑆𝑃| = 3√2 ⋅ 2√6
+6√2
+= √6
+Uwaga:
+Zadanie można również rozwiązać, rozważając ostrosłupy 𝐷𝐸𝐺𝐻 oraz 𝐷𝐸𝐺𝐵.
+Prowadzimy odcinki 𝐸𝐺 i 𝐷𝐺. Trójkąt 𝐸𝐷𝐺 jest równoboczny, gdyż wszystkie jego boki są
+przekątnymi przystających kwadratów, a ponieważ odcinki 𝐷𝐻, 𝐸𝐻 i 𝐺𝐻 mają równe
+6
+𝐻
+𝑃
+𝑆
+𝐵
+𝐴
+𝐻
+𝑃
+𝐾
+𝑆
+6
+𝐵
+𝐴
+Zasady oceniania rozwiązań zadań
+długości, odcinki 𝐷𝐵, 𝐸𝐵 i 𝐺𝐵 też mają równe długości, więc ostrosłupy 𝐷𝐸𝐺𝐻 i 𝐷𝐸𝐺𝐵
+o wspólnej podstawie 𝐷𝐸𝐺 są prawidłowe.
+Wynika stąd, że prosta 𝐵𝐻 zawiera wysokości tych ostrosłupów, a to oznacza, że punkt 𝑃
+jest środkiem ciężkości trójkąta 𝐷𝐸𝐺 o boku długości |𝐷𝐸| = 6√2. Zatem
+|𝑆𝑃| = 1
+3 ⋅ 6√2 ⋅ √3
+2 = √6
+𝐶
+𝐺
+𝐻
+𝐹
+𝐸
+𝐴
+𝐵
+𝐷
+𝑆
+6
+𝑃

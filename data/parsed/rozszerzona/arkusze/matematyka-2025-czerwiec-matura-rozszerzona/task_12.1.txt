@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=25; level=rozszerzony; year=2025; month=czerwiec; task_id=12.1]
+Zadanie 12.
+Rozważamy wszystkie graniastosłupy prawidłowe trójkątne o polu powierzchni całkowitej
+równym 24√3.
+Zadanie 12.1. (0–2)
+Wykaż, że objętość 𝑽 graniastosłupa w zależności od długości 𝒂 krawędzi podstawy
+jest określona wzorem
+𝑽(𝒂) = 𝟔𝒂 − 𝟏
+𝟖 𝒂𝟑

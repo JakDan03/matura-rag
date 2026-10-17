@@ -1,0 +1,44 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=90; level=podstawowy; year=2024; section=ALBO]
+90 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zasady oceniania
+3 pkt – poprawna metoda i obliczenie długości odcinka 𝐶𝐸: |𝐶𝐸| = 4√5
+5
+.
+2 pkt – obliczenie długości odcinka 𝐵𝐷: |𝐵𝐷| = 2√5
+ALBO
+– zapisanie równania z jedną niewiadomą, wyrażającą długość odcinka 𝐶𝐸,
+wynikającego z twierdzenia Pitagorasa dla trójkąta 𝐷𝐸𝐶 lub 𝐵𝐶𝐸,
+ALBO
+– obliczenie sinusa kąta 𝐶𝐵𝐷: sin|∡𝐶𝐵𝐷| = 2
+√5 oraz zapisanie, że
+sin|∡𝐶𝐵𝐷| = |𝐶𝐸|
+|𝐵𝐶|
+.
+1 pkt – obliczenie długości boku 𝐴𝐵: |𝐴𝐵| = 4
+ALBO
+– stwierdzenie, że |∡𝐶𝐵𝐷| = 𝛼 oraz zapisanie, że |𝐶𝐸|
+|𝐵𝐸| = 2,
+ALBO
+– obliczenie sinusa kąta 𝐶𝐵𝐷: sin|∡𝐶𝐵𝐷| = 2
+√5
+.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób 1.
+Ponieważ tg 𝛼 = 2, to |𝐴𝐵| = 4. Zatem |𝐷𝐶| = 4.
+Trójkąt 𝐵𝐶𝐷 jest prostokątny. Odcinek 𝐶𝐸 jest wysokością trójkąta 𝐵𝐶𝐷 poprowadzoną
+na przeciwprostokątną 𝐵𝐷.
+Z twierdzenia Pitagorasa obliczamy długość odcinka 𝐵𝐷
+|𝐵𝐷|2 = 22 + 42
+|𝐵𝐷|2 = 20
+|𝐵𝐷| = √20 = 2√5
+Pole trójkąta 𝐵𝐶𝐷 jest równe
+𝑃𝐵𝐶𝐷 = 1
+2 ⋅ 2√5 ⋅ |𝐶𝐸|
+Ponadto pole trójkąta 𝐵𝐶𝐷 można obliczyć jako połowę iloczynu długości
+przyprostokątnych
+𝑃𝐵𝐶𝐷 = 1
+2 ⋅ 2 ⋅ 4 = 4
+Zatem
+1
+2 ⋅ 2√5 ⋅ |𝐶𝐸| = 4

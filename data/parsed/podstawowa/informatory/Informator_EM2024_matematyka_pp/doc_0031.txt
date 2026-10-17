@@ -1,0 +1,45 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=31; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+Przykładowe zadania z rozwiązaniami 31
+Zadanie 17. (0–1)
+Dana jest nierówność
+2𝑥 − 1
+2 − 𝑥 + 2
+3 ≥ 1
+6
+Na którym rysunku poprawnie zaznaczono na osi liczbowej zbiór wszystkich liczb
+rzeczywistych spełniających powyższą nierówność? Zaznacz właściwą odpowiedź
+spośród podanych.
+A.
+B.
+C.
+D.
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymagania szczegółowe
+I. Liczby rzeczywiste. Zdający:
+6) posługuje się pojęciem przedziału liczbowego, zaznacza przedziały na osi liczbowej.
+III. Równania i nierówności. Zdający:
+3) rozwiązuje nierówności liniowe z jedną niewiadomą.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+B
+𝑥
+0
+2
+1
+𝑥
+0
+2
+1
+𝑥
+0
+2
+1
+𝑥
+0
+2
+1

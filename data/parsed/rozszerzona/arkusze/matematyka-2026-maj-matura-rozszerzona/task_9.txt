@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=18; level=rozszerzony; year=2026; month=maj; task_id=9]
+Zadanie 9. (0–5)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) punkty 𝐴 = (1, −1) oraz 𝐵 = (4, 0) są
+wierzchołkami trójkąta 𝐴𝐵𝐶, w którym |𝐶𝐴| = |𝐶𝐵|. Jedno z ramion trójkąta 𝐴𝐵𝐶 zawiera
+się w prostej o równaniu 𝑥 + 2𝑦 − 4 = 0. Na boku 𝐴𝐶 tego trójkąta obrano taki punkt 𝑀,
+że |𝐴𝑀| ∶ |𝑀𝐶| = 1 ∶ 4.
+Wyznacz równanie okręgu, który ma środek w punkcie 𝑴 i przechodzi przez punkt 𝑪.
+Zapisz obliczenia.
+9.
+0–1–
+2–3–
+4–5

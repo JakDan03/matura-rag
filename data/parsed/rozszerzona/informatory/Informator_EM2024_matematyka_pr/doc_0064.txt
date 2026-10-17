@@ -1,0 +1,25 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=64; level=rozszerzony; year=2024; section=1. Interpretowanie i operowanie informacjami przedstawionymi w tekście […].]
+64 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Wymagania ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście […].
+III. Wykorzystanie i interpretowanie reprezentacji.
+2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów
+praktycznych i teoretycznych.
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Wymagania szczegółowe
+XIII. Optymalizacja i rachunek różniczkowy. Zdający:
+4R) oblicza pochodną funkcji potęgowej o wykładniku rzeczywistym oraz oblicza
+pochodną, korzystając z twierdzeń o pochodnej sumy, różnicy, iloczynu, ilorazu
+i funkcji złożonej;
+5R) stosuje pochodną do badania monotoniczności funkcji;
+6R) rozwiązuje zadania optymalizacyjne z zastosowaniem pochodnej.
+Zasady oceniania
+4 pkt – poprawna metoda wyznaczenia wielkości produkcji gwarantującej maksymalny
+dochód i poprawny wynik zaokrąglony z podaną dokładnością.
+3 pkt – znalezienie ekstremów lokalnych funkcji dochodu 𝑍(𝑄).
+2 pkt – zapisanie dochodu w zależności od 𝑄.
+1 pkt – zapisanie przychodu w zależności od 𝑄.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.

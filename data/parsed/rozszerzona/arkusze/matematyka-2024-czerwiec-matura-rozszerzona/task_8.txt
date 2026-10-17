@@ -1,0 +1,5 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=14; level=rozszerzony; year=2024; month=czerwiec; task_id=8]
+Zadanie 8. (0–4)
+W okrąg o promieniu 4 wpisano trójkąt 𝐴𝐵𝐶. Długość boku 𝐴𝐵 jest równa 6. Bok 𝐵𝐶
+ma długość 4√3 i jest najdłuższym bokiem tego trójkąta.
+Oblicz długość boku 𝑨𝑪 trójkąta 𝑨𝑩𝑪. Zapisz obliczenia.

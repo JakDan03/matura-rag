@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=28, 30; level=rozszerzony; year=2026; month=czerwiec; task_id=13.2]
+Zadanie 13.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) rozważamy wszystkie trójkąty prostokątne
+𝐴𝐵𝐶, w których 𝐶 = (0, 0), wierzchołek 𝐵 leży na dodatniej półosi 𝑂𝑦, wierzchołek 𝐴
+leży na dodatniej półosi 𝑂𝑥, natomiast bok 𝐴𝐵 jest zawarty w prostej przechodzącej przez
+punkt 𝐾 = (1, 2).
+Zadanie 13.2. (0–4)
+Pole 𝑃 trójkąta 𝐴𝐵𝐶 w zależności od współczynnika kierunkowego 𝑎 prostej 𝐴𝐵 jest
+określone wzorem
+𝑃(𝑎) = −𝑎2 + 4𝑎 − 4
+2𝑎
+dla 𝑎 < 0.
+Wyznacz równanie prostej zawierającej przeciwprostokątną 𝑨𝑩 tego z rozważanych
+trójkątów, który ma najmniejsze pole. Zapisz obliczenia.
+13.2
+0–1–
+2–3–4

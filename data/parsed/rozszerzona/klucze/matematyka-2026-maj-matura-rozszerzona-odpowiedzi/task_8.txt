@@ -1,0 +1,312 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=28, 29, 30, 31, 32, 33, 34; level=rozszerzony; year=2026; month=maj; task_id=8]
+Zadanie 8. (0–4)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+X.R2) wyznacza przekroje […] ostrosłupów
+prawidłowych oraz oblicza ich pola, także
+z wykorzystaniem trygonometrii.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑎 = 3√6 oraz cos 𝛽 = 5
+14 .
+3 pkt – obliczenie wysokości 𝑥 ściany bocznej opuszczonej na krawędź boczną ostrosłupa:
+𝑥 = √42
+ALBO
+– obliczenie sin (𝛽
+2): sin (𝛽
+2) = 3
+2√7 ,
+ALBO
+– obliczenie długości krawędzi podstawy: 𝑎 = 3√6 oraz zapisanie zależności między
+funkcjami trygonometrycznymi kątów 𝛼 i 𝛽, np.
+1 = 2 cos2 (𝛼
+2) ⋅ (1 − cos 𝛽), 1 = sin2 𝛼 ⋅ 1 − cos 𝛽
+1 − cos 𝛼 ,
+ALBO
+– obliczenie cosinusa kąta 𝛽: cos 𝛽 = 5
+14 .
+2 pkt – obliczenie długości krawędzi podstawy ostrosłupa oraz cos (𝛼
+2): 𝑎 = 3√6 oraz
+cos (𝛼
+2) =
+√7
+3
+ALBO
+– zapisanie związków 𝑥
+𝑎 =
+√7
+3 oraz sin (𝛽
+2) = |𝐸𝐵|
+𝑥 ,
+ALBO
+– obliczenie długości (lub kwadratu długości) 𝑏 krawędzi bocznej ostrosłupa: 𝑏 = 9√3
+2
+(lub 𝑏2 = 243
+4 ),
+ALBO
+– zapisanie zależności między długością krawędzi bocznej ostrosłupa i wysokością
+ściany bocznej opuszczoną na krawędź boczną ostrosłupa, np.: 𝑥
+𝑏 = 2√14
+9 ,
+1
+2 ⋅ 𝑏2 ⋅ 2√14
+9 = 1
+2 𝑏 ⋅ 𝑥, (5
+9 𝑏)
+2
++ 𝑥2 = 𝑏2,
+ALBO
+– zapisanie zależności między funkcjami trygonometrycznymi kątów 𝛼 i 𝛽, np.
+1 = 2 cos2 (𝛼
+2) ⋅ (1 − cos 𝛽), 1 = sin2 𝛼 ⋅ 1 − cos 𝛽
+1 − cos 𝛼 .
+1 pkt – obliczenie długości 𝑎 krawędzi podstawy ostrosłupa: 𝑎 = 3√6
+ALBO
+Zasady oceniania rozwiązań zadań
+– obliczenie cos (𝛼
+2) : cos (𝛼
+2) =
+√7
+3 ,
+ALBO
+– obliczenie sin 𝛼: sin 𝛼 = 2√14
+9 ,
+ALBO
+– zastosowanie twierdzenia cosinusów do trójkąta 𝐴𝐵𝐷 i zapisanie równania
+𝑎2 = 𝑥2 + 𝑥2 − 2𝑥2 cos 𝛽
+ALBO
+– zastosowanie twierdzenia cosinusów do trójkąta 𝐵𝐶𝑆 i zapisanie równania
+𝑎2 = 𝑏2 + 𝑏2 − 2𝑏2 cos 𝛼
+ALBO
+– zapisanie zależności między 𝑎, 𝑥 oraz 𝛼, np. sin (90° − 𝛼
+2) = 𝑥
+𝑎 , cos 𝛼
+2 = 𝑥
+𝑎 ,
+ALBO
+– zapisanie zależności między 𝑏, 𝑥 oraz 𝛼, np. sin 𝛼 = 𝑥
+𝑏 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający poprawnie zinterpretuje kąt między krawędziami bocznymi ostrosłupa
+i zastosuje twierdzenie cosinusów do ściany bocznej – pomimo błędnie obliczonej
+długości krawędzi podstawy lub długości krawędzi bocznej – to traktujemy to jak
+spełnienie kryterium z myślnika piątego z kategorii za 1 punkt.
+2. Jeżeli zdający poprawnie zinterpretuje kąt między ścianami bocznymi ostrosłupa
+i zastosuje twierdzenie cosinusów do trójkąta z tym kątem – pomimo błędnie obliczonej
+długości krawędzi podstawy lub wysokości ściany bocznej poprowadzonej z wierzchołka
+podstawy ostrosłupa – to traktujemy to jak spełnienie kryterium z myślnika czwartego
+z kategorii za 1 punkt.
+3. Jeżeli zdający błędnie interpretuje kąt między krawędziami bocznymi ostrosłupa, to może
+otrzymać co najwyżej 1 punkt za całe rozwiązanie.
+4. Jeżeli zdający rozpatruje inną bryłę niż ostrosłup prawidłowy trójkątny, to otrzymuje
+0 punktów za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Przyjmijmy następujące oznaczenia:
+𝐴, 𝐵, 𝐶 – wierzchołki podstawy ostrosłupa,
+𝑆 – wierzchołek ostrosłupa,
+𝐷 – punkt wspólny wysokości ściany bocznej 𝐵𝐶𝑆 poprowadzonej z wierzchołka 𝐵
+i wysokości ściany bocznej 𝐴𝐶𝑆 poprowadzonej z wierzchołka 𝐴,
+𝐸, 𝐹 – środki krawędzi – odpowiednio – 𝐴𝐵 i 𝐵𝐶,
+𝛼 – miara kąta 𝐵𝑆𝐶,
+𝛽 – miara kąta dwuściennego zawartego między ścianami bocznymi 𝐵𝐶𝑆 i 𝐴𝐶𝑆 ostrosłupa
+𝐴𝐵𝐶𝑆,
+𝑎 – długość krawędzi podstawy 𝐴𝐵𝐶,
+𝑏 – długość krawędzi bocznej,
+𝑥 – wysokość ściany bocznej poprowadzona z wierzchołka podstawy 𝐴𝐵𝐶 (zobacz
+rysunek).
+Sposób I (z pominięciem krawędzi bocznej)
+Obliczamy promień 𝑅 okręgu opisanego na podstawie 𝐴𝐵𝐶:
+2𝜋𝑅 = 6√2𝜋
+𝑅 = 3√2
+Obliczamy długość krawędzi podstawy:
+𝑎√3
+3 = 3√2
+𝑎 = 3√6
+Stosujemy wzór na cosinus podwojonego kąta i obliczamy cos (𝛼
+2):
+cos 𝛼 = 2 cos2 (𝛼
+2) − 1
+5
+9 = 2 cos2 (𝛼
+2) − 1
+cos (𝛼
+2) = √7
+3 ∨ cos (𝛼
+2) = − √7
+3
+Ponieważ 𝛼 < 180°, więc cos (𝛼
+2) =
+√7
+3 .
+Ponieważ |∡𝐹𝐶𝑆| = 90° − 𝛼
+2 , więc |∡𝐶𝐵𝐷| = 𝛼
+2 . Zatem:
+𝑥
+𝑎 = cos (𝛼
+2)
+𝑆
+S
+𝛽
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸
+𝐹
+𝑥
+𝑏
+𝑎
+𝛼
+Zasady oceniania rozwiązań zadań
+𝑥 = 3√6 ⋅ √7
+3
+𝑥 = √42
+Stosujemy twierdzenie cosinusów do trójkąta 𝐴𝐵𝐷 i obliczamy cos 𝛽:
+𝑎2 = 𝑥2 + 𝑥2 − 2 ⋅ 𝑥 ⋅ 𝑥 ⋅ cos 𝛽
+(3√6)
+2
+= 2 ⋅ 42 − 2 ⋅ 42 cos 𝛽
+cos 𝛽 = 5
+14
+Sposób II (poprzez krawędź boczną)
+Obliczamy promień 𝑅 okręgu opisanego na podstawie 𝐴𝐵𝐶:
+2𝜋𝑅 = 6√2𝜋
+𝑅 = 3√2
+Obliczamy długość krawędzi podstawy:
+𝑎√3
+3 = 3√2
+𝑎 = 3√6
+Stosujemy twierdzenie cosinusów do trójkąta 𝐵𝐶𝑆 i obliczamy długość krawędzi bocznej:
+(3√6)
+2
+= 𝑏2 + 𝑏2 − 2𝑏 ⋅ 𝑏 ⋅ cos 𝛼
+54 = 2𝑏2 − 2𝑏2 ⋅ 5
+9
+𝑏 = 9√3
+2
+Korzystamy z twierdzenia Pitagorasa dla trójkąta 𝐵𝐹𝑆 i obliczamy wysokość 𝑆𝐹 ściany
+bocznej 𝐵𝐶𝑆:
+|𝑆𝐹| = √𝑏2 − (𝑎
+2)
+2
+|𝑆𝐹| = √(9√3
+2 )
+2
+− (3√6
+2 )
+2
+= 3√21
+2
+Korzystamy z podobieństwa trójkątów 𝐶𝐷𝐵 oraz 𝐵𝐹𝑆 i obliczamy długość 𝐵𝐷:
+𝑥
+𝑎 =
+|𝑆𝐹|
+𝑏
+𝑥 = 𝑎 ⋅
+|𝑆𝐹|
+𝑏
+𝑥 = 3√6 ⋅
+3√21
+2
+9√3
+2
+= √42
+Stosujemy twierdzenie cosinusów do trójkąta 𝐴𝐵𝐷 i obliczamy cos 𝛽:
+𝑎2 = 𝑥2 + 𝑥2 − 2 ⋅ 𝑥 ⋅ 𝑥 ⋅ cos 𝛽
+(3√6)
+2
+= 2 ⋅ 42 − 2 ⋅ 42 cos 𝛽
+cos 𝛽 = 5
+14
+Sposób III (poprzez sin (𝛽
+2))
+Obliczamy promień 𝑅 okręgu opisanego na podstawie 𝐴𝐵𝐶:
+2𝜋𝑅 = 6√2𝜋
+𝑅 = 3√2
+Obliczamy długość krawędzi podstawy:
+𝑎√3
+3 = 3√2
+𝑎 = 3√6
+Stosujemy wzór na cosinus podwojonego kąta i obliczamy cos (𝛼
+2):
+cos 𝛼 = 2 cos2 (𝛼
+2) − 1
+5
+9 = 2 cos2 (𝛼
+2) − 1
+cos (𝛼
+2) = √7
+3 ∨ cos (𝛼
+2) = − √7
+3
+Ponieważ 𝛼 < 180°, więc cos (𝛼
+2) =
+√7
+3 .
+Ponieważ |∡𝐹𝐶𝑆| = 90° − 𝛼
+2 , więc |∡𝐶𝐵𝐷| = 𝛼
+2 i 𝑥
+𝑎 = cos (𝛼
+2). Stąd i ze związku
+|𝐸𝐵|
+𝑥 = sin (𝛽
+2) otrzymujemy:
+Zasady oceniania rozwiązań zadań
+|𝐸𝐵|
+𝑎 = cos (𝛼
+2) ⋅ sin (𝛽
+2)
+1
+2 = √7
+3 ⋅ sin (𝛽
+2)
+sin (𝛽
+2) = 3
+2√7
+Obliczamy cos 𝛽:
+cos 𝛽 = 1 − 2 sin2 (𝛽
+2)
+cos 𝛽 = 1 − 2 ⋅ ( 3
+2√7
+)
+2
+cos 𝛽 = 5
+14
+Sposób IV
+Stosujemy twierdzenie cosinusów do trójkąta 𝐵𝐷𝐴 i otrzymujemy:
+𝑎2 = 𝑥2 + 𝑥2 − 2𝑥 ⋅ 𝑥 ⋅ cos 𝛽
+𝑎2 = 2𝑥2(1 − cos 𝛽)
+Z trójkąta prostokątnego 𝐵𝐷𝑆 otrzymujemy 𝑥
+𝑏 = sin 𝛼, więc 𝑥 = 𝑏 ⋅ sin 𝛼 i dlatego
+𝑎2 = 2𝑏2 ⋅ sin2 𝛼 ⋅ (1 − cos 𝛽)
+Stosujemy twierdzenie cosinusów do trójkąta 𝐵𝐶𝑆 i otrzymujemy:
+𝑎2 = 𝑏2 + 𝑏2 − 2𝑏 ⋅ 𝑏 ⋅ cos 𝛼
+𝑎2 = 2𝑏2(1 − cos 𝛼)
+Stąd i z zależności 𝑎2 = 2𝑏2 ⋅ sin2 𝛼 ⋅ (1 − cos 𝛽) otrzymujemy:
+2𝑏2 ⋅ sin2 𝛼 ⋅ (1 − cos 𝛽) = 2𝑏2(1 − cos 𝛼)
+1 − cos 𝛽 = 1 − cos 𝛼
+sin2 𝛼
+1 − cos 𝛽 = 1 − cos 𝛼
+1 − cos2 𝛼
+1 − cos 𝛽 = 1
+1 + cos 𝛼
+cos 𝛽 = cos 𝛼
+1 + cos 𝛼
+cos 𝛽 =
+5
+9
+1 + 5
+9
+= 5
+14
+Obliczamy promień 𝑅 okręgu opisanego na podstawie 𝐴𝐵𝐶:
+2𝜋𝑅 = 6√2𝜋
+𝑅 = 3√2
+Obliczamy długość krawędzi podstawy:
+𝑎√3
+3 = 3√2
+𝑎 = 3√6

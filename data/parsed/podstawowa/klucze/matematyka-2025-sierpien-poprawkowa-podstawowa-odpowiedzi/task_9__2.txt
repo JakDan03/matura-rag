@@ -1,0 +1,21 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=29, 30; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=9]
+Zadanie 9.
+1 pkt – zastosowanie poprawnej metody obliczenia pierwiastków trójmianu kwadratowego
+−3𝑥2 − 6𝑥 + 9, tzn. zastosowanie wzorów na pierwiastki trójmianu kwadratowego
+i obliczenie tych pierwiastków
+ALBO
+– konsekwentne (do otrzymanego w wyniku popełnienia błędów o charakterze
+dyskalkulicznym ujemnego wyróżnika) narysowanie paraboli,
+ALBO
+– poprawne rozwiązanie nierówności −3𝑥2 − 6𝑥 > 0 (tzn. stosuje się punkt 6.
+ogólnych zasad oceniania),
+ALBO
+– konsekwentne (do wyznaczonych przez siebie pierwiastków oraz rozpatrywanego
+trójmianu i nierówności) wyznaczenie zbioru rozwiązań nierówności.
+Uwagi:
+1. Jeżeli zdający, rozwiązując nierówność, pomyli porządek liczb na osi liczbowej i zapisze
+zbiór rozwiązań nierówności w postaci (1, −3), to może otrzymać 2 punkty za całe
+rozwiązanie.
+2. Nie stosuje się uwag 2. i 3. z zasad oceniania arkusza standardowego.
+3. Akceptowane jest zapisanie pierwiastków trójmianu w postaci 𝑎 + 𝑏√𝑐, gdzie 𝑎, 𝑏, 𝑐 są
+liczbami wymiernymi.

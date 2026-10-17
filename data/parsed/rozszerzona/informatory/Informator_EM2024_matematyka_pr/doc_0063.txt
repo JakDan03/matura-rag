@@ -1,0 +1,16 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=63; level=rozszerzony; year=2024; section=𝐾(𝑄) = 0,002𝑄3 + 𝑄2 + 29,9985𝑄 + 50]
+Przykładowe zadania z rozwiązaniami 63
+Zadanie 20. (0–4)
+Firma X wytwarza pewien produkt D. Badania
+rynku pokazały, że związek między ilością 𝑄
+produktu D, jaką firma jest w stanie zbyć na
+rynku, a ceną 𝑃 produktu jest następujący:
+𝑃(𝑄) = 90 − 0,1𝑄 dla 𝑄 ∈ [0, 900]
+gdzie 𝑃 jest ceną za jednostkę produktu
+w złotych, a 𝑄 – ilością produktu w tys. sztuk.
+Koszty 𝐾 wytworzenia produktu D zależą od ilości 𝑄 wytwarzanego produktu
+następująco:
+𝐾(𝑄) = 0,002𝑄3 + 𝑄2 + 29,9985𝑄 + 50
+gdzie 𝐾 jest kosztem produkcji w tys. zł.
+Oblicz, przy jakiej wielkości produkcji firma X osiąga największy dochód. Wynik
+podaj zaokrąglony z dokładnością do 100 sztuk. Zapisz obliczenia.

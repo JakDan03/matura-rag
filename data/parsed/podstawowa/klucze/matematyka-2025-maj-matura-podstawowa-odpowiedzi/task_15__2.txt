@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=39, 40; level=podstawowy; year=2025; month=maj; task_id=15]
+Zadanie 15.
+2 pkt – zapisanie równania z jedną niewiadomą 𝑚, np.:
+2𝑚 + 11 + 5 − 𝑚
+2 = 𝑚2 + 3,
+(𝑚2 + 3) − (2𝑚 + 11) = (5 − 𝑚) − (𝑚2 + 3),
+oraz zapisanie co najmniej jednej z trzech nierówności:
+• 2𝑚 + 11 > 𝑚2 + 3
+• 𝑚2 + 3 > 5 − 𝑚
+• 2𝑚 + 11 > 5 − 𝑚
+1 pkt – zapisanie co najmniej jednej z trzech nierówności:
+• 2𝑚 + 11 > 𝑚2 + 3
+• 𝑚2 + 3 > 5 − 𝑚
+• 2𝑚 + 11 > 5 − 𝑚
+ALBO
+– zapisanie równania z dwiema niewiadomymi: 𝑚 oraz 𝑟 (gdzie 𝑟 jest różnicą ciągu
+arytmetycznego), np. 2𝑚 + 11 + 𝑟 = 𝑚2 + 3.

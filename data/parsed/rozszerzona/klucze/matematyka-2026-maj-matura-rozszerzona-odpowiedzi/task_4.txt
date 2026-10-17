@@ -1,0 +1,379 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=8, 9, 10, 11, 12, 13, 14, 15; level=rozszerzony; year=2026; month=maj; task_id=4]
+Zadanie 4. (0–3)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+VIII.8) korzysta z cech podobieństwa
+trójkątów;
+VIII.11) przeprowadza dowody
+geometryczne.
+Zasady oceniania
+3 pkt – poprawne przekształcenia i przeprowadzenie pełnego rozumowania.
+2 pkt – uzasadnienie, że odcinki 𝐴𝐿 i 𝐷𝐾 są prostopadłe (lub 𝐴𝐿 i 𝐾𝑀 są równoległe)
+i przedstawienie kompletnego rozumowania prowadzącego do wyznaczenia
+poprawnego równania z niewiadomą |𝑃𝑄| oraz zapisanie tego równania
+ALBO
+– przyjęcie bez uzasadnienia, że odcinki 𝐴𝐿 i 𝐷𝐾 są prostopadłe (lub 𝐴𝐿 i 𝐾𝑀 są
+równoległe) oraz przeprowadzenie pełnego rozumowania przy tym założeniu
+i otrzymanie tezy |𝑃𝑄| =
+√5
+5 𝑎,
+ALBO
+– obliczenie współrzędnych punktu 𝑄: 𝑄 = (4
+5 𝑎, 2
+5 𝑎).
+1 pkt – uzasadnienie, że odcinki 𝐴𝐿 i 𝐷𝐾 są prostopadłe (lub 𝐴𝐿 i 𝐾𝑀 są równoległe)
+ALBO
+Zasady oceniania rozwiązań zadań
+– obliczenie długości boku 𝐾𝑀 trójkąta 𝐷𝐾𝑀 i długości jednego z pozostałych
+dwóch boków tego trójkąta: |𝐾𝑀| =
+√5
+4 𝑎, |𝐷𝐾| =
+√5
+2 𝑎, |𝐷𝑀| = 5
+4 𝑎,
+ALBO
+– obliczenie długości jednego z odcinków 𝐴𝑃, 𝐷𝑃 lub 𝑃𝐾: |𝐴𝑃| = 1
+√5 𝑎,
+|𝐷𝑃| = 2
+√5 𝑎, |𝑃𝐾| = 1
+2√5 𝑎,
+ALBO
+– obliczenie współrzędnych punktu 𝑃: 𝑃 = (2
+5 𝑎, 1
+5 𝑎),
+ALBO
+– uzasadnienie, że trójkąty 𝐸𝐾𝐷 i 𝑀𝐾𝐷 są przystające.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający przyjmie błędne założenie (np. że miara kąta 𝐴𝐾𝐷 jest równa 60°) i na
+tym opiera swoje rozumowanie, to otrzymuje 0 punktów.
+2. Jeżeli zdający uzasadni, że odcinki 𝐴𝐿 i 𝐷𝐾 są prostopadłe (lub 𝐴𝐿 i 𝐾𝑀 są
+równoległe), a w dalszej części rozwiązania popełni tylko jeden błąd rachunkowy, ale
+zrealizuje w pełni strategię rozwiązania zadania, otrzymując równanie z jedną niewiadomą
+|𝑃𝑄|, to otrzymuje 2 punkty za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Oznaczmy miarę kąta 𝐴𝐷𝐾 przez 𝛼. Wtedy |∡𝐷𝐾𝐴| = 90° − 𝛼.
+Ponieważ |𝐷𝐴| = |𝐴𝐵| = 𝑎, |𝐴𝐾| = |𝐵𝐿| = 𝑎
+2 i kąty 𝐷𝐴𝐾 oraz 𝐴𝐵𝐿 są proste, więc
+trójkąty 𝐷𝐴𝐾 i 𝐴𝐵𝐿 są przystające (cecha bkb). Zatem |∡𝐵𝐴𝐿| = |∡𝐴𝐷𝐾| = 𝛼 oraz
+|∡𝐴𝐿𝐵| = |∡𝐷𝐾𝐴| = 90° − 𝛼.
+Stąd wynika, że miary kątów ostrych trójkąta 𝐴𝑃𝐾 są równe miarom odpowiednich kątów
+ostrych trójkątów 𝐷𝐴𝐾 i 𝐴𝐵𝐿. To oznacza, że trójkąt 𝐴𝑃𝐾 jest prostokątny i podobny do
+trójkątów 𝐷𝐴𝐾 oraz 𝐷𝑃𝐴, więc
+𝐴
+𝐵
+𝐶
+𝐷
+𝐾
+𝑀
+𝐿
+𝑃
+𝑄
+𝑎
+𝛼
+1
+2 𝑎
+1
+2 𝑎
+1
+2 𝑎
+𝛼
+|𝐴𝐷|
+|𝐴𝐾| =
+|𝐴𝑃|
+|𝑃𝐾| =
+|𝐷𝑃|
+|𝐴𝑃| = 2
+Stąd |𝐷𝑃| = 2 ⋅ |𝐴𝑃| = 2 ⋅ (2 ⋅ |𝑃𝐾|) = 4 ⋅ |𝑃𝐾|.
+Kąt 𝐷𝐾𝑀 jest prosty i |∡𝐾𝐷𝑀| = |∡𝑃𝐷𝑄|, więc trójkąty prostokątne 𝐷𝐾𝑀 oraz 𝐷𝑃𝑄 są
+podobne, a skala podobieństwa jest równa
+|𝐷𝐾|
+|𝐷𝑃| = |𝐷𝑃| + |𝑃𝐾|
+|𝐷𝑃| = 5 ⋅ |𝑃𝐾|
+4 ⋅ |𝑃𝐾| = 5
+4
+Zatem |𝑃𝑄| = 4
+5 ⋅ |𝐾𝑀|, a ponieważ trójkąt 𝐾𝐵𝑀 jest podobny do trójkąta 𝐴𝐵𝐿 w skali
+1 ∶ 2, więc
+|𝐾𝑀| = 1
+2 ⋅ |𝐴𝐿| = 1
+2 ⋅ |𝐷𝐾| = 1
+2 ⋅ √𝑎2 + (𝑎
+2)
+2
+= √5
+4 𝑎
+i tym samym
+|𝑃𝑄| = 4
+5 ⋅ |𝐾𝑀| = 4
+5 ⋅ √5
+4 𝑎 = √5
+5 𝑎
+To należało wykazać.
+Sposób II
+Niech 𝑥 = |𝐴𝑃| oraz 𝛼 = |∡𝐴𝐷𝐾|. Wtedy |∡𝐷𝐾𝐴| = 90° − 𝛼.
+Ponieważ |𝐷𝐴| = |𝐴𝐵| = 𝑎, |𝐴𝐾| = |𝐵𝐿| = 𝑎
+2 i kąty 𝐷𝐴𝐾 oraz 𝐴𝐵𝐿 są proste, więc
+trójkąty 𝐷𝐴𝐾 i 𝐴𝐵𝐿 są przystające (cecha bkb). Zatem |∡𝐵𝐴𝐿| = |∡𝐴𝐷𝐾| = 𝛼 oraz
+|∡𝐴𝐿𝐵| = |∡𝐷𝐾𝐴| = 90° − 𝛼.
+Kąty 𝐷𝐴𝑃 oraz 𝐴𝐿𝐵 są naprzemianległe i 𝐴𝐷 ∥ 𝐵𝐶, więc |∡𝐷𝐴𝑃| = |∡𝐴𝐿𝐵| = 90° − 𝛼.
+𝐴
+𝐵
+𝐶
+𝐷
+𝐾
+𝑀
+𝐿
+𝑃
+𝑄
+𝑎
+𝛼
+1
+2 𝑎
+1
+2 𝑎
+1
+2 𝑎
+𝛼
+𝑥
+Zasady oceniania rozwiązań zadań
+Zatem trójkąt 𝐷𝑃𝐴 jest prostokątny i podobny do trójkąta 𝐷𝐴𝐾. Stąd |𝐷𝑃|
+|𝐴𝐷| = |𝐴𝑃|
+|𝐴𝐾| , czyli
+|𝐷𝑃| =
+|𝐴𝐷|
+|𝐴𝐾| ⋅ |𝐴𝑃| = 2 ⋅ |𝐴𝑃| = 2𝑥.
+Z twierdzenia Pitagorasa zastosowanego do trójkąta 𝐷𝐴𝑃 otrzymujemy:
+|𝐴𝑃|2 + |𝐷𝑃|2 = |𝐴𝐷|2
+𝑥2 + (2𝑥)2 = 𝑎2
+𝑥 = 𝑎
+√5
+Ponieważ kąt 𝐷𝑃𝐴 jest prosty, więc 𝐴𝐿 ∥ 𝐾𝑀. Zatem trójkąty prostokątne 𝐷𝐾𝑀 i 𝐷𝑃𝑄
+oraz 𝐴𝐷𝐾 i 𝐵𝐾𝑀 są podobne. Skala podobieństwa trójkątów 𝐴𝐷𝐾 i 𝐵𝐾𝑀 jest równa
+|𝐴𝐷|
+|𝐵𝐾| = 2, więc |𝐷𝐾| = 2 ⋅ |𝐾𝑀|. Stąd z kolei wynika, że trójkąt 𝐷𝐾𝑀 jest podobny do
+trójkąta 𝐷𝐴𝐾, więc jest również podobny do trójkąta 𝐷𝑃𝐴. Zatem |∡𝐾𝐷𝑀| = |∡𝐴𝐷𝑃| = 𝛼.
+Wobec tego trójkąty prostokątne 𝐷𝑃𝐴 i 𝐷𝑃𝑄 są przystające (cecha kbk). Stąd
+|𝑃𝑄| = |𝐴𝑃| = 𝑎
+√5
+= √5
+5 𝑎
+To należało wykazać.
+Sposób III
+Niech 𝑥 = |𝐴𝑃| oraz 𝛼 = |∡𝐴𝐷𝐾|. Wtedy |∡𝐷𝐾𝐴| = 90° − 𝛼.
+Ponieważ |𝐷𝐴| = |𝐴𝐵| = 𝑎, |𝐴𝐾| = |𝐵𝐿| = 𝑎
+2 i kąty 𝐷𝐴𝐾 oraz 𝐴𝐵𝐿 są proste, więc
+trójkąty 𝐷𝐴𝐾 i 𝐴𝐵𝐿 są przystające (cecha bkb). Zatem |∡𝐵𝐴𝐿| = |∡𝐴𝐷𝐾| = 𝛼 oraz
+|∡𝐴𝐿𝐵| = |∡𝐷𝐾𝐴| = 90° − 𝛼.
+Kąty 𝐷𝐴𝑃 oraz 𝐴𝐿𝐵 są naprzemianległe i 𝐴𝐷 ∥ 𝐵𝐶, więc |∡𝐷𝐴𝑃| = |∡𝐴𝐿𝐵| = 90° − 𝛼.
+𝐴
+𝐵
+𝐶
+𝐷
+𝐾
+𝑀
+𝐿
+𝑃
+𝑄
+𝑎
+𝛼
+1
+2 𝑎
+1
+2 𝑎
+1
+2 𝑎
+𝛼
+𝑥
+Zatem trójkąt 𝐷𝑃𝐴 jest prostokątny i podobny do trójkąta 𝐷𝐴𝐾. Stąd |𝐷𝑃|
+|𝐴𝐷| = |𝐴𝑃|
+|𝐴𝐾| , czyli
+|𝐷𝑃| =
+|𝐴𝐷|
+|𝐴𝐾| ⋅ |𝐴𝑃| = 2 ⋅ |𝐴𝑃| = 2𝑥.
+Z twierdzenia Pitagorasa zastosowanego do trójkąta 𝐷𝐴𝑃 otrzymujemy:
+|𝐴𝑃|2 + |𝐷𝑃|2 = |𝐴𝐷|2
+𝑥2 + (2𝑥)2 = 𝑎2
+𝑥 = 𝑎
+√5
+Ponieważ kąt 𝐷𝑃𝐴 jest prosty, więc 𝐴𝐿 ∥ 𝐾𝑀. To oznacza, że |∡𝐵𝐾𝑀| = |∡𝐵𝐴𝐿|, więc
+trójkąty prostokątne 𝐴𝐷𝐾 i 𝐵𝐾𝑀 są podobne, a skala ich podobieństwa jest równa
+|𝐴𝐷|
+|𝐵𝐾| = 2. Stąd |𝑀𝐵| = 1
+2 ⋅ |𝐴𝐾| = 1
+4 𝑎 oraz |𝐿𝑀| = |𝐵𝐿| − |𝑀𝐵| = 1
+4 𝑎.
+Ponieważ 𝐴𝐷 ∥ 𝐵𝐶, więc kąty naprzemianległe 𝐴𝐷𝑄 i 𝑄𝑀𝐿 mają równe miary. Z tej
+samej przyczyny kąty naprzemianległe 𝑄𝐴𝐷 i 𝑄𝐿𝑀 mają równe miary. Zatem trójkąty
+𝐴𝑄𝐷 i 𝐿𝑄𝑀 są podobne, a skala ich podobieństwa jest równa |𝐴𝐷|
+|𝐿𝑀| = 𝑎
+1
+4𝑎 = 4. Stąd
+|𝐿𝑄| = 1
+4 ⋅ (|𝐴𝑃| + |𝑃𝑄|) = 1
+4 ⋅ (√5
+5 𝑎 + |𝑃𝑄|)
+Ale |𝐿𝑄| + |𝐴𝑃| + |𝑃𝑄| = |𝐴𝐿| =
+√5
+2 𝑎, więc
+1
+4 ⋅ (√5
+5 𝑎 + |𝑃𝑄|) + √5
+5 𝑎 + |𝑃𝑄| = √5
+2 𝑎
+√5
+4 𝑎 + 5
+4 ⋅ |𝑃𝑄| = √5
+2 𝑎
+|𝑃𝑄| = √5
+5 𝑎
+To należało wykazać.
+Sposób IV
+Oznaczmy przez 𝐸 punkt przecięcia prostych 𝐴𝐷 i 𝐾𝑀. Niech 𝑥 = |𝐴𝑃| oraz
+𝛼 = |∡𝐴𝐷𝐾|. Wtedy |∡𝐷𝐾𝐴| = 90° − 𝛼.
+Ponieważ |𝐴𝐾| = |𝐵𝐾| = 𝑎
+2 i kąty 𝐾𝐴𝐸 oraz 𝐾𝐵𝑀 są proste, a kąty 𝐴𝐾𝐸 i 𝐵𝐾𝑀 mają
+równe miary (gdyż są to kąty wierzchołkowe), więc trójkąty 𝐴𝐾𝐸 i 𝐵𝐾𝑀 są przystające
+(cecha kbk). Stąd mamy |𝐸𝐾| = |𝐾𝑀|, więc trójkąty prostokątne 𝐷𝐾𝐸 i 𝐷𝐾𝑀 są
+przystające (cecha bkb). Wobec tego |∡𝐾𝐷𝑀| = |∡𝐾𝐷𝐸| = 𝛼.
+Zasady oceniania rozwiązań zadań
+Ponieważ |𝐷𝐴| = |𝐴𝐵| = 𝑎, |𝐴𝐾| = |𝐵𝐿| = 𝑎
+2 i kąty 𝐷𝐴𝐾 oraz 𝐴𝐵𝐿 są proste, więc
+trójkąty 𝐷𝐴𝐾 i 𝐴𝐵𝐿 są przystające. Zatem |∡𝐵𝐴𝐿| = |∡𝐴𝐷𝐾| = 𝛼 oraz
+|∡𝐴𝐿𝐵| = |∡𝐷𝐾𝐴| = 90° − 𝛼.
+Kąty 𝐷𝐴𝑃 oraz 𝐴𝐿𝐵 są naprzemianległe i 𝐴𝐷 ∥ 𝐵𝐶, więc |∡𝐷𝐴𝑃| = |∡𝐴𝐿𝐵| = 90° − 𝛼,
+czyli kąt 𝐷𝑃𝐴 jest prosty. Stąd 𝐸𝑀 ∥ 𝐴𝐿, co oznacza, że trójkąty 𝐴𝑃𝐷 i 𝑄𝑃𝐷 są
+przystające (cecha kbk) i wobec tego |𝑃𝑄| = |𝐴𝑃| = 𝑥.
+Trójkąty 𝐷𝑃𝐴 i 𝐷𝐴𝐾 mają kąty o miarach 𝛼, 90° − 𝛼 i 90°, więc są podobne (cecha
+kkk). Dlatego |𝐷𝑃|
+|𝐴𝐷| = |𝐴𝑃|
+|𝐴𝐾| , czyli |𝐷𝑃| =
+|𝐴𝐷|
+|𝐴𝐾| ⋅ |𝐴𝑃| = 2 ⋅ |𝐴𝑃| = 2𝑥.
+Z twierdzenia Pitagorasa zastosowanego do trójkąta 𝐷𝐴𝑃 otrzymujemy:
+|𝐴𝑃|2 + |𝐷𝑃|2 = |𝐴𝐷|2
+𝑥2 + (2𝑥)2 = 𝑎2
+𝑥 = 𝑎
+√5
+|𝑃𝑄| = √5
+5 𝑎
+To należało wykazać.
+𝐴
+𝐵
+𝐶
+𝐷
+𝐾
+𝑀
+𝐿
+𝑃
+𝑄
+𝑎
+𝛼
+𝛼
+1
+2 𝑎
+1
+2 𝑎
+𝛼
+𝑥
+𝐸
+Sposób V (analitycznie)
+Umieszczamy kwadrat 𝐴𝐵𝐶𝐷 w kartezjańskim układzie współrzędnych (𝑥, 𝑦) tak, żeby
+𝐴 = (0, 0), 𝐵 = (𝑎, 0), 𝐶 = (𝑎, 𝑎), 𝐷 = (0, 𝑎) (zobacz rysunek).
+Wówczas 𝐾 = (1
+2 𝑎, 0) oraz 𝐿 = (𝑎, 1
+2 𝑎).
+Wyznaczamy równanie prostej 𝐷𝐾:
+𝑦 = 0 − 𝑎
+1
+2 𝑎 − 0
+⋅ (𝑥 − 0) + 𝑎
+𝑦 = −2𝑥 + 𝑎
+Wyznaczamy równanie prostej 𝐴𝐿:
+𝑦 =
+1
+2 𝑎 − 0
+𝑎 − 0 ⋅ 𝑥
+𝑦 = 1
+2 𝑥
+Wyznaczamy współrzędne punktu 𝑃:
+1
+2 𝑥 = −2𝑥 + 𝑎
+𝑥 = 2
+5 𝑎
+𝑦 = 1
+2 ⋅ 2
+5 𝑎 = 1
+5 𝑎
+Zatem 𝑃 = (2
+5 𝑎, 1
+5 𝑎).
+𝐴
+𝐵
+𝐶
+𝐷
+𝐾
+𝑀
+𝐿
+𝑃
+𝑄
+𝑎
+1
+2 𝑎
+1
+2 𝑎
+1
+2 𝑎
+𝑥
+𝑦
+𝑎
+Zasady oceniania rozwiązań zadań
+Prosta 𝐾𝑀 jest prostopadła do prostej 𝐷𝐾, więc współczynnik kierunkowy w równaniu
+prostej 𝐾𝑀 jest równy 1
+2 . Zatem prosta 𝐾𝑀 ma równanie 𝑦 = 1
+2 (𝑥 − 1
+2 𝑎). Stąd druga
+współrzędna punktu 𝑀 jest równa 1
+2 (𝑎 − 1
+2 𝑎) = 1
+4 𝑎, czyli 𝑀 = (𝑎, 1
+4 𝑎).
+Wyznaczamy równanie prostej 𝐷𝑀:
+𝑦 =
+1
+4 𝑎 − 𝑎
+𝑎 − 0 ⋅ (𝑥 − 0) + 𝑎
+𝑦 = − 3
+4 𝑥 + 𝑎
+Obliczamy współrzędne punktu 𝑄, korzystając z równań prostych 𝐴𝐿 i 𝐷𝑀:
+1
+2 𝑥 = − 3
+4 𝑥 + 𝑎
+𝑥 = 4
+5 𝑎
+𝑦 = 1
+2 ⋅ 4
+5 𝑎 = 2
+5 𝑎
+Zatem 𝑄 = (4
+5 𝑎, 2
+5 𝑎).
+Obliczamy długość odcinka 𝑃𝑄:
+|𝑃𝑄| = √(4
+5 𝑎 − 2
+5 𝑎)
+2
++ (2
+5 𝑎 − 1
+5 𝑎)
+2
+= √ 5
+25 𝑎 = √5
+5 𝑎
+To należało wykazać.

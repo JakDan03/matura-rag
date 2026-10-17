@@ -1,0 +1,41 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=88; level=rozszerzony; year=2024; section=|𝐵𝐸| = |𝐶𝐸|]
+88 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Ponieważ suma miar kątów przy ramieniu trapezu wynosi 180°, więc 2𝛼 + 2𝛽 = 180°,
+czyli 𝛼 + 𝛽 = 90°. Dlatego:
+|∡𝐵𝑆𝐶| = 180° − (𝛼 + 𝛽) = 90°
+oraz
+|∡𝑃𝑆𝐵| = 180° − (90° + 𝛼) = 𝛽
+To oznacza, że Δ𝐵𝑃𝑆 ~ Δ𝐵𝑆𝐶 (na podstawie cechy kkk podobieństwa trójkątów).
+Obliczymy skalę podobieństwa trójkątów 𝐵𝑃𝑆 oraz 𝐵𝑆𝐶.
+Niech 𝐸 i 𝐹 oznaczają punkty styczności okręgu i odcinków – odpowiednio – 𝐵𝐶
+oraz 𝐶𝐷 (rysunek 2.).
+Ponieważ |∡𝑆𝐵𝐸| = |∡𝐶𝑆𝐸| oraz |∡𝐸𝑆𝐵| = |∡𝐸𝐶𝑆|, więc trójkąty prostokątne 𝑆𝐵𝐸
+i 𝐶𝑆𝐸 są podobne (na podstawie cechy kkk podobieństwa trójkątów). Zatem
+|𝑆𝐸|
+|𝐵𝐸| = |𝐶𝐸|
+|𝑆𝐸|
+i dalej
+|𝑆𝐸|2 = |𝐵𝐸| ⋅ |𝐶𝐸|
+4 = (5 − |𝐶𝐸|) ⋅ |𝐶𝐸|
+|𝐶𝐸|2 − 5 ⋅ |𝐶𝐸| + 4 = 0
+|𝐶𝐸| = 1 lub |𝐶𝐸| = 4
+Z twierdzenia o odcinkach stycznych mamy |𝑃𝐵| = |𝐵𝐸| oraz |𝐶𝐸| = |𝐶𝐹|.
+Ponieważ |𝐶𝐷| < |𝐴𝐵|, więc |𝐶𝐸| < |𝐸𝐵| i w konsekwencji |𝐶𝐸| = 1 oraz |𝐵𝐸| = 4.
+Po zastosowaniu twierdzenia Pitagorasa do trójkąta 𝐵𝑆𝐸 otrzymujemy |𝐵𝑆| = 2√5.
+Obliczamy skalę podobieństwa trójkątów 𝐵𝑆𝐶 i 𝐵𝑃𝑆:
+𝑘 = |𝐵𝐶|
+|𝐵𝑆| = 5
+2√5
+= √5
+2
+𝐶
+𝐷
+2
+𝑆
+5
+𝐸
+𝐵
+𝑃
+𝐴
+𝐹
+Rysunek 2.

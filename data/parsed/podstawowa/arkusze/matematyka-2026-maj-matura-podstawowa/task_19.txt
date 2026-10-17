@@ -1,0 +1,15 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=21; level=podstawowy; year=2026; month=maj; task_id=19]
+Zadanie 19. (0–1)
+Punkty 𝐴, 𝐵, 𝐶 oraz 𝐷 leżą na okręgu o środku w punkcie 𝑂.
+Punkt 𝐵 leży na krótszym łuku 𝐴𝐶.
+Kąt 𝐶𝐷𝐴 ma miarę 50°, a kąt 𝐶𝑂𝐵 ma miarę 30° (zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Miara kąta ostrego 𝐵𝑂𝐴 jest równa
+A. 50° B. 60° C. 70° D. 100°
+𝐷
+𝐴
+𝐶
+𝑂
+50°
+30°
+𝐵

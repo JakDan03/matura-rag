@@ -1,0 +1,15 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona.pdf; typ=exam_paper; strony=8, 9; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=5]
+Zadanie 5. (0–3)
+W pewnej lokalnej społeczności 35% osób ma wyższe wykształcenie. W tej społeczności
+językiem niemieckim dobrze włada 70% osób mających wyższe wykształcenie i 40%
+osób bez wyższego wykształcenia.
+Spośród członków tej społeczności wybieramy losowo jedną osobę.
+Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że wybierzemy osobę
+z wyższym wykształceniem, jeżeli wiadomo, że ta osoba dobrze włada językiem
+niemieckim. Wynik zapisz w postaci ułamka dziesiętnego w zaokrągleniu do części
+setnych. Zapisz obliczenia.
+5.
+0–1–
+2–3
+Kolejne zadania egzaminacyjne są wydrukowane
+na następnych stronach.

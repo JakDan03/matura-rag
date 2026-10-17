@@ -1,0 +1,32 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=43; level=podstawowy; year=2024; section=1. 4 − 12𝑚 > 0]
+Przykładowe zadania z rozwiązaniami 43
+Zadanie 26. (0–1)
+Funkcja kwadratowa 𝑓 jest określona wzorem 𝑓(𝑥) = 3𝑥2 + 2𝑥 + 𝑚 dla każdej liczby
+rzeczywistej 𝑥. Współczynnik 𝑚 jest liczbą rzeczywistą mniejszą od zera.
+Dokończ zdanie. Zaznacz odpowiedź A, B albo C oraz jej uzasadnienie 1., 2. albo 3.
+Funkcja 𝑓
+A. ma dwa rzeczywiste miejsca zerowe,
+ponieważ
+1. 4 − 12𝑚 > 0
+B. ma jedno rzeczywiste miejsce zerowe, 2. 4 − 12𝑚 = 0
+C. nie ma rzeczywistych miejsc zerowych, 3. 4 − 12𝑚 < 0
+Wymagania ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych;
+3. Tworzenie pomocniczych obiektów matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub rozwiązania problemu.
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.
+Wymagania szczegółowe
+III. Równania i nierówności. Zdający:
+4) rozwiązuje równania i nierówności kwadratowe.
+V. Funkcje. Zdający:
+8) interpretuje współczynniki występujące we wzorze funkcji kwadratowej w postaci
+ogólnej, kanonicznej i iloczynowej (jeśli istnieje).
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+A1

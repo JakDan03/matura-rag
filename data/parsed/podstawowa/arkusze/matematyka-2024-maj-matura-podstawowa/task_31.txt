@@ -1,0 +1,21 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=27; level=podstawowy; year=2024; month=maj; task_id=31]
+Zadanie 31. (0–4)
+W schronisku dla zwierząt, na płaskiej powierzchni, należy zbudować ogrodzenie z siatki
+wydzielające trzy identyczne wybiegi o wspólnych ścianach wewnętrznych.
+Podstawą każdego z tych trzech wybiegów jest prostokąt (jak pokazano na rysunku).
+Do wykonania tego ogrodzenia należy zużyć 36 metrów bieżących siatki.
+Schematyczny rysunek trzech wybiegów (widok z góry).
+Linią przerywaną zaznaczono siatkę.
+Oblicz wymiary 𝒙 oraz 𝒚 jednego wybiegu, przy których suma pól podstaw tych
+trzech wybiegów będzie największa. W obliczeniach pomiń szerokość wejścia na
+każdy z wybiegów. Zapisz obliczenia.
+31.
+0–1–
+2–3–4
+𝑦
+𝑦
+𝑦
+𝑥
+wybieg 1.
+wybieg 2.
+wybieg 3.

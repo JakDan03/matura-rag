@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=32; level=podstawowy; year=2025; month=czerwiec; task_id=27]
+Zadanie 27.
+1 pkt – zapisanie jedynie liczby 24 (należy traktować to jako wyznaczenie liczby wszystkich
+zdarzeń elementarnych).
+Uwagi:
+1. W ocenie rozwiązania tego zadania (dla zdających z dyskalkulią) nie stosuje się uwagi ze
+standardowych zasad oceniania.
+2. Jeżeli zdający poprawnie wypisze/zaznaczy wszystkie zdarzenia elementarne sprzyjające
+zdarzeniu 𝐴, lecz popełni błąd w ich zliczeniu (np. |𝐴| = 16) i konsekwentnie zapisze
+wynik (np. 16
+24), to otrzymuje 2 punkty

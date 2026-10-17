@@ -1,0 +1,31 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=51; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+Przykładowe zadania z rozwiązaniami 51
+Zadanie 31. (0–2)
+Do wykresu pewnej funkcji kwadratowej 𝑦 = 𝑔(𝑥) należy punkt o współrzędnych (2, −6).
+Osią symetrii wykresu tej funkcji jest prosta o równaniu 𝑥 = 3, a jednym z miejsc zerowych
+funkcji 𝑔 jest 𝑥1 = 1.
+Wyznacz wzór funkcji 𝒈 w postaci iloczynowej.
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymagania szczegółowe
+V. Funkcje. Zdający:
+8) interpretuje współczynniki występujące we wzorze funkcji kwadratowej w postaci
+ogólnej, kanonicznej i iloczynowej (jeśli istnieje);
+9) wyznacza wzór funkcji kwadratowej na podstawie informacji o tej funkcji lub o jej
+wykresie.
+Zasady oceniania
+2 pkt – poprawna metoda wyznaczenia postaci iloczynowej funkcji 𝑔 oraz zapisanie jej
+wzoru: 𝑔(𝑥) = 2(𝑥 − 1)(𝑥 − 5).
+1 pkt – zapisanie wzoru funkcji 𝑔 w postaci 𝑔(𝑥) = 𝑎(𝑥 − 1)(𝑥 − 5).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób 1.
+Zauważmy, że pierwsza współrzędna punktu przecięcia osi symetrii wykresu funkcji
+kwadratowej z osią 𝑂𝑥 jest środkiem odcinka, którego końcami są miejsca zerowe tej
+funkcji. Zatem:
+3 = 1 + 𝑥2
+2 i stąd 𝑥2 = 5
+Zapiszemy wzór funkcji 𝑔 w postaci iloczynowej dla pewnego rzeczywistego
+współczynnika 𝑎:

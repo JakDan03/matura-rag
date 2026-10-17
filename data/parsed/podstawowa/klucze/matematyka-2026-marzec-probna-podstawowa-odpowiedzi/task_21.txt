@@ -1,0 +1,163 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=17, 18, 19, 20, 21; level=podstawowy; year=2026; month=marzec; term=probna; task_id=21]
+Zadanie 21. (0–3)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+VIII.11) przeprowadza dowody
+geometryczne.
+Zasady oceniania
+3 pkt – przeprowadzenie pełnego rozumowania.
+2 pkt – wyznaczenie długości dwóch boków trójkąta 𝐸𝐵𝐶 w zależności od jednej zmiennej
+(dla sposobu I)
+ALBO
+– zapisanie, że |𝐶𝐹| = 𝑎 (dla sposobu II),
+ALBO
+– zapisanie, że |𝐴𝑀| = 2𝑎 (dla sposobu III),
+ALBO
+– zapisanie układu równań
+|𝐴𝐶|2 = (2𝑎)2 + 𝑎2 − 2 ⋅ 2𝑎 ⋅ 𝑎 ⋅ cos 2𝛼
+oraz
+|𝐴𝐶|2 = 𝑎2 + 𝑎2 − 2 ⋅ 𝑎 ⋅ 𝑎 ⋅ cos(180° − 2𝛼) (dla sposobu IV).
+1 pkt – zapisanie, że trójkąt 𝐴𝐶𝐷 jest równoramienny.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Próbny egzamin maturalny z matematyki na poziomie podstawowym – marzec 2026 r.
+Przykładowe pełne rozwiązania
+Sposób I
+Przyjmijmy następujące oznaczenia:
+|𝐶𝐷| = 𝑎 (zatem |𝐴𝐵| = 2𝑎)
+|∡𝐷𝐴𝐵| = |∡𝐴𝐵𝐶| = 2𝛼.
+Ponieważ przekątna 𝐴𝐶 zawiera się w dwusiecznej kąta 𝐷𝐴𝐵, to |∡𝐷𝐴𝐶| = |∡𝐶𝐴𝐵| = 𝛼.
+Kąty 𝐶𝐴𝐵 i 𝐴𝐶𝐷 są naprzemianległe oraz 𝐴𝐵||𝐶𝐷, zatem |∡𝐴𝐶𝐷| = 𝛼.
+Oznacza to, że trójkąt 𝐴𝐶𝐷 jest równoramienny oraz |𝐴𝐷| = |𝐶𝐷| = 𝑎.
+Zatem również |𝐵𝐶| = 𝑎.
+Niech 𝐸 będzie spodkiem wysokości trapezu 𝐴𝐵𝐶𝐷 poprowadzonej z wierzchołka 𝐶
+(zobacz rysunek). Z własności trapezu równoramiennego obliczamy długość odcinka 𝐸𝐵:
+|𝐸𝐵| =
+|𝐴𝐵| − |𝐶𝐷|
+2 = 2𝑎 − 𝑎
+2 = 1
+2 𝑎
+W trójkącie prostokątnym 𝐸𝐵𝐶 mamy
+cos 2𝛼 =
+|𝐸𝐵|
+|𝐵𝐶| =
+1
+2 𝑎
+𝑎 = 1
+2
+Zatem kąt ostry 𝐷𝐴𝐵 ma miarę równą 60°. To należało wykazać.
+Sposób II
+Przyjmijmy następujące oznaczenia:
+|𝐶𝐷| = 𝑎 (zatem |𝐴𝐵| = 2𝑎)
+|∡𝐷𝐴𝐵| = |∡𝐴𝐵𝐶| = 2𝛼.
+Ponieważ przekątna 𝐴𝐶 zawiera się w dwusiecznej kąta 𝐷𝐴𝐵, to |∡𝐷𝐴𝐶| = |∡𝐶𝐴𝐵| = 𝛼.
+Kąty 𝐶𝐴𝐵 i 𝐴𝐶𝐷 są naprzemianległe oraz 𝐴𝐵||𝐶𝐷, zatem |∡𝐴𝐶𝐷| = 𝛼.
+Oznacza to, że trójkąt 𝐴𝐶𝐷 jest równoramienny oraz |𝐴𝐷| = |𝐶𝐷| = 𝑎.
+Zatem również |𝐵𝐶| = 𝑎.
+𝑎
+𝛼
+𝑎
+𝑎
+𝐷
+𝐶
+𝛼
+2𝑎
+𝐵
+𝐴
+𝛼
+2𝛼
+1
+2 𝑎
+𝐸
+Zasady oceniania rozwiązań zadań
+Niech 𝐹 będzie takim punktem leżącym na podstawie 𝐴𝐵, że odcinek 𝐹𝐶 jest równoległy
+do boku 𝐴𝐷. Wtedy |𝐹𝐶| = |𝐴𝐷| = 𝑎 oraz |𝐴𝐹| = |𝐶𝐷| = 𝑎 oraz |𝐹𝐵| = 2𝑎 − 𝑎 = 𝑎
+(zobacz rysunek).
+Zatem trójkąt 𝐹𝐵𝐶 jest równoboczny. Stąd wynika, że miara kąta ostrego 𝐷𝐴𝐵 jest
+równa 60°. To należało wykazać.
+Sposób III
+Przyjmijmy następujące oznaczenia:
+|𝐶𝐷| = 𝑎 (zatem |𝐴𝐵| = 2𝑎)
+|∡𝐷𝐴𝐵| = |∡𝐴𝐵𝐶| = 2𝛼.
+Ponieważ przekątna 𝐴𝐶 zawiera się w dwusiecznej kąta 𝐷𝐴𝐵, to |∡𝐷𝐴𝐶| = |∡𝐶𝐴𝐵| = 𝛼.
+Kąty 𝐶𝐴𝐵 i 𝐴𝐶𝐷 są naprzemianległe oraz 𝐴𝐵||𝐶𝐷, zatem |∡𝐴𝐶𝐷| = 𝛼.
+Oznacza to, że trójkąt 𝐴𝐶𝐷 jest równoramienny oraz |𝐴𝐷| = |𝐶𝐷| = 𝑎.
+Zatem również |𝐵𝐶| = 𝑎.
+Ramiona trapezu przedłużamy do przecięcia w punkcie 𝑀 (zobacz rysunek).
+𝑎
+𝛼
+𝑎
+𝑎
+𝐷
+𝐶
+𝛼
+𝑎
+𝐵
+𝐴
+𝛼
+2𝛼
+𝑎
+𝐹
+𝑎
+𝑎
+𝛼
+𝑎
+𝑎
+𝐷
+𝐶
+𝛼
+𝐵
+𝐴
+𝛼
+2𝛼
+2𝑎
+𝑀
+Próbny egzamin maturalny z matematyki na poziomie podstawowym – marzec 2026 r.
+Trójkąt 𝐴𝐵𝑀 jest podobny do trójkąta 𝐷𝐶𝑀 (na podstawie cechy kąt–kąt–kąt) w skali 2.
+Zatem
+|𝐷𝑀| ⋅ 2 = 𝑎 + |𝐷𝑀|
+Stąd
+|𝐷𝑀| = 𝑎
+Zatem trójkąt 𝐴𝐵𝑀 jest równoboczny (ponieważ |𝐴𝑀| = |𝐵𝑀| = |𝐴𝐵| = 2𝑎).
+Stąd miara kąta ostrego 𝐷𝐴𝐵 jest równa 60°. To należało wykazać.
+Sposób IV
+Przyjmijmy następujące oznaczenia:
+|𝐶𝐷| = 𝑎 (zatem |𝐴𝐵| = 2𝑎)
+|∡𝐷𝐴𝐵| = |∡𝐴𝐵𝐶| = 2𝛼 (zatem |∡𝐶𝐷𝐴| = 180° − 2𝛼).
+Ponieważ przekątna 𝐴𝐶 zawiera się w dwusiecznej kąta 𝐷𝐴𝐵, to |∡𝐷𝐴𝐶| = |∡𝐶𝐴𝐵| = 𝛼.
+Kąty 𝐶𝐴𝐵 i 𝐴𝐶𝐷 są naprzemianległe oraz 𝐴𝐵||𝐶𝐷, zatem |∡𝐴𝐶𝐷| = 𝛼.
+Oznacza to, że trójkąt 𝐴𝐶𝐷 jest równoramienny oraz |𝐴𝐷| = |𝐶𝐷| = 𝑎.
+Zatem również |𝐵𝐶| = 𝑎.
+Stosujemy twierdzenie cosinusów w trójkącie 𝐴𝐵𝐶:
+|𝐴𝐶|2 = (2𝑎)2 + 𝑎2 − 2 ⋅ 2𝑎 ⋅ 𝑎 ⋅ cos 2𝛼
+|𝐴𝐶|2 = 5𝑎2 − 4𝑎2 ⋅ cos 2𝛼
+Stosujemy twierdzenie cosinusów w trójkącie 𝐴𝐶𝐷:
+|𝐴𝐶|2 = 𝑎2 + 𝑎2 − 2 ⋅ 𝑎 ⋅ 𝑎 ⋅ cos(180° − 2𝛼)
+|𝐴𝐶|2 = 2𝑎2 − 2𝑎2 ⋅ cos(180° − 2𝛼)
+Ponieważ cos(180° − 2𝛼) = − cos 2𝛼, to
+|𝐴𝐶|2 = 2𝑎2 + 2𝑎2 ⋅ cos 2𝛼
+𝑎
+𝛼
+𝑎
+𝑎
+𝐷
+𝐶
+𝛼
+2𝑎
+𝐵
+𝐴
+𝛼
+2𝛼
+180° − 2𝛼
+Zasady oceniania rozwiązań zadań
+Z uzyskanych równań otrzymujemy:
+5𝑎2 − 4𝑎2 ⋅ cos 2𝛼 = 2𝑎2 + 2𝑎2 ⋅ cos 2𝛼
+6𝑎2 ⋅ cos 2𝛼 = 3𝑎2
+cos 2𝛼 = 3𝑎2
+6𝑎2 = 1
+2
+Zatem kąt ostry 𝐷𝐴𝐵 ma miarę równą 60°. To należało wykazać.

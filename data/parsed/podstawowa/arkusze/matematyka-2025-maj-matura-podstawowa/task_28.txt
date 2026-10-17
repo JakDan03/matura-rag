@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=26; level=podstawowy; year=2025; month=maj; task_id=28]
+Zadanie 28. (0–1)
+Doświadczenie losowe polega na dwukrotnym rzucie symetryczną sześcienną kostką do gry,
+która na każdej ściance ma inną liczbę oczek – od jednego oczka do sześciu oczek.
+Zdarzenie 𝐴 polega na tym, że suma liczb wyrzuconych oczek będzie równa 11.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Prawdopodobieństwo zdarzenia 𝐴 jest równe
+A. 1
+36 B. 6
+36 C. 11
+36 D. 2
+36

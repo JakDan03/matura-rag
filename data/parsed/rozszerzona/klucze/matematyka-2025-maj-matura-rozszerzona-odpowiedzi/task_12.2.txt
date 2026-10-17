@@ -1,0 +1,135 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=48, 49, 50; level=rozszerzony; year=2025; month=maj; task_id=12.2]
+Zadanie 12.2. (0–4)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+XIII.R4) oblicza pochodną funkcji potęgowej
+o wykładniku rzeczywistym oraz oblicza
+pochodną, korzystając z twierdzeń
+o pochodnej sumy, różnicy, iloczynu, ilorazu
+[…];
+XIII.R5) stosuje pochodną do badania
+monotoniczności funkcji;
+XIII.R6) rozwiązuje zadania optymalizacyjne
+z zastosowaniem pochodnej.
+Zasady oceniania
+4 pkt – uzasadnienie, że funkcja 𝑉 przyjmuje wartość najmniejszą dla ℎ = 5√3 oraz
+obliczenie objętości stożka o takiej wysokości: 𝑉(5√3) = 125√3𝜋
+2 .
+3 pkt – uzasadnienie (np. poprzez badanie monotoniczności funkcji), że funkcja 𝑉 przyjmuje
+wartość najmniejszą dla ℎ = 5√3.
+2 pkt – obliczenie miejsca zerowego pochodnej funkcji 𝑉 (lub funkcji 3
+𝜋 ⋅ 𝑉): ℎ = 5√3.
+1 pkt – wyznaczenie pochodnej funkcji 𝑉 (lub funkcji 3
+𝜋 ⋅ 𝑉), np.
+𝑉′(ℎ) = 𝜋
+3 ⋅
+75ℎ2⋅(ℎ2−25)−25ℎ3⋅2ℎ
+(ℎ2−25)
+2 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający wyznacza pochodną ilorazu jako iloraz pochodnych, to otrzymuje
+0 punktów za całe rozwiązanie.
+Zasady oceniania rozwiązań zadań
+2. Jeżeli z rozwiązania wynika, że zdający poprawnie stosuje wzór na pochodną ilorazu
+funkcji oraz zdający poprawnie wyznacza pochodne funkcji 25ℎ3 oraz ℎ2 − 25 i dalej
+popełnia błędy, otrzymując pochodną w postaci 𝑎 ⋅
+75ℎ2(ℎ2−25)−25ℎ3⋅2ℎ
+(ℎ2−25)
+(gdzie 𝑎 ≠ 0)
+lub 𝐵(ℎ)
+(ℎ2−25)
+2, gdzie 𝐵 jest wielomianem stopnia czwartego, który w przedziale (5, +∞)
+ma dokładnie jeden pierwiastek, i konsekwentnie rozwiąże zadanie do końca, to może
+otrzymać co najwyżej 3 punkty za całe rozwiązanie (za miejsce zerowe pochodnej, za
+uzasadnienie istnienia najmniejszej wartości funkcji, za obliczenie najmniejszej wartości
+funkcji 𝑉).
+Jeżeli z rozwiązania nie wynika, że zdający poprawnie stosuje wzór na pochodną ilorazu
+funkcji lub zdający błędnie wyznacza pochodną funkcji 25ℎ3 lub ℎ2 − 25 i dalej
+popełnia błędy, otrzymując pochodną w postaci
+75ℎ2(ℎ2−25)−25ℎ3⋅2ℎ
+(ℎ2−25)
+lub 𝐵(ℎ)
+(ℎ2−25)
+2 ,
+gdzie 𝐵 jest wielomianem stopnia czwartego, który w przedziale (5, +∞) ma dokładnie
+jeden pierwiastek, i konsekwentnie rozwiąże zadanie do końca, to może otrzymać co
+najwyżej 2 punkty za całe rozwiązanie (za uzasadnienie istnienia najmniejszej wartości
+funkcji i za obliczenie najmniejszej wartości funkcji 𝑉).
+3. Za poprawne uzasadnienie, że rozważana funkcja osiąga wartość najmniejszą dla
+wyznaczonej wartości ℎ, przy której pochodna się zeruje, można uznać sytuację, gdy
+zdający bada znak pochodnej
+ORAZ:
+– opisuje (słownie lub graficznie – np. przy użyciu strzałek) monotoniczność funkcji 𝑉
+LUB
+– zapisuje, że dla wyznaczonej wartości ℎ funkcja 𝑉 ma minimum lokalne i jest to
+jednocześnie jej najmniejsza wartość,
+LUB
+– zapisuje, że dla wyznaczonej wartości ℎ funkcja 𝑉 ma minimum lokalne i jest to
+jedyne ekstremum tej funkcji.
+Badanie znaku pochodnej zdający może opisać w inny sposób, np. szkicując wykres
+funkcji, która w ten sam sposób jak pochodna zmienia znak, i zaznaczając na rysunku (np.
+znakami „+” i „-”) znak pochodnej.
+4. Jeżeli zdający przedstawi niepełne uzasadnienie, to może otrzymać co najwyżej 3 punkty
+za całe rozwiązanie (nie otrzymuje punktu za uzasadnienie istnienia najmniejszej
+wartości).
+5. Jeżeli zdający, uzasadniając najmniejszą wartość funkcji, rozpatruje funkcję w ℝ lub
+ℝ+ , to może uzyskać co najwyżej 3 punkty za całe rozwiązanie.
+6. Jeżeli zdający nie uzasadnia istnienia najmniejszej wartości funkcji, to może uzyskać co
+najwyżej 2 punkty za całe rozwiązanie (1 punkt za pochodną i 1 punkt za miejsce zerowe
+pochodnej).
+Przykładowe pełne rozwiązanie
+Obliczamy argument, dla którego funkcja 𝑉 określona wzorem 𝑉(ℎ) = 𝜋
+3 ⋅ 25ℎ3
+ℎ2−25
+dla
+ℎ ∈ (5, +∞) osiąga wartość najmniejszą.
+Wyznaczamy pochodną funkcji 𝑉: 𝑉′(ℎ) = 𝜋
+3 ⋅
+75ℎ2⋅(ℎ2−25)−25ℎ3⋅2ℎ
+(ℎ2−25)
+2 = 𝜋
+3 ⋅ 25ℎ2(ℎ2−75)
+(ℎ2−25)
+2
+dla ℎ ∈ (5, +∞).
+Obliczamy miejsca zerowe pochodnej funkcji 𝑉:
+𝑉′(ℎ) = 0
+𝜋
+3 ⋅ 25ℎ2(ℎ2 − 75)
+(ℎ2 − 25)2 = 0
+25ℎ2(ℎ2 − 75) = 0
+ℎ = 0 ∉ (5, +∞) ∨ ℎ = −5√3 ∉ (5, +∞) ∨ ℎ = 5√3 ∈ (5, +∞)
+Badamy znak pochodnej:
+𝑉′(ℎ) < 0
+𝜋
+3 ⋅ 25ℎ2(ℎ2 − 75)
+(ℎ2 − 25)2 < 0 ∧ ℎ ∈ (5, +∞)
+ℎ2(ℎ2 − 75) < 0 ∧ ℎ ∈ (5, +∞)
+ℎ2 < 75 ∧ ℎ ∈ (5, +∞)
+ℎ ∈ (5, 5√3)
+więc 𝑉′(ℎ) < 0 dla ℎ ∈ (5, 5√3) oraz 𝑉′(ℎ) > 0 dla ℎ ∈ (5√3, +∞).
+Zatem funkcja 𝑉 jest malejąca w przedziale (5, 5√3] i rosnąca w przedziale [5√3, +∞).
+Stąd funkcja 𝑉 osiąga wartość najmniejszą dla ℎ = 5√3. Wtedy
+𝑉(5√3) = 𝜋
+3 ⋅ 25(5√3)
+3
+(5√3)
+2
+− 25
+= 125√3𝜋
+2
+Uwaga.
+Funkcja 𝑉 jest różniczkowalna, więc jest ciągła. Ponadto lim
+ℎ→5+ 𝑉(ℎ) = +∞ oraz
+lim
+ℎ→+∞
+𝑉(ℎ) = +∞, więc uwzględniając wartość funkcji 𝑉 w punkcie stacjonarnym ℎ = 5√3
+równą 𝑉(5√3) = 125√3𝜋
+2 , można wyciągnąć wniosek, że funkcja 𝑉 osiąga wartość
+najmniejszą równą 125√3𝜋
+2 dla argumentu ℎ = 5√3.

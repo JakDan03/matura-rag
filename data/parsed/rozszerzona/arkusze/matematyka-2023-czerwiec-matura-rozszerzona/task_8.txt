@@ -1,0 +1,5 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=14, 15, 16; level=rozszerzony; year=2023; month=czerwiec; task_id=8]
+Zadanie 8. (0–4)
+Rozwiąż równanie
+𝐬𝐢𝐧(𝟓𝒙) + 𝐜𝐨𝐬 𝒙 = 𝟎
+w zbiorze [− 𝝅/𝟐 , 𝝅/𝟐 ]. Zapisz obliczenia.

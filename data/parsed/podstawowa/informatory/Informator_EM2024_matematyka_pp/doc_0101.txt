@@ -1,0 +1,28 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=101; level=podstawowy; year=2024; section=1. Środek 𝑆 okręgu 𝒪 ma współrzędne]
+Przykładowe zadania z rozwiązaniami 101
+Zadanie 51. (0–1)
+Na płaszczyźnie, w kartezjańskim układzie współrzędnych (𝑥, 𝑦), dany jest okrąg 𝒪
+określony równaniem:
+(𝑥 − 2)2 + (𝑦 + 3)2 = 16
+Dokończ zdania. Zaznacz odpowiedź spośród A–D oraz odpowiedź spośród E–G.
+1. Środek 𝑆 okręgu 𝒪 ma współrzędne
+A. 𝑆 = (2, −3)
+B. 𝑆 = (−2, −3)
+C. 𝑆 = (−2, 3)
+D. 𝑆 = (−2, 3)
+2. Promień 𝑟 okręgu 𝒪 jest równy
+E. 𝑟 = 16
+F. 𝑟 = 4
+G. 𝑟 = 5
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymaganie szczegółowe
+IX. Geometria analityczna na płaszczyźnie kartezjańskiej. Zdający:
+4) posługuje się równaniem okręgu (𝑥 − 𝑎)2 + (𝑦 − 𝑏)2 = 𝑟2.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+AF

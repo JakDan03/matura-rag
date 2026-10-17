@@ -1,0 +1,69 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=8, 9, 10; level=rozszerzony; year=2023; month=maj; task_id=3]
+Zadanie 3. (0–3)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+3. Dobieranie argumentów do uzasadnienia
+poprawności rozwiązywania problemów,
+tworzenie ciągu argumentów,
+gwarantujących poprawność rozwiązania
+i skuteczność w poszukiwaniu rozwiązań
+zagadnienia.
+Zdający:
+XIII.R2) stosuje definicję pochodnej funkcji,
+podaje interpretację geometryczną
+pochodnej;
+XIII.R3) oblicza pochodną funkcji potęgowej
+o wykładniku rzeczywistym oraz oblicza
+pochodną, korzystając z twierdzeń
+o pochodnej sumy, różnicy, iloczynu
+i ilorazu.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑥0 = −3 oraz 𝑦 = − 8
+11 𝑥 + 9
+11
+(lub 𝑦 = − 8
+11 (𝑥 + 3) + 3).
+2 pkt – obliczenie odciętej punktu 𝑃 i wyznaczenie pochodnej funkcji 𝑓: 𝑥0 = −3 oraz
+𝑓′(𝑥) =
+(6𝑥−2)⋅(𝑥2+2𝑥+8)−(3𝑥2−2𝑥)⋅(2𝑥+2)
+(𝑥2+2𝑥+8)
+2 .
+1 pkt – obliczenie odciętej punktu 𝑃: 𝑥0 = −3
+ALBO
+– wyznaczenie pochodnej funkcji 𝑓: 𝑓′(𝑥) =
+(6𝑥−2)⋅(𝑥2+2𝑥+8)−(3𝑥2−2𝑥)⋅(2𝑥+2)
+(𝑥2+2𝑥+8)
+2 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli zdający błędnie stosuje wzór na pochodną ilorazu funkcji, to może otrzymać co
+najwyżej 1 punkt za całe rozwiązanie.
+Przykładowe pełne rozwiązanie
+Obliczamy odciętą 𝑥0 punktu 𝑃:
+3 = 3𝑥0
+2 − 2𝑥0
+𝑥0
+2 + 2𝑥0 + 8
+3𝑥0
+2 + 6𝑥0 + 24 = 3𝑥0
+2 − 2𝑥0
+𝑥0 = −3
+Wyznaczamy pochodną funkcji 𝑓:
+𝑓′(𝑥) = (6𝑥 − 2)(𝑥2 + 2𝑥 + 8) − (3𝑥2 − 2𝑥)(2𝑥 + 2)
+(𝑥2 + 2𝑥 + 8)2
+Zasady oceniania rozwiązań zadań
+𝑓′(𝑥) = 8𝑥2 + 48𝑥 − 16
+(𝑥2 + 2𝑥 + 8)2
+Wyznaczamy równanie kierunkowe 𝑦 = 𝑎𝑥 + 𝑏 stycznej do wykresu funkcji 𝑓
+w punkcie 𝑃. Obliczamy współczynnik kierunkowy 𝑎 w równaniu stycznej:
+𝑎 = 𝑓′(−3) = − 8
+11
+Obliczamy współczynnik 𝑏 w równaniu stycznej:
+3 = − 8
+11 ∙ (−3) + 𝑏
+𝑏 = 9
+11
+Styczna ma równanie 𝑦 = − 8
+11 𝑥 + 9
+11 .

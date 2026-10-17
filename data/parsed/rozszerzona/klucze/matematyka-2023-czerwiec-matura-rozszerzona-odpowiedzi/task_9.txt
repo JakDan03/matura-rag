@@ -1,0 +1,187 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=17, 18, 19, 20; level=rozszerzony; year=2023; month=czerwiec; task_id=9]
+Zadanie 9. (0–4)
+Wymagania egzaminacyjne 2023 i 2024
+Wymagania ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+3. Dobieranie argumentów do uzasadnienia
+poprawności rozwiązywania problemów,
+tworzenie ciągu argumentów,
+gwarantujących poprawność rozwiązania
+i skuteczność w poszukiwaniu rozwiązań
+zagadnienia.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VIII.5) stosuje własności kątów wpisanych
+i środkowych.
+IX.4) posługuje się równaniem okręgu
+(𝑥 − 𝑎)2 + (𝑦 − 𝑏)2 = 𝑟2.
+Zasady oceniania (dla sposobu I)
+4 pkt – poprawna metoda rozwiązania i poprawny wynik: 𝑃 = 20.
+3 pkt – obliczenie wysokości 𝐶𝐷 trójkąta 𝐴𝐵𝐶: |𝐶𝐷| = 4.
+2 pkt – obliczenie (podanie) długości odcinków 𝐴𝐷 i 𝐵𝐷: |𝐴𝐷| = 8 oraz |𝐷𝐵| = 2.
+1 pkt – zapisanie, że bok 𝐴𝐵 trójkąta 𝐴𝐵𝐶 jest średnicą danego okręgu
+ALBO
+– zapisanie, że środek 𝑆 = (1, 2) danego okręgu leży na prostej o równaniu
+4𝑥 − 3𝑦 + 2 = 0.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania (dla sposobu II)
+4 pkt – poprawna metoda rozwiązania i poprawny wynik: 𝑃 = 20.
+3 pkt – obliczenie współrzędnych wierzchołka 𝐶 trójkąta 𝐴𝐵𝐶: 𝐶 = (6, 2) lub 𝐶 = (−
+2
+5 ,
+34
+5 ).
+2 pkt – obliczenie współrzędnych punktu 𝐷: 𝐷 = (
+14
+5 ,
+22
+5 ).
+1 pkt – obliczenie współrzędnych punktów 𝐴 i 𝐵, np. 𝐴 = (−2, −2) i 𝐵 = (4, 6).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę albo brak rozwiązania.
+Uwaga:
+Jeśli zdający popełnia w rozwiązaniu błąd merytoryczny albo błędnie odgaduje np. długości
+odcinków 𝐴𝐷 i 𝐵𝐷, to za całe rozwiązanie może otrzymać co najwyżej 2 punkty.
+Przykładowe pełne rozwiązania
+Sposób I
+Ponieważ prosta o równaniu 4𝑥 − 3𝑦 + 2 = 0 przechodzi przez środek 𝑆 = (1, 2) danego
+okręgu, więc bok 𝐴𝐵 jest średnicą tego okręgu. Zatem |𝐴𝐵| = 10. Wysokość 𝐶𝐷 dzieli bok
+𝐴𝐵 tak, że |𝐴𝐷| = 4|𝐷𝐵|. Stąd i z |𝐴𝐷| + |𝐷𝐵| = 10 wynika, że |𝐴𝐷| = 8 oraz |𝐷𝐵| = 2.
+Ponieważ kąt 𝐴𝐶𝐵 jest kątem wpisanym w okrąg, opartym na średnicy, więc jest kątem
+prostym. Wysokość opuszczona z wierzchołka kąta prostego dzieli przeciwprostokątną 𝐴𝐵
+tak, że |𝐶𝐷| = √|𝐴𝐷| ∙ |𝐷𝐵| = √8 ∙ 2 = 4. Zatem pole 𝑃 trójkąta 𝐴𝐵𝐶 jest równe
+𝑃 = 1
+2 ∙ |𝐴𝐵| ∙ |𝐶𝐷| = 1
+2 ∙ 10 ∙ 4 = 20
+Sposób II
+Ponieważ prosta o równaniu 4𝑥 − 3𝑦 + 2 = 0 przechodzi przez środek 𝑆 = (1, 2) danego
+okręgu, więc bok 𝐴𝐵 jest średnicą tego okręgu. Obliczamy współrzędne punktów 𝐴 i 𝐵,
+rozwiązując układ równań: 4𝑥 − 3𝑦 + 2 = 0 i (𝑥 − 1)2 + (𝑦 − 2)2 = 25.
+Z pierwszego z równań układu wyznaczamy 𝑥: 𝑥 =
+3𝑦−2
+4 i podstawiamy do drugiego z
+równań układu, otrzymując kolejno:
+(3𝑦 − 2
+4 − 1)
+2
++ (𝑦 − 2)2 = 25
+(3𝑦 − 6
+4 )
+2
++ (𝑦 − 2)2 = 25
+9
+16 (𝑦 − 2)2 + (𝑦 − 2)2 = 25
+(𝑦 − 2)2 = 16
+|𝑦 − 2| = 4
+𝑦 = −2 lub 𝑦 = 6
+Gdy 𝑦 = −2, to 𝑥 = −2. Gdy 𝑦 = 6, to 𝑥 = 4.
+Ze względu na symetrię, możemy przyjąć, że 𝐴 = (−2, −2) i 𝐵 = (4, 6). Wtedy |𝐴𝐵| = 10.
+Ponieważ 𝐴𝐷⃗⃗⃗⃗⃗ =
+4
+5 ∙ 𝐴𝐵⃗⃗⃗⃗⃗ , więc 𝐴𝐷⃗⃗⃗⃗⃗ =
+4
+5 ∙ [6, 8] = [
+24
+5 ,
+32
+5 ]. Stąd wynika, że 𝐷 = (
+14
+5 ,
+22
+5 ).
+Wyznaczamy równanie prostej, która zawiera wysokość 𝐶𝐷 trójkąta 𝐴𝐵𝐶: 𝑦 = 𝑎𝑥 + 𝑏
+Prosta ta jest prostopadła do prostej 4𝑥 − 3𝑦 + 2 = 0, więc
+4
+3 ⋅ 𝑎 = −1. Stąd 𝑎 = −
+3
+4 .
+Wykorzystując współrzędne punktu 𝐷, otrzymujemy
+22
+5 = −
+3
+4 ⋅
+14
+5 + 𝑏, czyli 𝑏 =
+13
+2 .
+Wyznaczamy współrzędne punktu 𝐶, rozwiązując układ równań
+𝑦 = − 3
+4 𝑥 + 13
+2 i (𝑥 − 1)2 + (𝑦 − 2)2 = 25
+Otrzymujemy
+(𝑥 − 1)2 + (− 3
+4 𝑥 + 13
+2 − 2)
+2
+= 25
+(𝑥 − 1)2 + (− 3
+4 𝑥 + 9
+2)
+2
+= 25
+𝑥2 − 2𝑥 + 1 + 9
+16 𝑥2 − 27
+4 𝑥 + 81
+4 − 25 = 0
+5𝑥2 − 28𝑥 − 12 = 0
+(𝑥 − 6)(5𝑥 + 2) = 0
+Zasady oceniania rozwiązań zadań
+𝑥 = 6 lub 𝑥 = − 2
+5
+Stąd 𝐶 = (6, 2) lub 𝐶 = (−
+2
+5 ,
+34
+5 ).
+Obliczamy wysokość trójkąta 𝐴𝐵𝐶.
+Dla 𝐶 = (6, 2) otrzymujemy |𝐷𝐶| = √(6 −
+14
+5 )
+2
++ (2 −
+22
+5 )
+2
+= 4.
+Dla 𝐶 = (−
+2
+5 ,
+34
+5 ) otrzymujemy |𝐷𝐶| = √(−
+2
+5 −
+14
+5 )
+2
++ (
+34
+5 −
+22
+5 )
+2
+= 4.
+Zatem pole 𝑃 trójkąta 𝐴𝐵𝐶 jest równe
+𝑃 = 1
+2 ∙ |𝐴𝐵| ∙ |𝐶𝐷| = 1
+2 ∙ 10 ∙ 4 = 20
+Uwaga:
+Przyjmując 𝐴 = (4, 6) i 𝐵 = (−2, −2), otrzymujemy 𝐷 = (−
+4
+5 , −
+2
+5). Wtedy prosta, która
+zawiera wysokość 𝐶𝐷 trójkąta 𝐴𝐵𝐶, ma równanie 𝑦 = −
+3
+4 𝑥 − 1. Współrzędne punktu 𝐶
+obliczamy, rozwiązując układ równań: 𝑦 = −
+3
+4 𝑥 − 1 i (𝑥 − 1)2 + (𝑦 − 2)2 = 25.
+Otrzymujemy: 𝐶 = (−4, 2) lub 𝐶 = (
+12
+5 , −
+14
+5 ). Dla obu tych przypadków |𝐶𝐷| = 4 i pole
+𝑃 =
+1
+2 ⋅ 10 ⋅ 4 = 20.

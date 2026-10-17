@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=20; level=rozszerzony; year=2025; month=maj; task_id=10]
+Zadanie 10. (0–5)
+Podstawą ostrosłupa 𝐴𝐵𝐶𝐷𝑆 jest kwadrat 𝐴𝐵𝐶𝐷. Krawędź boczna 𝑆𝐴 jest wysokością
+ostrosłupa, natomiast krawędź podstawy ma długość 3√34. Cosinus kąta 𝛽 między
+ścianami bocznymi 𝐶𝐷𝑆 i 𝐵𝐶𝑆 tego ostrosłupa jest równy (− 9
+25).
+Oblicz pole powierzchni bocznej tego ostrosłupa. Zapisz obliczenia.
+10.
+0–1–
+2–3–
+4–5

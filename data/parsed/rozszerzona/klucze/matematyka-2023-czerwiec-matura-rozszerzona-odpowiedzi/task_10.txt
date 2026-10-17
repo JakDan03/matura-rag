@@ -1,0 +1,187 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=20, 21, 22, 23; level=rozszerzony; year=2023; month=czerwiec; task_id=10]
+Zadanie 10. (0–5)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+3. Tworzenie pomocniczych obiektów
+matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub
+rozwiązania problemu.
+Zdający:
+III.R5) analizuje równania i nierówności
+liniowe z parametrami oraz równania
+i nierówności kwadratowe z parametrami,
+w szczególności wyznacza liczbę rozwiązań
+w zależności od parametrów, podaje
+warunki, przy których rozwiązania mają
+żądaną własność, i wyznacza rozwiązania
+w zależności od parametrów.
+Zasady oceniania
+Rozwiązanie zadania składa się z trzech etapów.
+Pierwszy etap polega na rozwiązaniu warunku ∆> 0. Za poprawne wykonanie tego etapu
+zdający otrzymuje 1 punkt.
+1 pkt – poprawne rozwiązanie warunku ∆> 0: 𝑚 ∈ (−∞,
+1
+9) ∪ (1, +∞).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Drugi etap polega na wyznaczeniu wszystkich wartości parametru 𝑚, dla których jest
+spełniony warunek
+1
+𝑥1
+2 +
+1
+𝑥2
+2 < 1.
+Podział punktów za drugi etap rozwiązania:
+3 pkt – wyznaczenie tych wszystkich wartości 𝑚, dla których spełniony jest warunek
+1
+𝑥1
+2 +
+1
+𝑥2
+2 < 1: 𝑚 ∈ (−4 − 2√6, 0) ∪ (0, −4 + 2√6).
+2 pkt – zapisanie nierówności z jedną niewiadomą 𝑚, która odpowiada warunkowi
+1
+𝑥1
+2 +
+1
+𝑥2
+2 < 1, np.
+(𝑚+1
+𝑚 )
+2
+−2⋅(−2𝑚+3)
+𝑚
+(−2𝑚+3
+𝑚 )
+2 < 1.
+1 pkt – przekształcenie wyrażenia
+1
+𝑥1
+2 +
+1
+𝑥2
+2 < 1 do postaci pozwalającej na bezpośrednie
+zastosowanie wzorów Viète’a, np.
+(𝑥1+𝑥2)2−2𝑥1𝑥2
+(𝑥1𝑥2)2 < 1 (lub innej równoważnej, ale
+zawierającej jedynie zmienne 𝑥1 + 𝑥2 oraz 𝑥1𝑥2).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Trzeci etap polega na wyznaczeniu wszystkich wartości parametru 𝑚, dla których spełnione
+są jednocześnie warunki: Δ > 0 i
+1
+𝑥1
+2 +
+1
+𝑥2
+2 < 1.
+Za poprawne wykonanie tego etapu zdający otrzymuje 1 punkt.
+1 pkt – poprawne wyznaczenie wszystkich wartości 𝑚, dla których Δ > 0 i
+1
+𝑥1
+2 +
+1
+𝑥2
+2 < 1:
+𝑚 ∈ (−4 − 2√6, 0) ∪ (0,
+1
+9).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania rozwiązań zadań
+Uwagi:
+1. Jeżeli zdający rozwiązuje warunek ∆≥ 0 (zamiast Δ > 0), to za I etap rozwiązania
+otrzymuje 0 punktów.
+2. Jeżeli zdający w II etapie rozwiązania rozważa niepoprawną nierówność wymierną
+i rozwiązanie tej nierówności jest zbiorem rozłącznym ze zbiorem rozwiązań nierówności
+z I etapu, to zdający otrzymuje 0 punktów za III etap.
+3. Jeżeli w rozwiązaniu zdającego nie ma zapisu 𝑚 ≠ 0 albo 𝑚 ≠
+3
+2, albo zdający nie
+uwzględnia w rozwiązaniu warunku 𝑚 ≠ 0, albo 𝑚 ≠
+3
+2, to zdający może otrzymać co
+najwyżej 4 punkty za całe rozwiązanie.
+Przykładowe pełne rozwiązanie
+Równanie 𝑚𝑥2 − (𝑚 + 1)𝑥 − 2𝑚 + 3 = 0 ma dokładnie dwa różne rozwiązania rzeczywiste
+wtedy i tylko wtedy, gdy 𝑚 ≠ 0 i wyróżnik Δ trójmianu kwadratowego
+𝑚𝑥2 − (𝑚 + 1)𝑥 − 2𝑚 + 3 jest dodatni.
+I etap
+Rozwiązujemy warunek Δ > 0:
+[−(𝑚 + 1)]2 − 4𝑚 ⋅ (−2𝑚 + 3) > 0
+9𝑚2 − 10𝑚 + 1 > 0
+(𝑚 − 1)(9𝑚 − 1) > 0
+𝑚 ∈ (−∞, 1
+9) ∪ (1, +∞)
+Zatem równanie 𝑚𝑥2 − (𝑚 + 1)𝑥 − 2𝑚 + 3 = 0 ma dokładnie dwa różne rozwiązania
+rzeczywiste, gdy 𝑚 ∈ (−∞, 0) ∪ (0,
+1
+9) ∪ (1, +∞).
+II etap
+Wyznaczymy wszystkie wartości 𝑚, dla których jest spełniony warunek:
+1
+𝑥1
+2 +
+1
+𝑥2
+2 < 1.
+Przekształcamy nierówność
+1
+𝑥1
+2 +
+1
+𝑥2
+2 < 1 do postaci, która pozwoli na bezpośrednie
+zastosowanie wzorów Viète’a:
+𝑥1 +
+2 𝑥2
+2
+(𝑥1𝑥2)2 < 1
+(𝑥1+𝑥2)2 − 2𝑥1𝑥2
+(𝑥1𝑥2)2 < 1
+Stąd, po zastosowaniu wzorów Viète’a, otrzymujemy:
+(𝑚 + 1
+𝑚 )
+2
+− 2 ⋅ (−2𝑚 + 3)
+𝑚
+(−2𝑚 + 3
+𝑚 )
+2 < 1
+i dalej
+(𝑚 + 1
+𝑚 )
+2
+− 2 ⋅
+(−2𝑚 + 3)
+𝑚 < (−2𝑚 + 3
+𝑚 )
+2
+i 𝑚 ≠ 0 i 𝑚 ≠ 3
+2
+(𝑚 + 1)2 − 2𝑚(−2𝑚 + 3) < (−2𝑚 + 3)2 i 𝑚 ≠ 0 i 𝑚 ≠ 3
+2
+𝑚2 + 8𝑚 − 8 < 0 i 𝑚 ≠ 0 i 𝑚 ≠ 3
+2
+𝑚 ∈ (−4 − 2√6, −4 + 2√6) i 𝑚 ≠ 0 i 𝑚 ≠ 3
+2
+Zatem warunek
+1
+𝑥1
+2 +
+1
+𝑥2
+2 < 1 jest spełniony tylko dla 𝑚 ∈ (−4 − 2√6, 0) ∪ (0, −4 + 2√6).
+III etap
+Wyznaczamy te wszystkie wartości 𝑚, które jednocześnie spełniają warunki: 𝑚 ≠ 0 i
+𝑚 ∈ (−∞,
+1
+9) ∪ (1, +∞) i 𝑚 ∈ (−4 − 2√6, −4 + 2√6) i 𝑚 ≠
+3
+2 :
+𝑚 ∈ (−4 − 2√6, 0) ∪ (0, 1
+9)
+Zasady oceniania rozwiązań zadań

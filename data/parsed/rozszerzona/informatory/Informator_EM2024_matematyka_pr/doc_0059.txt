@@ -1,0 +1,40 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=59; level=rozszerzony; year=2024; section=2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów]
+Przykładowe zadania z rozwiązaniami 59
+1 pkt – wyznaczenie odległości poszczególnych zastępów od miejscowości 𝐴 w zależności
+od czasu, jaki upłynął od momentu wyruszenia zastępów.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+dla rozwiązania sposobem 2.
+4 pkt – uzasadnienie (np. poprzez zbadanie monotoniczności), że dla 𝑡 = 1,5 funkcja 𝑑(𝑡)
+osiąga minimum globalne i podanie poprawnej odpowiedzi.
+3 pkt – podanie dziedziny funkcji 𝑑(𝑡), obliczenie pochodnej funkcji 𝑑(𝑡) i znalezienie
+punktów krytycznych.
+2 pkt – wyznaczenie odległości 𝑑 między zastępami w zależności od czasu 𝑡, jaki upłynął
+od momentu wyruszenia zastępów.
+1 pkt – wyznaczenie odległości poszczególnych zastępów od miejscowości 𝐴 w zależności
+od czasu, jaki upłynął od momentu wyruszenia zastępów.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób 1.
+Niech 𝑑1 będzie odległością (w km) zastępu „Tropiciele” od miejscowości 𝐴.
+Wyznaczamy zależność 𝑑1 od czasu 𝑡 (w godzinach), jaki upłynął od chwili wyruszenia
+zastępu z miejscowości 𝐴:
+𝑑1(𝑡) = 4𝑡 dla 𝑡 ∈ [0, 5].
+Niech 𝑑2 będzie odległością (w km) zastępu „Korsarze” od miejscowości 𝐴.
+Wyznaczamy zależność 𝑑2 od czasu 𝑡 (w godzinach), jaki upłynął od chwili wyruszenia
+zastępu z miejscowości 𝐵:
+𝑑2(𝑡) = 15 − 2𝑡 dla 𝑡 ∈ [0, 15
+2 ].
+Odległość między zastępami badamy do momentu, gdy pierwszy z nich dotrze do celu.
+Odległość 𝑑 między zastępami w chwili 𝑡 jest równa
+𝑑(𝑡) = √𝑑1
+2(𝑡) + 𝑑2
+2(𝑡) = √16𝑡2 + (15 − 2𝑡)2 dla 𝑡 ∈ [0, 5].
+Badamy, dla jakiego argumentu 𝑡 ∈ [0, 5] funkcja 𝑑 osiąga wartość najmniejszą.
+Ponieważ funkcja 𝑔(𝑥) = √𝑥 jest funkcją rosnącą w przedziale [0, +∞), więc funkcja 𝑑
+osiąga wartość najmniejszą dla takiego argumentu, dla którego funkcja 𝑓 określona wzorem
+𝑓(𝑡) = 16𝑡2 + (15 − 2𝑡)2 = 20𝑡2 − 60𝑡 + 225 dla 𝑡 ∈ [0, 5]
+osiąga wartość najmniejszą.
+Korzystamy z własności funkcji kwadratowej i obliczamy argument, dla którego funkcja 𝑓
+osiąga wartość najmniejszą:
+𝑡 = 60
+2⋅20 = 1,5 ∈ [0, 5]

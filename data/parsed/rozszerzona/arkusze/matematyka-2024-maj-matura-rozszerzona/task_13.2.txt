@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=23, 24; level=rozszerzony; year=2024; month=maj; task_id=13.2]
+Zadanie 13.
+Rozważamy wszystkie graniastosłupy prawidłowe trójkątne o objętości 3456, których
+krawędź podstawy ma długość nie większą niż 8√3.
+Zadanie 13.2. (0–4)
+Pole 𝑃 powierzchni całkowitej graniastosłupa w zależności od długości 𝑎 krawędzi
+podstawy graniastosłupa jest określone wzorem
+𝑃(𝑎) = 𝑎2 ⋅ √3
+2 + 13824√3
+𝑎
+dla 𝑎 ∈ (0, 8√3 ].
+Wyznacz długość krawędzi podstawy tego z rozważanych graniastosłupów, którego
+pole powierzchni całkowitej jest najmniejsze. Oblicz to najmniejsze pole. Zapisz
+obliczenia.
+13.2.
+0–1–
+2–3–4

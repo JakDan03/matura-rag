@@ -1,0 +1,149 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=17, 18, 19, 20, 21; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=19]
+Zadanie 19. (0–4)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VIII.8) korzysta z cech podobieństwa
+trójkątów.
+SP IX. Wielokąty.
+2) stosuje wzory na pole trójkąta, […]
+trapezu, a także do wyznaczania długości
+odcinków […].
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑃𝐴𝐵𝐶𝐷 = 22,14.
+3 pkt – obliczenie długości odcinków 𝐴𝐷 oraz 𝐶𝐷: |𝐴𝐷| = 3,6 oraz |𝐶𝐷| = 4,8
+ALBO
+– obliczenie pól trójkątów 𝐴𝐵𝐶 oraz 𝐶𝐴𝐷: 𝑃𝐴𝐵𝐶 = 13,5 oraz 𝑃𝐶𝐴𝐷 = 8,64.
+2 pkt – obliczenie długości odcinka 𝐴𝐷: |𝐴𝐷| = 3,6
+ALBO
+– obliczenie długości odcinka 𝐶𝐷: |𝐶𝐷| = 4,8,
+ALBO
+– obliczenie pola trójkąta 𝐴𝐵𝐶: 𝑃𝐴𝐵𝐶 = 13,5.
+1 pkt – obliczenie długości odcinka 𝐵𝐶: |𝐵𝐶| = 4,5
+ALBO
+– zapisanie równania wynikającego z podobieństwa trójkątów 𝐴𝐵𝐶 i 𝐶𝐴𝐷, np.
+|𝐶𝐷|
+|𝐴𝐶| = |𝐴𝐶|
+|𝐴𝐵|
+,
+ALBO
+– zapisanie, że trójkąt 𝐴𝐵𝐶 jest podobny do trójkąta 𝐶𝐴𝐷 w skali 𝑘 = 7,5
+6
+,
+ALBO
+– zapisanie, że trójkąt 𝐶𝐴𝐷 jest podobny do trójkąta 𝐴𝐵𝐶 w skali 𝑘 = 6
+7,5
+,
+ALBO
+– zapisanie, że |∡𝐵𝐴𝐶| = |∡𝐴𝐶𝐷| oraz obliczenie cosinusa kąta 𝐵𝐴𝐶:
+cos|∡𝐵𝐴𝐶| = 6
+7,5
+,
+ALBO
+– zapisanie zależności między wysokością 𝐴𝐷 trapezu a długością ramienia 𝐵𝐶, np.
+1
+2 ⋅ 7,5 ⋅ |𝐴𝐷| = 1
+2 ⋅ 6 ⋅ |𝐵𝐶|.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli jedynym błędem zdającego jest:
+a) zastosowanie niepoprawnej definicji jednej funkcji trygonometrycznej
+b) błędne zastosowanie twierdzenia Pitagorasa
+c) zastosowanie niepoprawnej tożsamości √𝑥2 + 𝑦2 = 𝑥 + 𝑦
+d) błędne zastosowanie podobieństwa trójkątów (zapisanie błędnej proporcji),
+i rozwiązanie zostanie doprowadzone konsekwentnie do końca, to zdający może otrzymać
+co najwyżej 2 punkty za całe rozwiązanie.
+Jeżeli zdający popełni więcej niż jeden z wymienionych błędów a)–d), to otrzymuje
+0 punktów za całe rozwiązanie, o ile nie nabył prawa do innej liczby punktów.
+Przykładowe pełne rozwiązania
+Sposób I
+Trójkąty 𝐴𝐵𝐶 oraz 𝐶𝐴𝐷 są podobne na podstawie cechy kąt – kąt – kąt podobieństwa
+trójkątów. Stąd
+|𝐶𝐷|
+|𝐴𝐶| = |𝐴𝐶|
+|𝐴𝐵|
+|𝐶𝐷|
+6 = 6
+7,5
+|𝐶𝐷| = 4,8
+Korzystamy z twierdzenia Pitagorasa i obliczamy długość odcinka 𝐴𝐷:
+|𝐴𝐷|2 = |𝐴𝐶|2 − |𝐶𝐷|2
+|𝐴𝐷|2 = 62 − 4,82
+|𝐴𝐷|2 = 12,96
+|𝐴𝐷| = 3,6
+Zasady oceniania rozwiązań zadań
+Obliczamy pole trapezu 𝐴𝐵𝐶𝐷:
+𝑃𝐴𝐵𝐶𝐷 = 1
+2 ⋅ (|𝐴𝐵| + |𝐶𝐷|) ⋅ |𝐴𝐷| = 1
+2 ⋅ (7,5 + 4,8) ⋅ 3,6 = 22,14
+Sposób II
+Korzystamy z twierdzenia Pitagorasa i obliczamy długość odcinka 𝐵𝐶:
+|𝐵𝐶|2 = |𝐴𝐵|2 − |𝐴𝐶|2
+|𝐵𝐶|2 = 7,52 − 62
+|𝐵𝐶|2 = 20,25
+|𝐵𝐶| = 4,5
+Obliczamy pole trójkąta 𝐴𝐵𝐶:
+𝑃𝐴𝐵𝐶 = 1
+2 ⋅ |𝐴𝐶| ⋅ |𝐵𝐶| = 1
+2 ⋅ 6 ⋅ 4,5 = 13,5
+Trójkąt 𝐶𝐴𝐷 jest podobny do trójkąta 𝐴𝐵𝐶 (na podstawie cechy kąt – kąt – kąt
+podobieństwa trójkątów) w skali 𝑘 = 6
+7,5 = 0,8.
+Wykorzystujemy zależność między polami figur podobnych i obliczamy pole trójkąta 𝐶𝐴𝐷:
+𝑃𝐶𝐴𝐷 = 𝑘2 ⋅ 𝑃𝐴𝐵𝐶 = 0,82 ⋅ 13,5 = 8,64
+Obliczamy pole trapezu 𝐴𝐵𝐶𝐷:
+𝑃𝐴𝐵𝐶𝐷 = 𝑃𝐴𝐵𝐶 + 𝑃𝐶𝐴𝐷 = 13,5 + 8,64 = 22,14
+Sposób III
+Korzystamy z twierdzenia Pitagorasa i obliczamy długość odcinka 𝐵𝐶:
+|𝐵𝐶|2 = |𝐴𝐵|2 − |𝐴𝐶|2
+|𝐵𝐶|2 = 7,52 − 62
+|𝐵𝐶|2 = 20,25
+|𝐵𝐶| = 4,5
+Długość odcinka 𝐴𝐷 jest równa wysokości trójkąta 𝐴𝐵𝐶 poprowadzonej z wierzchołka 𝐶.
+Pole trójkąta 𝐴𝐵𝐶 jest równe
+𝑃𝐴𝐵𝐶 = 1
+2 ⋅ 7,5 ⋅ |𝐴𝐷|
+Ponadto pole trójkąta 𝐴𝐵𝐶 można obliczyć jako połowę iloczynu długości
+przyprostokątnych:
+𝑃𝐴𝐵𝐶 = 1
+2 ⋅ 6 ⋅ 4,5 = 13,5
+Zatem
+1
+2 ⋅ 7,5 ⋅ |𝐴𝐷| = 13,5
+|𝐴𝐷| = 3,6
+Korzystamy z twierdzenia Pitagorasa i obliczamy długość odcinka 𝐶𝐷:
+|𝐶𝐷|2 = |𝐴𝐶|2 − |𝐴𝐷|2
+|𝐶𝐷|2 = 62 − 3,62
+|𝐶𝐷|2 = 23,04
+|𝐶𝐷| = 4,8
+Obliczamy pole trapezu 𝐴𝐵𝐶𝐷:
+𝑃𝐴𝐵𝐶𝐷 = 1
+2 ⋅ (|𝐴𝐵| + |𝐶𝐷|) ⋅ |𝐴𝐷| = 1
+2 ⋅ (7,5 + 4,8) ⋅ 3,6 = 22,14
+Sposób IV
+Zauważmy, że |∡𝐴𝐶𝐷| = |∡𝐵𝐴𝐶|.
+Zatem cos|∡𝐴𝐶𝐷| = cos|∡𝐵𝐴𝐶| = |𝐴𝐶|
+|𝐴𝐵| = 6
+7,5 = 0,8 .
+Jednocześnie cos|∡𝐴𝐶𝐷| = |𝐶𝐷|
+|𝐴𝐶| = |𝐶𝐷|
+6
+.
+Stąd
+|𝐶𝐷|
+6 = 0,8
+więc
+|𝐶𝐷| = 4,8
+Korzystamy z twierdzenia Pitagorasa i obliczamy długość odcinka 𝐴𝐷:
+|𝐴𝐷|2 = |𝐴𝐶|2 − |𝐶𝐷|2
+|𝐴𝐷|2 = 62 − 4,82
+|𝐴𝐷|2 = 12,96
+|𝐴𝐷| = 3,6
+Obliczamy pole trapezu 𝐴𝐵𝐶𝐷:
+𝑃𝐴𝐵𝐶𝐷 = 1
+2 ⋅ (|𝐴𝐵| + |𝐶𝐷|) ⋅ |𝐴𝐷| = 1
+2 ⋅ (7,5 + 4,8) ⋅ 3,6 = 22,14
+Zasady oceniania rozwiązań zadań

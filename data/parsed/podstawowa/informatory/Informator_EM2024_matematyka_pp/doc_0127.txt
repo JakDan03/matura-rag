@@ -1,0 +1,26 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=127; level=podstawowy; year=2024; section=2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów]
+Przykładowe zadania z rozwiązaniami 127
+Zadanie 63.2. (0–3)
+Oblicz, na ile sposobów można wybrać taki zestaw, w którym dokładnie jeden element
+ubioru będzie niebieski.
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów
+praktycznych i teoretycznych.
+Wymagania szczegółowe
+XI. Kombinatoryka. Zdający:
+1) zlicza obiekty w prostych sytuacjach kombinatorycznych;
+2) zlicza obiekty, stosując reguły mnożenia i dodawania (także łącznie) […].
+Zasady oceniania
+3 pkt – poprawne zastosowanie reguły mnożenia oraz reguły dodawania do obliczenia liczby
+zestawów z jednym elementem niebieskim i podanie poprawnego wyniku: 26.
+2 pkt – zastosowanie reguły mnożenia do obliczenia liczby zestawów, w których kolor
+niebieski ma albo koszula, albo spodnie, albo buty, i poprawne obliczenie liczby
+zestawów w każdym takim przypadku: 2 ⋅ 4 = 8, 3 ⋅ 4 = 12, 3 ⋅ 2 = 6.
+1 pkt – rozpisanie zestawów ubrań na trzy grupy: w których jeden element jest niebieski,
+a pozostałe elementy są innych kolorów
+ALBO
+– zastosowanie reguły mnożenia do obliczenia liczby zestawów, w których kolor
+niebieski ma albo koszula, albo spodnie, albo buty, i poprawne obliczenie liczby
+zestawów w jednym takim przypadku: 2 ⋅ 4 = 8 albo 3 ⋅ 4 = 12 albo 3 ⋅ 2 = 6.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.

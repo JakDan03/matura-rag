@@ -1,0 +1,4 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=8, 9, 10; level=rozszerzony; year=2023; month=czerwiec; task_id=5]
+Zadanie 5. (0–3)
+Wykaż, że dla każdej liczby rzeczywistej dodatniej 𝒂 prawdziwa jest nierówność
+𝒂^𝟐 + 𝟏𝟔/𝒂 ≥ 𝟏𝟐

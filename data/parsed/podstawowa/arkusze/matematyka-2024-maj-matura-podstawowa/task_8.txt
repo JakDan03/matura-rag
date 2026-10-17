@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=8; level=podstawowy; year=2024; month=maj; task_id=8]
+Zadanie 8. (0–1)
+Dany jest wielomian 𝑊(𝑥) = 3𝑥3 + 6𝑥2 + 9𝑥.
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Wielomian 𝑊 jest iloczynem wielomianów 𝐹(𝑥) = 3𝑥 i 𝐺(𝑥) = 𝑥2 + 2𝑥 + 3. P F
+Liczba (−1) jest rozwiązaniem równania 𝑊(𝑥) = 0. P F

@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=5; level=podstawowy; year=2024; month=maj; task_id=3]
+Zadanie 3. (0–2)
+Wykaż, że dla każdej liczby naturalnej 𝒏 ≥ 𝟏 liczba 𝒏𝟐 + (𝒏 + 𝟏)𝟐 + (𝒏 + 𝟐)𝟐 przy
+dzieleniu przez 𝟑 daje resztę 𝟐.
+3.
+0–1–2

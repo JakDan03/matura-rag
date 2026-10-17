@@ -1,0 +1,36 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=2, 3; level=rozszerzony; year=2025; month=maj; task_id=1]
+Zadanie 1. (0–2)
+Wymagania określone w podstawie programowej1
+Wymaganie ogólne Wymaganie szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście,
+zarówno matematycznym, jak
+i popularnonaukowym, a także w formie
+wykresów, diagramów, tabel.
+Zdający:
+V.14) posługuje się funkcjami wykładniczą
+i logarytmiczną […] do opisu i interpretacji
+zagadnień związanych z zastosowaniami
+praktycznymi.
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody i poprawny wynik: 25%.
+1 pkt – zapisanie równania z jedną niewiadomą 𝑘, np. 15 625 = 10 000 ⋅ 𝑘2.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga.
+Jeżeli zdający odgadnie wynik i sprawdzi, że wartość 25% spełnia warunki zadania oraz
+uzasadni, że jest to jedyne rozwiązanie (np. powołując się na to, że funkcja wykładnicza jest
+rosnąca), to otrzymuje 2 punkty; natomiast jeżeli takiego uzasadnienia nie przedstawi, to
+otrzymuje 1 punkt.
+Przykładowe pełne rozwiązanie
+Z warunków zadania 𝑁(0) = 10 000, więc 10 000 = 𝑁0 ⋅ 𝑘0 i stąd 𝑁0 = 10 000.
+Ponieważ 𝑁(2) = 15 625, więc 15 625 = 10 000 ⋅ 𝑘2 i stąd 𝑘 = 1,25. Zatem
+𝑁(𝑡 + 1)
+𝑁(𝑡) = 𝑁0 ⋅ 𝑘𝑡+1
+𝑁0 ⋅ 𝑘𝑡 = 𝑘 = 1,25
+dla każdego 𝑡 ≥ 0. To oznacza, że w ciągu każdej godziny liczebność populacji zwiększała
+się o 25% .
+1Rozporządzenie Ministra Edukacji z dnia 28 czerwca 2024 r. zmieniające rozporządzenie w sprawie podstawy
+programowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia
+(Dz.U. z 2024 r. poz. 1019).
+Zasady oceniania rozwiązań zadań

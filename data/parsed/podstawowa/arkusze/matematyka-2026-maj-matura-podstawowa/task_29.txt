@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=28; level=podstawowy; year=2026; month=maj; task_id=29]
+Zadanie 29. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wszystkich liczb naturalnych trzycyfrowych nieparzystych, w których zapisie dziesiętnym
+występują tylko cyfry 0, 1, 2, 3, 4, 5, 6 (np.: 321, 555), jest
+A. 6 ⋅ 7 ⋅ 3 B. 6 ⋅ 7 ⋅ 7 C. 7 ⋅ 7 ⋅ 3 D. 7 ⋅ 7 ⋅ 7

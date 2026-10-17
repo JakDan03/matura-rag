@@ -1,0 +1,23 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=28; level=podstawowy; year=2025; month=maj; task_id=31]
+Zadanie 31. (0–4)
+Rozważamy wszystkie prostopadłościany 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻, w których krawędź 𝐵𝐶 ma długość 4
+oraz suma długości wszystkich krawędzi wychodzących z wierzchołka 𝐵 jest równa 15
+(zobacz rysunek).
+Niech 𝑃(𝑥) oznacza funkcję pola powierzchni całkowitej takiego prostopadłościanu
+w zależności od długości 𝑥 krawędzi 𝐴𝐵.
+Wyznacz wzór i dziedzinę funkcji 𝑷. Oblicz długość 𝒙 krawędzi 𝑨𝑩 tego
+z rozważanych prostopadłościanów, którego pole powierzchni całkowitej jest
+największe. Zapisz obliczenia.
+𝐴
+𝐵
+𝐶
+𝐷
+𝐺
+𝐻
+𝐸
+𝐹
+𝑥
+4
+31.
+0–1–
+2–3–4

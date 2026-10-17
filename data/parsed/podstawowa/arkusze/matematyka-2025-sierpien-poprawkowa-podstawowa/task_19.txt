@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=18; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=19]
+Zadanie 19. (0–1)
+Kąt 𝛼 jest ostry oraz cos 𝛼 = 5
+13
+.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Tangens kąta 𝛼 jest równy
+A. 5
+12 B. 12
+13 C. 13
+12 D. 12
+5

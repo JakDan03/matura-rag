@@ -1,0 +1,23 @@
+Dział I. Liczby rzeczywiste.
+Poziom: podstawowy
+Zakres podstawowy. Uczeń:
+1) wykonuje działania (dodawanie, odejmowanie, mnożenie, dzielenie, potęgowanie,
+pierwiastkowanie, logarytmowanie) w zbiorze liczb rzeczywistych;
+2) przeprowadza proste dowody dotyczące podzielności liczb całkowitych i reszt z dzielenia,
+np.:
+a) dowód podzielności przez 24 iloczynu czterech kolejnych liczb naturalnych,
+b) dowód własności: jeśli liczba przy dzieleniu przez 4 daje resztę 3, to nie jest
+kwadratem liczby całkowitej;
+3) stosuje własności pierwiastków dowolnego stopnia, w tym pierwiastków stopnia
+nieparzystego z liczb ujemnych;
+4) stosuje związek pierwiastkowania z potęgowaniem oraz prawa działań na potęgach i
+pierwiastkach;
+5) stosuje monotoniczność potęgowania, w szczególności własności: jeśli x < y oraz a > 1,
+to ax < ay, zaś gdy x < y i 0 < a < 1, to ax > ay;
+6) posługuje się pojęciem przedziału liczbowego, zaznacza przedziały na osi liczbowej;
+7) stosuje interpretację geometryczną i algebraiczną wartości bezwzględnej, rozwiązuje
+równania typu: |x + 4| = 5;
+8) wykorzystuje własności potęgowania i pierwiastkowania w sytuacjach praktycznych, w
+tym do obliczania procentów składanych, zysków z lokat i kosztów kredytów;
+9) stosuje związek logarytmowania z potęgowaniem, posługuje się wzorami na logarytm
+iloczynu, logarytm ilorazu i logarytm potęgi.

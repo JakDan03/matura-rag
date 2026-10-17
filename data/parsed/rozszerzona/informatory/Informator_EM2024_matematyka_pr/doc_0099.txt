@@ -1,0 +1,25 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=99; level=rozszerzony; year=2024; section=2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów]
+Przykładowe zadania z rozwiązaniami 99
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów
+praktycznych i teoretycznych.
+Wymaganie szczegółowe
+XII. Rachunek prawdopodobieństwa i statystyka. Zdający:
+2R) stosuje schemat Bernoullego.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik.
+3 pkt – zastosowanie wzoru na prawdopodobieństwo uzyskania 𝑘 sukcesów w 𝑛 próbach
+i zapisanie nierówności 1 − (0,6)𝑛 > 0,95.
+2 pkt – zapisanie nierówności 1 − 𝑃(𝑆𝑛
+0) > 0,95.
+1 pkt – zapisanie prawdopodobieństwa sukcesu i porażki.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Próbą Bernoullego jest rozegranie pojedynczej partii szachów z synem. Sukcesem w tej
+próbie jest wygrana pana Nowaka z synem w pojedynczej partii.
+Prawdopodobieństwo sukcesu jest równe 𝑝 = 0,4, natomiast prawdopodobieństwo porażki
+jest równe 𝑞 = 0,6.
+Niech 𝑛 oznacza szukaną liczbę partii oraz niech
+𝑆𝑛
+0 – oznacza niewygranie przez ojca żadnej partii szachów,

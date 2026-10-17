@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona.pdf; typ=exam_paper; strony=4; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=1]
+Zadanie 1. (0–2)
+Ładunek elektryczny zgromadzony w kondensatorze można opisać zależnością
+𝑄(𝑡) = 𝑄0 ⋅ 𝛽−𝑡 dla 𝑡 ≥ 0
+gdzie:
+𝑄0 – ładunek elektryczny zgromadzony w kondensatorze w chwili początkowej (𝑡 = 0)
+wyrażony w milikulombach
+𝑄 – ładunek elektryczny zgromadzony w kondensatorze w chwili 𝑡 (licząc od chwili
+początkowej) wyrażony w milikulombach
+𝛽 – stała dodatnia
+𝑡 – czas wyrażony w sekundach.
+Wiadomo, że w chwili 𝑡 = 4 s w kondensatorze był zgromadzony ładunek 2 milikulombów,
+a w chwili 𝑡 = 6 s – ładunek 18 milikulombów.
+Oblicz, ile milikulombów ładunku było zgromadzone w tym kondensatorze w chwili
+𝒕 = 𝟓 s. Zapisz obliczenia.
+1.
+0–1–2

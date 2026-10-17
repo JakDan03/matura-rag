@@ -1,0 +1,41 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=6; level=rozszerzony; year=2024; section=ZADANIA NA EGZAMINIE]
+6 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+ZADANIA NA EGZAMINIE
+Zadania na egzaminie maturalnym z matematyki na poziomie rozszerzonym będą wyłącznie
+zadaniami otwartymi.
+Zadania otwarte to takie, w których zdający samodzielnie formułuje odpowiedź. Wśród zadań
+otwartych na egzaminie maturalnym z matematyki znajdą się m.in.:
+• zadania krótkiej odpowiedzi, wymagające zapisania przeprowadzonego rozumowania
+zwykle w kilku, w dwóch lub trzech krokach
+• zadania rozszerzonej odpowiedzi, wymagające utworzenia strategii rozwiązania
+problemu matematycznego, jej realizacji i weryfikacji uzyskanego wyniku.
+Przedstawione przez zdającego rozwiązanie zadania otwartego, w którym zdający m.in.
+oblicza, wyznacza, wyprowadza, uzasadnia, wykazuje, musi prezentować pełny tok
+rozumowania, uwzględniać warunki zadania, a także odwoływać się do twierdzeń
+matematycznych i własności odpowiednich obiektów matematycznych.
+Wszystkie zadania egzaminacyjne będą sprawdzały poziom opanowania umiejętności
+opisanych w następujących wymaganiach ogólnych w podstawie programowej kształcenia
+ogólnego dla szkoły ponadpodstawowej (w nawiasach zapisano numery celów kształcenia
+podstawy programowej):
+• sprawność rachunkowa (I)
+• wykorzystanie i tworzenie informacji (II)
+• wykorzystanie i interpretowanie reprezentacji (III)
+• rozumowanie i argumentacja (IV).
+Zadania egzaminacyjne będą dotyczyły następujących obszarów tematycznych matematyki
+(w nawiasach zapisano numery treści nauczania podstawy programowej):
+• liczby rzeczywiste, wyrażenia algebraiczne, równania i nierówności, układy równań (I, II,
+III, IV)
+• funkcje, ciągi, trygonometria, optymalizacja i rachunek różniczkowy (V, VI, VII, XIII)
+• planimetria, geometria analityczna, stereometria (VIII, IX, X)
+• kombinatoryka, rachunek prawdopodobieństwa i statystyka (XI, XII).
+Aby sprawdzić opanowanie przez zdających wymagania ogólnego „IV. rozumowanie
+i argumentacja”, wśród zadań egzaminacyjnych znajdą się zadania na dowodzenie,
+wymagające od zdającego przeprowadzenia dowodu matematycznego. W celu sprawdzenia
+opanowania przez zdających wymagania ogólnego „III. 2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu problemów praktycznych i teoretycznych” wśród zadań
+egzaminacyjnych mogą znaleźć się zadania z kontekstem praktycznym/realistycznym.
+Zadania tego typu będą miały uproszczone założenia, tzn. będą pomijały niektóre
+rzeczywiste warunki. Dzięki takiej idealizacji zagadnienia będzie można łatwiej zbudować
+jego adekwatny model matematyczny, który – po pierwsze – będzie opisywał istotę
+zagadnienia, po drugie – będzie korzystał z narzędzi dostępnych na danym etapie
+nauczania, a po trzecie – nie będzie wymagał specjalistycznej wiedzy z danego kontekstu.

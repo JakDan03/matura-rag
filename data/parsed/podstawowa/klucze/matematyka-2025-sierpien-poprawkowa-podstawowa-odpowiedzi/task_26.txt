@@ -1,0 +1,84 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=21, 22, 23; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=26]
+Zadanie 26. (0–4)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+X.5) oblicza objętości i pola powierzchni
+graniastosłupów […], również
+z wykorzystaniem trygonometrii.
+Zasady oceniania
+4 pkt – poprawna metoda obliczenia objętości i pola powierzchni całkowitej graniastosłupa
+oraz poprawne wyniki: 𝑉 = 48 i 𝑃𝑐 = 56√3.
+3 pkt – obliczenie objętości graniastosłupa: 𝑉 = 48,
+ALBO
+– obliczenie pola powierzchni całkowitej graniastosłupa: 𝑃𝑐 = 56√3.
+2 pkt – obliczenie długości krawędzi podstawy: 𝑎 = 4 oraz obliczenie wysokości
+graniastosłupa: 𝐻 = 4√3,
+ALBO
+– zapisanie wzoru na objętość graniastosłupa w zależności od jednej zmiennej, np.
+𝑉 = 𝑎2 ⋅ √3
+4 ⋅ 𝑎√3, oraz zapisanie wzoru na pole powierzchni całkowitej
+graniastosłupa w zależności od jednej zmiennej, np. 𝑃𝑐 = 2 ⋅ 𝑎2 ⋅ √3
+4 + 3 ⋅ 𝑎 ⋅ 𝑎√3.
+1 pkt – obliczenie długości krawędzi podstawy: 𝑎 = 4,
+ALBO
+– zapisanie zależności pomiędzy długością krawędzi podstawy a wysokością
+graniastosłupa, np.: tg 60° = 𝐻
+𝑎
+, 𝐻 = 𝑎√3.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli jedynym błędem zdającego jest:
+a) zastosowanie niepoprawnej definicji jednej funkcji trygonometrycznej,
+b) błędne zastosowanie twierdzenia Pitagorasa,
+c) błędne zastosowanie twierdzenia cosinusów,
+d) zastosowanie niepoprawnej tożsamości √𝑥2 + 𝑦2 = 𝑥 + 𝑦,
+lub
+e) błędne zastosowanie własności trójkąta o kątach 30°, 60°, 90°,
+i rozwiązanie zostanie doprowadzone konsekwentnie do końca, to zdający może otrzymać
+co najwyżej 2 punkty za całe rozwiązanie (za konsekwentne obliczenie objętości i pola
+powierzchni całkowitej graniastosłupa).
+Jeżeli zdający popełni więcej niż jeden z wymienionych błędów a)–e), to otrzymuje
+0 punktów za całe rozwiązanie, o ile nie nabył prawa do innej liczby punktów.
+2. Jeżeli zdający popełni błąd, który nie jest błędem rachunkowym, ale otrzyma długość
+krawędzi podstawy większą od 2√3, to może otrzymać co najwyżej 2 punkty za całe
+rozwiązanie (za konsekwentne obliczenie objętości i pola powierzchni całkowitej
+graniastosłupa).
+Przykładowe pełne rozwiązanie
+Przyjmujemy oznaczenia jak na rysunku:
+𝑎 – długość krawędzi podstawy,
+𝐻 – wysokość graniastosłupa.
+Zauważamy, że 𝑎 > 0 i 𝐻 > 0.
+Podstawą graniastosłupa jest trójkąt równoboczny, stąd:
+2√3 = 𝑎√3
+2
+Zatem:
+𝑎 = 4
+Obliczamy wysokość 𝐻 graniastosłupa:
+tg 60° = 𝐻
+𝑎 = 𝐻
+4
+2√3
+60°
+𝐴
+𝐷
+𝐸
+𝐹
+𝐶
+𝐵
+𝑎
+𝐻
+Zasady oceniania rozwiązań zadań
+Stąd:
+𝐻 = 4 ⋅ tg 60° = 4√3
+Obliczamy objętość 𝑉 graniastosłupa:
+𝑉 = 𝑎2 ⋅ √3
+4 ⋅ 𝐻 = 42 ⋅ √3
+4 ⋅ 4√3 = 4√3 ⋅ 4√3 = 48
+Obliczamy pole powierzchni całkowitej 𝑃𝑐 graniastosłupa:
+𝑃𝑐 = 2 ⋅ 𝑎2 ⋅ √3
+4 + 3 ⋅ 𝑎 ⋅ 𝐻 = 2 ⋅ 42 ⋅ √3
+4 + 3 ⋅ 4 ⋅ 4√3 = 8√3 + 48√3 = 56√3

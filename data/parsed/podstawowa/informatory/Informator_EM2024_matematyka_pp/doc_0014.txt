@@ -1,0 +1,30 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=14; level=podstawowy; year=2024; section=1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów]
+14 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 3. (0–2)
+Udowodnij, że dla każdej liczby całkowitej 𝒏 liczba (𝟑𝒏 + 𝟓)𝟐 + 𝟏𝟏𝒏𝟐 − 𝟏𝟖
+przy dzieleniu przez 𝟓 daje resztę 𝟐.
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.
+Wymaganie szczegółowe
+I. Liczby rzeczywiste. Zdający:
+2) przeprowadza proste dowody dotyczące podzielności liczb całkowitych i reszt
+z dzielenia […].
+Zasady oceniania
+2 pkt – przekształcenie wyrażenia (3𝑛 + 5)2 + 11𝑛2 − 18 do postaci
+5 ⋅ (4𝑛2 + 6𝑛 + 1) + 2 oraz zapisanie, że 4𝑛2 + 6𝑛 + 1 jest liczbą całkowitą.
+1 pkt – przekształcenie wyrażenia (3𝑛 + 5)2 + 11𝑛2 − 18 do postaci 20𝑛2 + 30𝑛 + 7.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Powołamy się na definicję reszty z dzielenia dwóch liczb całkowitych. Liczba całkowita 𝑊
+przy dzieleniu przez liczbę całkowitą 𝑃 daje resztę całkowitą 𝑅 wtedy, gdy istnieje liczba
+całkowita 𝑄 taka, że 𝑊 = 𝑃 ⋅ 𝑄 + 𝑅 oraz 0 ≤ 𝑅 < |𝑃|.
+(Np. liczba 22 przy dzieleniu przez 5 daje resztę równą 2, ponieważ 22 = 5 ⋅ 4 + 2,
+gdzie 4 jest liczbą całkowitą oraz 2 < 5).
+Liczbę określoną w zadaniu przekształcimy do postaci 5 ⋅ 𝑄 + 2:
+(3𝑛 + 5)2 + 11𝑛2 − 18 = 9𝑛2 + 30𝑛 + 25 + 11𝑛2 − 18 = 20𝑛2 + 30𝑛 + 7 =
+= 20𝑛2 + 30𝑛 + 5 + 2 = 5 ⋅ (4𝑛2 + 6𝑛 + 1) + 2
+Ponieważ 𝑛 jest liczbą całkowitą, więc 4𝑛2 oraz 6𝑛 są liczbami całkowitymi.
+Suma tych liczb całkowitych oraz liczby 1 jest liczbą całkowitą.
+Zatem liczba (3𝑛 + 5)2 + 11𝑛2 − 18 przy dzieleniu przez 5 daje resztę 2.

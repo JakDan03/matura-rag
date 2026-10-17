@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=18; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=20]
+Zadanie 20. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba sin 30° ⋅ cos 60° + sin 60° ⋅ cos 30° jest równa
+A. 1
+2 B.
+√2
+2 C.
+√3
+2 D. 1

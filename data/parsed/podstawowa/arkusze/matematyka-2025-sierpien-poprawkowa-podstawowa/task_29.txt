@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=27; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=29]
+Zadanie 29. (0–2)
+Doświadczenie losowe polega na dwukrotnym rzucie symetryczną sześcienną kostką do gry,
+która na każdej ściance ma inną liczbę oczek – od jednego oczka do sześciu oczek.
+Zapisujemy kolejno liczby wyrzuconych oczek i w ten sposób otrzymujemy liczbę
+dwucyfrową, przy czym pierwsza wyrzucona liczba oczek jest cyfrą dziesiątek, a druga –
+cyfrą jedności tej liczby dwucyfrowej.
+Oblicz prawdopodobieństwo zdarzenia 𝑨 polegającego na tym, że otrzymana w ten
+sposób liczba dwucyfrowa będzie nieparzysta i podzielna przez 𝟑. Zapisz obliczenia.

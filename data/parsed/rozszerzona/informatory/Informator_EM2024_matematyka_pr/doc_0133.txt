@@ -1,0 +1,53 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=133; level=rozszerzony; year=2024; section=|𝐵𝑆| = 𝐻2 − 𝐻1]
+Informacja o egzaminie maturalnym z matematyki dla absolwentów niesłyszących 133
+Z trójkątów 𝑆𝑆′𝑄 oraz 𝑆𝑇𝐵 otrzymujemy
+|𝐵𝑆| =
+|𝑆𝑇|
+cos 𝛼
+2
+oraz |𝑆𝑄| =
+|𝑆𝑆′|
+cos 𝛼
+2
+Z treści zadania |𝑆𝑇| = 𝐻2 − 𝐻1 oraz |𝑆𝑆′| = 𝐻2 − 𝐻0, więc
+|𝐵𝑆| = 𝐻2 − 𝐻1
+cos 𝛼
+2
+oraz |𝑃𝑆| = |𝑆𝑄| = 𝐻2 − 𝐻0
+cos 𝛼
+2
+Stosujemy twierdzenie cosinusów do trójkąta 𝐵𝑆𝑃 i obliczamy |𝑃𝐵|:
+|𝑃𝐵|2 = |𝑃𝑆|2 + |𝐵𝑆|2 − 2 ⋅ |𝑃𝑆| ⋅ |𝐵𝑆| ⋅ cos |∡𝐵𝑆𝑃|
+𝑑 = √(𝐻2 − 𝐻0
+cos 𝛼
+2
+)
+2
++ (𝐻2 − 𝐻1
+cos 𝛼
+2
+)
+2
+− 2(𝐻2 − 𝐻0)(𝐻2 − 𝐻1)
+(cos 𝛼
+2)
+2 ⋅ cos (𝜋 ⋅ sin 𝛼
+2)
+𝑑 =
+√(𝐻2 − 𝐻0)2 + (𝐻2 − 𝐻1)2 − 2(𝐻2 − 𝐻0)(𝐻2 − 𝐻1) cos (𝜋 ⋅ sin 𝛼
+2)
+cos 𝛼
+2
+𝛼
+2
+𝛼
+2
+𝑆
+𝑃
+𝐵
+𝑄
+Rys. 2.
+𝑆'
+𝑇
+𝑟
+𝑙

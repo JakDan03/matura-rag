@@ -1,0 +1,37 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=26; year=2023; section=12. STEREOMETRIA]
+Strona 26 z 34
+• Współrzędne środka ciężkości trójkąta
+Współrzędne środka ciężkości 𝑆 = (𝑥𝑆, 𝑦𝑆) trójkąta 𝐴𝐵𝐶 o wierzchołkach
+𝐴 = (𝑥𝐴, 𝑦𝐴), 𝐵 = (𝑥𝐵, 𝑦𝐵) oraz 𝐶 = (𝑥𝐶, 𝑦𝐶), czyli punktu przecięcia jego środkowych:
+12. STEREOMETRIA
+• Twierdzenie o trzech prostych prostopadłych
+Prosta 𝑘 przebija płaszczyznę w punkcie 𝑃 pod kątem ostrym. Prosta 𝑙 jest rzutem
+prostokątnym prostej 𝑘 na tę płaszczyznę. Prosta 𝑚 leży na tej płaszczyźnie
+i przechodzi przez punkt 𝑃.
+Wówczas prosta 𝑚 jest prostopadła do prostej 𝑘 wtedy i tylko wtedy, gdy 𝑚 jest
+prostopadła do prostej 𝑙.
+Przyjmujemy oznaczenia:
+𝑃𝑐 – pole powierzchni całkowitej 𝑃𝑏 – pole powierzchni bocznej
+𝑃𝑝 – pole podstawy 𝑉 – objętość
+• Prostopadłościan
+gdzie 𝑎, 𝑏, 𝑐 są długościami krawędzi prostopadłościanu
+𝑥𝑆 = 𝑥𝐴 + 𝑥𝐵 + 𝑥𝐶
+3 𝑦𝑆 = 𝑦𝐴 + 𝑦𝐵 + 𝑦𝐶
+3
+𝑃𝑐 = 2(𝑎𝑏 + 𝑏𝑐 + 𝑐𝑎)
+𝑉 = 𝑎𝑏𝑐
+𝑘
+𝑙
+𝑚
+𝑃
+𝑎
+𝑏
+𝑐
+𝐴
+𝐵
+𝐸
+𝐺
+𝐹
+𝐻
+𝐷
+𝐶

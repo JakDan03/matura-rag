@@ -1,0 +1,20 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=14; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=11.2]
+Zadanie 11.2. (0–1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymaganie szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście,
+zarówno matematycznym, jak
+i popularnonaukowym, a także w formie
+wykresów, diagramów, tabel.
+Zdający:
+V.4) odczytuje z wykresu funkcji: […]
+przedziały, w których funkcja przyjmuje
+wartości większe (nie mniejsze) lub
+mniejsze (nie większe) od danej liczby […].
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+(2, 6)

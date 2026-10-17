@@ -1,0 +1,35 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=148; level=podstawowy; year=2024; section=ALBO]
+148 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Przykładowe pełne rozwiązanie
+Przyjmiemy oznaczenia jak na rysunku w zadaniu. Całkowitą długość płotu – po
+uwzględnieniu warunków zadania – można zapisać równaniem:
+3𝑥 + 4𝑦 − 2 ⋅ 10 = 580
+Powyższe równanie określa związek między wymiarami 𝑥 i 𝑦. Wymiar 𝑦 jednej działki
+musi być większy od 10 m, ze względu na ustaloną szerokość bramy wjazdowej. W związku
+z tym, w modelu matematycznym uwzględniającym warunki zadania, wymiary 𝑥 i 𝑦
+spełniają:
+𝑥 > 0 i 𝑦 > 10
+Pole 𝑃 całkowitej powierzchni magazynowej jest równe polu prostokąta o bokach długości
+𝑥 oraz 2𝑦. Zatem:
+𝑃 = 𝑥 ⋅ 2𝑦
+Pole powierzchni magazynowej wyrazimy jako funkcję jednej zmiennej 𝑥. W tym celu
+najpierw wyznaczymy 𝑦:
+3𝑥 + 4𝑦 − 2 ⋅ 10 = 580
+4𝑦 = 600 − 3𝑥
+𝑦 = 150 − 3
+4 𝑥
+Następnie podstawimy wyznaczone 𝑦 do wzoru na pole 𝑃 = 𝑥 ⋅ 2𝑦:
+𝑃(𝑥) = 2𝑥 (150 − 3
+4 𝑥)
+Wyznaczymy dziedzinę funkcji 𝑃. Wykorzystamy związek między wymiarami 𝑥 i 𝑦 oraz
+wykorzystamy warunki, jakie te wymiary spełniają:
+𝑦 = 150 − 3
+4 𝑥 oraz 𝑦 > 10 oraz 𝑥 > 0
+Zatem:
+150 − 3
+4 𝑥 > 10 oraz 𝑥 > 0
+𝑥 < 560
+3 oraz 𝑥 > 0
+Zmienna 𝑥 może przyjmować wartości:
+𝑥 ∈ (0, 560
+3 )

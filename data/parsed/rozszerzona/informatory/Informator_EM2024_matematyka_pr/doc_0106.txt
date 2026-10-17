@@ -1,0 +1,15 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=106; level=rozszerzony; year=2024; section=𝐾 ∈ {𝐶, 𝐷, 𝐸, 𝐹, 𝐺}).]
+106 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+𝑛(𝐴, 𝐷) ⋅ 𝑛(𝐷, 𝐵) = (11
+3 ) ⋅ (13
+1 ) = 165 ⋅ 13 = 2145
+𝑛(𝐴, 𝐸) ⋅ 𝑛(𝐸, 𝐵) = (11
+4 ) ⋅ (13
+2 ) = 330 ⋅ 78 = 25740
+𝑛(𝐴, 𝐹) ⋅ 𝑛(𝐹, 𝐵) = (13
+1 ) ⋅ (11
+3 ) = 13 ⋅ 165 = 2145
+𝑛(𝐴, 𝐺) ⋅ 𝑛(𝐺, 𝐵) = (13
+0 ) ⋅ (11
+2 ) = 1 ⋅ 55 = 55
+więc 𝑛(𝐴, 𝐵) = 55 + 2145 + 25740 + 2145 + 55 = 30140.

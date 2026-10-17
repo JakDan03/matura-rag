@@ -1,0 +1,5 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=14; level=rozszerzony; year=2025; month=czerwiec; task_id=7]
+Zadanie 7. (0–4)
+Na czworokącie wypukłym 𝐴𝐵𝐶𝐷 o bokach długości: |𝐴𝐵| = 3, |𝐵𝐶| = 3, |𝐶𝐷| = 5 oraz
+|𝐷𝐴| = 8, opisano okrąg.
+Oblicz promień tego okręgu. Zapisz obliczenia.

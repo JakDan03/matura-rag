@@ -1,0 +1,39 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=24; level=rozszerzony; year=2024; section=1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów]
+24 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania […].
+Wymagania szczegółowe
+III. Równania i nierówności. Zdający:
+3R) stosuje wzory Viète’a dla równań kwadratowych;
+5R) analizuje […] równania i nierówności kwadratowe z parametrami, w szczególności
+wyznacza liczbę rozwiązań w zależności od parametrów […] i wyznacza
+rozwiązania w zależności od parametrów.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik.
+3 pkt – rozwiązanie równania |1 − 1−2𝑝
+𝑝 | = 1.
+2 pkt – zapisanie równania |𝑥1 − 𝑥2| = 1 w postaci równania z jedną niewiadomą 𝑝, np.
+|1 − 1−2𝑝
+𝑝 | = 1.
+1 pkt – zapisanie i sprawdzenie rachunkiem, że liczba 𝑥1 = 1 jest miejscem zerowym
+funkcji 𝑓 oraz wyznaczenie miejsca zerowego 𝑥2 funkcji 𝑓: 𝑥2 = 1−2𝑝
+𝑝 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Ponieważ 𝑓 jest funkcją kwadratową, więc 𝑝 ≠ 0.
+Zauważamy, że liczba 𝑥1 = 1 jest miejscem zerowym funkcji 𝑓:
+𝑓(1) = 𝑝 ⋅ 12 + (𝑝 − 1) ⋅ 1 + 1 − 2𝑝 = 0
+Korzystamy ze wzorów Viète’a i wyznaczamy miejsce zerowe 𝑥2 funkcji 𝑓:
+𝑥1 ⋅ 𝑥2 = 1 − 2𝑝
+𝑝
+𝑥2 = 1 − 2𝑝
+𝑝
+Miejsca zerowe 𝑥1 , 𝑥2 funkcji 𝑓 różnią się o 1, gdy |𝑥1 − 𝑥2| = 1.
+Rozwiązujemy równanie |𝑥1 − 𝑥2| = 1:
+|𝑥1 − 𝑥2| = 1
+|1 − 1 − 2𝑝
+𝑝 | = 1
+|3𝑝 − 1
+𝑝 | = 1

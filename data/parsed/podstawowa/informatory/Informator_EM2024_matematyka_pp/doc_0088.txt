@@ -1,0 +1,61 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=88; level=podstawowy; year=2024; section=1. Wykorzystamy zależności między obwodami a polami figur płaskich podobnych:]
+88 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Sposób 2.
+Obwody trójkątów: 𝐶𝐴𝑊1, 𝐴𝐵𝑊2, 𝐵𝐶𝑊3 oznaczymy odpowiednio jako 𝑂1, 𝑂2, 𝑂3 .
+1. Wykorzystamy zależności między obwodami a polami figur płaskich podobnych:
+𝑃2
+𝑃1
+= (𝑂2
+𝑂1
+)
+2
+𝑃3
+𝑃1
+= (𝑂3
+𝑂1
+)
+2
+2. Wykorzystamy fakt, że stosunki obwodów trójkątów podobnych są równe stosunkom
+długości podstaw tych trójkątów:
+𝑂2
+𝑂1
+=
+|𝐴𝐵|
+|𝐶𝐴| 𝑂3
+𝑂1
+=
+|𝐵𝐶|
+|𝐶𝐴|
+3. Z zależności 1. i 2. wynika:
+𝑃2
+𝑃1
+= (
+|𝐴𝐵|
+|𝐶𝐴|)
+2
+𝑃3
+𝑃1
+= (
+|𝐵𝐶|
+|𝐶𝐴|)
+2
+𝑃2 = |𝐴𝐵|2
+|𝐶𝐴|2 ⋅ 𝑃1 𝑃3 = |𝐵𝐶|2
+|𝐶𝐴|2 ⋅ 𝑃1
+4. Obliczymy sumę 𝑃1 + 𝑃2:
+𝑃1 + 𝑃2 = 𝑃1 +
+|𝐴𝐵|2
+|𝐶𝐴|2 ⋅ 𝑃1 = 𝑃1 ⋅ (1 +
+|𝐴𝐵|2
+|𝐶𝐴|2)
+𝑃1 + 𝑃2 = 𝑃1 ⋅
+|𝐶𝐴|2 + |𝐴𝐵|2
+|𝐶𝐴|2
+5. Skorzystamy z twierdzenia Pitagorasa dla trójkąta 𝐴𝐵𝐶:
+|𝐶𝐴|2 + |𝐴𝐵|2 = |𝐵𝐶|2
+Zatem równanie w drugim wierszu pkt 4. można zapisać w postaci:
+𝑃1 + 𝑃2 = 𝑃1 ⋅ |𝐵𝐶|2
+|𝐶𝐴|2
+Prawa strona powyższego równania, na mocy pkt 3., jest równa 𝑃3:
+𝑃1 + 𝑃2 = 𝑃3
+To kończy dowód.

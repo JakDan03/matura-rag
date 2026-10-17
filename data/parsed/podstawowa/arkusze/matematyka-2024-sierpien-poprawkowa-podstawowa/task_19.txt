@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=19; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=19]
+Zadanie 19. (0–1)
+Punkty 𝐾, 𝐿 oraz 𝑀 leżą na okręgu o środku w punkcie 𝑆. Miara kąta 𝐾𝑆𝑀 jest równa 160°
+(zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Miara kąta wpisanego 𝐾𝐿𝑀 jest równa
+A. 80° B. 90° C. 100° D. 110°
+𝐾
+𝐿
+𝑀
+𝑆
+160°

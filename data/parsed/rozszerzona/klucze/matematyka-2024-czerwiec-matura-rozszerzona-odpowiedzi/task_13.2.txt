@@ -1,0 +1,110 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=36, 37, 38; level=rozszerzony; year=2024; month=czerwiec; task_id=13.2]
+Zadanie 13.2. (0–4)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+XIII.R3) oblicza pochodną funkcji potęgowej
+o wykładniku rzeczywistym oraz oblicza
+pochodną, korzystając z twierdzeń
+o pochodnej sumy, różnicy, iloczynu
+i ilorazu;
+XIII.R4) stosuje pochodną do badania
+monotoniczności funkcji;
+XIII.R5) rozwiązuje zadania optymalizacyjne
+z zastosowaniem pochodnej.
+Zasady oceniania
+4 pkt – uzasadnienie, że funkcja 𝑉 przyjmuje wartość największą dla 𝑅 = 4 i obliczenie
+wartości największej funkcji 𝑉: 8√3.
+3 pkt – uzasadnienie (np. poprzez badanie monotoniczności funkcji), że funkcja 𝑉 przyjmuje
+wartość największą dla 𝑅 = 4
+ALBO
+– przekształcenie nierówności 𝑅+𝑅+12−2𝑅
+3 ≥ √𝑅 ⋅ 𝑅 ⋅ (12 − 2𝑅)
+3
+do postaci
+√3
+8 ⋅ 64 ≥
+√3
+4 ⋅ (6𝑅2 − 𝑅3) oraz zapisanie, że równość zachodzi tylko wtedy, gdy
+liczby 𝑅 oraz 12 − 2𝑅 są równe.
+2 pkt – obliczenie miejsc zerowych pochodnej funkcji 𝑉: 𝑅 = 4
+ALBO
+– obliczenie wartości 𝑅, dla której zachodzi równość średniej arytmetycznej
+i geometrycznej liczb dodatnich 𝑅, 𝑅 oraz 12 − 2𝑅: 𝑅 = 4,
+ALBO
+– przekształcenie nierówności 𝑅+𝑅+12−2𝑅
+3 ≥ √𝑅 ⋅ 𝑅 ⋅ (12 − 2𝑅)
+3
+do postaci
+√3
+8 ⋅ 64 ≥
+√3
+4 ⋅ (6𝑅2 − 𝑅3).
+1 pkt – wyznaczenie pochodnej funkcji 𝑉: 𝑉′(𝑅) =
+√3
+4 ⋅ (12𝑅 − 3𝑅2)
+ALBO
+– zapisanie nierówności między średnią arytmetyczną a geometryczną liczb 𝑅, 𝑅 oraz
+12 − 2𝑅: 𝑅+𝑅+12−2𝑅
+3 ≥ √𝑅 ⋅ 𝑅 ⋅ (12 − 2𝑅)
+3
+.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Za poprawne uzasadnienie, że rozważana funkcja posiada wartość największą dla
+wyznaczonej wartości 𝑅, przy której pochodna się zeruje, można uznać sytuację, gdy
+zdający bada znak pochodnej oraz:
+Zasady oceniania rozwiązań zadań
+– opisuje (słownie lub graficznie - np. przy użyciu strzałek) monotoniczność funkcji 𝑉
+LUB
+– zapisuje, że dla wyznaczonej wartości 𝑅 funkcja 𝑉 ma maksimum lokalne i jest to
+jednocześnie jej największa wartość,
+LUB
+– zapisuje, że dla wyznaczonej wartości 𝑅 funkcja 𝑉 ma maksimum lokalne i jest to
+jedyne ekstremum tej funkcji.
+2. Badanie znaku pochodnej zdający może opisać w inny sposób, np. szkicując wykres
+funkcji, która w ten sam sposób jak pochodna zmienia znak, i zaznaczając na rysunku,
+np. znakami „+” i „-” znak pochodnej.
+3. Jeżeli zdający przedstawi niepełne uzasadnienie, że dla 𝑅 = 4 funkcja 𝑉 osiąga
+najmniejszą wartość i obliczy 𝑉(4) = 8√3, to otrzymuje 3 punkty za całe rozwiązanie.
+Jeśli zdający nie przedstawi żadnego uzasadnienia i obliczy 𝑉(4) = 8√3, to otrzymuje co
+najwyżej 2 punkty za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Wyznaczamy pochodną funkcji 𝑉: 𝑉′(𝑅) =
+√3
+4 ⋅ (12𝑅 − 3𝑅2) dla 𝑅 ∈ (0, 6).
+Obliczamy miejsca zerowe pochodnej funkcji 𝑉:
+𝑉′(𝑅) = 0
+√3
+4 ⋅ (12𝑅 − 3𝑅2) = 0
+3𝑅 ⋅ (4 − 𝑅) = 0
+𝑅 = 0 ∉ (0, 6) lub 𝑅 = 4 ∈ (0, 6)
+Badamy znak pochodnej:
+𝑉′(𝑅) > 0 dla 𝑅 ∈ (0, 4),
+𝑉′(𝑅) < 0 dla 𝑅 ∈ (4, 6).
+Zatem funkcja 𝑉 jest rosnąca w przedziale (0, 4] oraz jest malejąca w przedziale [4, 6).
+Stąd dla 𝑅 = 4 funkcja 𝑉 osiąga wartość największą równą
+𝑉(4) = √3
+4 ⋅ (6 ⋅ 42 − 43) = 8√3
+Sposób II
+Ponieważ 𝑅 ∈ (0, 6), więc liczby 𝑅, 𝑅 oraz 12 − 2𝑅 są dodatnie. Z nierówności między
+średnimi arytmetyczną i geometryczną dla liczb dodatnich 𝑅, 𝑅 oraz 12 − 2𝑅
+otrzymujemy
+𝑅 + 𝑅 + 12 − 2𝑅
+3 ≥ √𝑅 ⋅ 𝑅 ⋅ (12 − 2𝑅)
+3
+4 ≥ √2 ⋅ (6𝑅2 − 𝑅3)
+3
+64 ≥ 2 ⋅ (6𝑅2 − 𝑅3)
+√3
+8 ⋅ 64 ≥ √3
+4 ⋅ (6𝑅2 − 𝑅3)
+8√3 ≥ 𝑉(𝑅)
+przy czym równość zachodzi tylko dla tych 𝑅, dla których 𝑅 = 12 − 2𝑅 i jednocześnie
+𝑅 ∈ (0, 6), tj. dla 𝑅 = 4.
+Zatem funkcja 𝑉 osiąga wartość największą dla 𝑅 = 4 i wtedy 𝑉(4) = 8√3.

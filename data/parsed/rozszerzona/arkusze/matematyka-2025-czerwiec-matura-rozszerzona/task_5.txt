@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=10; level=rozszerzony; year=2025; month=czerwiec; task_id=5]
+Zadanie 5. (0–4)
+Wyznacz wszystkie wartości parametru 𝒎, dla których równanie
+𝒙𝟐 + 𝟐𝒎𝒙 + 𝟐𝒎 − 𝟏 = 𝟎
+ma dwa różne rozwiązania rzeczywiste 𝒙𝟏 , 𝒙𝟐 spełniające warunek
+𝒎(𝒙𝟏
+𝟐 + 𝒙𝟐
+𝟐) = 𝟑𝒎 ⋅ 𝒙𝟏 ⋅ 𝒙𝟐 + 𝟐
+Zapisz obliczenia.

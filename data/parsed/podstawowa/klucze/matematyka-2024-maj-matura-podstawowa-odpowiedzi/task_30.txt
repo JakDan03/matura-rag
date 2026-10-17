@@ -1,0 +1,76 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=28, 29, 30; level=podstawowy; year=2024; month=maj; task_id=30]
+Zadanie 30. (0–2)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+XII.1) oblicza prawdopodobieństwo
+w modelu klasycznym.
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody obliczenia prawdopodobieństwa zdarzenia 𝐴
+i uzyskanie poprawnego wyniku: 𝑃(𝐴) = 13
+25 .
+1 pkt – wypisanie wszystkich zdarzeń elementarnych lub obliczenie/podanie liczby tych
+zdarzeń: |Ω| = 5 ⋅ 5 lub sporządzenie tabeli o 25 polach odpowiadających
+zdarzeniom elementarnym, z których co najmniej jedno pole jest wypełnione, lub
+sporządzenie pełnego drzewa stochastycznego
+ALBO
+– wypisanie (lub zaznaczenie w tabeli) wszystkich zdarzeń elementarnych
+sprzyjających zdarzeniu 𝐴 i niewypisanie żadnego niewłaściwego,
+ALBO
+– podanie liczby wszystkich zdarzeń elementarnych sprzyjających zdarzeniu 𝐴:
+|𝐴| = 13, o ile nie zostały zliczone błędne pary,
+ALBO
+– sporządzenie fragmentu drzewa stochastycznego, które zawiera wszystkie gałęzie
+sprzyjające zdarzeniu 𝐴 oraz zapisanie prawdopodobieństwa na co najmniej
+jednym odcinku każdego z etapów doświadczenia,
+ALBO
+– podanie prawdopodobieństwa jednoelementowego zdarzenia (elementarnego): 1
+25 ,
+ALBO
+– zapisanie tylko 𝑃(𝐴) = 13
+25 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający zapisuje tylko liczby 13 lub 25 i z rozwiązania nie wynika znaczenie tych
+liczb, to otrzymuje 0 punktów za całe rozwiązanie.
+2. Jeżeli zdający rozważa losowanie bez zwracania, to otrzymuje 0 punktów.
+Zasady oceniania rozwiązań zadań
+Przykładowe pełne rozwiązania
+Sposób I
+Zdarzeniami elementarnymi są wszystkie uporządkowane pary liczb (𝑥, 𝑦), gdzie
+𝑥, 𝑦 ∈ {5, 6, 7, 8, 9}.
+Liczbę wszystkich zdarzeń elementarnych obliczamy, korzystając z reguły mnożenia.
+Moc zbioru Ω jest równa 5 ∙ 5 = 25.
+Liczbę wszystkich zdarzeń elementarnych sprzyjających zdarzeniu 𝐴 obliczamy,
+korzystając z reguły mnożenia i reguły dodawania. Suma dwóch liczb naturalnych jest liczbą
+parzystą, gdy sumujemy dwie liczby parzyste lub dwie liczby nieparzyste. Stąd moc zbioru 𝐴
+jest równa 3 ∙ 3 + 2 ∙ 2 = 13.
+Zatem prawdopodobieństwo zdarzenia 𝐴 jest równe 13
+25 .
+Sposób II
+W tabeli literą 𝐴 zaznaczamy zdarzenia elementarne sprzyjające zdarzeniu 𝐴 (pary liczb,
+których suma jest liczbą parzystą).
+5 6 7 8 9
+5 𝐴 𝐴 𝐴
+6 𝐴 𝐴
+7 𝐴 𝐴 𝐴
+8 𝐴 𝐴
+9 𝐴 𝐴 𝐴
+Moc zbioru Ω jest równa 25.
+Zdarzeń sprzyjających wylosowaniu liczb, których suma jest parzysta, jest 13.
+Zatem prawdopodobieństwo zdarzenia 𝐴 jest równe 13
+25 .
+Sposób III (drzewo stochastyczne)
+Rysujemy drzewo stochastyczne rozważanego doświadczenia.
+Prawdopodobieństwo zdarzenia 𝐴 jest równe
+𝑃(𝐴) = 2
+5 ⋅ 2
+5 + 3
+5 ⋅ 3
+5 = 13
+25

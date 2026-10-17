@@ -1,0 +1,168 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=29, 30, 31, 32; level=rozszerzony; year=2026; month=czerwiec; task_id=13.2]
+Zadanie 13.2. (0–4)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+XIII.R4) oblicza pochodną funkcji potęgowej
+o wykładniku rzeczywistym oraz oblicza
+pochodną, korzystając z twierdzeń
+o pochodnej sumy, różnicy, iloczynu, ilorazu
+[…];
+XIII.R5) stosuje pochodną do badania
+monotoniczności funkcji;
+XIII.R6) rozwiązuje zadania optymalizacyjne
+z zastosowaniem pochodnej.
+Zasady oceniania
+4 pkt – uzasadnienie, że funkcja 𝑃 przyjmuje wartość najmniejszą dla 𝑎 = −2 oraz
+wyznaczenie równania prostej zawierającej przeciwprostokątną 𝐴𝐵 tego z trójkątów,
+który ma najmniejsze pole, np. 𝑦 = −2𝑥 + 4.
+3 pkt – uzasadnienie (np. poprzez badanie monotoniczności funkcji), że funkcja 𝑃 przyjmuje
+wartość najmniejszą dla 𝑎 = −2
+ALBO
+– przekształcenie nierówności
+(− 𝑎
+2) + (− 2
+𝑎)
+2 ≥ √(− 𝑎
+2) ⋅ (− 2
+𝑎) do postaci
+(− 𝑎
+2) + (− 2
+𝑎) + 2 ≥ 4 oraz zapisanie, że równość zachodzi tylko wtedy, gdy liczby
+dodatnie (− 𝑎
+2) oraz (− 2
+𝑎) są równe.
+2 pkt – obliczenie miejsca zerowego pochodnej funkcji 𝑃: 𝑎 = −2
+ALBO
+– obliczenie wartości 𝑎, dla której zachodzi równość średniej arytmetycznej
+i geometrycznej liczb dodatnich (− 𝑎
+2) oraz (− 2
+𝑎): 𝑎 = −2,
+ALBO
+– przekształcenie nierówności
+(− 𝑎
+2) + (− 2
+𝑎)
+2 ≥ √(− 𝑎
+2) ⋅ (− 2
+𝑎) do postaci
+(− 𝑎
+2) + (− 2
+𝑎) + 2 ≥ 4.
+1 pkt – wyznaczenie pochodnej funkcji 𝑃, np. 𝑃′(𝑎) =
+(−2𝑎 + 4) ⋅ 2𝑎 − (−𝑎2 + 4𝑎 − 4) ⋅ 2
+(2𝑎)2
+ALBO
+– zapisanie nierówności między średnią arytmetyczną a geometryczną liczb (− 𝑎
+2)
+oraz (− 2
+𝑎):
+(− 𝑎
+2) + (− 2
+𝑎)
+2 ≥ √(− 𝑎
+2) ⋅ (− 2
+𝑎).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający wyznacza pochodną ilorazu jako iloraz pochodnych, to otrzymuje
+0 punktów za całe rozwiązanie.
+2. Jeżeli z rozwiązania wynika, że zdający poprawnie stosuje wzór na pochodną ilorazu
+funkcji oraz zdający poprawnie wyznacza pochodne funkcji (−𝑎2 + 4𝑎 − 4) oraz 2𝑎
+i dalej popełnia błędy, otrzymując pochodną, która ma w przedziale (−∞, 0) co najmniej
+jedno miejsce zerowe, i konsekwentnie rozwiąże zadanie do końca, to może otrzymać co
+najwyżej 3 punkty za całe rozwiązanie (za miejsce/a zerowe pochodnej, za uzasadnienie
+istnienia najmniejszej wartości funkcji 𝑃, za wyznaczenie równania prostej 𝐴𝐵 tego
+z trójkątów, który ma najmniejsze pole).
+Jeżeli z rozwiązania nie wynika, że zdający poprawnie stosuje wzór na pochodną ilorazu
+funkcji lub zdający błędnie wyznacza pochodną funkcji (−𝑎2 + 4𝑎 − 4) lub 2𝑎 i dalej
+popełnia błędy, otrzymując pochodną, która ma w przedziale (−∞, 0) co najmniej jedno
+miejsce zerowe, i konsekwentnie rozwiąże zadanie do końca, to może otrzymać co
+Zasady oceniania rozwiązań zadań
+najwyżej 2 punkty za całe rozwiązanie (za uzasadnienie istnienia najmniejszej wartości
+funkcji 𝑃 oraz za wyznaczenie równania prostej 𝐴𝐵 tego z trójkątów, który ma
+najmniejsze pole).
+3. Za poprawne uzasadnienie, że rozważana funkcja osiąga wartość najmniejszą dla
+wyznaczonej wartości 𝑎, przy której pochodna się zeruje, można uznać sytuację, gdy
+zdający bada znak pochodnej
+ORAZ:
+– opisuje (słownie lub graficznie – np. przy użyciu strzałek) monotoniczność funkcji 𝑃
+LUB
+– zapisuje, że dla wyznaczonej wartości 𝑎 funkcja 𝑃 ma minimum lokalne i jest to
+jednocześnie jej najmniejsza wartość,
+LUB
+– zapisuje, że dla wyznaczonej wartości 𝑎 funkcja 𝑃 ma minimum lokalne i jest to
+jedyne ekstremum tej funkcji,
+LUB
+– wyznaczy drugą pochodną funkcji 𝑃 i dla wyznaczonej wartości 𝑎 obliczy wartość tej
+drugiej pochodnej oraz zapisze, że funkcja 𝑃 ma minimum lokalne i jest to jedyne
+ekstremum tej funkcji.
+Badanie znaku pochodnej zdający może opisać w inny sposób, np. szkicując wykres
+funkcji, która w ten sam sposób jak pochodna zmienia znak, i zaznaczając na rysunku (np.
+znakami „+” i „−”) znak pochodnej.
+4. Jeżeli zdający przedstawi niepełne uzasadnienie, to może otrzymać co najwyżej 3 punkty
+za całe rozwiązanie (1 punkt za poprawne wyznaczenie pochodnej, 1 punkt za obliczenie
+miejsca zerowego pochodnej, 1 punkt za wyznaczenie równania prostej 𝐴𝐵, dla której
+pole trójkąta 𝐴𝐵𝐶 jest najmniejsze).
+5. Jeżeli zdający nie uzasadnia istnienia najmniejszej wartości funkcji, to może otrzymać co
+najwyżej 2 punkty za całe rozwiązanie (1 punkt za poprawne wyznaczenie pochodnej,
+1 punkt za obliczenie miejsca zerowego pochodnej).
+Przykładowe pełne rozwiązania
+Sposób I
+Obliczamy argument, dla którego funkcja 𝑃 określona wzorem 𝑃(𝑎) = −𝑎2 + 4𝑎 − 4
+2𝑎 dla
+𝑎 < 0 osiąga wartość najmniejszą.
+Wyznaczamy pochodną funkcji 𝑃:
+𝑃′(𝑎) =
+(−2𝑎 + 4) ⋅ 2𝑎 − (−𝑎2 + 4𝑎 − 4) ⋅ 2
+(2𝑎)2
+𝑃′(𝑎) = −2𝑎2 + 8
+(2𝑎)2
+dla 𝑎 < 0.
+Obliczamy miejsca zerowe pochodnej funkcji 𝑃:
+𝑃′(𝑎) = 0
+−2𝑎2 + 8 = 0
+𝑎 = 2 ∉ (−∞, 0) ∨ 𝑎 = −2 ∈ (−∞, 0)
+Badamy znak pochodnej:
+𝑃′(𝑎) < 0
+−2𝑎2 + 8 < 0 ∧ 𝑎 < 0
+𝑎 ∈ (−∞, −2)
+więc 𝑃′(𝑎) < 0 dla 𝑎 ∈ (−∞, −2) oraz 𝑃′(𝑎) > 0 dla 𝑎 ∈ (−2, 0).
+Zatem funkcja 𝑃 jest malejąca w przedziale (−∞, −2] i rosnąca w przedziale [−2, 0).
+Stąd funkcja 𝑃 osiąga wartość najmniejszą dla 𝑎 = −2. Wtedy prosta 𝐴𝐵 ma równanie
+𝑦 = −2(𝑥 − 1) + 2, czyli 𝑦 = −2𝑥 + 4.
+Sposób II
+Zauważmy, że 𝑃(𝑎) = − 𝑎2
+2𝑎 + 4𝑎
+2𝑎 − 4
+2𝑎 = − 𝑎
+2 − 2
+𝑎 + 2. Ponieważ 𝑎 < 0, więc liczby (− 𝑎
+2)
+oraz (− 2
+𝑎) są dodatnie. Z nierówności między średnimi arytmetyczną i geometryczną dla
+liczb dodatnich (− 𝑎
+2) oraz (− 2
+𝑎) otrzymujemy:
+(− 𝑎
+2) + (− 2
+𝑎)
+2 ≥ √(− 𝑎
+2) ⋅ (− 2
+𝑎)
+− 𝑎
+2 − 2
+𝑎 ≥ 2
+− 𝑎
+2 − 2
+𝑎 + 2 ≥ 4
+𝑃(𝑎) ≥ 4
+przy czym równość zachodzi tylko dla tych 𝑎, dla których − 𝑎
+2 = − 2
+𝑎 i jednocześnie
+𝑎 < 0, tj. dla 𝑎 = −2.
+Zatem funkcja 𝑃 osiąga wartość najmniejszą dla 𝑎 = −2. Wtedy prosta 𝐴𝐵 ma równanie
+𝑦 = −2(𝑥 − 1) + 2, czyli 𝑦 = −2𝑥 + 4.

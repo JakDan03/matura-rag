@@ -1,0 +1,47 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=21, 22; level=podstawowy; year=2025; month=czerwiec; task_id=22]
+Zadanie 22. (0–2)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+IX.2) posługuje się równaniami prostych na
+płaszczyźnie […].
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑝 = 6
+5
+.
+1 pkt – zapisanie równania prostej 𝑙: 𝑦 = 5𝑥 − 4
+ALBO
+– zapisanie równania z niewiadomą 𝑝, np.:
+2 + 4
+𝑝 − 0 = 5,
+|5 ⋅ 𝑝 − 2 + 7|
+√52 + (−1)2
+= |5 ⋅ 0 − (−4) + 7|
+√52 + (−1)2
+,
+ALBO
+– zapisanie układu dwóch równań liniowych prowadzącego do obliczenia 𝑝, np.
+−4 = 5 ⋅ 0 + 𝑏 oraz 2 = 5 ⋅ 𝑝 + 𝑏.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Prosta 𝑙 jest równoległa do prostej 𝑘, zatem współczynnik kierunkowy prostej 𝑙 jest równy 5.
+Ponadto prosta 𝑙 przecina oś 𝑂𝑦 w punkcie (0, −4), zatem równanie prostej 𝑙 ma
+postać: 𝑦 = 5𝑥 − 4.
+Punkt o współrzędnych (𝑝, 2) należy do prostej 𝑙, stąd:
+2 = 5𝑝 − 4
+𝑝 = 6
+5
+Sposób II
+Prosta 𝑙 jest równoległa do prostej 𝑘, zatem współczynnik kierunkowy prostej 𝑙 jest równy 5.
+Ponadto prosta 𝑙 przechodzi przez punkty (0, −4) oraz (𝑝, 2).
+Zatem ze wzoru na współczynnik kierunkowy prostej otrzymujemy równanie:
+2 + 4
+𝑝 − 0 = 5
+Stąd:
+5𝑝 = 6
+𝑝 = 6
+5

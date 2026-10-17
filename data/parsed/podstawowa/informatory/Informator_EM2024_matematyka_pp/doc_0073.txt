@@ -1,0 +1,28 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=73; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+Przykładowe zadania z rozwiązaniami 73
+Zadanie 41. (0–4)
+Wierzchołki 𝐴 i 𝐶 trójkąta 𝐴𝐵𝐶 leżą na okręgu o promieniu 𝑟.
+Środek 𝑆 tego okręgu leży na boku 𝐴𝐵 tego trójkąta (zobacz rysunek poniżej).
+Długości boków 𝐴𝐵 i 𝐴𝐶 są równe odpowiednio |𝐴𝐵| = 3𝑟 oraz |𝐴𝐶| = √3𝑟.
+Oblicz miary wszystkich kątów wewnętrznych trójkąta 𝑨𝑩𝑪.
+Wymagania ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+3. Tworzenie pomocniczych obiektów matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub rozwiązania problemu.
+Wymagania szczegółowe
+VII. Trygonometria. Zdający:
+4) oblicza kąty trójkąta prostokątnego i długości jego boków przy odpowiednich danych
+(rozwiązuje trójkąty prostokątne, w tym z wykorzystaniem funkcji
+trygonometrycznych).
+VIII. Planimetria. Zdający:
+1) wyznacza promienie i średnice okręgów, długości cięciw okręgów oraz odcinków
+stycznych, w tym z wykorzystaniem twierdzenia Pitagorasa;
+5) stosuje własności kątów wpisanych i środkowych;
+12) stosuje funkcje trygonometryczne do wyznaczania długości odcinków w figurach
+płaskich oraz obliczania pól figur.
+𝐶
+𝐴
+𝐵
+𝑆

@@ -1,0 +1,33 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=47; level=podstawowy; year=2024; section=1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno]
+Przykładowe zadania z rozwiązaniami 47
+Wymaganie ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno
+matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów,
+tabel.
+Wymagania szczegółowe
+V. Funkcje. Zdający:
+3) odczytuje i interpretuje wartości funkcji określonych za pomocą tabel, wykresów,
+wzorów itp., również w sytuacjach wielokrotnego użycia tego samego źródła
+informacji lub kilku źródeł jednocześnie;
+4) odczytuje z wykresu funkcji: dziedzinę, zbiór wartości, miejsca zerowe, przedziały
+monotoniczności, przedziały, w których funkcja przyjmuje wartości większe (nie
+mniejsze) lub mniejsze (nie większe) od danej liczby, największe i najmniejsze
+wartości funkcji (o ile istnieją) w danym przedziale domkniętym oraz argumenty, dla
+których wartości największe i najmniejsze są przez funkcję przyjmowane.
+Zasady oceniania
+4 pkt – poprawnie uzupełnione cztery luki.
+3 pkt – poprawnie uzupełnione trzy luki.
+2 pkt – poprawnie uzupełnione dwie luki.
+1 pkt – poprawnie uzupełniona jedna luka.
+0 pkt – brak spełnienia powyższych kryteriów.
+Pełne rozwiązanie
+1. Dziedziną funkcji 𝑓 jest przedział …………… .
+2. Zbiorem wartości funkcji 𝑓 jest przedział …………… .
+3. Zbiorem wszystkich argumentów, dla których funkcja 𝑓 przyjmuje wartości
+nieujemne, jest przedział …………… .
+4. Zbiorem wszystkich rozwiązań równania 𝑓(𝑥) = 4 jest przedział …………… .
+[−8, 6)
+[−4, 4]
+[−4, 6)
+[0, 4]

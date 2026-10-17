@@ -1,0 +1,74 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=12, 13; level=rozszerzony; year=2026; month=czerwiec; task_id=7]
+Zadanie 7. (0–4)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+VI.R2) rozpoznaje zbieżne szeregi
+geometryczne i oblicza ich sumę.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑎𝑛 = 7 ⋅ (1
+2)
+𝑛−1
+,
+𝑎𝑛 = 14 ⋅ (1
+2)
+𝑛
+.
+3 pkt – rozwiązanie równania z jedną niewiadomą 𝑞 (lub 𝑎1).
+2 pkt – zapisanie równania z jedną niewiadomą 𝑞 (lub 𝑎1), np.
+[14 ⋅ (1 − 𝑞)]3
+1 − 𝑞3 = 392,
+𝑎1
+3
+1 − (1 − 𝑎1
+14)
+3 = 392.
+1 pkt – wyznaczenie 𝑎1 w zależności od 𝑞: 𝑎1 = 14(1 − 𝑞)
+ALBO
+– zapisanie dwóch równań z dwiema niewiadomymi 𝑎1 oraz 𝑞, które wynikają
+z warunków dotyczących sumy wszystkich wyrazów ciągu i sumy sześcianów
+wszystkich wyrazów ciągu, np. 𝑎1
+1 − 𝑞 = 14 oraz 𝑎1
+3
+1 − 𝑞3 = 392.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający popełnia w rozwiązaniu błędy rachunkowe, w wyniku których otrzymuje
+równanie z jedną niewiadomą 𝑞, które nie ma rozwiązań spełniających warunek |𝑞| < 1,
+to może otrzymać co najwyżej 2 punkty za całe rozwiązanie.
+2. Jeżeli zdający zapisuje sumę wszystkich wyrazów nieskończonego ciągu geometrycznego
+jako sumę 𝑛 początkowych wyrazów ciągu i na tym opiera swoje rozwiązanie, to
+otrzymuje 0 punktów za całe rozwiązanie.
+Przykładowe pełne rozwiązanie
+Niech 𝑞 oznacza iloraz ciągu geometrycznego (𝑎𝑛). Ponieważ suma wszystkich wyrazów
+tego ciągu istnieje i jest równa 14, więc
+𝑎1
+1 − 𝑞 = 14 ∧ |𝑞| < 1
+Stąd 𝑎1 = 14(1 − 𝑞), gdzie |𝑞| < 1.
+Ciąg sześcianów wyrazów ciągu (𝑎𝑛) jest ciągiem geometrycznym o pierwszym wyrazie
+równym 𝑎1
+3 i ilorazie 𝑞3. Ponieważ |𝑞| < 1, więc |𝑞3| < 1. Zatem z warunków zadania
+otrzymujemy
+Zasady oceniania rozwiązań zadań
+𝑎1
+3
+1 − 𝑞3 = 392
+Stąd i z zależności 𝑎1 = 14(1 − 𝑞) otrzymujemy dalej:
+143 ⋅ (1 − 𝑞)3
+1 − 𝑞3 = 392
+7(1 − 𝑞)3
+(1 − 𝑞)(1 + 𝑞 + 𝑞2) = 1
+7(1 − 𝑞)2 = 1 + 𝑞 + 𝑞2 ∧ 𝑞 ≠ 1
+6𝑞2 − 15𝑞 + 6 = 0 ∧ 𝑞 ≠ 1
+𝑞 = 1
+2 ∨ 𝑞 = 2
+Po uwzględnieniu warunku |𝑞| < 1 otrzymujemy 𝑞 = 1
+2 . Zatem 𝑎1 = 14(1 − 𝑞) = 7.
+Wzór ogólny na 𝑛-ty wyraz ciągu (𝑎𝑛) ma postać 𝑎𝑛 = 7 ⋅ (1
+2)
+𝑛−1
+.

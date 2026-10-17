@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=40; level=podstawowy; year=2025; month=maj; task_id=25]
+Zadanie 25.
+1 pkt – zastosowanie definicji funkcji trygonometrycznej lub związków miarowych w trójkącie
+o kątach 30°, 60°, 90° i zapisanie równania z jedną niewiadomą (wysokością stożka
+lub promieniem podstawy stożka), np.: 𝐻
+8 = cos 60°, 𝑟
+8 =
+√3
+2 .

@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=25; level=podstawowy; year=2025; month=czerwiec; task_id=27]
+Zadanie 27. (0–2)
+Dane są dwa zbiory: 𝑋 = {−3, −2, −1, 0, 1, 2} oraz 𝑌 = {−2, −1, 0, 1}.
+Losujemy jedną liczbę ze zbioru 𝑋, a następnie losujemy jedną liczbę ze zbioru 𝑌
+i tworzymy uporządkowaną parę liczb (𝑥, 𝑦), gdzie 𝑥 jest liczbą wylosowaną ze zbioru 𝑋
+oraz 𝑦 jest liczbą wylosowaną ze zbioru 𝑌.
+Oblicz prawdopodobieństwo zdarzenia 𝑨 polegającego na tym, że wylosujemy parę
+liczb (𝒙, 𝒚), która będzie spełniać warunek 𝒙 ⋅ 𝒚 ≥ 𝟎. Zapisz obliczenia.

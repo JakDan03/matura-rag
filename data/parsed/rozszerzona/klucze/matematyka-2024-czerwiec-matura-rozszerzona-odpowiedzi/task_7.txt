@@ -1,0 +1,121 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=17, 18, 19, 20; level=rozszerzony; year=2024; month=czerwiec; task_id=7]
+Zadanie 7. (0–4)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+VI.R2) rozpoznaje zbieżne szeregi
+geometryczne i oblicza ich sumę.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑎𝑛 = 12 ⋅ (1
+2)
+𝑛−1
+,
+𝑎𝑛 = 24 ⋅ (1
+2)
+𝑛
+.
+3 pkt – odrzucenie wartości 𝑞 = 2 oraz poprawne zastosowanie wzoru na sumę szeregu
+geometrycznego i zapisanie równania z jedną niewiadomą 𝑎1 : 𝑎1
+1−(1
+2)
+2 = 16 (dla
+sposobu I)
+ALBO
+– zapisanie równania z jedną niewiadomą 𝑞 oraz obliczenie pierwiastków tego
+równania, np.
+16(1 − 𝑞2) + 16(1 − 𝑞2) ⋅ 𝑞2 = 5
+2 ⋅ 16(1 − 𝑞2) ⋅ 𝑞
+i 𝑞 = 1 oraz 𝑞 = −1, oraz 𝑞 = 1
+2 , oraz 𝑞 = 2 ,
+oraz odrzucenie tych wartości 𝑞, dla których nie jest spełniony warunek zbieżności
+|𝑞2| < 1 (dla sposobu II).
+2 pkt – zapisanie równania z jedną niewiadomą 𝑞 oraz obliczenie pierwiastków tego
+równania, np. 2𝑞2 − 5𝑞 + 2 = 0 i 𝑞 = 1
+2 oraz 𝑞 = 2 (dla sposobu I)
+ALBO
+– zapisanie równań 𝑎1 + 𝑎1 ⋅ 𝑞2 = 5
+2 𝑎1 ⋅ 𝑞 oraz 𝑎1
+1−𝑞2 = 16 (dla sposobu II).
+1 pkt – zapisanie równania 𝑎1 + 𝑎1 ⋅ 𝑞2 = 5
+2 𝑎1 ⋅ 𝑞 (dla sposobu I)
+ALBO
+– poprawne zastosowanie wzoru na sumę szeregu geometrycznego i zapisanie
+równania 𝑎1
+1−𝑞2 = 16 (dla sposobu II).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający zapisze sumę wszystkich wyrazów ciągu o wyrazach nieparzystych jako
+𝑎1
+1−𝑞 i rozwiąże zadanie konsekwentnie do końca, to otrzymuje 3 punkty za całe
+rozwiązanie.
+2. Jeżeli zdający myli ciąg geometryczny z arytmetycznym, to otrzymuje 0 punktów za całe
+rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Niech 𝑞 oznacza iloraz ciągu geometrycznego (𝑎𝑛). Z warunku 𝑎1 + 𝑎3 = 5
+2 𝑎2 oraz
+z własności ciągu geometrycznego otrzymujemy
+𝑎1 + 𝑎1 ⋅ 𝑞2 = 5
+2 ⋅ 𝑎1 ⋅ 𝑞
+𝑎1 ⋅ (1 + 𝑞2 − 5
+2 𝑞) = 0
+𝑎1 = 0 ∨ 𝑞2 − 5
+2 𝑞 + 1 = 0
+𝑎1 = 0 ∨ 𝑞 = 2 ∨ 𝑞 = 1
+2
+Rozważmy nieskończony ciąg wyrazów o numerach nieparzystych, tj. 𝑎1, 𝑎3, 𝑎5, … . Jest to
+ciąg geometryczny o pierwszym wyrazie równym 𝑎1 oraz ilorazie 𝑞2. Ponieważ suma
+wszystkich wyrazów ciągu (𝑎𝑛) o numerach nieparzystych istnieje i jest równa 16, więc
+𝑎1 ≠ 0 oraz |𝑞2| < 1 i 𝑎1
+1−𝑞2 = 16. Pozostaje zatem rozpatrzeć przypadki 𝑞 = 2 oraz
+𝑞 = 1
+2 .
+Gdy 𝑞 = 2, to warunek |𝑞2| < 1 nie jest spełniony.
+Gdy 𝑞 = 1
+2 , to warunek |𝑞2| < 1 jest spełniony. Wtedy 𝑎1
+1−(1
+2)
+2 = 16 i stąd 𝑎1 = 12.
+Nieskończony ciąg geometryczny o pierwszym wyrazie równym 12 i ilorazie 1
+2 spełnia
+warunki zadania. Wzór ogólny na 𝑛–ty wyraz ciągu (𝑎𝑛) ma postać 𝑎𝑛 = 12 ⋅ (1
+2)
+𝑛−1
+.
+Sposób II
+Niech 𝑞 oznacza iloraz ciągu geometrycznego (𝑎𝑛).
+Rozważmy nieskończony ciąg wyrazów o numerach nieparzystych, tj. 𝑎1, 𝑎3, 𝑎5, … . Jest to
+ciąg geometryczny o pierwszym wyrazie równym 𝑎1 oraz ilorazie 𝑞2. Ponieważ suma
+wszystkich wyrazów ciągu (𝑎𝑛) o numerach nieparzystych istnieje i jest równa 16, więc
+𝑎1 ≠ 0 oraz |𝑞2| < 1 i 𝑎1
+1−𝑞2 = 16. Zatem 𝑎1 = 16(1 − 𝑞2).
+Z warunku 𝑎1 + 𝑎3 = 5
+2 𝑎2 oraz z własności ciągu geometrycznego otrzymujemy
+𝑎1 + 𝑎1 ⋅ 𝑞2 = 5
+2 ⋅ 𝑎1 ⋅ 𝑞
+Stąd oraz z równości 𝑎1 = 16(1 − 𝑞2) otrzymujemy kolejno:
+Zasady oceniania rozwiązań zadań
+16(1 − 𝑞2) + 16(1 − 𝑞2) ⋅ 𝑞2 = 5
+2 ⋅ 16(1 − 𝑞2) ⋅ 𝑞
+16 − 16𝑞2 + 16𝑞2 − 16𝑞4 = 40𝑞 − 40𝑞3
+−16𝑞4 + 40𝑞3 − 40𝑞 + 16 = 0
+−16(𝑞4 − 1) + 40𝑞(𝑞2 − 1) = 0
+−16(𝑞2 − 1)(𝑞2 + 1) + 40𝑞(𝑞2 − 1) = 0
+(𝑞2 − 1)[−16(𝑞2 + 1) + 40𝑞] = 0
+(𝑞2 − 1)(−16𝑞2 + 40𝑞 − 16) = 0
+𝑞2 − 1 = 0 ∨ −16𝑞2 + 40𝑞 − 16 = 0
+𝑞 = 1 ∨ 𝑞 = −1 ∨ 𝑞 = 2 ∨ 𝑞 = 1
+2
+Uwzględniając warunek |𝑞2| < 1, otrzymujemy 𝑞 = 1
+2 . Zatem 𝑎1 = 12. Nieskończony ciąg
+geometryczny o pierwszym wyrazie równym 12 i ilorazie 1
+2 spełnia warunki zadania. Wzór
+ogólny na 𝑛–ty wyraz ciągu (𝑎𝑛) ma postać 𝑎𝑛 = 12 ⋅ (1
+2)
+𝑛−1
+.

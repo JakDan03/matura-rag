@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=17; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=17]
+Zadanie 17. (0–1)
+Kąt 𝛼 jest ostry oraz sin 𝛼 =
+√5
+3 .
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Tangens kąta 𝛼 jest równy
+A.
+√5
+2 B. 2
+3 C. 2√5
+5 D. 3√5
+5

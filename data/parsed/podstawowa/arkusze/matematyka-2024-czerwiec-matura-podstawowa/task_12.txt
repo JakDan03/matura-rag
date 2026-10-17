@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=12; level=podstawowy; year=2024; month=czerwiec; task_id=12]
+Zadanie 12. (0–1)
+Funkcja 𝑦 = 𝑓(𝑥) jest określona za pomocą tabeli
+𝒙 −2 −1 0 1 2
+𝒚 −1 0 1 0 3
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Funkcja 𝑓 ma dokładnie jedno miejsce zerowe. P F
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) wykres funkcji 𝑓 jest
+symetryczny względem osi 𝑂𝑦. P F

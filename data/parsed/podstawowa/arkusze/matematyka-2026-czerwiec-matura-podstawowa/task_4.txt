@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=5; level=podstawowy; year=2026; month=czerwiec; task_id=4]
+Zadanie 4. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Dla każdej liczby rzeczywistej 𝑥 wartość wyrażenia 𝑥3 − 2𝑥2 + 𝑥 jest równa wartości
+wyrażenia
+A. 𝑥(𝑥 − 1)2
+B. 𝑥(𝑥 − 1)(𝑥 + 1)
+C. (𝑥 − 1)(𝑥2 + 1)
+D. (𝑥 + 1)(𝑥 − 1)2

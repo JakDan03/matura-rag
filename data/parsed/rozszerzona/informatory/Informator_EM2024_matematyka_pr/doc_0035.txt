@@ -1,0 +1,35 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=35; level=rozszerzony; year=2024; section=4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach]
+Przykładowe zadania z rozwiązaniami 35
+Zasady oceniania
+6 pkt – obliczenie długości najkrótszej sieci z dwoma węzłami i podanie lokalizacji węzłów
+względem miast.
+5 pkt – obliczenie długości najkrótszej sieci z dwoma węzłami.
+4 pkt – obliczenie wartości najmniejszej funkcji 𝑓.
+3 pkt – wyznaczenie pochodnej funkcji 𝑓.
+2 pkt – zapisanie długości sieci w zależności od odległości węzłów od prostych –
+odpowiednio – 𝐴𝐷 i 𝐵𝐶.
+1 pkt – uzasadnienie, że węzły muszą się znajdować na symetralnej odcinka 𝐴𝐷.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Rozpatrzmy sieć dróg złożoną z odcinków 𝐴𝐾, 𝐾𝐿, 𝐿𝐶, 𝐵𝐿 i 𝐷𝐾 (zobacz rysunek 1.).
+Prowadzimy prostą 𝑝 równoległą do 𝐴𝐷 i przechodzącą przez 𝐾 i zaznaczamy na niej
+punkt 𝐾’ taki, że |𝐴𝐾′| = |𝐷𝐾′|.
+Prowadzimy prostą równoległą do 𝐵𝐶 i przechodzącą przez 𝐿 i zaznaczamy na niej
+punkt 𝐿’ taki, że |𝐵𝐿′| = |𝐶𝐿′| (zobacz rysunek 2.).
+𝐴
+𝐶
+𝐷
+𝐵
+𝐾
+𝐿
+Rysunek 2.
+𝐾′
+𝐿′
+𝑝
+𝐴
+𝐶
+𝐷
+𝐵
+𝐾
+𝐿
+Rysunek 1.

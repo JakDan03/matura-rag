@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=14; level=podstawowy; year=2025; month=maj; task_id=13]
+Zadanie 13. (0–1)
+Funkcja liniowa 𝑓 jest określona wzorem 𝑓(𝑥) = (3 − 𝑚)𝑥 − 4.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Funkcja 𝑓 nie ma miejsca zerowego dla 𝑚 równego
+A. (−3) B. 0 C. 3 D. 4

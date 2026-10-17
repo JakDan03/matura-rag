@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=10, 11, 12; level=rozszerzony; year=2023; month=czerwiec; task_id=6]
+Zadanie 6. (0–3)
+Dany jest okrąg 𝒪. Przez punkt 𝐴 poprowadzono dwie proste, które są styczne do tego
+okręgu w punktach – odpowiednio – 𝑃 oraz 𝑄. Przez punkt 𝐵 leżący na odcinku 𝐴𝑃
+poprowadzono styczną do tego okręgu w punkcie 𝐷, która przecięła odcinek 𝐴𝑄
+w punkcie 𝐶 (zobacz rysunek).
+[tutaj powinien być rysunek]
+Wykaż, że jeżeli |𝑨𝑸| = 𝟓 ∙ |𝑩𝑷| oraz |𝑪𝑫| = 𝟐 ∙ |𝑩𝑫|, to trójkąt 𝑨𝑩𝑪 jest
+równoramienny.

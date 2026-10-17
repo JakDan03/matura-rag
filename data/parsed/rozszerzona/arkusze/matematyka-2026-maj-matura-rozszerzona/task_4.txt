@@ -1,0 +1,23 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=8; level=rozszerzony; year=2026; month=maj; task_id=4]
+Zadanie 4. (0–3)
+Punkty 𝐾 i 𝐿 są środkami – odpowiednio – boków 𝐴𝐵 i 𝐵𝐶 kwadratu 𝐴𝐵𝐶𝐷 o boku
+długości 𝑎. Punkt 𝑀 jest takim punktem na boku 𝐵𝐶, że odcinki 𝐷𝐾 i 𝐾𝑀 są
+prostopadłe.
+Odcinek 𝐴𝐿 przecina odcinki 𝐷𝐾 oraz 𝐷𝑀 w punktach – odpowiednio – 𝑃 oraz 𝑄
+(zobacz rysunek).
+Wykaż, że |𝑷𝑸| =
+√𝟓
+𝟓 𝒂.
+4.
+0–1–
+2–3
+𝐴
+𝐵
+𝐶
+𝐷
+𝐾
+𝑀
+𝐿
+𝑃
+𝑄
+𝑎

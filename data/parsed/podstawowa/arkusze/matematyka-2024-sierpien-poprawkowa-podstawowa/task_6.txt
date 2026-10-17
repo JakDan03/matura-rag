@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=7; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=6]
+Zadanie 6. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Równanie 𝑥(𝑥+5)(2−𝑥)
+2𝑥+4 = 0 w zbiorze liczb rzeczywistych ma dokładnie
+A. dwa rozwiązania: (−5) oraz 2.
+B. dwa rozwiązania: (−5) oraz 0.
+C. trzy rozwiązania: (−5), 0 oraz 2.
+D. cztery rozwiązania: (−5), (−2), 0 oraz 2.

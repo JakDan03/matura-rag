@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=42; level=podstawowy; year=2026; month=maj; task_id=27]
+Zadanie 27.
+1 pkt – zastosowanie definicji funkcji trygonometrycznej lub związków miarowych w trójkącie
+o kątach 30°, 60°, 90° i zapisanie równania z jedną niewiadomą (wysokością
+ostrosłupa), np.: 𝐻
+4√3 = tg 30°, 𝐻
+4√3 =
+√3
+3 ,
+ALBO
+– obliczenie długości krawędzi podstawy ostrosłupa: 𝑎 = 4√6.

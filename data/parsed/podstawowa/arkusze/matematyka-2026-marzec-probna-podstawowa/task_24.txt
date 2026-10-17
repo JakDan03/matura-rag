@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=22; level=podstawowy; year=2026; month=marzec; term=probna; task_id=24]
+Zadanie 24. (0–4)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) punkty 𝐴 = (−3, 0) oraz 𝐶 = (5, 6) są
+końcami przekątnej kwadratu 𝐴𝐵𝐶𝐷.
+Kwadrat 𝐴′𝐵′𝐶′𝐷′ jest obrazem kwadratu 𝐴𝐵𝐶𝐷 w symetrii osiowej względem osi 𝑂𝑦.
+Wyznacz równanie okręgu opisanego na kwadracie 𝑨′𝑩′𝑪′𝑫′. Zapisz obliczenia.
+24.
+0–1–
+2–3–4

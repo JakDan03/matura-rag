@@ -1,0 +1,30 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=33; level=rozszerzony; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+Przykładowe zadania z rozwiązaniami 33
+Niech v oznacza prędkość Syzyfa wtaczającego kulę.
+Ponieważ v = 𝑥′ , więc
+v(𝑡) = 𝑥′(𝑡) = −3𝑡2 + 33𝑡 + 180 dla 𝑡 ∈ [0, 24]
+Korzystamy z własności funkcji kwadratowej i obliczamy największą wartość prędkości,
+z jaką Syzyf wtacza kulę:
+𝑝 = − 𝑏
+2𝑎 = − 33
+2 ⋅ (−3) = 11
+2 ∈ [0, 24]
+𝑣 (11
+2 ) > 0
+Zatem największa wartość prędkości, z jaką Syzyf wtacza kulę pod górę, jest równa
+v(5,5) = 270,75 m/h.
+Zadanie 10. (0–6)
+Cztery miasta 𝐴, 𝐵, 𝐶 i 𝐷 znajdują się w wierzchołkach kwadratu o boku 300 km. Pewna
+firma dostała zlecenie na zaprojektowanie sieci dróg, która będzie łączyć każde dwa z tych
+miast. Sieć ma posiadać dwa węzły, a łączna długość dróg w sieci ma być możliwie
+najmniejsza. (Przykład sieci dróg z dwoma węzłami, łączącej każde dwa z miast,
+przedstawiono na poniższym rysunku).
+Oblicz, jaka musi być długość najkrótszej takiej sieci dróg i gdzie muszą być
+zlokalizowane węzły tej sieci. Zapisz obliczenia.
+𝐴
+𝐶
+𝐷
+𝐵
+węzły
+300 km
+300 km

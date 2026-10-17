@@ -1,0 +1,148 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=44, 45, 46, 47, 48; level=rozszerzony; year=2024; month=maj; task_id=11]
+Zadanie 11. (0–5)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+IX.3) oblicza odległość dwóch punktów
+w układzie współrzędnych;
+IX.5) oblicza odległość punktu od prostej.
+IX.R1) posługuje się równaniem prostej
+w postaci ogólnej na płaszczyźnie […].
+Zasady oceniania
+5 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑆 = (6, 7) oraz 𝑆 = (−4, −3).
+4 pkt – obliczenie obydwu wartości 𝑥𝑆: 6 oraz (−4)
+ALBO
+– obliczenie obydwu współrzędnych punktu 𝑆 tylko dla jednego przypadku: 𝑆 = (6, 7)
+albo 𝑆 = (−4, −3).
+3 pkt – zapisanie równania z jedną niewiadomą (współrzędną punktu 𝑆), np.
+(𝑥𝑆 − 1)2 + (𝑥𝑆 + 1 − 2)2 = 50,
+|2𝑥𝑆 − (𝑥𝑆 + 1)|
+√22+ (−1)2 = √5,
+(𝑥𝑆 − (−5))2 + (𝑥𝑆 + 1 − (−1))2 = 5,
+(𝑥𝑆 − (−2))2 + (𝑥𝑆 + 1 − (−4))2 = 5,
+(𝑥𝑆 − 4)2 + (𝑥𝑆 + 1 − 8)2 = 5,
+(𝑥𝑆 − 7)2 + (𝑥𝑆 + 1 − 5)2 = 5.
+2 pkt – obliczenie długości 𝑚 odcinka 𝐴𝐵 (lub 𝐴𝐶) stycznej: 3√5
+ALBO
+– obliczenie długości odcinka 𝐴𝑆: |𝐴𝑆| = 5√2.
+1 pkt – zapisanie współrzędnych punktu 𝑆 w zależności od jednej zmiennej, np.
+𝑆 = (𝑥, 𝑥 + 1)
+ALBO
+– zapisanie równania z jedną niewiadomą (długością 𝑚 odcinka 𝐴𝐵 stycznej), np.
+15 = 2 ⋅ 1
+2 ⋅ 𝑚 ⋅ √5,
+ALBO
+– zapisanie układ trzech równań:
+|𝑧|2 = 𝑚2 + 𝑚2 − 2𝑚 ⋅ 𝑚 ⋅ cos 𝛼 oraz
+|𝑧|2 = (√5)2 + (√5)2 − 2√5 ⋅ √5 ⋅ cos(180° − 𝛼) oraz
+15 = 1
+2 ⋅ 𝑚2 ⋅ sin 𝛼 + 1
+2 ⋅ (√5)
+2
+⋅ sin(180° − 𝛼),
+gdzie 𝑧 = |𝐵𝐶|, 𝑚 = |𝐴𝐵|, 𝛼 = |∡𝐵𝐴𝐶|.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania rozwiązań zadań
+Uwagi:
+1. Jeżeli zdający pomija współczynnik 1
+2 we wzorze na pole trójkąta lub deltoidu, to błąd ten
+traktujemy jako błąd rachunkowy.
+2. Jeżeli zdający rozwiąże zadanie do końca, ale otrzyma więcej niż dwa punkty 𝑆, to może
+otrzymać co najwyżej 4 punkty za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Promienie 𝐵𝑆 oraz 𝐶𝑆 okręgu poprowadzone do punktów styczności są prostopadłe do
+stycznych – odpowiednio – 𝐴𝐵 i 𝐴𝐶, więc trójkąty 𝐴𝐵𝑆 oraz 𝐴𝐶𝑆 są prostokątne.
+Ponadto odcinki 𝐴𝐵 oraz 𝐴𝐶 mają równe długości, więc trójkąty te są przystające (na
+podstawie cechy bbb przystawania trójkątów). Oznaczmy 𝑚 = |𝐴𝐵| = |𝐴𝐶| (zobacz
+rysunek).
+Pole 𝑃𝐴𝐵𝑆𝐶 czworokąta 𝐴𝐵𝑆𝐶 jest sumą pól trójkątów przystających 𝐴𝐵𝑆 oraz 𝐴𝐶𝑆, więc
+𝑃𝐴𝐵𝑆𝐶 = 𝑃𝐴𝐵𝑆 + 𝑃𝐴𝐶𝑆
+15 = 2 ⋅ 1
+2 ⋅ 𝑚 ⋅ √5
+𝑚 = 3√5
+Z twierdzenia Pitagorasa zastosowanego do trójkąta 𝐴𝐵𝑆 otrzymujemy
+|𝐴𝑆|2 = |𝐴𝐵|2 + |𝐵𝑆|2 = (3√5)
+2
++ (√5)
+2
+= 50
+Niech 𝑥𝑆 będzie pierwszą współrzędną punktu 𝑆. Punkt 𝑆 leży na prostej o równaniu
+𝑦 = 𝑥 + 1, więc 𝑆 = (𝑥𝑆 , 𝑥𝑆 + 1).
+Wtedy
+(𝑥𝑆 − 1)2 + (𝑥𝑆 + 1 − 2)2 = 50
+𝐵
+𝐶
+𝑆
+𝑦
+1
+1
+√5
+𝑚
+𝑚
+√5
+𝑦 = 𝑥 + 1
+𝐴
+𝑥
+Stąd dalej otrzymujemy
+(𝑥𝑆 − 1)2 = 25
+|𝑥𝑆 − 1| = 5
+𝑥𝑆 = 6 ∨ 𝑥𝑆 = −4
+Zatem 𝑆 = (6, 7) lub 𝑆 = (−4, −3).
+Sposób II
+Niech 𝑥𝑆 będzie pierwszą współrzędną punktu 𝑆. Punkt 𝑆 leży na prostej o równaniu
+𝑦 = 𝑥 + 1, więc 𝑆 = (𝑥𝑆 , 𝑥𝑆 + 1).
+Promienie 𝐵𝑆 oraz 𝐶𝑆 okręgu poprowadzone do punktów styczności są prostopadłe do
+stycznych – odpowiednio – 𝐴𝐵 i 𝐴𝐶, więc trójkąty 𝐴𝐵𝑆 oraz 𝐴𝐶𝑆 są prostokątne.
+Ponadto odcinki 𝐴𝐵 oraz 𝐴𝐶 mają równe długości, więc trójkąty te są przystające (na
+podstawie cechy bbb przystawania trójkątów). Oznaczmy 𝑚 = |𝐴𝐵| = |𝐴𝐶| (zobacz
+rysunek).
+Pole 𝑃𝐴𝐵𝑆𝐶 czworokąta 𝐴𝐵𝑆𝐶 jest sumą pól trójkątów przystających 𝐴𝐵𝑆 oraz 𝐴𝐶𝑆, więc
+𝑃𝐴𝐵𝑆𝐶 = 𝑃𝐴𝐵𝑆 + 𝑃𝐴𝐶𝑆
+15 = 2 ⋅ 1
+2 ⋅ 𝑚 ⋅ √5
+𝑚 = 3√5
+Zauważmy, że punkt 𝐴 leży na prostej o równaniu 𝑦 = 𝑥 + 1. Każda prosta przechodząca
+przez punkt 𝐴 = (1, 2), poza prostą równoległą do osi 𝑂𝑦, ma równanie postaci
+𝑦 = 𝑎(𝑥 − 1) + 2. Tangens kąta, jaki tworzy każda ze stycznych 𝐴𝐵 oraz 𝐴𝐶 z prostą
+o równaniu 𝑦 = 𝑥 + 1, jest równy
+𝐵
+𝐶
+𝑆
+𝑦
+1
+1
+√5
+𝑚
+𝑚
+√5
+𝑦 = 𝑥 + 1
+𝐴
+𝑥
+Zasady oceniania rozwiązań zadań
+tg 𝛼 = √5
+𝑚 = √5
+3√5
+= 1
+3
+Stąd i ze wzoru na tangens kąta między prostymi otrzymujemy
+1
+3 = tg 𝛼 = |𝑎 − 1
+𝑎 + 1|
+𝑎 + 1 = 3(𝑎 − 1) ∨ 𝑎 + 1 = −3(𝑎 − 1)
+𝑎 = 2 ∨ 𝑎 = 1
+2
+Zatem styczne 𝐴𝐵 oraz 𝐴𝐶 mają równania postaci 𝑦 = 2(𝑥 − 1) + 2 oraz
+𝑦 = 1
+2 (𝑥 − 1) + 2, czyli 2𝑥 − 𝑦 = 0 oraz 𝑥 − 2𝑦 + 3 = 0.
+Odległość punktu 𝑆 od każdej ze stycznych 𝐴𝐵 i 𝐴𝐶 jest równa √5. Zatem
+|2𝑥𝑆 − (𝑥𝑆 + 1)|
+√22 + (−1)2
+= √5
+|𝑥𝑆 − 1| = 5
+𝑥𝑆 = 6 ∨ 𝑥𝑆 = −4
+Istnieją dwa punkty spełniające warunki zadania: 𝑆 = (6, 7) oraz 𝑆 = (−4, −3).

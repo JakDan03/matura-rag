@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=36, 37; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=7]
+Zadanie 7.
+1 pkt – przekształcenie wielomianu 𝑥3 + 5𝑥2 − 2𝑥 − 10 do postaci
+𝑥2(𝑥 + 5) − 2(𝑥 + 5) lub 𝑥(𝑥2 − 2) + 5(𝑥2 − 2)
+ALBO
+– zapisanie jednego z rozwiązań równania 𝑥3 + 5𝑥2 − 2𝑥 − 10 = 0 .
+Zasady oceniania rozwiązań zadań

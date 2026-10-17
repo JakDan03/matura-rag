@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=26; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=27]
+Zadanie 27. (0–1)
+Objętość walca o promieniu podstawy 2 jest równa 16𝜋2.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wysokość tego walca jest równa
+A. 2 B. 4 C. 2𝜋 D. 4𝜋

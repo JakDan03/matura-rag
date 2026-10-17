@@ -1,0 +1,28 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=24; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+24 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 12. (0–1)
+Dane są liczby 𝑎 = log2(3√5 + √13) oraz 𝑏 = log2(3√5 − √13) .
+Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.
+Liczba 𝑎 + 𝑏 jest równa
+A. log2 45 B. log2 30 C. 4 D. 5
+Wymagania ogólne
+I. Sprawność rachunkowa.
+Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora,
+stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych
+oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach
+rzeczywistych i teoretycznych.
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymagania szczegółowe
+I. Liczby rzeczywiste. Zdający:
+1) wykonuje działania ([…] logarytmowanie) w zbiorze liczb rzeczywistych;
+9) stosuje związek logarytmowania z potęgowaniem, posługuje się wzorami na logarytm
+iloczynu, logarytm ilorazu i logarytm potęgi.
+II. Wyrażenia algebraiczne. Zdający:
+1) stosuje wzory skróconego mnożenia na: (𝑎 + 𝑏)2, (𝑎 − 𝑏)2, 𝑎2 − 𝑏2.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+D

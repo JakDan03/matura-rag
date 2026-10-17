@@ -1,0 +1,15 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=17; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=18]
+Zadanie 18. (0–1)
+Kąt o mierze 𝛼 jest rozwarty oraz sin 𝛼 =
+√3
+4
+.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Cosinus kąta o mierze 𝛼 jest równy
+A. (−
+√13
+4 ) B. (− 1
+2) C. 1
+2 D.
+√13
+4

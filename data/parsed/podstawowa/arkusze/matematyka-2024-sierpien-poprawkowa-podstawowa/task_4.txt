@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=6; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=4]
+Zadanie 4. (0–2)
+Uzupełnij zdanie. Wybierz dwie właściwe odpowiedzi spośród oznaczonych literami
+A–F i wpisz te litery w wykropkowanych miejscach.
+Prawdziwe są równości: ............... oraz ............... .
+A. log2 16 + log2 9 = log2 25
+B. log2 16 + log2 9 = 2 ⋅ log2 5
+C. log2 16 + log2 9 = log2 144
+D. log2 16 + log2 9 = log4 144
+E. log2 16 + log2 9 = 4 + 2 ⋅ log2 3
+F. log2 16 + log2 9 = 2 ⋅ log4 12
+4.
+0–1–2

@@ -1,0 +1,39 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=124; level=podstawowy; year=2024; section=ALBO]
+124 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody do obliczenia wszystkich znaków, uwzględnienie
+warunku zadania i podanie wyniku: 63.
+1 pkt – zapisanie wzoru na liczbę wszystkich możliwych znaków bez uwzględnienia warunku
+zadania (tzn. łącznie ze znakiem bez punktu wypukłego): 2 ⋅ 2 ⋅ 2 ⋅ 2 ⋅ 2 ⋅ 2
+ALBO
+– zastosowanie metody dodawania polegającej na bezpośrednim zliczeniu i dodaniu
+liczby znaków: z jednym punktem wypukłym, z dwoma punktami wypukłymi, z trzema
+punktami wypukłymi, z czterema punktami wypukłymi, z pięcioma punktami
+wypukłymi i z sześcioma punktami wypukłymi oraz poprawne zliczenie znaków
+w co najmniej trzech spośród sześciu wymienionych grup.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób 1. (zastosowanie zasady mnożenia)
+Zastosujemy regułę mnożenia. Zauważmy, że utworzenie znaku polega na podjęciu kolejno
+6 decyzji o tym, jaki ma być rodzaj punktu – elementu znaku. Punkt może być wypukły albo
+może nie być wypukły. Zatem mamy dwie możliwości wyboru rodzaju punktu: albo .
+Zgodnie z regułą mnożenia, w takich przypadkach liczbę możliwości wyboru
+składnika/elementu obiektu mnożymy przez siebie tyle razy, z ilu elementów składa się
+obiekt:
+2 ⋅ 2 ⋅ 2 ⋅ 2 ⋅ 2 ⋅ 2 = 64
+Wszystkich możliwości (łącznie z utworzeniem konfiguracji 6 braków wypukłości) jest 64.
+Ponieważ znak Braille’a musi zawierać co najmniej jeden punkt wypukły, to wszystkich
+znaków jest:
+64 − 1 = 63
+2 możliwości:
+albo
+2 możliwości:
+albo
+2 możliwości:
+albo
+2 możliwości:
+albo
+2 możliwości:
+albo
+2 możliwości:
+albo

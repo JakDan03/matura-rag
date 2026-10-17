@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=7; level=podstawowy; year=2024; month=maj; task_id=7]
+Zadanie 7. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Równanie 𝑥+1
+(𝑥+2)(𝑥−3) = 0 w zbiorze liczb rzeczywistych
+A. nie ma rozwiązania.
+B. ma dokładnie jedno rozwiązanie: (−1).
+C. ma dokładnie dwa rozwiązania: (−2) oraz 3.
+D. ma dokładnie trzy rozwiązania: (−1), (−2) oraz 3.

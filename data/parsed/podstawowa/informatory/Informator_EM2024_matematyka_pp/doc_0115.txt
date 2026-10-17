@@ -1,0 +1,33 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=115; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+Przykładowe zadania z rozwiązaniami 115
+Zadanie 58. (0–1)
+Dane są dwa prostopadłościany podobne: ℬ1 oraz ℬ2. Objętość prostopadłościanu ℬ1
+jest równa 𝑉, a objętość prostopadłościanu ℬ2 jest równa 27𝑉. Pole powierzchni
+całkowitej prostopadłościanu ℬ1 jest równe 𝑃.
+Dokończ zdanie. Zaznacz odpowiedź A, B albo C oraz jej uzasadnienie 1., 2. albo 3.
+Pole powierzchni całkowitej prostopadłościanu ℬ2 jest równe
+A. 27𝑃,
+ponieważ stosunek pól
+powierzchni całkowitych
+prostopadłościanów
+podobnych jest równy
+1. stosunkowi objętości tych prostopadłościanów.
+B. 9𝑃, 2. pierwiastkowi kwadratowemu ze stosunku
+objętości tych prostopadłościanów.
+C. 3√3𝑃, 3. kwadratowi stosunku długości odcinków
+odpowiadających w obu prostopadłościanach.
+Wymagania ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+IV. Rozumowanie i argumentacja.
+2. Dostrzeganie regularności, podobieństw oraz analogii, formułowanie wniosków na
+ich podstawie i uzasadnianie ich poprawności.
+Wymaganie szczegółowe
+X. Stereometria. Zdający:
+6) wykorzystuje zależność między objętościami brył podobnych.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+B3

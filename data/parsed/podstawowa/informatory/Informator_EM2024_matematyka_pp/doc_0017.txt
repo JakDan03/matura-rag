@@ -1,0 +1,28 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=17; level=podstawowy; year=2024; section=1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów]
+Przykładowe zadania z rozwiązaniami 17
+Zadanie 5. (0–2)
+Wykaż, że dla każdej liczby naturalnej 𝒏 ≥ 𝟏 liczba 𝒏(𝒏𝟐 + 𝟑𝒏 + 𝟐) jest podzielna
+przez 𝟔.
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.
+Wymaganie szczegółowe
+I. Liczby rzeczywiste. Zdający:
+2) przeprowadza proste dowody dotyczące podzielności liczb całkowitych i reszt
+z dzielenia […].
+Zasady oceniania
+2 pkt – przekształcenie wyrażenia 𝑛(𝑛2 + 3𝑛 + 2) do postaci 𝑛(𝑛 + 1)(𝑛 + 2) oraz
+zapisanie, że wśród trzech kolejnych liczb naturalnych 𝑛, 𝑛 + 1, 𝑛 + 2 co najmniej
+jedna jest podzielna przez 2 i dokładnie jedna jest podzielna przez 3.
+1 pkt – przekształcenie wyrażenia 𝑛(𝑛2 + 3𝑛 + 2) do postaci 𝑛(𝑛 + 1)(𝑛 + 2).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Przekształcamy wyrażenie 𝑛(𝑛2 + 3𝑛 + 2) do postaci iloczynu trzech liczb naturalnych.
+Obliczamy wyróżnik trójmianu 𝑛2 + 3𝑛 + 2 (zobacz w Wybranych wzorach matematycznych):
+Δ = 32 − 4 ⋅ 1 ⋅ 2 = 1
+i stąd obliczamy jego pierwiastki:
+𝑛1 = −3 − √1
+2 ⋅ 1 = −2
+𝑛2 = −3 + √1
+2 ⋅ 1 = −1

@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=7; level=podstawowy; year=2025; month=czerwiec; task_id=6]
+Zadanie 6. (0–1)
+Dana jest nierówność
+8 − 1 − 2𝑥
+2 ≥ 3𝑥
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Największą liczbą całkowitą, która spełnia tę nierówność, jest
+A. 1 B. 2 C. 3 D. 4

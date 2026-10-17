@@ -1,0 +1,32 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=119; level=podstawowy; year=2024; section=1. Zauważmy, że pole 𝐴𝐵𝑆 wycinka koła jest równe polu powierzchni bocznej stożka (polu]
+Przykładowe zadania z rozwiązaniami 119
+Wyprowadzimy wzór końcowy na symbolach danych (pominiemy obliczenia pośrednie).
+1. Zauważmy, że pole 𝐴𝐵𝑆 wycinka koła jest równe polu powierzchni bocznej stożka (polu
+powierzchni czapeczki). Zastosujemy wzór na pole 𝐴𝐵𝑆 wycinka koła oraz wzór na pole
+powierzchni bocznej stożka:
+𝛼
+360° ⋅ 𝜋𝑙2 = 𝜋𝑟𝑙
+𝛼 = 𝑟
+𝑙 ⋅ 360°
+Uwaga
+Zauważmy, że otrzymany wzór zadaje nadzwyczaj prostą relację między kątem wycinka koła
+i kątem rozwarcia stożka:
+𝛼 = sin 𝛽 ⋅ 360°
+2. Skorzystamy z twierdzenia Pitagorasa i wyrazimy 𝑙 poprzez 𝐻 i 𝑑:
+𝑙2 = 𝐻2 + 𝑟2
+𝑙2 = 𝐻2 + (𝑑
+2)
+2
+𝑙 = √𝐻2 + (𝑑
+2)
+2
+3. Zapiszemy wzór na miarę kąta 𝛼 i ją obliczymy:
+𝛼 =
+𝑑
+2
+√𝐻2 + (𝑑
+2)
+2 ⋅ 360°
+𝛼 = 10
+√252 + 102 ⋅ 360°
+𝛼 ≈ 134°

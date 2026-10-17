@@ -1,0 +1,4 @@
+Dział XIII. Optymalizacja i rachunek różniczkowy.
+Poziom: podstawowy
+Zakres podstawowy. Uczeń rozwiązuje zadania optymalizacyjne w sytuacjach dających się
+opisać funkcją kwadratową.

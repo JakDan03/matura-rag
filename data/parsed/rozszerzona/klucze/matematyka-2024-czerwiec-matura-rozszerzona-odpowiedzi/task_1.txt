@@ -1,0 +1,51 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=2, 3, 4; level=rozszerzony; year=2024; month=czerwiec; task_id=1]
+Zadanie 1. (0–2)
+Wymagania egzaminacyjne 20241
+Wymaganie ogólne Wymaganie szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście,
+zarówno matematycznym, jak
+i popularnonaukowym, a także w formie
+wykresów, diagramów, tabel.
+Zdający:
+V.13) posługuje się funkcjami wykładniczą
+i logarytmiczną, w tym ich wykresami, do
+opisu i interpretacji zagadnień związanych
+z zastosowaniami praktycznymi.
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody i poprawny wynik: 120 sekund.
+1 pkt – wyznaczenie współczynnika 𝑏: 𝑏 = 1
+9 𝑚0
+ALBO
+– zapisanie związku 𝑎 + 𝑏 = 𝑚0 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Ponieważ po osiągnięciu stanu równowagi masa związku A była równa 1
+9 𝑚0 , więc
+1
+9 𝑚0 = lim
+𝑡→+∞
+𝑚(𝑡) = lim
+𝑡→+∞
+𝑎 ⋅ 2−0,05⋅𝑡 + 𝑏 = 0 + 𝑏 = 𝑏
+Stąd i z warunku 𝑚(0) = 𝑚0 otrzymujemy
+𝑚0 = 𝑎 ⋅ 2−0,05⋅0 + 1
+9 𝑚0
+czyli 𝑎 = 8
+9 𝑚0 .
+Obliczamy czas, po którym pozostało 12,5% początkowej masy związku A:
+1Rozporządzenie Ministra Edukacji i Nauki z dnia 10 czerwca 2022 r. w sprawie wymagań egzaminacyjnych dla
+egzaminu maturalnego przeprowadzanego w roku szkolnym 2022/2023 i 2023/2024 (Dz.U. poz. 1246).
+Zasady oceniania rozwiązań zadań
+1
+8 𝑚0 = 8
+9 𝑚0 ⋅ 2−0,05⋅𝑡 + 1
+9 𝑚0 /: 𝑚0
+1
+72 = 8
+9 ⋅ 2−0,05⋅𝑡
+2−6 = 2−0,05⋅𝑡
+6 = 0,05𝑡
+𝑡 = 120
+Zatem po 120 sekundach przereaguje 87,5% masy początkowej związku A.

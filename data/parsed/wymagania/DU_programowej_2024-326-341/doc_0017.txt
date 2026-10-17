@@ -1,0 +1,12 @@
+Dział IX. Geometria analityczna na płaszczyźnie kartezjańskiej.
+Poziom: podstawowy
+Zakres podstawowy. Uczeń:
+1) rozpoznaje wzajemne położenie prostych na płaszczyźnie na podstawie ich równań, w
+tym znajduje wspólny punkt dwóch prostych, jeśli taki istnieje;
+2) posługuje się równaniami prostych na płaszczyźnie, w postaci kierunkowej i ogólnej, w
+tym wyznacza równanie prostej o zadanych własnościach (takich, jak np. przechodzenie
+przez dwa dane punkty, znany współczynnik kierunkowy, równoległość do innej prostej);
+3) oblicza odległość dwóch punktów w układzie współrzędnych;
+4) posługuje się równaniem okręgu (𝑥𝑥 − 𝑎𝑎)2 + (𝑦𝑦 − 𝑏𝑏)2 = 𝑟𝑟 2;
+5) wyznacza obrazy okręgów i wielokątów w symetriach osiowych względem osi układu
+współrzędnych, symetrii środkowej (o środku w początku układu współrzędnych).

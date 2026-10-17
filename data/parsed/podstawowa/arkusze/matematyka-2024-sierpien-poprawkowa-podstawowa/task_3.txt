@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=5; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=3]
+Zadanie 3. (0–2)
+Wykaż, że dla każdej liczby naturalnej 𝒏 ≥ 𝟏 liczba (𝟐𝒏 + 𝟓)𝟐 + 𝟑 jest podzielna
+przez 𝟒.
+3.
+0–1–2

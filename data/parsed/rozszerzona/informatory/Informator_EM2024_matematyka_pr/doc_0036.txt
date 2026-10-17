@@ -1,0 +1,37 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=36; level=rozszerzony; year=2024; section=|𝐷𝐾| + |𝐾𝐴| = |𝐷′𝐾| + |𝐾𝐴| ≥ |𝐷′𝐴| = |𝐷𝐾′| + |𝐾′𝐴|]
+36 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Pokażemy, że sieć dróg z węzłami 𝐾 i 𝐿 można zastąpić siecią krótszą – z węzłami 𝐾’
+oraz 𝐿’.
+Niech 𝐷’ będzie punktem symetrycznym do punktu 𝐷 względem prostej 𝑝. Wówczas
+punkty 𝐷’, 𝐾’ oraz 𝐴 są współliniowe, więc
+|𝐷𝐾| + |𝐾𝐴| = |𝐷′𝐾| + |𝐾𝐴| ≥ |𝐷′𝐴| = |𝐷𝐾′| + |𝐾′𝐴|
+Podobnie pokazujemy, że |𝐵𝐿| + |𝐿𝐶| ≥ |𝐵𝐿′| + |𝐿′𝐶|. Ponadto odcinek 𝐾′𝐿′ jest
+równoległy do prostej 𝐴𝐵, więc |𝐾′𝐿′| ≤ |𝐾𝐿|. Zatem sieć dróg z węzłami 𝐾′ i 𝐿′ jest
+krótsza niż z węzłami 𝐾 i 𝐿.
+Oznaczmy odległość punktu 𝐾′ od prostej 𝐴𝐷 przez 𝑥, natomiast punktu 𝐿′ od
+prostej 𝐵𝐶 – przez 𝑦. Długość 𝑑 sieci z węzłami 𝐾′ i 𝐿′ jest równa
+𝑑 = 2√1502 + 𝑥2 + 2√1502 + 𝑦2 + 300 − 𝑥 − 𝑦
+gdzie 𝑥 ∈ [0, 300), 𝑦 ∈ [0, 300) i 𝑥 + 𝑦 < 300.
+Zbadamy funkcję 𝑓(𝑥) = 2√1502 + 𝑥2 − 𝑥 określoną dla 𝑥 ∈ [0, 300).
+𝑓′(𝑥) = 2 ⋅ 1
+2 ⋅ 1
+√1502 + 𝑥2 ⋅ 2𝑥 − 1 = 2𝑥
+√1502 + 𝑥2 − 1
+𝑓′(𝑥) = 0
+2𝑥
+√(1502 + 𝑥2)
+= 1
+4𝑥2 = 𝑥2 + 1502
+𝑥 = 50√3
+𝑓′(𝑥) > 0 ⟺ 𝑥 ∈ (50√3, 300)
+𝑓′(𝑥) < 0 ⟺ 𝑥 ∈ [0, 50√3)
+Funkcja 𝑓 jest malejąca w przedziale [0, 50√3] i rosnąca w przedziale [50√3, 300).
+Najmniejszą wartość funkcja przyjmuje w punkcie 𝑥 = 50√3 i wartość ta jest równa
+𝑓(50√3) = 150√3.
+Zatem
+𝑑 = 𝑓(𝑥) + 𝑓(𝑦) + 300 ≥ 300(1 + √3)
+przy czym równość zachodzi tylko wtedy, gdy 𝑥 = 𝑦 = 50√3. Najkrótsza sieć dróg ma
+zatem długość 300(1 + √3) km i składa się z 5 odcinków: 𝐴𝐾′, 𝐾′𝐿′, 𝐿′𝐶, 𝐵𝐿′ i 𝐷𝐾′.
+Węzeł 𝐾′ jest równo oddalony (w odległości 100√3 km) od miast 𝐴 i 𝐷, natomiast
+węzeł 𝐿′ jest równo oddalony (w odległości 100√3 km) od miast 𝐵 i 𝐶 (zobacz
+rysunek 2.).

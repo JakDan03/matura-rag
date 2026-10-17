@@ -1,0 +1,256 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=16, 17, 18, 19, 20, 21; level=rozszerzony; year=2025; month=maj; task_id=6]
+Zadanie 6. (0–4)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+VI.R2) rozpoznaje zbieżne szeregi
+geometryczne i oblicza ich sumę.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 27
+2 lub 27.
+Zasady oceniania rozwiązań zadań
+3 pkt – obliczenie 𝑎1 oraz 𝑞: (𝑎1, 𝑞) = (18, 1
+3), (𝑎1, 𝑞) = (18, − 1
+3), (𝑎1, 𝑞) = (2, 3),
+(𝑎1, 𝑞) = (2, −3)
+ALBO
+– obliczenie 𝑎3 oraz 𝑞: (𝑎3, 𝑞) = (2, 1
+3), (𝑎3, 𝑞) = (2, − 1
+3), (𝑎3, 𝑞) = (18, 3),
+(𝑎3, 𝑞) = (18, −3),
+ALBO
+– obliczenie 𝑎2 oraz 𝑞: (𝑎2, 𝑞) = (−6, −3), (𝑎2, 𝑞) = (−6, − 1
+3), (𝑎2, 𝑞) = (6, 1
+3),
+(𝑎2, 𝑞) = (6, 3) (dla sposobu III),
+ALBO
+– wyznaczenie jednej z par (𝑎1, 𝑞), dla której szereg geometryczny jest zbieżny
+i obliczenie sumy tego szeregu, np. (𝑎1, 𝑞) = (18, 1
+3) i 𝑆 = 27, (𝑎1, 𝑞) = (18, − 1
+3)
+i 𝑆 = 27
+2 ,
+ALBO
+– wyznaczenie jednej z par (𝑎3, 𝑞), dla której szereg geometryczny jest zbieżny
+i obliczenie sumy tego szeregu, np. (𝑎3, 𝑞) = (2, 1
+3) i 𝑆 = 27, (𝑎3, 𝑞) = (2, − 1
+3)
+i 𝑆 = 27
+2 ,
+ALBO
+– wyznaczenie jednej z par (𝑎2, 𝑞), dla której szereg geometryczny jest zbieżny
+i obliczenie sumy tego szeregu, np. (𝑎2, 𝑞) = (6, 1
+3) i 𝑆 = 27, (𝑎2, 𝑞) = (−6, − 1
+3)
+i 𝑆 = 27
+2 (dla sposobu III).
+2 pkt – obliczenie 𝑎1 : 𝑎1 = 2 oraz 𝑎1 = 18
+ALBO
+– obliczenie 𝑎3 : 𝑎3 = 18 oraz 𝑎3 = 2,
+ALBO
+– obliczenie 𝑞2: 𝑞2 = 9 oraz 𝑞2 = 1
+9 ,
+ALBO
+– zapisanie alternatywy równań − 6
+𝑞 − 6𝑞 = 20 lub 6
+𝑞 + 6𝑞 = 20 (dla sposobu III),
+ALBO
+– zapisanie równania 36
+𝑞2 + 36𝑞2 = 328 (dla sposobu III).
+1 pkt – zapisanie równania z jedną niewiadomą (𝑎1 lub 𝑎3 , lub 𝑞), np.
+𝑎1
+2 + (20 − 𝑎1)2 = 328, (20 − 𝑎3)2 + 𝑎3
+2 = 328, 400
+(𝑞2 + 1)
+2 ⋅ (1 + 𝑞4) = 328
+ALBO
+– zapisanie równania z jedną niewiadomą 𝑎2 , np. 𝑎2
+2 = 36, 202 − 2𝑎2
+2 = 328 (dla
+sposobu III).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający odrzuci otrzymane wartości 𝑞 = 3 oraz 𝑞 = −3 (lub parę
+(𝑎1 , 𝑎3) = (2, 18) ) bez komentarza, to może otrzymać 4 punkty za całe rozwiązanie.
+2. Jeżeli zdający nie odrzuci wartości 𝑞 = 3 oraz 𝑞 = −3 i zastosuje wzór na sumę
+szeregu geometrycznego dla 𝑞 = 3 (albo dla 𝑞 = −3), to może otrzymać co najwyżej
+3 punkty za całe rozwiązanie.
+3. a) Jeżeli zdający popełni błąd rachunkowy, ale otrzyma co najmniej jeden iloraz
+spełniający warunek |𝑞| < 1 oraz co najmniej jeden iloraz spełniający warunek |𝑞| ≥ 1
+i rozwiąże zadanie do końca, to może otrzymać co najwyżej 3 punkty za całe rozwiązanie
+(2 punkty za pary (𝑎1, 𝑞) oraz 1 punkt za obliczenie sum szeregów dla wszystkich
+otrzymanych ilorazów 𝑞 spełniających warunek |𝑞| < 1, o ile nie obliczy sumy szeregu
+dla ilorazu spełniającego warunek |𝑞| ≥ 1).
+3. b) Jeżeli zdający popełni błąd rachunkowy, ale otrzyma co najmniej dwa ilorazy
+i wszystkie z nich spełniają warunek |𝑞| < 1 oraz rozwiąże zadanie do końca, to może
+otrzymać co najwyżej 2 punkty za całe rozwiązanie (1 punkt za pary (𝑎1, 𝑞) oraz 1 punkt
+za obliczenie sum szeregów dla wszystkich otrzymanych ilorazów 𝑞), o ile nie nabył
+prawa do innej punktacji zgodnej z zasadami oceniania.
+4. Jeżeli zdający popełni błąd, który nie jest rachunkowy, ale otrzyma co najmniej jeden
+iloraz spełniający warunek |𝑞| < 1 i rozwiąże zadanie do końca, to może otrzymać co
+najwyżej 2 punkty za całe rozwiązanie (1 punkt za pary (𝑎1, 𝑞) oraz 1 punkt za
+obliczenie sum szeregów dla wszystkich otrzymanych ilorazów 𝑞 spełniających warunek
+|𝑞| < 1, o ile nie obliczy sumy szeregu dla ilorazu spełniającego warunek |𝑞| ≥ 1), o ile
+nie nabył prawa do innej punktacji zgodnej z zasadami oceniania.
+5. Jeżeli zdający odgadnie rozwiązanie układu równań 𝑎1 + 𝑎3 = 20 i 𝑎1
+2 + 𝑎3
+2 = 328:
+(𝑎1 , 𝑎3) = (18, 2) oraz obliczy poprawnie obie sumy szeregu: 𝑆 = 27 i 𝑆 = 27
+2 i nie
+obliczy sumy szeregu dla ilorazu spełniającego warunek |𝑞| ≥ 1, to otrzymuje 1 punkt za
+całe rozwiązanie.
+6. Jeżeli zdający odgadnie rozwiązania układu równań 𝑎1 + 𝑎3 = 20 i 𝑎1
+2 + 𝑎3
+2 = 328:
+(𝑎1 , 𝑎3) = (18, 2) oraz (𝑎1 , 𝑎3) = (2, 18), ale nie obliczy poprawnie obu sum szeregu:
+𝑆 = 27 i 𝑆 = 27
+2 lub obliczy sumę szeregu dla ilorazu spełniającego warunek |𝑞| ≥ 1,
+to otrzymuje 0 punktów za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Niech 𝑞 oznacza iloraz ciągu (𝑎𝑛). Z warunków 𝑎1 + 𝑎3 = 20 i 𝑎1
+2 + 𝑎3
+2 = 328
+otrzymujemy:
+𝑎1
+2 + (20 − 𝑎1)2 = 328
+2𝑎1
+2 − 40𝑎1 + 72 = 0
+𝑎1 = 2 ∨ 𝑎1 = 18
+Zasady oceniania rozwiązań zadań
+Gdy 𝑎1 = 2, to 𝑎3 = 20 − 𝑎1 = 18 i wtedy 𝑞2 = 9, więc 𝑞 = −3 lub 𝑞 = 3. Dla każdej
+z tych wartości ilorazu ciąg (𝑎𝑛) jest rozbieżny i tym samym nie są spełnione warunki
+zadania.
+Gdy 𝑎1 = 18, to 𝑎3 = 20 − 𝑎1 = 2 i wtedy 𝑞2 = 1
+9 , więc 𝑞 = − 1
+3 lub 𝑞 = 1
+3 . Dla każdej
+z tych wartości 𝑞 ciąg (𝑎𝑛) jest zbieżny, a ponieważ |− 1
+3| < 1 oraz |1
+3| < 1, więc dla
+obu tych wartości ilorazu istnieje suma wszystkich wyrazów ciągu geometrycznego (𝑎𝑛).
+Dla 𝑎1 = 18 i 𝑞 = − 1
+3 suma 𝑆 wszystkich wyrazów ciągu (𝑎𝑛) jest równa
+𝑆 = 𝑎1
+1 − 𝑞 = 18
+1 − (− 1
+3)
+= 27
+2
+Dla 𝑎1 = 18 i 𝑞 = 1
+3 suma 𝑆 wszystkich wyrazów ciągu (𝑎𝑛) jest równa
+𝑆 = 𝑎1
+1 − 𝑞 = 18
+1 − 1
+3
+= 27
+Sposób II
+Niech 𝑞 oznacza iloraz ciągu (𝑎𝑛). Z warunku 𝑎1 + 𝑎3 = 20 otrzymujemy
+𝑎1 + 𝑎1𝑞2 = 20, więc 𝑎1 = 20
+𝑞2+1 i 𝑎1 ≠ 0.
+Stąd i z warunku 𝑎1
+2 + 𝑎3
+2 = 328 otrzymujemy:
+𝑎1
+2 + (𝑎1𝑞2)2 = 328
+𝑎1
+2 ⋅ (1 + 𝑞4) = 328
+400
+(𝑞2 + 1)2 ⋅ (1 + 𝑞4) = 328
+72𝑞4 − 656𝑞2 + 72 = 0
+9𝑞4 − 82𝑞2 + 9 = 0
+Δ = (−82)2 − 4 ⋅ 9 ⋅ 9 = 6400
+𝑞2 = 82 − 80
+2 ⋅ 9 = 1
+9 ∨ 𝑞2 = 82 + 80
+2 ⋅ 9 = 9
+𝑞 = − 1
+3 ∨ 𝑞 = 1
+3 ∨ 𝑞 = −3 ∨ 𝑞 = 3
+Ponieważ 𝑎1 ≠ 0, więc dla 𝑞 = −3 oraz 𝑞 = 3 ciąg (𝑎𝑛) nie jest zbieżny.
+Gdy 𝑞 = − 1
+3 , to 𝑎1 = 20
+𝑞2+1 = 18 i ciąg (𝑎𝑛) jest zbieżny. Ponadto |− 1
+3| < 1, więc
+istnieje suma 𝑆 wszystkich wyrazów ciągu geometrycznego i jest ona równa
+𝑆 = 𝑎1
+1 − 𝑞 = 18
+1 − (− 1
+3)
+= 27
+2
+Gdy 𝑞 = 1
+3 , to 𝑎1 = 20
+𝑞2+1 = 18 i ciąg (𝑎𝑛) jest zbieżny. Ponadto |1
+3| < 1, więc istnieje
+suma 𝑆 wszystkich wyrazów ciągu geometrycznego i jest ona równa
+𝑆 = 𝑎1
+1 − 𝑞 = 18
+1 − 1
+3
+= 27
+Sposób III (poprzez 𝑎2)
+Niech 𝑞 oznacza iloraz ciągu (𝑎𝑛). Z warunków 𝑎1 + 𝑎3 = 20 i 𝑎1
+2 + 𝑎3
+2 = 328
+otrzymujemy:
+𝑎1
+2 + 𝑎3
+2 = 328
+(𝑎1 + 𝑎3)2 − 2𝑎1 ⋅ 𝑎3 = 328
+202 − 2𝑎1 ⋅ 𝑎3 = 328
+Stąd, po zastosowaniu własności ciągu geometrycznego, dostajemy
+202 − 2𝑎2
+2 = 328
+𝑎2 = −6 ∨ 𝑎2 = 6
+Przypadek 1. (gdy 𝑎2 = −6).
+Warunek 𝑎1 + 𝑎3 = 20 zapisujemy w postaci 𝑎2
+𝑞 + 𝑎2 ⋅ 𝑞 = 20 i obliczamy iloraz ciągu:
+− 6
+𝑞 − 6𝑞 = 20
+−6𝑞2 − 20𝑞 − 6 = 0
+𝑞 = 20 − 16
+−12 = − 1
+3 ∨ 𝑞 = 20 + 16
+−12 = −3
+Gdy 𝑞 = − 1
+3 i 𝑎2 = −6, to ciąg (𝑎𝑛) jest zbieżny. Ponadto |− 1
+3| < 1, więc istnieje
+suma 𝑆 wszystkich wyrazów ciągu geometrycznego i jest ona równa
+𝑆 =
+𝑎2
+𝑞
+1 − 𝑞 = 18
+1 − (− 1
+3)
+= 27
+2
+Gdy 𝑞 = −3 i 𝑎2 = −6, to ciąg (𝑎𝑛) jest rozbieżny, więc warunki zadania nie są
+spełnione.
+Zasady oceniania rozwiązań zadań
+Przypadek 2. (gdy 𝑎2 = 6).
+Warunek 𝑎1 + 𝑎3 = 20 zapisujemy w postaci 𝑎2
+𝑞 + 𝑎2 ⋅ 𝑞 = 20 i obliczamy iloraz ciągu:
+6
+𝑞 + 6𝑞 = 20
+6𝑞2 − 20𝑞 + 6 = 0
+𝑞 = 20 − 16
+12 = 1
+3 ∨ 𝑞 = 20 + 16
+12 = 3
+Gdy 𝑞 = 1
+3 i 𝑎2 = 6, to ciąg (𝑎𝑛) jest zbieżny. Ponadto |1
+3| < 1, więc istnieje suma 𝑆
+wszystkich wyrazów ciągu geometrycznego i jest ona równa
+𝑆 =
+𝑎2
+𝑞
+1 − 𝑞 = 18
+1 − 1
+3
+= 27
+Gdy 𝑞 = 3 i 𝑎2 = 6, to ciąg (𝑎𝑛) jest rozbieżny, więc warunki zadania nie są spełnione.

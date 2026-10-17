@@ -1,0 +1,212 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=4, 5, 6, 7, 8; level=rozszerzony; year=2026; month=maj; task_id=3]
+Zadanie 3. (0–3)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+II.R5) korzysta ze wzorów na: 𝑎3 + 𝑏3 […].
+Zasady oceniania
+3 pkt – poprawne przekształcenia i przeprowadzenie pełnego rozumowania, tj.:
+• przekształcenie nierówności 1
+𝑥 + 1
+𝑦 ≤ 𝑥
+𝑦2 + 𝑦
+𝑥2 do postaci (𝑥 − 𝑦)2 ≥ 0 (lub do
+postaci (𝑥−𝑦)2
+𝑥2𝑦2 ≥ 0) i zapisanie, że kwadrat każdej liczby rzeczywistej jest
+nieujemny
+ALBO
+• przekształcenie nierówności 1
+𝑥 + 1
+𝑦 ≤ 𝑥
+𝑦2 + 𝑦
+𝑥2 do postaci (𝑥 + 𝑦)(𝑥 − 𝑦)2 ≥ 0
+(lub do postaci (𝑥 + 𝑦)(𝑥 − 𝑦)2
+𝑥2𝑦2 ≥ 0) oraz uzasadnienie, że dla liczb dodatnich
+Zasady oceniania rozwiązań zadań
+𝑥, 𝑦 nierówność (𝑥 + 𝑦)(𝑥 − 𝑦)2 ≥ 0 (lub nierówność (𝑥 + 𝑦)(𝑥 − 𝑦)2
+𝑥2𝑦2 ≥ 0)
+jest prawdziwa,
+ALBO
+• obliczenie miejsca zerowego pochodnej funkcji 𝑓 oraz uzasadnienie, że funkcja
+𝑓 osiąga wartość najmniejszą dla 𝑥 = 𝑦 i obliczenie 𝑓(𝑦).
+2 pkt – przekształcenie nierówności 1
+𝑥 + 1
+𝑦 ≤ 𝑥
+𝑦2 + 𝑦
+𝑥2 do postaci 𝑥2 − 2𝑥𝑦 + 𝑦2 ≥ 0 (lub
+do postaci 𝑥2 − 2𝑥𝑦 + 𝑦2
+𝑥2𝑦2 ≥ 0)
+ALBO
+– przekształcenie nierówności 1
+𝑥 + 1
+𝑦 ≤ 𝑥
+𝑦2 + 𝑦
+𝑥2 do postaci (𝑥 + 𝑦)(𝑥 − 𝑦)2 ≥ 0 (lub
+do postaci (𝑥 + 𝑦)(𝑥 − 𝑦)2
+𝑥2𝑦2 ≥ 0),
+ALBO
+– obliczenie miejsca zerowego pochodnej funkcji 𝑓: 𝑥 = 𝑦.
+1 pkt – przekształcenie nierówności do postaci 𝑊(𝑥, 𝑦) ≥ 0 (lub do postaci
+𝑊(𝑥,𝑦)
+𝑥2𝑦2 ≥ 0), gdzie 𝑊 jest wielomianem zmiennych 𝑥 oraz 𝑦, np.:
+𝑥3 + 𝑦3 − 𝑥𝑦2 − 𝑥2𝑦 ≥ 0, 𝑥3 + 𝑦3 − 𝑥𝑦(𝑥 + 𝑦) ≥ 0, 𝑥3 + 𝑦3 − 𝑥𝑦2 − 𝑥2𝑦
+𝑥2𝑦2 ≥ 0
+ALBO
+– przekształcenie nierówności do postaci (𝑥 + 𝑦)(𝑥2 − 𝑥𝑦 + 𝑦2)
+𝑥2𝑦2 ≥ 𝑥 + 𝑦
+𝑥𝑦 ,
+ALBO
+– rozważenie funkcji 𝑓(𝑥) = 𝑥
+𝑦2 + 𝑦
+𝑥2 − 1
+𝑥 − 1
+𝑦 zmiennej dodatniej 𝑥 z parametrem
+𝑦 > 0 oraz wyznaczenie pochodnej tej funkcji, np. 𝑓′(𝑥) = 1
+𝑦2 − 2𝑦
+𝑥3 + 1
+𝑥2 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający sprawdza prawdziwość nierówności jedynie dla wybranych wartości 𝑥 i 𝑦,
+to otrzymuje 0 punktów za całe rozwiązanie.
+2. Jeżeli zdający przekształci nierówność do postaci (𝑥2 − 𝑦2)(𝑥 − 𝑦) ≥ 0, a następnie
+uzasadni prawdziwość tej nierówności w przypadku, gdy 𝑥 > 𝑦 oraz w przypadku, gdy
+𝑥 < 𝑦, a pominie przypadek 𝑥 = 𝑦, to otrzymuje 2 punkty.
+Przykładowe pełne rozwiązania
+Sposób I (suma sześcianów)
+Z założenia 𝑥 > 0 oraz 𝑦 > 0, więc 𝑥2𝑦2 > 0. Mnożymy obie strony nierówności
+1
+𝑥 + 1
+𝑦 ≤ 𝑥
+𝑦2 + 𝑦
+𝑥2 przez 𝑥2𝑦2 i otrzymujemy
+𝑥𝑦2 + 𝑦𝑥2 ≤ 𝑥3 + 𝑦3
+Stosujemy wzór na sumę sześcianów oraz kwadrat różnicy i dostajemy:
+𝑥𝑦(𝑥 + 𝑦) ≤ (𝑥 + 𝑦)(𝑥2 − 𝑥𝑦 + 𝑦2)
+0 ≤ (𝑥 + 𝑦)(𝑥2 − 2𝑥𝑦 + 𝑦2)
+0 ≤ (𝑥 + 𝑦)(𝑥 − 𝑦)2
+Ponieważ (𝑥 + 𝑦) jest dodatnie jako suma dwóch liczb dodatnich 𝑥 oraz 𝑦, a ponadto
+(𝑥 − 𝑦)2 jest nieujemne jako kwadrat liczby rzeczywistej (𝑥 − 𝑦), więc (𝑥 + 𝑦)(𝑥 − 𝑦)2
+jest nieujemne jako iloczyn liczby dodatniej i nieujemnej. Zatem nierówność
+0 ≤ (𝑥 + 𝑦)(𝑥 − 𝑦)2 jest prawdziwa dla każdej liczby dodatniej 𝑥 i dla każdej liczby
+dodatniej 𝑦. To oznacza, że dla każdej liczby dodatniej 𝑥 i każdej liczby dodatniej 𝑦
+nierówność 1
+𝑥 + 1
+𝑦 ≤ 𝑥
+𝑦2 + 𝑦
+𝑥2 jest również prawdziwa.
+To należało wykazać.
+Sposób II (grupowanie)
+Z założenia 𝑥 > 0 oraz 𝑦 > 0, więc 𝑥2𝑦2 > 0. Mnożymy obie strony nierówności
+1
+𝑥 + 1
+𝑦 ≤ 𝑥
+𝑦2 + 𝑦
+𝑥2 przez 𝑥2𝑦2 oraz stosujemy wzór na różnicę kwadratów i otrzymujemy
+kolejno:
+𝑥𝑦2 + 𝑦𝑥2 ≤ 𝑥3 + 𝑦3
+0 ≤ 𝑥3 − 𝑥𝑦2 + 𝑦3 − 𝑦𝑥2
+0 ≤ 𝑥(𝑥2 − 𝑦2) + 𝑦(𝑦2 − 𝑥2)
+0 ≤ (𝑥 − 𝑦)(𝑥2 − 𝑦2)
+0 ≤ (𝑥 − 𝑦)2(𝑥 + 𝑦)
+Ponieważ (𝑥 + 𝑦) jest dodatnie jako suma dwóch liczb dodatnich 𝑥 oraz 𝑦, a ponadto
+(𝑥 − 𝑦)2 jest nieujemne jako kwadrat liczby rzeczywistej (𝑥 − 𝑦), więc (𝑥 + 𝑦)(𝑥 − 𝑦)2
+jest nieujemne jako iloczyn liczby dodatniej i nieujemnej. Zatem nierówność
+0 ≤ (𝑥 + 𝑦)(𝑥 − 𝑦)2 jest prawdziwa dla każdej liczby dodatniej 𝑥 i dla każdej liczby
+dodatniej 𝑦. To oznacza, że dla każdej liczby dodatniej 𝑥 i każdej liczby dodatniej 𝑦
+nierówność 1
+𝑥 + 1
+𝑦 ≤ 𝑥
+𝑦2 + 𝑦
+𝑥2 jest również prawdziwa.
+To należało wykazać.
+Sposób III
+Z założenia wynika, że 𝑥 ≠ 0 i 𝑦 ≠ 0, więc przekształcamy równoważnie nierówność
+1
+𝑥 + 1
+𝑦 ≤ 𝑥
+𝑦2 + 𝑦
+𝑥2 , rozszerzając odpowiednie ułamki i stosując wzór na różnicę kwadratów:
+0 ≤ 𝑥
+𝑦2 + 𝑦
+𝑥2 − 1
+𝑥 − 1
+𝑦
+Zasady oceniania rozwiązań zadań
+0 ≤ 𝑥3
+𝑥2𝑦2 + 𝑦3
+𝑥2𝑦2 − 𝑦2𝑥
+𝑥2𝑦2 − 𝑥2𝑦
+𝑥2𝑦2
+0 ≤ 𝑥3 + 𝑦3 − 𝑦2𝑥 − 𝑥2𝑦
+𝑥2𝑦2
+0 ≤ 𝑥(𝑥2 − 𝑦2) + 𝑦(𝑦2 − 𝑥2)
+𝑥2𝑦2
+0 ≤ (𝑥 − 𝑦)(𝑥2 − 𝑦2)
+𝑥2𝑦2
+0 ≤ (𝑥 − 𝑦)2(𝑥 + 𝑦)
+𝑥2𝑦2
+Ponieważ:
+• (𝑥 + 𝑦) jest dodatnie jako suma dwóch liczb dodatnich 𝑥 oraz 𝑦
+• (𝑥 − 𝑦)2 jest nieujemne jako kwadrat liczby rzeczywistej (𝑥 − 𝑦)
+• 𝑥2𝑦2 jest dodatnie jako iloczyn kwadratów liczb dodatnich 𝑥 oraz 𝑦,
+więc
+(𝑥 − 𝑦)2(𝑥 + 𝑦)
+𝑥2𝑦2 jest nieujemne jako iloraz liczby nieujemnej (𝑥 − 𝑦)2(𝑥 + 𝑦) i liczby
+dodatniej 𝑥2𝑦2. Zatem nierówność 0 ≤
+(𝑥 − 𝑦)2(𝑥 + 𝑦)
+𝑥2𝑦2 jest prawdziwa dla każdej liczby
+dodatniej 𝑥 i dla każdej liczby dodatniej 𝑦. To oznacza, że dla każdej liczby dodatniej 𝑥
+i każdej liczby dodatniej 𝑦 nierówność 1
+𝑥 + 1
+𝑦 ≤ 𝑥
+𝑦2 + 𝑦
+𝑥2 jest również prawdziwa.
+To należało wykazać.
+Sposób IV (badanie funkcji)
+Rozważmy funkcję 𝑓(𝑥) = 𝑥
+𝑦2 + 𝑦
+𝑥2 − 1
+𝑥 − 1
+𝑦 zmiennej dodatniej 𝑥 z parametrem 𝑦 > 0.
+Wyznaczamy pochodną funkcji 𝑓:
+𝑓′(𝑥) = 1
+𝑦2 − 2𝑦
+𝑥3 + 1
+𝑥2
+𝑓′(𝑥) = 𝑥3 − 2𝑦3 + 𝑥𝑦2
+𝑥3𝑦2
+𝑓′(𝑥) = 𝑥3 − 𝑦3 + 𝑥𝑦2 − 𝑦3
+𝑥3𝑦2
+𝑓′(𝑥) = (𝑥 − 𝑦)(𝑥2 + 𝑥𝑦 + 𝑦2) + 𝑦2(𝑥 − 𝑦)
+𝑥3𝑦2
+𝑓′(𝑥) = (𝑥 − 𝑦)(𝑥2 + 𝑥𝑦 + 2𝑦2)
+𝑥3𝑦2
+Ponieważ 𝑥 > 0 oraz 𝑦 > 0, więc 𝑥2 + 𝑥𝑦 + 2𝑦2 > 0 i 𝑥3𝑦2 > 0. Zatem:
+• 𝑓′(𝑥) = 0 tylko dla 𝑥 = 𝑦
+• 𝑓′(𝑥) > 0 w przedziale (𝑦, +∞)
+• 𝑓′(𝑥) < 0 w przedziale (0, 𝑦).
+Stąd funkcja 𝑓 jest malejąca w przedziale (0, 𝑦] i jest rosnąca w przedziale [𝑦, +∞).
+Zatem funkcja 𝑓 osiąga wartość najmniejszą dla 𝑥 = 𝑦. Ponieważ
+𝑓(𝑦) = 𝑦
+𝑦2 + 𝑦
+𝑦2 − 1
+𝑦 − 1
+𝑦 = 0, więc
+𝑥
+𝑦2 + 𝑦
+𝑥2 − 1
+𝑥 − 1
+𝑦 ≥ 0
+czyli
+1
+𝑥 + 1
+𝑦 ≤ 𝑥
+𝑦2 + 𝑦
+𝑥2
+dla każdej liczby dodatniej 𝑥 i dla każdej liczby dodatniej 𝑦.
+To należało wykazać.

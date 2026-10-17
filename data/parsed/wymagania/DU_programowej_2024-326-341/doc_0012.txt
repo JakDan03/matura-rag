@@ -1,0 +1,11 @@
+Dział VI. Ciągi.
+Poziom: podstawowy
+Zakres podstawowy. Uczeń:
+1) oblicza wyrazy ciągu określonego wzorem ogólnym;
+2) oblicza początkowe wyrazy ciągów określonych rekurencyjnie;
+3) w prostych przypadkach bada, czy ciąg jest rosnący, czy malejący;
+4) sprawdza, c zy dany ciąg jest arytmetyczny lub geometryczny;
+5) stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu arytmetycznego;
+6) stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu geometrycznego;
+7) wykorzystuje własności ciągów, w t ym arytmetycznych i geometrycznych, do
+rozwiązywania zadań, również osadzonych w kontekście praktycznym.

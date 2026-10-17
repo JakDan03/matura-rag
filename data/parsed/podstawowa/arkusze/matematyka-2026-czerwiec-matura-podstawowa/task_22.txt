@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=22; level=podstawowy; year=2026; month=czerwiec; task_id=22]
+Zadanie 22. (0–3)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dany jest równoległobok 𝐴𝐵𝐶𝐷, w którym
+𝐷 = (6, 19). Bok 𝐴𝐵 tego równoległoboku zawiera się w prostej o równaniu 𝑦 = 1
+2 𝑥 + 9,
+a bok 𝐴𝐷 zawiera się w prostej o równaniu 𝑦 = 4𝑥 − 5. Punkt 𝐾 = (10, 14) jest
+środkiem odcinka 𝐴𝐵. Przekątne równoległoboku 𝐴𝐵𝐶𝐷 przecinają się w punkcie 𝑆.
+Oblicz współrzędne punktu 𝑺. Zapisz obliczenia.
+22.
+0–1–
+2–3

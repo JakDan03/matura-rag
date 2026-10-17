@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=27; level=podstawowy; year=2025; month=czerwiec; task_id=30]
+Zadanie 30. (0–3)
+W tabeli zestawiono liczbę punktów uzyskanych przez 32 uczniów pewnej klasy za
+rozwiązanie jednego z zadań ze sprawdzianu z matematyki.
+Liczba punktów 0 1 2 3 4 5
+Liczba uczniów,
+którzy otrzymali
+daną liczbę punktów
+4 2 5 5 11 5
+Uzupełnij zdania. Wpisz odpowiednie liczby w wykropkowanych miejscach, aby zdania
+były prawdziwe.
+1. Wynik niższy od średniej arytmetycznej liczby punktów otrzymanych przez tych uczniów
+za rozwiązanie tego zadania uzyskało dokładnie …………… uczniów tej klasy.
+2. Mediana liczby punktów otrzymanych przez tych uczniów za rozwiązanie tego zadania
+jest równa …………… .
+3. Dominanta liczby punktów otrzymanych przez tych uczniów za rozwiązanie tego zadania
+jest równa …………… .

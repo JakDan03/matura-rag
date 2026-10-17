@@ -6,7 +6,7 @@ from llama_index.core import Document
 from pypdf import PdfReader
 
 
-PARSER_VERSION = "task-documents-v5"
+PARSER_VERSION = "task-documents-v6"
 
 _REQUIREMENTS_SECTION = re.compile(
     r"^[IVX]+\.\s+.+$|^Twierdzenia, dowody – zakres (?:podstawowy|rozszerzony):$",
@@ -46,6 +46,24 @@ _TASK_HEADING = re.compile(
     r"^Zadanie\s+(\d+(?:\.\d+)?)\.?\s*(?:\(([^)]*)\))?",
     re.IGNORECASE,
 )
+# Whole-line page furniture of CKE exam papers and scoring guides.
+_SHEET_BOILERPLATE = re.compile(
+    r"^(?:Więcej arkuszy znajdziesz na stronie: arkusze\.pl"
+    r"|Strona \d+ z \d+"
+    r"|MMAP-[A-Z0-9_]+"
+    r"|Egzamin maturalny z matematyki .{0,80}\d{4} r\."
+    r"|BRUDNOPIS(?: \(nie podlega ocenie\))?"
+    r"|MATEMATYKA"
+    r"|Poziom (?:podstawowy|rozszerzony)"
+    r"|Formuła \d{4})$",
+    re.IGNORECASE,
+)
+
+
+def _remove_sheet_boilerplate(text: str) -> str:
+    return "\n".join(
+        line for line in text.splitlines() if not _SHEET_BOILERPLATE.match(line)
+    )
 
 
 def _requirements_sections(lines: list[str]) -> list[str]:
@@ -266,7 +284,7 @@ def _task_documents(path: Path, document_type: str) -> list[Document]:
         )
 
     for page_number, page in enumerate(reader.pages, start=1):
-        text = _clean_page_text(page.extract_text() or "")
+        text = _remove_sheet_boilerplate(_clean_page_text(page.extract_text() or ""))
         if not text:
             continue
         page_lines = text.splitlines()

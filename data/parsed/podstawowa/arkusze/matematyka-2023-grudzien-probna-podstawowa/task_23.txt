@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=21; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=23]
+Zadanie 23. (0–1)
+W rombie 𝐴𝐵𝐶𝐷 dłuższa przekątna 𝐴𝐶 ma długość 12 i tworzy z bokiem 𝐴𝐵 kąt
+o mierze 30° (zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole rombu 𝐴𝐵𝐶𝐷 jest równe
+A. 24 B. 36 C. 24√3 D. 36√2
+30°
+𝐴
+𝐵
+𝐶
+𝐷

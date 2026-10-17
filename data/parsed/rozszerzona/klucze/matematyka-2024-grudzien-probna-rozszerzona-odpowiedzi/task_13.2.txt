@@ -1,0 +1,81 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=33, 34; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=13.2]
+Zadanie 13.2. (0–4)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+XIII.R4) oblicza pochodną funkcji potęgowej
+o wykładniku rzeczywistym oraz oblicza
+pochodną, korzystając z twierdzeń
+o pochodnej sumy, różnicy, iloczynu
+i ilorazu;
+XIII.R5) stosuje pochodną do badania
+monotoniczności funkcji;
+XIII.R6) rozwiązuje zadania optymalizacyjne
+z zastosowaniem pochodnej.
+Zasady oceniania
+4 pkt – uzasadnienie, że funkcja 𝑃 przyjmuje wartość największą dla 𝑥 = 8 − 2√2
+i obliczenie współrzędnych punktu 𝐶, dla których pole czworokąta 𝑂𝐵𝐶𝐷 jest
+największe: 𝐶 = (8 − 2√2, 12 − 3√2).
+3 pkt – uzasadnienie (np. poprzez badanie monotoniczności funkcji), że funkcja 𝑃 przyjmuje
+wartość największą dla 𝑥 = 8 − 2√2.
+2 pkt – obliczenie miejsc zerowych pochodnej funkcji 𝑃: 𝑥 = 8 − 2√2.
+1 pkt – wyznaczenie pochodnej funkcji 𝑃, np. 𝑃′(𝑥) = 21
+4 ⋅ 2𝑥(𝑥 − 8) − (𝑥2 − 56) ⋅ 1
+(𝑥 − 8)2 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Za poprawne uzasadnienie, że rozważana funkcja posiada wartość największą dla
+wyznaczonej wartości 𝑥, przy której pochodna się zeruje, można uznać sytuację, gdy
+zdający bada znak pochodnej oraz:
+– opisuje (słownie lub graficznie - np. przy użyciu strzałek) monotoniczność funkcji 𝑃
+LUB
+– zapisuje, że dla wyznaczonej wartości 𝑥 funkcja 𝑃 ma maksimum lokalne i jest to
+jednocześnie jej największa wartość
+LUB
+– zapisuje, że dla wyznaczonej wartości 𝑥 funkcja 𝑃 ma maksimum lokalne i jest to
+jedyne ekstremum tej funkcji.
+Jeżeli zdający nie przedstawi poprawnego uzasadnienia, to może otrzymać co najwyżej
+3 punkty za całe rozwiązanie.
+2. Badanie znaku pochodnej zdający może opisać w inny sposób, np. szkicując wykres
+funkcji, która w ten sam sposób jak pochodna zmienia znak, i zaznaczając na rysunku, np.
+znakami „+” i „-” znak pochodnej.
+Przykładowe pełne rozwiązanie
+Wyznaczamy pochodną funkcji 𝑃:
+𝑃′(𝑥) = 21
+4 ⋅ 2𝑥(𝑥 − 8) − (𝑥2 − 56) ⋅ 1
+(𝑥 − 8)2 = 21
+4 ⋅ 𝑥2 − 16𝑥 + 56
+(𝑥 − 8)2
+dla 𝑥 ∈ (0, 7).
+Obliczamy miejsca zerowe pochodnej funkcji 𝑃:
+𝑃′(𝑥) = 0
+21
+4 ⋅ 𝑥2 − 16𝑥 + 56
+(𝑥 − 8)2 = 0
+𝑥2 − 16𝑥 + 56 = 0
+𝑥 = 16 − √32
+2 = 8 − 2√2 ∈ (0, 7) ∨ 𝑥 = 16 + √32
+2 ∉ (0, 7)
+Badamy znak pochodnej:
+𝑃′(𝑥) > 0
+21
+4 ⋅ 𝑥2 − 16𝑥 + 56
+(𝑥 − 8)2 > 0
+𝑥2 − 16𝑥 + 56 > 0
+𝑥 ∈ (0, 8 − 2√2)
+Zatem funkcja 𝑃 jest rosnąca w przedziale (0, 8 − 2√2 ] i funkcja 𝑃 jest malejąca
+w przedziale [8 − 2√2, 7).
+Stąd dla 𝑥 = 8 − 2√2 funkcja 𝑃 osiąga wartość największą.
+Gdy pierwsza współrzędna punktu 𝐶 jest równa 𝑥𝐶 = 8 − 2√2 , to wtedy druga
+współrzędna 𝑦𝐶 tego punktu jest równa:
+𝑦𝐶 = 12 ⋅ (8 − 2√2) − 84
+8 − 2√2 − 8
+= 12 − 24√2
+−2√2
+= 12
+−2√2
++ 12 = 12 − 3√2
+Pole czworokąta 𝑂𝐵𝐶𝐷 jest największe, gdy 𝐶 = (8 − 2√2, 12 − 3√2).

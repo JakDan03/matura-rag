@@ -1,0 +1,19 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=17; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=20]
+Zadanie 20. (0–1)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+VII.1) wykorzystuje definicje funkcji: sinus,
+cosinus […] dla kątów od 0° do 180°,
+w szczególności wyznacza wartości funkcji
+trygonometrycznych dla kątów 30°, 45°,
+60°.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+D

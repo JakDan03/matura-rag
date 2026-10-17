@@ -1,0 +1,107 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=20, 21, 22, 23; level=rozszerzony; year=2023; month=maj; task_id=6]
+Zadanie 6. (0–3)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VII.R6) rozwiązuje równania
+trygonometryczne o stopniu trudności nie
+większym niż w przykładzie
+4 cos 2𝑥 cos 5𝑥 = 2 cos 7𝑥 + 1.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 7
+12 𝜋 + 𝑘𝜋 oraz 11
+12 𝜋 + 𝑘𝜋,
+gdzie 𝑘 ∈ ℤ .
+2 pkt – przekształcenie równania do postaci sin(2𝑥) = − 1
+2 lub sin(−2𝑥) = 1
+2 .
+1 pkt – zastosowanie wzoru na sinus sumy kątów i zapisanie sin(10𝑥) jako
+sin(6𝑥) cos(4𝑥) + cos(6𝑥) sin(4𝑥)
+ALBO
+– zastosowanie wzoru na sumę/różnicę sinusów i zapisanie wyrażenia
+2 sin(4𝑥) cos(6𝑥) jako sin(10𝑥) − sin(2𝑥) lub sin(10𝑥) + sin(−2𝑥),
+ALBO
+– zastosowanie wzorów na sinus różnicy i cosinus sumy kątów i zapisanie
+4 sin(4𝑥) cos(6𝑥) jako [sin(5𝑥) cos 𝑥 − cos(5𝑥) sin 𝑥] ⋅ [cos(5𝑥) cos 𝑥 − sin(5𝑥) sin 𝑥].
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający popełnia błąd rachunkowy, w wyniku którego otrzymuje jedną serię
+rozwiązań, to otrzymuje co najwyżej 1 punkt za całe rozwiązanie.
+2. Jeżeli zdający popełnia jednokrotnie błąd polegający na:
+– niepoprawnym zastosowaniu wzorów trygonometrycznych na: sinus sumy/różnicy lub
+sumy/różnicy sinusów, lub iloczyn sinusa i cosinusa
+ALBO
+– błędnym zastosowaniu nieparzystości/parzystości funkcji trygonometrycznej
+i konsekwentnie rozwiąże zadanie do końca, i otrzyma co najmniej jedną serię rozwiązań,
+to może otrzymać co najwyżej 1 punkt za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Stosujemy wzory na sinus sumy oraz różnicy kątów i przekształcamy równanie równoważnie,
+otrzymując:
+4 sin(4𝑥) cos(6𝑥) = 2 sin(10𝑥) + 1
+4 sin(4𝑥) cos(6𝑥) = 2 sin(6𝑥 + 4𝑥) + 1
+4 sin(4𝑥) cos(6𝑥) = 2 sin(6𝑥) cos(4𝑥) + 2 cos(6𝑥) sin(4𝑥) + 1
+Zasady oceniania rozwiązań zadań
+2 sin(4𝑥) cos(6𝑥) − 2 sin(6𝑥) cos(4𝑥) = 1
+−2 sin(2𝑥) = 1
+sin(2𝑥) = − 1
+2
+Stąd 2𝑥 = 7
+6 𝜋 + 2𝑘𝜋 lub 2𝑥 = 11
+6 𝜋 + 2𝑘𝜋, gdzie 𝑘 ∈ ℤ, czyli
+𝑥 = 7
+12 𝜋 + 𝑘𝜋 lub 𝑥 = 11
+12 𝜋 + 𝑘𝜋
+gdzie 𝑘 ∈ ℤ.
+Sposób II
+Zauważamy, że 4𝑥 + 6𝑥 = 10𝑥. Postać lewej strony równania sugeruje zastosowanie
+wzoru na różnicę sinusów. Niech 𝛼 i 𝛽 będą liczbami rzeczywistymi takimi, że 𝛼−𝛽
+2 = 4𝑥
+oraz 𝛼+𝛽
+2 = 6𝑥. Wtedy
+{
+𝛼 = 8𝑥 + 𝛽
+8𝑥 + 𝛽 + 𝛽
+2 = 6𝑥
+{ 𝛼 = 10𝑥
+𝛽 = 2𝑥
+Przekształcamy lewą stronę równania 4 sin(4𝑥) cos(6𝑥) = 2 sin(10𝑥) + 1:
+4 sin(4𝑥) cos(6𝑥) = 2(sin 𝛼 − sin 𝛽) = 2(sin(10𝑥) − sin (2𝑥))
+Stąd i ze wzoru na różnicę sinusów otrzymujemy:
+2(sin(10𝑥) − sin(2𝑥)) = 2 sin(10𝑥) + 1
+−2 sin(2𝑥) = 1
+sin(2𝑥) = − 1
+2
+Rozwiązując to równanie, otrzymujemy:
+2𝑥 = 7
+6 𝜋 + 2𝑘𝜋 lub 2𝑥 = 11
+6 𝜋 + 2𝑘𝜋, gdzie 𝑘 ∈ 𝑍
+𝑥 = 7
+12 𝜋 + 𝑘𝜋 lub 𝑥 = 11
+12 𝜋 + 𝑘𝜋, gdzie 𝑘 ∈ 𝑍
+Sposób III
+Przekształcamy równoważnie wyrażenie 4 sin(4𝑥) cos(6𝑥), stosując wzory na sinus różnicy
+i cosinus sumy kątów:
+4 sin(4𝑥) cos(6𝑥) = 4 sin(5𝑥 − 𝑥) cos(5𝑥 + 𝑥) =
+= 4[sin(5𝑥) cos 𝑥 − cos(5𝑥) sin 𝑥] ⋅ [cos(5𝑥) cos 𝑥 − sin(5𝑥) sin 𝑥] =
+= 4 sin(5𝑥) cos(5𝑥) cos2 𝑥 − 4 sin2(5𝑥) sin 𝑥 cos 𝑥 − 4 cos2(5𝑥) sin 𝑥 cos 𝑥 +
++4 sin(5𝑥) cos(5𝑥) sin2 𝑥 =
+= 4 sin(5𝑥) cos(5𝑥) − 4 sin 𝑥 cos 𝑥 = 2 sin(10𝑥) − 2 sin(2𝑥)
+Stąd otrzymujemy:
+4 sin(4𝑥) cos(6𝑥) = 2 sin(10𝑥) + 1
+2(sin(10𝑥) − sin(2𝑥)) = 2 sin(10𝑥) + 1
+−2 sin(2𝑥) = 1
+sin(2𝑥) = − 1
+2
+Rozwiązując to równanie, otrzymujemy:
+2𝑥 = 7
+6 𝜋 + 2𝑘𝜋 lub 2𝑥 = 11
+6 𝜋 + 2𝑘𝜋, gdzie 𝑘 ∈ 𝑍
+𝑥 = 7
+12 𝜋 + 𝑘𝜋 lub 𝑥 = 11
+12 𝜋 + 𝑘𝜋, gdzie 𝑘 ∈ 𝑍
+Zasady oceniania rozwiązań zadań

@@ -1,0 +1,162 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=13, 14, 15, 16, 17; level=rozszerzony; year=2024; month=czerwiec; task_id=6]
+Zadanie 6. (0–3)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+VIII.R1) stosuje własności czworokątów
+wpisanych w okrąg i opisanych na okręgu.
+Zasady oceniania
+3 pkt – przeprowadzenie pełnego rozumowania.
+2 pkt – wyznaczenie pola trapezu w zależności od długości jego podstaw: 𝑃 = 𝑎+𝑏
+2 ⋅ √𝑎𝑏.
+1 pkt – zastosowanie twierdzenia Pitagorasa i zapisanie równania z 𝑎, 𝑏 oraz ℎ, z którego
+można wyznaczyć długość wysokości trapezu w zależności od długości jego
+podstaw, np. (𝑎−𝑏
+2 )
+2
++ ℎ2 = (𝑎+𝑏
+2 )
+2
+ALBO
+– wyznaczenie długości promienia okręgu w zależności od długości podstaw trapezu,
+np. 𝑟 = √𝑎
+2 ⋅ 𝑏
+2 ,
+ALBO
+– zapisanie, że pole czworokąta wpisanego w okrąg i opisanego na okręgu jest równe
+pierwiastkowi z iloczynu długości boków tego czworokąta,
+ALBO
+– zapisanie, że wysokość trapezu równoramiennego jest średnią geometryczną
+długości podstaw trapezu.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+W przypadku, gdy zdający zapisze nierówność 𝑎+𝑏
+2 ⋅ √𝑎𝑏 > 𝑎𝑏 w postaci równoważnej
+𝑎+𝑏
+2 > √𝑎𝑏 i stwierdzi, że jej prawdziwość wynika z nierówności między średnią
+arytmetyczną i geometryczną różnych liczb dodatnich 𝑎 i 𝑏, to rozumowanie uznajemy za
+pełne.
+Przykładowe pełne rozwiązania
+Sposób I
+Przyjmijmy oznaczenia jak na rysunku.
+Trapez jest równoramienny, więc |𝐴𝐸| = |𝐵𝐹| = 𝑎−𝑏
+2 . Ponieważ trapez jest opisany na
+okręgu, więc 𝑎 + 𝑏 = 𝑐 + 𝑐, czyli 𝑐 = 𝑎+𝑏
+2 .
+Z twierdzenia Pitagorasa dla trójkąta 𝐵𝐶𝐹 otrzymujemy
+|𝐵𝐹|2 + |𝐹𝐶|2 = |𝐶𝐵|2
+(𝑎 − 𝑏
+2 )
+2
++ ℎ2 = 𝑐2
+(𝑎 − 𝑏
+2 )
+2
++ ℎ2 = (𝑎 + 𝑏
+2 )
+2
+/⋅ 4
+𝑎2 − 2𝑎𝑏 + 𝑏2 + 4ℎ2 = 𝑎2 + 2𝑎𝑏 + 𝑏2
+ℎ = √𝑎𝑏
+Pole 𝑃 trapezu jest równe 𝑃 = 𝑎+𝑏
+2 ⋅ ℎ = 𝑎+𝑏
+2 ⋅ √𝑎𝑏.
+Ponieważ 𝑎 > 𝑏, więc z nierówności między średnimi arytmetyczną i geometryczną liczb
+dodatnich 𝑎 oraz 𝑏 otrzymujemy 𝑎+𝑏
+2 > √𝑎𝑏. Stąd
+𝑃 = 𝑎 + 𝑏
+2 ⋅ √𝑎𝑏 > √𝑎𝑏 ⋅ √𝑎𝑏
+czyli 𝑃 > 𝑎𝑏, co należało wykazać.
+𝐴
+𝐸
+𝐵
+𝐶
+𝐷
+𝑐
+ℎ
+𝑏
+𝑎
+𝑐
+ℎ
+𝐹
+Zasady oceniania rozwiązań zadań
+Sposób II
+Przyjmijmy oznaczenia jak na rysunku (𝐾, 𝐿, 𝑀 są punktami styczności okręgu z trapezem).
+Z twierdzenia o odcinkach stycznych wynika, że |𝐵𝐿| = 𝑎
+2 oraz |𝐶𝐿| = 𝑏
+2 .
+Ponieważ środek okręgu wpisanego w trapez 𝐴𝐵𝐶𝐷 jest punktem przecięcia dwusiecznych
+kątów wewnętrznych tego trapezu, więc
+|∡𝐾𝐵𝑆| = |∡𝐶𝐵𝑆| oraz |∡𝑀𝐶𝑆| = |∡𝐵𝐶𝑆|
+Suma miar kątów wewnętrznych trapezu przy ramieniu 𝐵𝐶 jest równa 180°, więc
+|∡𝐾𝐵𝑆| + |∡𝐶𝐵𝑆| + |∡𝑀𝐶𝑆| + |∡𝐵𝐶𝑆| = 180°
+Zatem
+|∡𝐶𝐵𝑆| + |∡𝐵𝐶𝑆| = 90°
+To oznacza, że trójkąt 𝐵𝐶𝑆 jest prostokątny.
+Wysokość tego trójkąta opuszczona na przeciwprostokątną jest promieniem okręgu
+wpisanego w trapez 𝐴𝐵𝐶𝐷, więc z twierdzenia o wysokości trójkąta prostokątnego wynika,
+że 𝑟 = √𝑎
+2 ⋅ 𝑏
+2 = 1
+2 √𝑎𝑏.
+Pole 𝑃 trapezu jest równe 𝑃 = 𝑎+𝑏
+2 ⋅ 2𝑟 = 𝑎+𝑏
+2 ⋅ √𝑎𝑏.
+Pozostaje wykazać, że prawdziwa jest nierówność 𝑎+𝑏
+2 ⋅ √𝑎𝑏 > 𝑎𝑏.
+Dzieląc obie strony tej nierówności przez √𝑎𝑏, otrzymujemy
+𝑎 + 𝑏
+2 ⋅ √𝑎𝑏 > 𝑎𝑏 /: √𝑎𝑏
+𝑎 + 𝑏
+2 > √𝑎𝑏
+𝐴
+𝐾
+𝑎
+2
+𝐵
+𝐿
+𝐶
+𝑀
+𝐷
+𝑐
+𝑟
+𝑟
+𝑆
+𝑏
+2
+𝑏
+2
+𝑎
+2
+𝑟
+𝑎 − 2√𝑎𝑏 + 𝑏 > 0
+(√𝑎 − √𝑏)
+2
+> 0
+Z założenia 𝑎 > 𝑏 > 0, więc √𝑎 − √𝑏 > 0. Zatem (√𝑎 − √𝑏)
+2
+> 0 jako kwadrat liczby
+dodatniej √𝑎 − √𝑏. To oznacza, że 𝑃 > 𝑎𝑏.
+Sposób III
+Z własności czworokąta opisanego na okręgu i w który można także wpisać okrąg wynika, że
+pole takiego czworokąta jest równe √𝑎 ⋅ 𝑏 ⋅ 𝑐 ⋅ 𝑑, gdzie 𝑎, 𝑏, 𝑐, 𝑑 są długościami boków
+czworokąta.
+Trapez 𝐴𝐵𝐶𝐷 jest opisany na okręgu, ale jest on równoramienny, więc można na nim także
+opisać okrąg. Zatem pole 𝑃 tego trapezu jest równe 𝑃 = √𝑎 ⋅ 𝑏 ⋅ 𝑐 ⋅ 𝑐 = √𝑎𝑏 ⋅ 𝑐, gdzie 𝑐
+jest długością ramienia trapezu.
+Ponieważ trapez jest opisany na okręgu, więc 𝑎 + 𝑏 = 𝑐 + 𝑐, czyli 𝑐 = 𝑎+𝑏
+2 .
+Stąd 𝑃 = √𝑎𝑏 ⋅ 𝑎+𝑏
+2 .
+Ponieważ 𝑎 > 𝑏, więc z nierówności między średnimi arytmetyczną i geometryczną liczb
+dodatnich 𝑎 oraz 𝑏 otrzymujemy 𝑎+𝑏
+2 > √𝑎𝑏. Stąd
+𝑃 = 𝑎 + 𝑏
+2 ⋅ √𝑎𝑏 > √𝑎𝑏 ⋅ √𝑎𝑏
+czyli 𝑃 > 𝑎𝑏, co należało wykazać.
+Zasady oceniania rozwiązań zadań

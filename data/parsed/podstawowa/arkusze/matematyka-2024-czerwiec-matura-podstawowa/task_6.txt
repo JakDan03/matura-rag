@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=7; level=podstawowy; year=2024; month=czerwiec; task_id=6]
+Zadanie 6. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba wszystkich całkowitych dodatnich rozwiązań nierówności
+3𝑥 − 5
+12 < 1
+3
+jest równa
+A. 2 B. 3 C. 5 D. 6

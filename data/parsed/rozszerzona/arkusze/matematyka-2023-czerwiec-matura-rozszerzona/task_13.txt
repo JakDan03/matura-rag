@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=24, 25, 26, 27, 28, 29, 30, 31, 32; level=rozszerzony; year=2023; month=czerwiec; task_id=13]
+Zadanie 13. (0–6)
+Rozważamy wszystkie graniastosłupy prawidłowe czworokątne 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻, w których
+odcinek łączący punkt 𝑂 przecięcia przekątnych 𝐴𝐶 i 𝐵𝐷 podstawy 𝐴𝐵𝐶𝐷 z dowolnym
+wierzchołkiem podstawy 𝐸𝐹𝐺𝐻 ma długość 𝑑 (zobacz rysunek).
+[tu powinien być rysunek]
+a) Wyznacz zależność objętości 𝑽 graniastosłupa od jego wysokości 𝒉 i podaj
+dziedzinę funkcji 𝑽(𝒉).
+b) Wyznacz wysokość tego z rozważanych graniastosłupów, którego objętość jest
+największa.
+Zapisz obliczenia.

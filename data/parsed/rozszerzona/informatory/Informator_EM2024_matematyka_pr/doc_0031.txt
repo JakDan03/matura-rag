@@ -1,0 +1,19 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=31; level=rozszerzony; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+Przykładowe zadania z rozwiązaniami 31
+Zadanie 9. (0–4)
+Syzyf codziennie stoi przed zadaniem wtoczenia
+ciężkiej kamiennej kuli na szczyt pewnej góry.
+W chwili 𝑡 = 0 znajduje się on w punkcie 𝒪
+oddalonym od szczytu o 4 km, a położenie 𝑥
+Syzyfa wtaczającego kulę jest opisane
+zależnością
+𝑥(𝑡) = −𝑡3 + 16,5𝑡2 + 180𝑡 dla 𝑡 ∈ [0, 24]
+gdzie 𝑥 jest wyrażone w metrach, a 𝑡 – w godzinach.
+Oś 𝒪𝑥 jest skierowana do wierzchołka góry i jest styczna w każdym punkcie do zbocza
+góry.
+Oblicz najmniejszą odległość, na jaką Syzyf zbliży się do wierzchołka góry, oraz
+największą prędkość, z jaką wtacza kamień pod górę. Zapisz obliczenia.
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.

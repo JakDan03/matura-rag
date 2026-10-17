@@ -1,0 +1,199 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=40, 41, 42, 43, 44; level=rozszerzony; year=2024; month=maj; task_id=10]
+Zadanie 10. (0–5)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VII.R6) rozwiązuje równania
+trygonometryczne o stopniu trudności nie
+większym niż w przykładzie
+4 cos 2𝑥 cos 5𝑥 = 2 cos 7𝑥 + 1.
+Zasady oceniania
+5 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝜋
+6 , 𝜋
+4 , 5𝜋
+6 , 7𝜋
+6 , 5𝜋
+4 , 11𝜋
+6 .
+4 pkt – zapisanie alternatywy równań sin(2𝑥) − 1 = 0 lub 2 cos(2𝑥) − 1 = 0 oraz
+rozwiązanie jednego z równań tej alternatywy w zbiorze [0, 2𝜋] (lub obydwu
+w zbiorze ℝ), np.
+𝜋
+4 , 5𝜋
+4 (rozwiązania równania sin(2𝑥) − 1 = 0 w zbiorze [0, 2𝜋]),
+𝜋
+6 , 7𝜋
+6 , 5𝜋
+6 , 11𝜋
+6 (rozwiązania równania 2cos(2𝑥) − 1 = 0 w zbiorze [0, 2𝜋]),
+𝜋
+4 + 𝑘𝜋, gdzie 𝑘 ∈ ℤ (rozwiązania równania sin(2𝑥) − 1 = 0 w zbiorze ℝ) oraz
+𝜋
+6 + 𝑘𝜋 lub − 𝜋
+6 + 𝑘𝜋, gdzie 𝑘 ∈ ℤ (rozwiązania równania 2cos(2𝑥) − 1 = 0
+w zbiorze ℝ)
+ALBO
+– zapisanie alternatywy trzech równań
+sin(2𝑥) − 1 = 0 lub sin 𝑥 = 1
+2 lub sin 𝑥 = − 1
+2
+oraz rozwiązanie jednego z równań tej alternatywy w zbiorze [0, 2𝜋] (lub co
+najmniej dwóch z tych równań w zbiorze ℝ),
+ALBO
+– zapisanie alternatywy trzech równań
+sin(2𝑥) − 1 = 0 lub cos 𝑥 =
+√3
+2 lub cos 𝑥 = −
+√3
+2
+oraz rozwiązanie jednego z równań tej alternatywy w zbiorze [0, 2𝜋] (lub co
+najmniej dwóch z tych równań w zbiorze ℝ).
+3 pkt – przekształcenie równoważne równania sin(4𝑥) − sin(2𝑥) = 4cos2𝑥 − 3 do postaci
+alternatywy dwóch równań trygonometrycznych, np.:
+sin(2𝑥) − 1 = 0 lub 2 cos(2𝑥) − 1 = 0,
+sin(2𝑥) − 1 = 0 lub 1 − 4 sin2 𝑥 = 0,
+sin(2𝑥) − 1 = 0 lub 4 cos2 𝑥 − 3 = 0
+ALBO
+– przekształcenie równoważne równania sin(4𝑥) − sin(2𝑥) = 4cos2𝑥 − 3 do postaci
+[sin(2𝑥) − 1] ⋅ [2 cos(2𝑥) − 1] = 0 lub
+[sin(2𝑥) − 1] ⋅ (1 − 4 sin2 𝑥) = 0, lub
+(4 cos2 𝑥 − 3) ⋅ [sin(2𝑥) − 1] = 0.
+Zasady oceniania rozwiązań zadań
+2 pkt – przekształcenie równania do postaci
+sin (2𝑥) ⋅ [2 cos(2𝑥) − 1] = 2cos(2𝑥) − 1 lub
+sin(2𝑥) ⋅ (4 cos2 𝑥 − 3) = 4 cos2 𝑥 − 3, lub
+sin(2𝑥) ⋅ (1 − 4 sin2 𝑥) = 1 − 4 sin2 𝑥, lub
+2 sin 𝑥 ⋅ cos 𝑥 ⋅ [2 cos(2𝑥) − 1] = 2cos(2𝑥) − 1, lub
+2 sin 𝑥 ⋅ cos 𝑥 ⋅ (4 cos2 𝑥 − 3) = 4 cos2 𝑥 − 3, lub
+2 sin 𝑥 ⋅ cos 𝑥 ⋅ (1 − 4 sin2 𝑥) = 1 − 4 sin2 𝑥, lub
+2 ⋅ (4 cos3 𝑥 − 3 cos 𝑥) ⋅ sin 𝑥 = 4 cos2 𝑥 − 3.
+1 pkt – zastosowanie wzoru na sinus podwojonego kąta lub cosinus podwojonego kąta, lub
+różnicę sinusów i zapisanie równania w postaci
+2 ⋅ sin(2𝑥) ⋅ cos(2𝑥) − sin(2𝑥) = 4cos2𝑥 − 3 lub
+sin(4𝑥) − sin(2𝑥) = 2 cos(2𝑥) − 1, lub
+2 cos(3𝑥) ⋅ sin 𝑥 = 4 cos2 𝑥 − 3.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający przed uzyskaniem trygonometrycznych równań elementarnych popełni
+jedynie błędy rachunkowe i otrzyma równania elementarne, z których co najmniej jedno
+ma dwie serie rozwiązań w zbiorze liczb rzeczywistych, to może otrzymać co najwyżej
+4 punkty za całe rozwiązanie.
+2. Jeżeli zdający popełnia błędy inne niż rachunkowe i uzyska błędną alternatywę (albo
+błędną postać iloczynową), ale jednym z równań tej alternatywy jest: sin(2𝑥) − 1 = 0,
+2 cos(2𝑥) − 1 = 0, 4 cos2 𝑥 − 3 = 0, 1 − 4 sin2 𝑥 = 0, i to równanie rozwiąże
+w przedziale [0, 2𝜋], to może otrzymać co najwyżej 3 punkty za całe rozwiązanie.
+3. Jeżeli zdający dzieli obie strony równania przez wyrażenie 𝑎(𝑥), zawierające
+niewiadomą 𝑥 i nie rozważa przypadku 𝑎(𝑥) = 0, ale konsekwentnie rozwiąże
+otrzymane równanie do końca, to może otrzymać co najwyżej 3 punkty za całe
+rozwiązanie.
+4. Jeżeli zdający popełnia jednokrotnie błąd polegający na niepoprawnym zastosowaniu
+wzorów trygonometrycznych i konsekwentnie rozwiąże zadanie do końca, to może
+otrzymać co najwyżej 3 punkty za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Stosujemy wzory na sinus i cosinus podwojonego kąta i przekształcamy równanie
+sin(4𝑥) − sin(2𝑥) = 4cos2𝑥 − 3 równoważnie, otrzymując:
+sin(4𝑥) − sin(2𝑥) = 4cos2𝑥 − 3
+sin(2 ⋅ 2𝑥) − sin(2𝑥) = 2 ⋅ (2cos2𝑥 − 1) − 1
+2 ⋅ sin(2𝑥) ⋅ cos(2𝑥) − sin(2𝑥) = 2 ⋅ (2cos2𝑥 − 1) − 1
+2 ⋅ sin(2𝑥) ⋅ cos(2𝑥) − sin(2𝑥) = 2 cos(2𝑥) − 1
+sin(2𝑥) ⋅ [2 cos(2𝑥) − 1] = 2 cos(2𝑥) − 1
+[sin(2𝑥) − 1] ⋅ [2 cos(2𝑥) − 1] = 0
+sin(2𝑥) − 1 = 0 ∨ 2 cos(2𝑥) − 1 = 0
+sin(2𝑥) = 1 ∨ cos(2𝑥) = 1
+2
+Rozwiązujemy równanie sin(2𝑥) = 1 w zbiorze liczb rzeczywistych:
+sin(2𝑥) = 1
+2𝑥 = 𝜋
+2 + 2𝑘𝜋
+𝑥 = 𝜋
+4 + 𝑘𝜋
+gdzie 𝑘 ∈ ℤ.
+Stąd otrzymujemy rozwiązania równania sin(2𝑥) = 1 w zbiorze [0, 2𝜋]: 𝜋
+4 , 5𝜋
+4 .
+Rozwiązujemy równanie cos(2𝑥) = 1
+2 w zbiorze liczb rzeczywistych:
+cos(2𝑥) = 1
+2
+2𝑥 = 𝜋
+3 + 2𝑘𝜋 ∨ 2𝑥 = − 𝜋
+3 + 2𝑘𝜋
+𝑥 = 𝜋
+6 + 𝑘𝜋 ∨ 𝑥 = − 𝜋
+6 + 𝑘𝜋
+gdzie 𝑘 ∈ ℤ.
+Stąd otrzymujemy rozwiązania równania cos(2𝑥) = 1
+2 w zbiorze [0, 2𝜋]: 𝜋
+6 , 5𝜋
+6 , 7𝜋
+6 , 11𝜋
+6 .
+Zatem rozwiązaniami równania sin(4𝑥) − sin(2𝑥) = 4cos2𝑥 − 3 w zbiorze [0, 2𝜋] są
+liczby: 𝜋
+6 , 𝜋
+4 , 5𝜋
+6 , 7𝜋
+6 , 5𝜋
+4 , 11𝜋
+6 .
+Sposób II
+Stosujemy wzory na sinus i cosinus podwojonego kąta i przekształcamy równanie
+sin(4𝑥) − sin(2𝑥) = 4cos2𝑥 − 3 równoważnie, otrzymując:
+sin(4𝑥) − sin(2𝑥) = 4cos2𝑥 − 3
+sin(2 ⋅ 2𝑥) − sin(2𝑥) = 4 cos2 𝑥 − 3
+2 ⋅ sin(2𝑥) ⋅ cos(2𝑥) − sin(2𝑥) = 4 ⋅ (1 − sin2 𝑥) − 3
+2 ⋅ sin(2𝑥) ⋅ (1 − 2 sin2 𝑥) − sin(2𝑥) = 1 − 4 sin2 𝑥
+sin(2𝑥) ⋅ (1 − 4 sin2 𝑥) = 1 − 4 sin2 𝑥
+[sin(2𝑥) − 1] ⋅ (1 − 4 sin2 𝑥) = 0
+sin(2𝑥) − 1 = 0 ∨ 1 − 4 sin2 𝑥 = 0
+Zasady oceniania rozwiązań zadań
+sin(2𝑥) = 1 ∨ sin 𝑥 = 1
+2 ∨ sin 𝑥 = − 1
+2
+Rozwiązujemy równanie sin(2𝑥) = 1 w zbiorze liczb rzeczywistych:
+sin(2𝑥) = 1
+2𝑥 = 𝜋
+2 + 2𝑘𝜋
+𝑥 = 𝜋
+4 + 𝑘𝜋
+gdzie 𝑘 ∈ ℤ.
+Stąd otrzymujemy rozwiązania równania sin(2𝑥) = 1 w zbiorze [0, 2𝜋]: 𝜋
+4 , 5𝜋
+4 .
+Rozwiązujemy równanie sin 𝑥 = 1
+2 w zbiorze liczb rzeczywistych:
+sin 𝑥 = 1
+2
+𝑥 = 𝜋
+6 + 2𝑘𝜋 ∨ 𝑥 = 5𝜋
+6 + 2𝑘𝜋
+gdzie 𝑘 ∈ ℤ.
+Stąd otrzymujemy rozwiązania równania sin 𝑥 = 1
+2 w zbiorze [0, 2𝜋]: 𝜋
+6 , 5𝜋
+6 .
+Rozwiązujemy równanie sin 𝑥 = − 1
+2 w zbiorze liczb rzeczywistych:
+sin 𝑥 = − 1
+2
+𝑥 = − 𝜋
+6 + 2𝑘𝜋 ∨ 𝑥 = − 5𝜋
+6 + 2𝑘𝜋
+gdzie 𝑘 ∈ ℤ.
+Stąd otrzymujemy rozwiązania równania sin 𝑥 = − 1
+2 w zbiorze [0, 2𝜋]: 11𝜋
+6 , 7𝜋
+6 .
+Zatem rozwiązaniami równania sin(4𝑥) − sin(2𝑥) = 4cos2𝑥 − 3 w zbiorze [0, 2𝜋] są
+liczby: 𝜋
+6 , 𝜋
+4 , 5𝜋
+6 , 7𝜋
+6 , 5𝜋
+4 , 11𝜋
+6 .

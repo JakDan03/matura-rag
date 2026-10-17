@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=25; level=podstawowy; year=2026; month=maj; task_id=24.1]
+Zadanie 24.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) punkty 𝐴 = (0, −3), 𝐵 = (2, 1) oraz
+𝐶 = (0, 2) są wierzchołkami trójkąta prostokątnego.
+Zadanie 24.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole trójkąta 𝐴𝐵𝐶 jest równe
+A. 3 B. 5 C. 6 D. 10

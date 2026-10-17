@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=17; level=podstawowy; year=2024; month=czerwiec; task_id=18]
+Zadanie 18. (0–1)
+Trzywyrazowy ciąg (−1, 2, 𝑥) jest arytmetyczny.
+Trzywyrazowy ciąg (−1, 2, 𝑦) jest geometryczny.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczby 𝑥 oraz 𝑦 spełniają warunki
+A. 𝑥 > 0 i 𝑦 > 0 B. 𝑥 > 0 i 𝑦 < 0
+C. 𝑥 < 0 i 𝑦 > 0 D. 𝑥 < 0 i 𝑦 < 0

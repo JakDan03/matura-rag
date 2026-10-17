@@ -1,0 +1,54 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=6, 7, 8; level=rozszerzony; year=2023; month=czerwiec; task_id=4]
+Zadanie 4. (0–3)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+3. Dobieranie argumentów do uzasadnienia
+poprawności rozwiązywania problemów,
+tworzenie ciągu argumentów,
+gwarantujących poprawność rozwiązania
+i skuteczność w poszukiwaniu rozwiązań
+zagadnienia.
+Zdający:
+XIII.R2) stosuje definicję pochodnej funkcji,
+podaje interpretację geometryczną
+pochodnej;
+XIII.R3) oblicza pochodną funkcji potęgowej
+o wykładniku rzeczywistym oraz oblicza
+pochodną, korzystając z twierdzeń
+o pochodnej sumy, różnicy, iloczynu
+i ilorazu.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑥0 = 2 oraz 𝑦 = 17𝑥 − 16.
+2 pkt – obliczenie odciętej 𝑥0 punktu 𝑃 i wyznaczenie pochodnej funkcji 𝑓: 𝑥0 = 2 oraz
+𝑓′(𝑥) = 6𝑥2 − 8𝑥 + 9.
+1 pkt – obliczenie odciętej 𝑥0 punktu 𝑃: 𝑥0 = 2
+ALBO
+– wyznaczenie pochodnej funkcji 𝑓: 𝑓′(𝑥) = 6𝑥2 − 8𝑥 + 9.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Obliczamy odciętą 𝑥0 punktu 𝑃:
+18 = 2𝑥0
+3 − 4𝑥0
+2 + 9𝑥0
+2𝑥0
+3 − 4𝑥0
+2 + 9𝑥0 − 18 = 0
+2𝑥0
+2(𝑥0 − 2) + 9(𝑥0 − 2) = 0
+(2𝑥0
+2 + 9)(𝑥0 − 2) = 0
+2𝑥0
+2 + 9 = 0 lub 𝑥0 − 2 = 0
+Ponieważ 2𝑥0
+2 + 9 > 0 dla każdej liczby rzeczywistej 𝑥0, więc 𝑥0 = 2.
+Wyznaczamy pochodną funkcji 𝑓:
+𝑓′(𝑥) = 6𝑥2 − 8𝑥 + 9
+Wyznaczamy równanie kierunkowe stycznej do wykresu funkcji 𝑓 w punkcie 𝑃.Obliczamy
+współczynnik kierunkowy 𝑎 w równaniu stycznej:
+𝑎 = 𝑓′(2) = 17
+Obliczamy współczynnik 𝑏 w równaniu stycznej:
+18 = 17 ∙ 2 + 𝑏
+𝑏 = −16
+Zasady oceniania rozwiązań zadań
+Styczna ma równanie 𝑦 = 17𝑥 − 16.

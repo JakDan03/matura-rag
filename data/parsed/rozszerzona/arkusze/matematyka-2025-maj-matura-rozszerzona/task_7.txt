@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=14; level=rozszerzony; year=2025; month=maj; task_id=7]
+Zadanie 7. (0–4)
+W trapezie 𝐴𝐵𝐶𝐷 o podstawach 𝐴𝐵 i 𝐶𝐷 punkt 𝐸 jest środkiem ramienia 𝐴𝐷,
+a punkt 𝐹 jest środkiem ramienia 𝐵𝐶 trapezu. Stosunek pola trapezu 𝐸𝐹𝐶𝐷 do pola
+trapezu 𝐴𝐵𝐹𝐸 jest równy 1
+2 .
+Wykaż, że |𝑪𝑫|
+|𝑨𝑩| = 𝟏
+𝟓 .
+7.
+0–1–
+2–3–4

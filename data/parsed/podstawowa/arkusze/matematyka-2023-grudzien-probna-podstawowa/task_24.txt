@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=22; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=24]
+Zadanie 24. (0–2)
+Dany jest okrąg 𝒪 o środku w punkcie 𝑆. Średnica 𝐴𝐵 tego okręgu przecina cięciwę 𝐶𝐷
+w punkcie 𝑃 (zobacz rysunek). Ponadto: |𝑃𝐵| = 4, |𝑃𝐶| = 8 oraz |𝑃𝐷| = 5.
+Oblicz promień okręgu 𝓞. Zapisz obliczenia.
+24.
+0–1–2
+𝐴
+𝐶
+𝐵
+𝐷
+𝑃
+𝑆

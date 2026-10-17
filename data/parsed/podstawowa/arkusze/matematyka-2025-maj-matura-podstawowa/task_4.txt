@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=5; level=podstawowy; year=2025; month=maj; task_id=4]
+Zadanie 4. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Dla każdej liczby rzeczywistej 𝑥 wartość wyrażenia (3𝑥 + 2)2 − (2𝑥 − 3)2 jest równa
+wartości wyrażenia
+A. 5𝑥2 − 5
+B. 5𝑥2 + 13
+C. 5𝑥2 + 24𝑥 − 5
+D. 5𝑥2 + 24𝑥 − 13

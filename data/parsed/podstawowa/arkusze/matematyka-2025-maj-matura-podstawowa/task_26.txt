@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=25; level=podstawowy; year=2025; month=maj; task_id=26]
+Zadanie 26. (0–1)
+Objętość sześcianu jest równa 729.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Długość przekątnej tego sześcianu jest równa
+A. 9√3 B. 9√2 C. 3√3 D. 3√2

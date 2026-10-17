@@ -1,0 +1,38 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=10; level=podstawowy; year=2026; month=marzec; term=probna; task_id=11.1]
+Zadanie 11.
+Funkcja 𝑓 jest określona następująco:
+𝑓(𝑥) = {
+𝑥 + 5 dla 𝑥 ∈ [−4, −2)
+𝑥 + 3 dla 𝑥 ∈ [−2, 1]
+−2𝑥 + 5 dla 𝑥 ∈ (1, 3]
+Wykres funkcji 𝑦 = 𝑓(𝑥) przedstawiono w kartezjańskim układzie współrzędnych (𝑥, 𝑦)
+na rysunku poniżej.
+Zadanie 11.1. (0–1)
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Funkcja 𝑓 jest rosnąca w przedziale [−4, −2]. P F
+Funkcja 𝑓 jest malejąca w przedziale [1, 3]. P F
+1
+2
+3
+4
+−1
+−2
+5
+0
+𝑥
+−5
+−4
+−3
+1
+2
+3
+4
+𝑦
+5
+−1
+−2
+−3
+−4
+−5
+𝑦 = 𝑓(𝑥)

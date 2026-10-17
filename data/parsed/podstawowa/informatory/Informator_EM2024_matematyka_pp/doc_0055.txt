@@ -1,0 +1,52 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=55; level=podstawowy; year=2024; section=ALBO]
+Przykładowe zadania z rozwiązaniami 55
+Wymagania szczegółowe
+V. Funkcje. Zdający:
+10) wyznacza największą i najmniejszą wartość funkcji kwadratowej w przedziale
+domkniętym;
+11) wykorzystuje własności funkcji […] kwadratowej do interpretacji zagadnień
+geometrycznych, fizycznych itp., także osadzonych w kontekście praktycznym.
+Zasady oceniania
+2 pkt – poprawna metoda rozwiązania oraz zapisanie wyniku 4,93 m.
+1 pkt – zastosowanie wzoru na wierzchołek paraboli oraz poprawne podstawienie
+wszystkich danych liczbowych do tego wzoru
+ALBO
+– zapisanie wzoru funkcji w postaci 𝑦 = −0,174(𝑥 − 𝑝)2 + 𝑞 oraz zidentyfikowanie
+𝑞 jako współrzędnej wierzchołka paraboli lub wysokości maksymalnej rzutu.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób 1.
+Wysokość maksymalna, na jaką wzniesie się środek piłki, jest równa współrzędnej 𝑦
+wierzchołka paraboli. Skorzystamy ze wzoru na wierzchołek paraboli (zobacz w Wybranych
+wzorach matematycznych):
+ℎ𝑚𝑎𝑥 = 𝑦𝑤 = − 𝑏2 − 4𝑎𝑐
+4𝑎 = − 1,32 + 4 ⋅ 0,174 ⋅ 2,5
+4 ⋅ (−0,174) ≈ 4,93 m
+Sposób 2.
+Wysokość maksymalna, na jaką wzniesie się środek piłki, jest równa współrzędnej 𝑦
+wierzchołka paraboli. Wartość tę możemy wyznaczyć, przekształcając wzór funkcji
+kwadratowej 𝑦 = −0,174𝑥2 + 1,3𝑥 + 2,5 do postaci kanonicznej:
+𝑦 = −0,174(𝑥 − 𝑝)2 + 𝑞
+gdzie:
+ℎ𝑚𝑎𝑥 = 𝑦𝑤 = 𝑞
+𝑦 = −0,174𝑥2 + 1,3𝑥 + 2,5 = −0,174 (𝑥2 − 1,3
+0,174 𝑥) + 2,5 =
+= −0,174 ⋅ [(𝑥 − 1,3
+2 ⋅ 0,174)
+2
+− ( 1,3
+2 ⋅ 0,174)
+2
+] + 2,5 =
+= −0,174 ⋅ (𝑥 − 1,3
+2 ⋅ 0,174)
+2
++ 0,174 ⋅ ( 1,3
+2 ⋅ 0,174)
+2
++ 2,5
+Zatem
+ℎ𝑚𝑎𝑥 = 𝑦𝑤 = 𝑞 = 0,174 ⋅ ( 1,3
+2 ⋅ 0,174)
+2
++ 2,5 ≈ 4,93 m

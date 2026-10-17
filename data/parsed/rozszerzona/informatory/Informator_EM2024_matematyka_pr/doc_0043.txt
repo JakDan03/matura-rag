@@ -1,0 +1,26 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=43; level=rozszerzony; year=2024; section=4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach]
+Przykładowe zadania z rozwiązaniami 43
+Ponieważ dla każdego 𝑡 ∈ ℝ prawdziwe są nierówności:
+(𝑡 + 2
+9)
+2
++ 14
+81 > 0 i 9𝑡2 ≥ 0
+więc 𝑓 (𝑡 − 1
+3) ≥ 1
+54 , przy czym 𝑓 (𝑡 − 1
+3) = 1
+54 wtedy i tylko wtedy, gdy 𝑡 = 0 (czyli dla
+𝑥 = − 1
+3 ).
+Zatem najmniejsza wartość funkcji 𝑓 jest równa 1
+54 .
+Zadanie 13. (0–4)
+W nieskończonym malejącym ciągu geometrycznym (𝑎𝑛), określonym dla 𝑛 ≥ 1, jest
+spełniony warunek
+𝑎5 + 𝑎3
+𝑎3
+= 29
+25
+Suma wszystkich wyrazów tego ciągu o numerach parzystych jest równa 6.
+Wyznacz wzór ogólny na 𝒏–ty wyraz ciągu (𝒂𝒏). Zapisz obliczenia.

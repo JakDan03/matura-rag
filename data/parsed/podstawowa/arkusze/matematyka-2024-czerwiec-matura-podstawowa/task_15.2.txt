@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=14, 15; level=podstawowy; year=2024; month=czerwiec; task_id=15.2]
+Zadanie 15.
+Funkcja kwadratowa 𝑓 jest określona wzorem 𝑓(𝑥) = −(𝑥 + 1)2 + 4.
+Zadanie 15.2. (0–1)
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Wykres funkcji 𝑓 przecina oś 𝑂𝑦 kartezjańskiego układu współrzędnych
+(𝑥, 𝑦) w punkcie o współrzędnych (0, 4). P F
+Miejsca zerowe funkcji 𝑓 są równe: (−3) oraz 1. P F

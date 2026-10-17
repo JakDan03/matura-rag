@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=5; level=rozszerzony; year=2026; month=maj; task_id=2]
+Zadanie 2. (0–3)
+Ze zbioru ośmiu liczb {1, 2, 3, 4, 5, 6, 7, 8} losujemy bez zwracania osiem razy po jednej
+liczbie. Wylosowane liczby ustawiamy w ciąg zgodnie z kolejnością losowania.
+Oblicz prawdopodobieństwo zdarzenia 𝑨 polegającego na tym, że wylosowane liczby
+utworzą ciąg, w którym iloczyn każdych trzech kolejnych wyrazów będzie liczbą
+podzielną przez 𝟑. Wynik podaj w postaci nieskracalnego ułamka zwykłego.
+Zapisz obliczenia.
+2.
+0–1–
+2–3

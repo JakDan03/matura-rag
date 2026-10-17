@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=6; level=rozszerzony; year=2023; month=maj; task_id=3]
+Zadanie 3. (0–3)
+Funkcja 𝑓 jest określona wzorem 𝑓(𝑥) = 3𝑥2−2𝑥
+𝑥2+2𝑥+8 dla każdej liczby rzeczywistej 𝑥.
+Punkt 𝑃 = (𝑥0 , 3) należy do wykresu funkcji 𝑓.
+Oblicz 𝒙𝟎 oraz wyznacz równanie stycznej do wykresu funkcji 𝒇 w punkcie 𝑷.
+Zapisz obliczenia.
+3.
+0–1–
+2–3

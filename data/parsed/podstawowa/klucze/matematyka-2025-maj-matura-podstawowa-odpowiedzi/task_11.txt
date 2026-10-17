@@ -1,0 +1,39 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=12, 13; level=podstawowy; year=2025; month=maj; task_id=11]
+Zadanie 11. (0–4)
+Wymaganie ogólne Wymagania szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście,
+zarówno matematycznym, jak
+i popularnonaukowym, a także w formie
+wykresów, diagramów, tabel.
+Zdający:
+V.4) odczytuje z wykresu funkcji: dziedzinę,
+zbiór wartości, miejsca zerowe, przedziały
+monotoniczności, przedziały, w których
+funkcja przyjmuje wartości większe (nie
+mniejsze) lub mniejsze (nie większe) od
+danej liczby, największe i najmniejsze
+wartości funkcji (o ile istnieją) w danym
+przedziale domkniętym oraz argumenty, dla
+których wartości największe i najmniejsze
+są przez funkcję przyjmowane.
+I.6) posługuje się pojęciem przedziału
+liczbowego […].
+Zasady oceniania
+4 pkt – poprawne uzupełnienie czterech zdań.
+3 pkt – poprawne uzupełnienie trzech zdań.
+2 pkt – poprawne uzupełnienie dwóch zdań.
+1 pkt – poprawne uzupełnienie jednego zdania.
+0 pkt – brak spełnienia powyższych kryteriów.
+Rozwiązanie
+1. Dziedziną funkcji 𝑓 jest przedział [−4, 4).
+2. Zbiorem wartości funkcji 𝑓 jest przedział (−3, 3].
+3. Zbiorem wszystkich argumentów, dla których funkcja 𝑓 przyjmuje wartości dodatnie, jest
+przedział [−4, 3).
+4. Zbiorem wszystkich rozwiązań równania 𝑓(𝑥) = 3 jest przedział [−2, 2].
+Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki
+Jeśli zdający pomyli porządek liczb na osi liczbowej przy zachowaniu poprawnych krańców
+przedziału, np. zapisze, że dziedziną funkcji 𝑓 jest przedział (4, −4], to otrzymuje 1 punkt
+za tak uzupełnione zdanie.
+Zasady oceniania rozwiązań zadań

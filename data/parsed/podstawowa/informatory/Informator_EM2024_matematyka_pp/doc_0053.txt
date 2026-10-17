@@ -1,0 +1,23 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=53; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+Przykładowe zadania z rozwiązaniami 53
+Zadanie 32.
+Na podstawie zasad dynamiki można udowodnić, że torem ruchu rzuconej piłki – przy
+pominięciu oporów powietrza – jest fragment paraboli.
+Koszykarz wykonał rzut do kosza z odległości 𝑥𝑘 = 7,01 m, licząc od środka piłki do środka
+obręczy kosza w linii poziomej.
+Do opisu toru ruchu przyjmiemy układ współrzędnych, w którym środek piłki w chwili
+początkowej znajdował się w punkcie 𝑥0 = 0, 𝑦0 = 2,50 m.
+Środek piłki podczas rzutu poruszał się po paraboli danej równaniem:
+𝑦 = −0,174𝑥2 + 1,3𝑥 + 2,5
+Rzut okazał się udany, a środek piłki przeszedł dokładnie przez środek kołowej obręczy
+kosza. Na rysunku poniżej przedstawiono tę sytuację oraz tor ruchu piłki w układzie
+współrzędnych.
+Zadanie 32.1. (0–1)
+Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.
+Obręcz kosza znajduje się na wysokości (podanej w zaokrągleniu z dokładnością do 0,01 m)
+A. 3,04 m B. 3,06 m C. 3,80 m D. 4,93 m
+7,01
+𝑦, m
+2,5
+𝑥, m
+(0,0)

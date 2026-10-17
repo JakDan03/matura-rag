@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=17; level=podstawowy; year=2024; month=maj; task_id=17]
+Zadanie 17. (0–2)
+Ciąg arytmetyczny (𝑎𝑛) jest określony dla każdej liczby naturalnej 𝑛 ≥ 1. Trzeci wyraz
+tego ciągu jest równy (−1), a suma piętnastu początkowych kolejnych wyrazów tego ciągu
+jest równa (−165).
+Oblicz różnicę tego ciągu. Zapisz obliczenia.
+17.
+0–1–2

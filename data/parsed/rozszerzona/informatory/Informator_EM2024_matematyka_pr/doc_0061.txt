@@ -1,0 +1,32 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=61; level=rozszerzony; year=2024; section=2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów]
+Przykładowe zadania z rozwiązaniami 61
+20𝑡 − 30
+√16𝑡2 + (15 − 2𝑡)2
+= 0
+𝑡 = 3
+2 ∈ [0, 5]
+oraz
+4𝑡 − 30
+√400 + (15 − 2𝑡)2
+= 0
+𝑡 = 15
+2 ∈ (5, 15
+2 ]
+Badamy monotoniczność funkcji 𝑑.
+Ponieważ
+𝑑′(𝑡) > 0 dla 𝑡 ∈ (3
+2 , 5]
+𝑑′(𝑡) < 0 dla 𝑡 ∈ [0, 3
+2) oraz dla 𝑡 ∈ (5, 15
+2 )
+więc
+funkcja 𝑑 jest rosnąca w przedziale [3
+2 , 5]
+funkcja 𝑑 jest malejąca w przedziałach [0, 3
+2] oraz [5, 15
+2 ].
+Ponadto 𝑑 (3
+2) = √180 oraz 𝑑 (15
+2 ) = √400. Zatem funkcja 𝑑 osiąga wartość
+najmniejszą dla 𝑡 = 1,5.
+Odległość między zastępami harcerzy będzie najmniejsza o godzinie 10:30.

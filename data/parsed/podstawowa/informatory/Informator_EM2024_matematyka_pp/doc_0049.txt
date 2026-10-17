@@ -1,0 +1,19 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=49; level=podstawowy; year=2024; section=1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno]
+Przykładowe zadania z rozwiązaniami 49
+Wymaganie ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno
+matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów,
+tabel.
+Wymaganie szczegółowe
+V. Funkcje. Zdający:
+12) na podstawie wykresu funkcji 𝑦 = 𝑓(𝑥) szkicuje wykresy funkcji 𝑦 = 𝑓(𝑥 − 𝑎),
+𝑦 = 𝑓(𝑥) + 𝑏.
+Zasady oceniania
+2 pkt – poprawne przyporządkowanie wykresów dla obu funkcji.
+1 pkt – poprawne przyporządkowanie wykresu dla jednej funkcji.
+0 pkt – rozwiązanie niepoprawne albo brak rozwiązania.
+Pełne rozwiązanie
+Nr zadania Funkcja Rysunek
+29.1. 𝑦 = 𝑔(𝑥) D
+29.2. 𝑦 = ℎ(𝑥) F

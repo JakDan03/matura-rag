@@ -1,0 +1,25 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=28; year=2023; section=13. KOMBINATORYKA]
+Strona 28 z 34
+• Kula
+gdzie 𝑟 jest promieniem kuli, natomiast 𝑂 – środkiem symetrii kuli.
+13. KOMBINATORYKA
+• Permutacje
+Liczba wszystkich sposobów, na które 𝑛 różnych elementów można ustawić w ciąg, jest
+równa 𝑛!.
+• Kombinacje
+Liczba wszystkich sposobów, na które spośród 𝑛 różnych elementów można wybrać 𝑘
+elementów (0 ≤ 𝑘 ≤ 𝑛), jest równa (𝑛
+𝑘).
+• Wariacje z powtórzeniami
+Liczba wszystkich sposobów, na które z 𝑛 różnych elementów można utworzyć ciąg,
+składający się z 𝑘 (niekoniecznie różnych) wyrazów, jest równa 𝑛𝑘.
+• Wariacje bez powtórzeń
+Liczba wszystkich sposobów, na które z 𝑛 różnych elementów można utworzyć ciąg,
+składający się z 𝑘 różnych wyrazów (1 ≤ 𝑘 ≤ 𝑛), jest równa
+𝑛!
+(𝑛 − 𝑘)! = 𝑛 ⋅ (𝑛 − 1) ⋅ … ⋅ (𝑛 − 𝑘 + 1)
+𝑃𝑐 = 4𝜋𝑟2
+𝑉 = 4
+3 𝜋𝑟3
+𝑂
+𝑟

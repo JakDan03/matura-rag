@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=26; level=podstawowy; year=2025; month=czerwiec; task_id=29]
+Zadanie 29. (0–1)
+Średnia arytmetyczna trzech liczb: 𝑎, 𝑏, 𝑐, jest równa 12.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Średnia arytmetyczna sześciu liczb: 2𝑎, 3𝑎, 2𝑏, 3𝑏, 2𝑐, 3𝑐, jest równa
+A. 10 B. 12 C. 30 D. 60

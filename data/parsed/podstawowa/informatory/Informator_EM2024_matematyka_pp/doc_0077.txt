@@ -1,0 +1,30 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=77; level=podstawowy; year=2024; section=|∡𝐶𝐴𝐵| = 30°, |∡𝐴𝐵𝐶| = 30°, |∡𝐵𝐶𝐴| = 120°]
+Przykładowe zadania z rozwiązaniami 77
+Z omówionych kroków 1.–4. wynika, że kąty w trójkącie 𝐴𝐵𝐶 mają miary:
+|∡𝐶𝐴𝐵| = 30°, |∡𝐴𝐵𝐶| = 30°, |∡𝐵𝐶𝐴| = 120°
+Zadanie 42. (0–1)
+Punkt 𝑆 jest środkiem ciężkości trójkąta 𝐴𝐵𝐶. Długość odcinka 𝑆𝐴 jest równa 10.
+Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.
+Długość środkowej poprowadzonej z wierzchołka 𝐴 do boku 𝐵𝐶 jest równa
+A. 10 B. 15 C. 20 D. 30
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymaganie szczegółowe
+VIII. Planimetria. Zdający:
+10) wskazuje podstawowe punkty szczególne w trójkącie: środek okręgu wpisanego
+w trójkąt, środek okręgu opisanego na trójkącie, ortocentrum, środek ciężkości oraz
+korzysta z ich własności.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+B
+𝐶
+𝐴
+𝐵
+𝑆
+120°
+30°
+30°

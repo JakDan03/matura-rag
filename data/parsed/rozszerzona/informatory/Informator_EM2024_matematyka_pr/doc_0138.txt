@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=138; level=rozszerzony; year=2024; section=𝑃(𝐶|+) = 𝑃(+|𝐶) ⋅ 𝑃(𝐶)]
+138 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Zadanie 31. (0–4)
+W pewnym mieście jest prostopadły układ
+ulic, to znaczy, że ulice przecinają się pod
+kątem prostym. Ruch na każdej z nich jest
+dwukierunkowy. W centrum miasta znajduje
+się park, gdzie obowiązuje całkowity zakaz
+ruchu pojazdów. Schemat ulic w tym mieście
+wraz z położeniem parku przedstawiono na
+rysunku poniżej. Tomek samochodem chce
+dojechać najkrótszą drogą z punktu 𝐴 miasta
+do punktu 𝐵.
+Oblicz, ile jest możliwości wyboru najkrótszej drogi z 𝑨 do 𝑩. Zapisz obliczenia.
+𝐴
+𝐵
+starówka

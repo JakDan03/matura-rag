@@ -1,0 +1,30 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=28; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=30]
+Zadanie 30. (0–3)
+W stacji diagnostycznej odnotowywano liczby usterek wykrytych podczas przeglądów
+technicznych pięcioletnich samochodów w lipcu 2025 roku.
+Wszystkie odnotowane wyniki przedstawiono na poniższym diagramie.
+Na osi poziomej podano liczbę usterek, które zostały wykryte podczas przeglądów,
+a na osi pionowej podano liczbę samochodów, w których wykryto daną liczbę usterek.
+Uzupełnij zdania. Wpisz odpowiednie liczby w wykropkowanych miejscach, aby zdania
+były prawdziwe.
+1. Dominanta liczby usterek wykrytych na tej stacji podczas tych przeglądów jest równa
+………… .
+2. Średnia arytmetyczna liczby usterek wykrytych na tej stacji podczas tych przeglądów jest
+równa ………… .
+3. Liczba samochodów, w których wykryto podczas tych przeglądów co najmniej dwie
+usterki, stanowi ………… procent liczby samochodów, w których wykryto dokładnie
+jedną usterkę.
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+1 2 3 4 5
+liczba
+samochodów
+liczba usterek

@@ -1,0 +1,18 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=14; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=14.1]
+Zadanie 14.
+Funkcja kwadratowa 𝑓 jest określona wzorem 𝑓(𝑥) = 1
+2 𝑥2 + 𝑏𝑥 + 𝑐, gdzie 𝑏 oraz 𝑐 są
+liczbami rzeczywistymi. Jednym z miejsc zerowych funkcji 𝑓 jest liczba 6.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) prosta o równaniu 𝑥 = 1 jest osią symetrii
+wykresu funkcji 𝑓.
+Zadanie 14.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Funkcja 𝑓 jest określona wzorem
+A. 𝑓(𝑥) = 1
+2 (𝑥 − 4)(𝑥 − 6)
+B. 𝑓(𝑥) = 1
+2 (𝑥 − 4)(𝑥 + 6)
+C. 𝑓(𝑥) = 1
+2 (𝑥 + 4)(𝑥 − 6)
+D. 𝑓(𝑥) = 1
+2 (𝑥 + 4)(𝑥 + 6)

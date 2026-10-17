@@ -1,0 +1,50 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=84; level=rozszerzony; year=2024; section=|𝑃𝑆|2 = |𝐶𝑆|2 + |𝐶𝑃|2]
+84 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Sposób 3. (z wykorzystaniem równości objętości ostrosłupa)
+Oznaczmy przez:
+𝑆 – punkt przecięcia się przekątnych podstawy 𝐴𝐵𝐶𝐷 sześcianu,
+ℎ – wysokość trójkąta 𝐶𝑃𝑆 opuszczoną z wierzchołka 𝐶 na bok 𝑃𝑆,
+𝐾 – spodek wysokości trójkąta 𝐶𝑃𝑆 opuszczonej z wierzchołka 𝐶 na bok 𝑃𝑆.
+Stosujemy twierdzenie Pitagorasa do trójkąta 𝐶𝑃𝑆 i obliczamy długość boku 𝑃𝑆:
+|𝑃𝑆|2 = |𝐶𝑆|2 + |𝐶𝑃|2
+|𝑃𝑆|2 = (1
+2 𝑎√2)
+2
++ (1
+2 𝑎)
+2
+|𝑃𝑆| = √3
+2 𝑎
+Obliczamy objętość ostrosłupa 𝐵𝐶𝐷𝑃 o podstawie trójkątnej 𝐵𝐶𝐷 i wysokości
+opuszczonej na podstawę 𝐵𝐶𝐷 z wierzchołka 𝑃:
+𝑉𝐵𝐶𝐷𝑃 = 1
+3 ⋅ 𝑃Δ𝐵𝐶𝐷 ⋅ |𝐶𝑃| = 1
+3 ⋅ 1
+2 𝑎2 ⋅ 1
+2 𝑎 = 1
+12 𝑎3
+Obliczamy objętość ostrosłupa 𝐵𝐷𝑃𝐶 o podstawie trójkątnej 𝐵𝐷𝑃 i wysokości
+opuszczonej na podstawę 𝐵𝐷𝑃 z wierzchołka 𝐶:
+𝑉𝐵𝐷𝑃𝐶 = 1
+3 ⋅ 𝑃Δ𝐵𝐷𝑃 ⋅ |𝐶𝐾| = 1
+3 ⋅ 1
+2 ⋅ 𝑎√2 ⋅ √3
+2 𝑎 ⋅ ℎ = √6
+12 𝑎2ℎ
+Ponieważ 𝑉𝐵𝐶𝐷𝑃 = 𝑉𝐵𝐷𝑃𝐶 , więc
+1
+12 𝑎3 = √6
+12 𝑎2ℎ
+ℎ = √6
+6 𝑎
+Szukana odległość jest równa
+√6
+6 𝑎.
+Sposób 4. (z wykorzystaniem równości boku trójkątów prostokątnych)
+Oznaczmy przez:
+𝑆 – punkt przecięcia się przekątnych podstawy 𝐴𝐵𝐶𝐷 sześcianu,
+ℎ – wysokość trójkąta 𝐶𝑃𝑆 opuszczoną z wierzchołka 𝐶 na bok 𝑃𝑆,
+𝐾 – spodek wysokości trójkąta 𝐶𝑃𝑆 opuszczonej z wierzchołka 𝐶 na bok 𝑃𝑆,
+𝑥 – długość odcinka 𝐾𝑃.
+Stosujemy twierdzenie Pitagorasa do trójkąta 𝐶𝑃𝑆 celem obliczenia długości boku 𝑃𝑆:
+|𝑃𝑆|2 = |𝐶𝑆|2 + |𝐶𝑃|2

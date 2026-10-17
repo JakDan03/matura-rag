@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=12; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=12.1]
+Zadanie 12.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) wykresem funkcji kwadratowej 𝑓 jest
+parabola, której wierzchołkiem jest punkt (3, 0). Ta parabola przechodzi przez punkt
+o współrzędnych (0, −9).
+Zadanie 12.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Funkcja 𝑓 jest malejąca w przedziale
+A. (−∞, 0] B. (−∞, 3] C. [0, +∞) D. [3, +∞)

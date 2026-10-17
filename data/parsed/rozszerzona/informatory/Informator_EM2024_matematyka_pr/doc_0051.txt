@@ -1,0 +1,79 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=51; level=rozszerzony; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+Przykładowe zadania z rozwiązaniami 51
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik.
+2 pkt – wyznaczenie granicy ciągu (𝑎𝑛) w zależności od 𝑝.
+1 pkt – obliczenie jednej z granic:
+lim
+𝑛→+∞
+(𝑛+5)
+2
+(𝑛+1)(𝑛+2) lub lim
+𝑛→+∞
+(𝑛+5)
+2
+(𝑛+2)(𝑛+3).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Przekształcamy wzór ciągu (𝑎𝑛) do postaci
+𝑎𝑛 = (𝑝 + 1) ⋅ (𝑛 + 5)2
+(𝑛 + 1)(𝑛 + 2) + (2𝑝 + 2) ⋅ (𝑛 + 5)2
+(𝑛 + 2)(𝑛 + 3)
+Obliczamy następujące granice:
+lim
+𝑛→+∞
+(𝑛 + 5)2
+(𝑛 + 1)(𝑛 + 2) = lim
+𝑛→+∞
+𝑛2 ⋅ (1 + 5
+𝑛)
+2
+𝑛2 ⋅ (1 + 1
+𝑛) (1 + 2
+𝑛)
+= lim
+𝑛→+∞
+(1 + 5
+𝑛)
+2
+(1 + 1
+𝑛) (1 + 2
+𝑛)
+= 1
+lim
+𝑛→+∞
+(𝑛 + 5)2
+(𝑛 + 2)(𝑛 + 3) = lim
+𝑛→+∞
+𝑛2 ⋅ (1 + 5
+𝑛)
+2
+𝑛2 ⋅ (1 + 2
+𝑛) (1 + 3
+𝑛)
+= lim
+𝑛→+∞
+(1 + 5
+𝑛)
+2
+(1 + 2
+𝑛) (1 + 3
+𝑛)
+= 1
+Zatem
+lim
+𝑛→+∞
+𝑎𝑛 = lim
+𝑛→+∞
+[(𝑝 + 1) ⋅ (𝑛 + 5)2
+(𝑛 + 1)(𝑛 + 2) + (2𝑝 + 2) ⋅ (𝑛 + 5)2
+(𝑛 + 2)(𝑛 + 3)] =
+= (𝑝 + 1) ⋅ lim
+𝑛→+∞
+(𝑛 + 5)2
+(𝑛 + 1)(𝑛 + 2) + (2𝑝 + 2) ⋅ lim
+𝑛→+∞
+(𝑛 + 5)2
+(𝑛 + 2)(𝑛 + 3) =
+= (𝑝 + 1) ⋅ 1 + (2𝑝 + 2) ⋅ 1 = 3𝑝 + 3
+Z warunków zadania otrzymujemy 12 = 3𝑝 + 3, więc 𝑝 = 3.

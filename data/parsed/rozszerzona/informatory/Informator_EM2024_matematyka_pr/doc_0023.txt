@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=23; level=rozszerzony; year=2024; section=1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów]
+Przykładowe zadania z rozwiązaniami 23
+Nierówność (𝑚 − 2)2 < 0 jest sprzeczna, natomiast z warunków
+(𝑚 − 2)2 = 0 i
+𝑚
+2 = 1
+otrzymujemy 𝑚 = 2.
+Odp. 𝑚 = 2.
+Zadanie 6. (0–4)
+Funkcja kwadratowa 𝑓 jest określona wzorem 𝑓(𝑥) = 𝑝𝑥2 + (𝑝 − 1)𝑥 + 1 − 2𝑝 dla
+każdego 𝑥 ∈ ℝ.
+Wyznacz wszystkie wartości parametru 𝒑, dla których funkcja 𝒇 ma dokładnie dwa
+miejsca zerowe różniące się o 𝟏. Zapisz obliczenia.

@@ -1,0 +1,29 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=64; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+64 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 36. (0–1)
+Dokończ zdanie. Zaznacz odpowiedź A, B albo C oraz jej uzasadnienie 1., 2. albo 3.
+Ciąg (𝑎𝑛) określony wzorem 𝑎𝑛 = 𝑛2 − 𝑛 dla każdej liczby naturalnej 𝑛 ≥ 1 jest
+A. rosnący,
+ponieważ dla każdej
+liczby naturalnej 𝑛 ≥ 1
+1. różnica 𝑎𝑛+1 − 𝑎𝑛 jest liczbą ujemną.
+B. malejący, 2. różnica 𝑎𝑛+1 − 𝑎𝑛 jest równa zero.
+C. stały, 3. różnica 𝑎𝑛+1 − 𝑎𝑛 jest liczbą dodatnią.
+Wymagania ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+3. Tworzenie pomocniczych obiektów matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub rozwiązania problemu.
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.
+Wymagania szczegółowe
+VI. Ciągi. Zdający:
+1) oblicza wyrazy ciągu określonego wzorem ogólnym;
+3) w prostych przypadkach bada, czy ciąg jest rosnący, czy malejący.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+A3

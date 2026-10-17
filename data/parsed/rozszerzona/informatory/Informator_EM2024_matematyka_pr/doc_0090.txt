@@ -1,0 +1,52 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=90; level=rozszerzony; year=2024; section=|𝐵𝐺|2 + |𝐺𝐶|2 = |𝐵𝐶|2]
+90 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+|𝐵𝑆| = 2√5
+Zatem trójkąt 𝐵𝑃𝑆 ma boki o długościach: |𝐵𝑃| = 4, |𝑃𝑆| = 2 i |𝐵𝑆| = 2√5.
+Z twierdzenia o odcinkach stycznych |𝐶𝐸| = |𝐹𝐶|, więc |𝐶𝐸| = 1.
+Stosujemy twierdzenie Pitagorasa do trójkąta 𝑆𝐸𝐶 celem obliczenia |𝐶𝑆|:
+22 + 12 = |𝐶𝑆|2
+|𝐶𝑆| = √5
+Zatem trójkąt 𝐵𝑆𝐶 ma boki o długościach: |𝐵𝑆| = 2√5, |𝐶𝑆| = √5, |𝐵𝐶| = 5.
+Ponieważ
+|𝐵𝐶|
+|𝐵𝑆| = 5
+2√5
+= √5
+2 oraz
+|𝐶𝑆|
+|𝑃𝑆| = √5
+2 oraz
+|𝐵𝑆|
+|𝐵𝑃| = 2√5
+4 = √5
+2 ,
+więc trójkąty 𝐵𝑃𝑆 oraz 𝐵𝑆𝐶 są podobne (na podstawie cechy bbb podobieństwa
+trójkątów).
+To kończy dowód.
+Każdy z obliczonych powyżej stosunków długości odpowiednich boków trójkątów 𝐵𝑃𝑆 oraz
+𝐵𝑆𝐶 jest równy skali podobieństwa tychże trójkątów.
+Skala podobieństwa trójkątów 𝐵𝑃𝑆 oraz 𝐵𝑆𝐶 jest równa 𝑘 =
+|𝐵𝐶|
+|𝐵𝑆| =
+√5
+2 .
+Sposób 3.
+Wykażemy, że trójkąty 𝐵𝑃𝑆 i 𝐵𝑆𝐶 są podobne.
+Oznaczmy przez 𝛼 miarę kąta 𝑃𝐵𝑆, przez 𝐺 – rzut prostokątny punktu 𝐶 na
+podstawę 𝐴𝐵 trapezu, przez 𝐹 – punkt styczności okręgu z odcinkiem 𝐶𝐷 (rysunek 4.).
+Punkt 𝑆 jest równooddalony od boków 𝐴𝐵 i 𝐵𝐶 trapezu jako środek okręgu wpisanego
+w trapez, więc wysokość trapezu jest równa 4.
+Do trójkąta 𝐵𝐺𝐶 stosujemy twierdzenie Pitagorasa, aby obliczyć długość odcinka 𝐵𝐺:
+|𝐵𝐺|2 + |𝐺𝐶|2 = |𝐵𝐶|2
+𝐶
+𝐷
+2
+5
+𝑆
+𝛼
+𝐵
+𝑃
+𝐹
+𝐴
+𝐺
+Rysunek 4.

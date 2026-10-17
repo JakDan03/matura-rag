@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=36; level=podstawowy; year=2026; month=czerwiec; task_id=8]
+Zadanie 8.
+Uwaga:
+Jeżeli zdający popełnia błąd przy przekształceniu równania 3𝑥 + 4
+𝑥 − 1 = 𝑥 + 3
+3𝑥 do postaci
+równania kwadratowego, lecz dalej stosuje poprawną metodę rozwiązania otrzymanego
+równania kwadratowego i konsekwentnie oblicza pierwiastki tego równania, to może
+otrzymać 1 punkt za całe rozwiązanie.

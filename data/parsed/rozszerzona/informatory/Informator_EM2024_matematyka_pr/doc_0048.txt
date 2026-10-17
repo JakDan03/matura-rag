@@ -1,0 +1,28 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=48; level=rozszerzony; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+48 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Przykładowe pełne rozwiązanie
+Korzystamy ze wzoru na cosinus podwojonego kąta i przekształcamy równoważnie równanie
+do prostszej postaci:
+(3 − 2 cos 𝑥)2 = 8 sin2 (𝑥
+2) − 8 cos2 (𝑥
+2) + 12
+9 − 12 cos 𝑥 + 4 cos2 𝑥 = −8 (cos2 𝑥
+2 − sin2 𝑥
+2) + 12
+4 cos2 𝑥 − 12 cos 𝑥 + 9 = −8 cos (2 ⋅ 𝑥
+2) + 12
+4 cos2 𝑥 − 4 cos 𝑥 − 3 = 0
+cos 𝑥 = − 1
+2 ∨ cos 𝑥 = 3
+2
+Ponieważ 3
+2 ∉ [−1, 1], więc cos 𝑥 = − 1
+2 .
+Korzystamy z wykresu funkcji cosinus i zapisujemy rozwiązanie równania cos 𝑥 = − 1
+2
+w przedziale (0, 𝜋):
+𝑥 = 2
+3 𝜋
+Zadanie 16. (0–3)
+Wykaż, że równanie 𝒙𝟒 − 𝟕𝒙𝟑 + 𝟗𝒙𝟐 + 𝟖𝒙 − 𝟐 = 𝟎 ma w przedziale (−𝟐, 𝟐) co
+najmniej dwa różne rozwiązania.

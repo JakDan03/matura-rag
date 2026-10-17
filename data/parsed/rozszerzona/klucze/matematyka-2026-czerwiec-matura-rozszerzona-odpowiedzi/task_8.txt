@@ -1,0 +1,307 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=13, 14, 15, 16, 17, 18, 19; level=rozszerzony; year=2026; month=czerwiec; task_id=8]
+Zadanie 8. (0–4)
+Wymaganie ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+VI.5) stosuje wzór na 𝑛-ty wyraz i na sumę
+𝑛 początkowych wyrazów ciągu
+arytmetycznego;
+VI.6) stosuje wzór na 𝑛-ty wyraz i na sumę
+𝑛 początkowych wyrazów ciągu
+geometrycznego.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: (𝑥, 𝑦, 𝑧) = (1, 3, 9) oraz
+(𝑥, 𝑦, 𝑧) = (1
+9 , 7
+9 , 49
+9 ).
+3 pkt – obliczenie 𝑟: 𝑟 = 2 oraz 𝑟 = 2
+3 (dla sposobu I)
+ALBO
+– zapisanie równania z jedną niewiadomą 𝑥 (lub 𝑦, lub 𝑧), np.:
+(5𝑥 + 1
+2 )
+2
+= 𝑥 [2 ⋅ (5𝑥 + 1
+2 ) + 4 − 𝑥],
+𝑦2 = (2𝑦 − 8𝑦 + 21
+5 + 4) ⋅ (8𝑦 + 21
+5 ),
+(
+𝑧 − 5
+4 + 𝑧 − 4
+2 )
+2
+= 𝑧 − 5
+4 ⋅ 𝑧 (dla sposobu II),
+ALBO
+– obliczenie 𝑞 (lub 𝑥): 𝑞 = 3 oraz 𝑞 = 7 (lub: 𝑥 = 1
+9 oraz 𝑥 = 1)
+(dla sposobu III).
+2 pkt – zapisanie równania z jedną niewiadomą 𝑟, np. 𝑟2 = 4(𝑟2 − 2𝑟 + 1)
+(dla sposobu I)
+ALBO
+– zapisanie układu dwóch niezależnych równań z dwiema niewiadomymi 𝑥, 𝑦 (lub 𝑦,
+𝑧, lub 𝑧, 𝑥), np.:
+𝑦2 = 𝑥(2𝑦 + 4 − 𝑥) oraz (𝑦 − 1)2 = 𝑥(2𝑦 − 𝑥 − 1),
+𝑦2 = (2𝑦 − 𝑧 + 4)𝑧 oraz (𝑦 − 1)2 = (2𝑦 − 𝑧 + 4)(𝑧 − 5),
+(𝑥 + 𝑧 − 4
+2 )
+2
+= 𝑥𝑧 oraz (𝑥 + 𝑧 − 4
+2 − 1)
+2
+= 𝑥(𝑧 − 5) (dla sposobu II),
+ALBO
+– zapisanie równania z jedną niewiadomą 𝑞 (lub 𝑥), np.
+1
+2𝑞 − 5 = 4
+(𝑞 − 1)2 (dla sposobu III).
+1 pkt – zapisanie układu dwóch niezależnych równań z dwiema niewiadomymi (z których
+jedną jest 𝑟), np.
+(𝑥 + 𝑟)2 = 𝑥(𝑥 + 2𝑟 + 4) oraz (𝑥 + 𝑟 − 1)2 = 𝑥(𝑥 + 2𝑟 + 4 − 5)
+(dla sposobu I)
+ALBO
+– wyznaczenie 𝑥 w zależności od 𝑟, np. 𝑥 = 𝑟2 − 2𝑟 + 1 (dla sposobu I),
+ALBO
+– zapisanie układu trzech niezależnych równań z trzema niewiadomymi 𝑥, 𝑦, 𝑧, np.:
+𝑦2 = 𝑥 ⋅ 𝑧 oraz 𝑦 = 𝑥 + 𝑧 − 4
+2 oraz (𝑦 − 1)2 = 𝑥 ⋅ (𝑧 − 5) (dla sposobu II),
+ALBO
+– zapisanie równania z dwiema niewiadomymi 𝑥, 𝑦 (lub 𝑦, 𝑧, lub 𝑧, 𝑥), np.
+𝑦2 = 𝑥(2𝑦 + 4 − 𝑥), (𝑦 − 1)2 = (2𝑦 − 𝑧 + 4) ⋅ (𝑧 − 5) (dla sposobu II),
+ALBO
+– zapisanie układu dwóch niezależnych równań z dwiema niewiadomymi (z których
+jedną jest 𝑞), np.
+𝑥𝑞 = 𝑥 + 𝑥𝑞2 − 4
+2 oraz (𝑥𝑞 − 1)2 = 𝑥 ⋅ (𝑥𝑞2 − 5) (dla sposobu III),
+ALBO
+– wyznaczenie 𝑥 w zależności od 𝑞 (lub 𝑞 w zależności od 𝑥), np.
+𝑥 = 4
+(𝑞 − 1)2 (dla sposobu III).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający przyjmuje, że 𝑦 = √𝑥 ⋅ 𝑧, to może otrzymać co najwyżej 3 punkty za całe
+rozwiązanie.
+2. Jeżeli zdający otrzyma więcej niż dwa ciągi (𝑥, 𝑦, 𝑧), wśród których dwa są właściwe:
+(𝑥, 𝑦, 𝑧) = (1, 3, 9) oraz (𝑥, 𝑦, 𝑧) = (1
+9 , 7
+9 , 49
+9 ), i nie odrzuci pozostałych ciągów, to może
+otrzymać co najwyżej 3 punkty za całe rozwiązanie.
+Zasady oceniania rozwiązań zadań
+3. Jeżeli zdający myli ciąg geometryczny z arytmetycznym, to otrzymuje 0 punktów za całe
+rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I (poprzez 𝑟)
+Niech 𝑟 oznacza różnicę ciągu arytmetycznego (𝑥, 𝑦, 𝑧 − 4). Wówczas 𝑦 = 𝑥 + 𝑟 oraz
+𝑧 = 𝑥 + 2𝑟 + 4. Ponieważ ciąg (𝑥, 𝑦, 𝑧) jest geometryczny, więc korzystamy z własności
+ciągu geometrycznego i otrzymujemy:
+(𝑥 + 𝑟)2 = 𝑥(𝑥 + 2𝑟 + 4)
+𝑥2 + 2𝑥𝑟 + 𝑟2 = 𝑥2 + 2𝑥𝑟 + 4𝑥
+𝑟2 = 4𝑥
+Ponieważ ciąg (𝑥, 𝑦 − 1, 𝑧 − 5) jest geometryczny, więc korzystamy z własności ciągu
+geometrycznego i otrzymujemy:
+(𝑥 + 𝑟 − 1)2 = 𝑥(𝑥 + 2𝑟 + 4 − 5)
+(𝑥 + 𝑟)2 − 2 ⋅ (𝑥 + 𝑟) ⋅ 1 + 12 = 𝑥2 + 2𝑥𝑟 − 𝑥
+𝑥2 + 2𝑥𝑟 + 𝑟2 − 2𝑥 − 2𝑟 + 1 = 𝑥2 + 2𝑥𝑟 − 𝑥
+𝑟2 − 2𝑟 + 1 = 𝑥
+Stąd z i zależności 𝑟2 = 4𝑥 otrzymujemy:
+𝑟2 = 4(𝑟2 − 2𝑟 + 1)
+0 = 3𝑟2 − 8𝑟 + 4
+𝑟 = 2 ∨ 𝑟 = 2
+3
+Gdy 𝑟 = 2, to 𝑥 = 𝑟2 − 2𝑟 + 1 = 1, 𝑦 = 𝑥 + 𝑟 = 3 oraz 𝑧 = 𝑥 + 2𝑟 + 4 = 9.
+Ponieważ ciąg (𝑥, 𝑦, 𝑧) = (1, 3, 9) jest geometryczny, ciąg (𝑥, 𝑦, 𝑧 − 4) = (1, 3, 5) jest
+arytmetyczny, a ciąg (𝑥, 𝑦 − 1, 𝑧 − 5) = (1, 2, 4) jest geometryczny, więc trójka liczb
+(𝑥, 𝑦, 𝑧) = (1, 3, 9) spełnia warunki zadania.
+Gdy 𝑟 = 2
+3 , to 𝑥 = 𝑟2 − 2𝑟 + 1 = 1
+9 , 𝑦 = 𝑥 + 𝑟 = 7
+9 oraz 𝑧 = 𝑥 + 2𝑟 + 4 = 49
+9 .
+Ponieważ ciąg (𝑥, 𝑦, 𝑧) = (1
+9 , 7
+9 , 49
+9 ) jest geometryczny, ciąg (𝑥, 𝑦, 𝑧 − 4) = (1
+9 , 7
+9 , 13
+9 )
+jest arytmetyczny, a ciąg (𝑥, 𝑦 − 1, 𝑧 − 5) = (1
+9 , − 2
+9 , 4
+9) jest geometryczny, więc trójka
+liczb (𝑥, 𝑦, 𝑧) = (1
+9 , 7
+9 , 49
+9 ) także spełnia warunki zadania.
+Ostatecznie rozwiązaniami zadania są dwie trójki liczb: (𝑥, 𝑦, 𝑧) = (1, 3, 9) oraz
+(𝑥, 𝑦, 𝑧) = (1
+9 , 7
+9 , 49
+9 ).
+Sposób Ia (poprzez 𝑟)
+Niech 𝑟 oznacza różnicę ciągu arytmetycznego (𝑥, 𝑦, 𝑧 − 4). Wówczas 𝑥 = 𝑦 − 𝑟 oraz
+𝑧 = 𝑦 + 𝑟 + 4. Ponieważ ciąg (𝑥, 𝑦, 𝑧) jest geometryczny, więc korzystamy z własności
+ciągu geometrycznego i otrzymujemy:
+𝑦2 = (𝑦 − 𝑟)(𝑦 + 𝑟 + 4)
+𝑦2 = 𝑦2 − 𝑟2 + 4(𝑦 − 𝑟)
+𝑟2 + 4𝑟 = 4𝑦
+Ponieważ ciąg (𝑥, 𝑦 − 1, 𝑧 − 5) jest geometryczny, więc ciąg (𝑦 − 𝑟, 𝑦 − 1, 𝑦 + 𝑟 − 1)
+jest geometryczny. Korzystamy z własności ciągu geometrycznego i otrzymujemy:
+(𝑦 − 1)2 = (𝑦 − 𝑟)(𝑦 + 𝑟 − 1)
+𝑦2 − 2𝑦 + 1 = 𝑦2 − 𝑟2 − (𝑦 − 𝑟)
+𝑟2 − 𝑟 + 1 = 𝑦
+Stąd z i zależności 𝑟2 + 4𝑟 = 4𝑦 otrzymujemy:
+𝑟2 + 4𝑟 = 4(𝑟2 − 𝑟 + 1)
+0 = 3𝑟2 − 8𝑟 + 4
+𝑟 = 2 ∨ 𝑟 = 2
+3
+Gdy 𝑟 = 2, to 𝑦 = 𝑟2 − 𝑟 + 1 = 3, 𝑥 = 𝑦 − 𝑟 = 1 oraz 𝑧 = 𝑦 + 𝑟 + 4 = 9.
+Ponieważ ciąg (𝑥, 𝑦, 𝑧) = (1, 3, 9) jest geometryczny, ciąg (𝑥, 𝑦, 𝑧 − 4) = (1, 3, 5) jest
+arytmetyczny, a ciąg (𝑥, 𝑦 − 1, 𝑧 − 5) = (1, 2, 4) jest geometryczny, więc trójka liczb
+(𝑥, 𝑦, 𝑧) = (1, 3, 9) spełnia warunki zadania.
+Gdy 𝑟 = 2
+3 , to 𝑦 = 𝑟2 − 𝑟 + 1 = 7
+9 , 𝑥 = 𝑦 − 𝑟 = 1
+9 oraz 𝑧 = 𝑦 + 𝑟 + 4 = 49
+9 . Ponieważ
+ciąg (𝑥, 𝑦, 𝑧) = (1
+9 , 7
+9 , 49
+9 ) jest geometryczny, ciąg (𝑥, 𝑦, 𝑧 − 4) = (1
+9 , 7
+9 , 13
+9 ) jest
+arytmetyczny, a ciąg (𝑥, 𝑦 − 1, 𝑧 − 5) = (1
+9 , − 2
+9 , 4
+9) jest geometryczny, więc trójka liczb
+(𝑥, 𝑦, 𝑧) = (1
+9 , 7
+9 , 49
+9 ) także spełnia warunki zadania.
+Ostatecznie rozwiązaniami zadania są dwie trójki liczb: (𝑥, 𝑦, 𝑧) = (1, 3, 9) oraz
+(𝑥, 𝑦, 𝑧) = (1
+9 , 7
+9 , 49
+9 ).
+Sposób II
+Z własności ciągu geometrycznego otrzymujemy
+𝑦2 = 𝑥 ⋅ 𝑧
+Z własności ciągu arytmetycznego i warunków zadania otrzymujemy
+𝑦 = 𝑥 + 𝑧 − 4
+2
+Zasady oceniania rozwiązań zadań
+Ciąg (𝑥, 𝑦 − 1, 𝑧 − 5) jest geometryczny, więc
+(𝑦 − 1)2 = 𝑥 ⋅ (𝑧 − 5)
+Stąd i ze związku 𝑦2 = 𝑥 ⋅ 𝑧 otrzymujemy:
+(𝑦 − 1)2 = 𝑥𝑧 − 5𝑥
+𝑦2 − 2𝑦 + 1 = 𝑦2 − 5𝑥
+𝑦 = 5𝑥 + 1
+2
+Ponieważ 𝑦 = 𝑥 + 𝑧 − 4
+2 oraz 𝑦 = 5𝑥 + 1
+2 , więc:
+𝑥 + 𝑧 − 4
+2 = 5𝑥 + 1
+2
+𝑧 = 4𝑥 + 5
+Ze związków 𝑦2 = 𝑥 ⋅ 𝑧, 𝑦 = 5𝑥 + 1
+2 oraz 𝑧 = 4𝑥 + 5 otrzymujemy:
+(5𝑥 + 1
+2 )
+2
+= 𝑥(4𝑥 + 5)
+25𝑥2 + 10𝑥 + 1 = 16𝑥2 + 20𝑥
+9𝑥2 − 10𝑥 + 1 = 0
+𝑥 = 1 ∨ 𝑥 = 1
+9
+Dla 𝑥 = 1 otrzymujemy 𝑦 = 3 i 𝑧 = 9. Wówczas ciąg (𝑥, 𝑦, 𝑧) = (1, 3, 9) jest
+geometryczny, ciąg (𝑥, 𝑦, 𝑧 − 4) = (1, 3, 5) jest arytmetyczny, a ciąg
+(𝑥, 𝑦 − 1, 𝑧 − 5) = (1, 2, 4) jest geometryczny.
+To oznacza, że trójka liczb (𝑥, 𝑦, 𝑧) = (1, 3, 9) spełnia warunki zadania.
+Dla 𝑥 = 1
+9 otrzymujemy 𝑦 = 7
+9 i 𝑧 = 49
+9 . Wówczas ciąg (𝑥, 𝑦, 𝑧) = (1
+9 , 7
+9 , 49
+9 ) jest
+geometryczny, ciąg (𝑥, 𝑦, 𝑧 − 4) = (1
+9 , 7
+9 , 13
+9 ) jest arytmetyczny, a ciąg
+(𝑥, 𝑦 − 1, 𝑧 − 5) = (1
+9 , − 2
+9 , 4
+9) jest geometryczny.
+Zatem trójka liczb (𝑥, 𝑦, 𝑧) = (1
+9 , 7
+9 , 49
+9 ) także spełnia warunki zadania.
+Ostatecznie rozwiązaniami zadania są dwie trójki liczb: (𝑥, 𝑦, 𝑧) = (1, 3, 9) oraz
+(𝑥, 𝑦, 𝑧) = (1
+9 , 7
+9 , 49
+9 ).
+Sposób III (poprzez 𝑞)
+Niech 𝑞 oznacza iloraz ciągu geometrycznego (𝑥, 𝑦, 𝑧). Wówczas 𝑦 = 𝑥𝑞 oraz 𝑧 = 𝑥𝑞2.
+Ponieważ ciąg (𝑥, 𝑦, 𝑧 − 4) jest arytmetyczny, więc korzystamy z własności ciągu
+arytmetycznego i otrzymujemy:
+𝑥𝑞 = 𝑥 + 𝑥𝑞2 − 4
+2
+2𝑥𝑞 = 𝑥 + 𝑥𝑞2 − 4
+4 = 𝑥(𝑞2 − 2𝑞 + 1)
+Dla 𝑞 = 1 równanie 4 = 𝑥(𝑞2 − 2𝑞 + 1) jest sprzeczne, więc
+𝑥 = 4
+(𝑞 − 1)2 ∧ 𝑞 ≠ 1
+Ponieważ (𝑥, 𝑦 − 1, 𝑧 − 5) jest geometryczny, więc:
+(𝑥𝑞 − 1)2 = 𝑥 ⋅ (𝑥𝑞2 − 5)
+𝑥2𝑞2 − 2𝑥𝑞 + 1 = 𝑥2𝑞2 − 5𝑥
+1 = (2𝑞 − 5)𝑥
+Dla 𝑞 = 5
+2 równanie 1 = (2𝑞 − 5)𝑥 jest sprzeczne, więc
+𝑥 = 1
+2𝑞 − 5 ∧ 𝑞 ≠ 5
+2
+Zatem 𝑞 ≠ 1 i 𝑞 ≠ 5
+2 oraz:
+1
+2𝑞 − 5 = 4
+(𝑞 − 1)2
+(𝑞 − 1)2 = 4(2𝑞 − 5)
+𝑞2 − 10𝑞 + 21 = 0
+𝑞 = 3 ∨ 𝑞 = 7
+Gdy 𝑞 = 3, to (𝑥, 𝑦, 𝑧) = (1, 3, 9). Ponieważ ciąg (𝑥, 𝑦, 𝑧) = (1, 3, 9) jest geometryczny,
+ciąg (𝑥, 𝑦, 𝑧 − 4) = (1, 3, 5) jest arytmetyczny, a ciąg (𝑥, 𝑦 − 1, 𝑧 − 5) = (1, 2, 4) jest
+geometryczny, więc trójka liczb (𝑥, 𝑦, 𝑧) = (1, 3, 9) spełnia warunki zadania.
+Gdy 𝑞 = 7, to (𝑥, 𝑦, 𝑧) = (1
+9 , 7
+9 , 49
+9 ). Ponieważ ciąg (𝑥, 𝑦, 𝑧) = (1
+9 , 7
+9 , 49
+9 ) jest
+geometryczny, ciąg (𝑥, 𝑦, 𝑧 − 4) = (1
+9 , 7
+9 , 13
+9 ) jest arytmetyczny, a ciąg
+(𝑥, 𝑦 − 1, 𝑧 − 5) = (1
+9 , − 2
+9 , 4
+9) jest geometryczny, więc trójka liczb (𝑥, 𝑦, 𝑧) = (1
+9 , 7
+9 , 49
+9 )
+także spełnia warunki zadania.
+Zasady oceniania rozwiązań zadań
+Ostatecznie rozwiązaniami zadania są dwie trójki liczb: (𝑥, 𝑦, 𝑧) = (1, 3, 9) oraz
+(𝑥, 𝑦, 𝑧) = (1
+9 , 7
+9 , 49
+9 ).

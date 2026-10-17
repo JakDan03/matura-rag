@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=22; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=21]
+Zadanie 21. (0–4)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) przekątne równoległoboku 𝐴𝐵𝐶𝐷
+przecinają się w punkcie 𝑆 = (9, 11). Bok 𝐴𝐵 tego równoległoboku zawiera się w prostej
+o równaniu 𝑦 = 1
+2 𝑥 − 1, a bok 𝐴𝐷 zawiera się w prostej o równaniu 𝑦 = 2𝑥 − 4.
+Oblicz współrzędne wierzchołka 𝑩. Zapisz obliczenia.
+21.
+0–1–
+2–3–4

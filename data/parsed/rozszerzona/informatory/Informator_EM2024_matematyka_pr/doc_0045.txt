@@ -1,0 +1,21 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=45; level=rozszerzony; year=2024; section=1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów]
+Przykładowe zadania z rozwiązaniami 45
+𝑎1 ⋅ 2
+5
+1 − (2
+5)
+2 = 6
+𝑎1 = 63
+5
+Wzór ogólny ciągu ma postać: 𝑎𝑛 = 63
+5 ⋅ (2
+5)
+𝑛−1
+.
+Zadanie 14. (0–3)
+Funkcja 𝑓 jest określona wzorem 𝑓(𝑥) = 𝑥6 − 2𝑥4 − 𝑥3 + 1 dla każdego 𝑥 ∈ ℝ.
+Wykaż, że liczba 𝟓 należy do zbioru wartości tej funkcji.
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.

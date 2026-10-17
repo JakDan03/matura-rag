@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=20; level=rozszerzony; year=2026; month=maj; task_id=10]
+Zadanie 10. (0–5)
+Wyznacz wszystkie rzeczywiste wartości parametru 𝒎, gdzie 𝒎 ≠ 𝟎, dla których
+funkcja kwadratowa 𝒇 określona wzorem
+𝒇(𝒙) = 𝒎𝟐 ⋅ 𝒙𝟐 − 𝟐𝒎𝒙 − 𝒎 + 𝟏
+ma dwa różne miejsca zerowe 𝒙𝟏 oraz 𝒙𝟐 należące do przedziału (−𝟐, 𝟐).
+Zapisz obliczenia.
+10.
+0–1–
+2–3–
+4–5

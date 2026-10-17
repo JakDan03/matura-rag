@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=15; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=15]
+Zadanie 15. (0–1)
+Trzywyrazowy ciąg (1 − 2𝑎, 12, 48) jest geometryczny.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba 𝑎 jest równa
+A. (−1) B. 3 C. 4 D. 12,5

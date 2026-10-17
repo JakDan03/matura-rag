@@ -1,0 +1,29 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=104; level=podstawowy; year=2024; section=4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach]
+104 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 54. (0–3)
+Na płaszczyźnie, w kartezjańskim układzie współrzędnych (𝑥, 𝑦), punkty 𝐴 = (−1, −5),
+𝐵 = (2, −7), 𝐶 = (6, 9) i 𝐷 = (−2, 9) są wierzchołkami czworokąta 𝐴𝐵𝐶𝐷.
+Oblicz współrzędne punktu przecięcia przekątnych czworokąta 𝑨𝑩𝑪𝑫.
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Wymagania szczegółowe
+IX. Geometria analityczna na płaszczyźnie kartezjańskiej. Zdający:
+1) rozpoznaje wzajemne położenie prostych na płaszczyźnie na podstawie ich równań,
+w tym znajduje wspólny punkt dwóch prostych, jeśli taki istnieje;
+2) posługuje się równaniami prostych na płaszczyźnie, w postaci kierunkowej i ogólnej,
+w tym wyznacza równanie prostej o zadanych własnościach (takich, jak np.
+przechodzenie przez dwa dane punkty, znany współczynnik kierunkowy,
+równoległość do innej prostej).
+Zasady oceniania
+3 pkt – poprawna metoda obliczenia współrzędnych punktu 𝑃 oraz podanie poprawnego
+wyniku: 𝑃 = (2
+3 , − 5
+3).
+2 pkt – wyznaczenie równania prostej 𝐴𝐶: 𝑦 = 2𝑥 − 3 oraz wyznaczenie równania
+prostej 𝐵𝐷: 𝑦 = −4𝑥 + 1.
+1 pkt – wyznaczenie równania prostej 𝐴𝐶: 𝑦 = 2𝑥 − 3
+ALBO
+– wyznaczenie równania prostej 𝐵𝐷: 𝑦 = −4𝑥 + 1.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.

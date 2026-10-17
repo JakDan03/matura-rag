@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=22; level=podstawowy; year=2025; month=maj; task_id=22]
+Zadanie 22. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dany jest kwadrat 𝐴𝐵𝐶𝐷, w którym
+𝐴 = (4, −1). Przekątne tego kwadratu przecinają się w punkcie 𝑆 = (1, 3).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Przekątna kwadratu 𝐴𝐵𝐶𝐷 ma długość
+A. 5 B. 7 C. 10 D. 14

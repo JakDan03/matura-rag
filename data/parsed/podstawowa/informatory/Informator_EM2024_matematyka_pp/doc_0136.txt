@@ -1,0 +1,33 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=136; level=podstawowy; year=2024; section=1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno]
+136 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 65.4. (0–2)
+Oblicz, jaki procent liczby wszystkich pracowników firmy 𝓕 stanowi liczba osób
+zarabiających 𝟓, 𝟓 tys. zł lub mniej. Wynik podaj w zaokrąglaniu do 𝟏%.
+Wymagania ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno
+matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów,
+tabel.
+I. Sprawność rachunkowa.
+Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora,
+stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych
+oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach
+rzeczywistych i teoretycznych.
+Wymaganie szczegółowe
+I. Liczby rzeczywiste. Zdający:
+1) wykonuje działania (dodawanie, odejmowanie, mnożenie, dzielenie, potęgowanie,
+pierwiastkowanie, logarytmowanie) w zbiorze liczb rzeczywistych.
+Zasady oceniania
+2 pkt – poprawna metoda obliczenia jaki % wszystkich pracowników firmy ℱ stanowią
+osoby zarabiające 5,5 tys. zł lub mniej oraz podanie wyniku 87%.
+1 pkt – obliczenie liczby wszystkich pracowników firmy ℱ zarabiających 5,5 tys. zł lub mniej.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Obliczymy, ile jest łącznie takich osób w firmie ℱ, które zarabiają miesięcznie 5,5 tys. zł lub
+mniej:
+1 + 1 + 4 + 7 + 10 + 14 + 13 + 9 + 6 = 65
+Określimy, jaki procent wszystkich osób w firmie stanowią łącznie osoby zarabiające
+miesięcznie 5,5 tys. zł lub mniej:
+65
+75 = 0,8(6) ≈ 87%
+Osoby zarabiające 5,5 tys. zł lub mniej stanowią 87% wszystkich pracowników firmy ℱ.

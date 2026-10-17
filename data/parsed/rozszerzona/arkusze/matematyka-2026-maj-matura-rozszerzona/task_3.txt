@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=6; level=rozszerzony; year=2026; month=maj; task_id=3]
+Zadanie 3. (0–3)
+Wykaż, że dla każdej dodatniej liczby rzeczywistej 𝒙 i dla każdej dodatniej liczby
+rzeczywistej 𝒚 prawdziwa jest nierówność
+𝟏
+𝒙 + 𝟏
+𝒚 ≤ 𝒙
+𝒚𝟐 + 𝒚
+𝒙𝟐
+3.
+0–1–
+2–3

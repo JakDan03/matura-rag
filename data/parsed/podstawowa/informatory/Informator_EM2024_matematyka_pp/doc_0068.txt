@@ -1,0 +1,38 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=68; level=podstawowy; year=2024; section=ALBO]
+68 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Wymaganie szczegółowe
+XIII. Optymalizacja i rachunek różniczkowy.
+Zdający rozwiązuje zadania optymalizacyjne w sytuacjach dających się opisać funkcją
+kwadratową.
+Zasady oceniania
+4 pkt – poprawna metoda obliczenia obu wymiarów działki oraz podanie poprawnych
+wyników: 𝑥 = 100 m oraz 𝑦 = 75 m.
+3 pkt – poprawne zapisanie wzoru na pole działki w zależności od jednej zmiennej oraz
+poprawne obliczenie współrzędnej 𝑥 wierzchołka paraboli: 𝑥 = 100 m.
+2 pkt – poprawne zapisanie wzoru na pole całkowite powierzchni magazynowej w zależności
+od jednej zmiennej:
+𝑃(𝑥) = 2𝑥(150 − 3
+4 𝑥) dla 𝑥 ∈ (0, 560
+3 ).
+1 pkt – zapisanie wzoru na pole całkowite powierzchni magazynowej: 𝑃 = 𝑥 ⋅ 2𝑦
+ALBO
+– zapisanie związku między wymiarami działki: 3𝑥 + 4𝑦 − 20 = 580.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Przyjmiemy oznaczenia jak na rysunku w zadaniu. Całkowitą długość płotu – po
+uwzględnieniu warunków zadania – można zapisać równaniem:
+3𝑥 + 4𝑦 − 2 ⋅ 10 = 580
+Powyższe równanie określa związek między wymiarami 𝑥 i 𝑦. Wymiar 𝑦 jednej działki
+musi być większy od 10 m, ze względu na ustaloną szerokość bramy wjazdowej. W związku
+z tym, w modelu matematycznym uwzględniającym warunki zadania, wymiary 𝑥 i 𝑦
+spełniają:
+𝑥 > 0 i 𝑦 > 10
+Pole 𝑃 całkowitej powierzchni magazynowej jest równe polu prostokąta o bokach długości
+𝑥 oraz 2𝑦. Zatem:
+𝑃 = 𝑥 ⋅ 2𝑦
+Pole powierzchni magazynowej wyrazimy jako funkcję jednej zmiennej 𝑥. W tym celu
+najpierw wyznaczymy 𝑦:
+3𝑥 + 4𝑦 − 2 ⋅ 10 = 580
+4𝑦 = 600 − 3𝑥
+𝑦 = 150 − 3
+4 𝑥

@@ -1,0 +1,96 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=48; level=podstawowy; year=2024; section=1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno]
+48 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 29. (0–2)
+Dana jest funkcja 𝑦 = 𝑓(𝑥), której wykres przedstawiono
+w kartezjańskim układzie współrzędnych (𝑥, 𝑦) na rysunku
+obok.
+Funkcje 𝑔 oraz ℎ są określone za pomocą funkcji 𝑓
+następująco:
+𝑦 = 𝑔(𝑥) = 𝑓(𝑥 + 2) 𝑦 = ℎ(𝑥) = 𝑓(𝑥) + 2
+Na rysunkach A–F przedstawiono wykresy różnych funkcji –
+w tym wykresy funkcji 𝑔 oraz ℎ.
+Każdej z funkcji 𝒚 = 𝒈(𝒙) oraz 𝒚 = 𝒉(𝒙) przyporządkuj jej wykres. Wpisz obok
+symboli funkcji w tabeli poniżej właściwe odpowiedzi wybrane spośród A–F.
+Nr zadania Funkcja Rysunek
+29.1. 𝑦 = 𝑔(𝑥)
+29.2. 𝑦 = ℎ(𝑥)
+A. B. C.
+D. E. F.
+−8 −6 −4 −2 0 2 4 6 8
+𝑦
+𝑥
+𝑦 = 𝑓(𝑥)
+8
+6
+4
+2
+– 2
+– 4
+– 6
+– 8
+−8 −6 −4 −2 0 2 4 6 8
+𝑦
+𝑥
+8
+6
+4
+2
+– 2
+– 4
+– 6
+– 8
+−8 −6 −4 −2 0 2 4 6 8
+𝑦
+𝑥
+8
+6
+4
+2
+– 2
+– 4
+– 6
+– 8
+−8 −6 −4 −2 0 2 4 6 8
+𝑦
+𝑥
+8
+6
+4
+2
+– 2
+– 4
+– 6
+– 8
+−8 −6 −4 −2 0 2 4 6 8
+𝑦
+𝑥
+8
+6
+4
+2
+– 2
+– 4
+– 6
+– 8
+−8 −6 −4 −2 0 2 4 6 8
+𝑦
+𝑥
+8
+6
+4
+2
+– 2
+– 4
+– 6
+– 8
+−8 −6 −4 −2 0 2 4 6 8
+𝑦
+𝑥
+8
+6
+4
+2
+– 2
+– 4
+– 6
+– 8

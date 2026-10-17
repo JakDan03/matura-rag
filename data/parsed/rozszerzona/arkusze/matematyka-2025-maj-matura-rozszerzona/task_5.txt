@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=10; level=rozszerzony; year=2025; month=maj; task_id=5]
+Zadanie 5. (0–4)
+Rozwiąż nierówność
+|𝒙 − 𝟐| − 𝟐 ⋅ |𝒙 + 𝟑| < −𝟐
+Zapisz obliczenia.
+5.
+0–1–
+2–3–4

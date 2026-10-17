@@ -1,0 +1,54 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=3, 4, 5; level=rozszerzony; year=2023; month=czerwiec; task_id=2]
+Zadanie 2. (0–3)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+XI.R1) oblicza liczbę możliwych sytuacji,
+spełniających określone kryteria,
+z wykorzystaniem reguły mnożenia
+i dodawania (także łącznie) oraz wzorów na
+liczbę: permutacji, kombinacji i wariacji,
+również w przypadkach wymagających
+rozważenia złożonego modelu zliczania
+elementów.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑛 = 9.
+2 pkt – zapisanie równania z niewiadomą 𝑛, które wynika z warunków zadania, np.
+𝑛! = 12 ⋅ (𝑛 − 2)! ⋅ 3!.
+1 pkt – zapisanie, że liczba wszystkich sposobów ustawienia 𝑛 osób w kolejce jest równa
+𝑛!
+ALBO
+– zapisanie, że trzy kolejne miejsca spośród 𝑛 miejsc można wybrać na 𝑛 − 3
+sposoby (lub na ( 𝑛
+𝑛−3) sposoby),
+ALBO
+– potraktowanie Ani i jej dwóch znajomych jak jednej osoby i zapisanie, że liczba
+ustawień tych 𝑛 − 2 osób jest równa (𝑛 − 2)!
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Liczba wszystkich sposobów ustawienia 𝑛 osób w kolejce jest równa 𝑛!.
+Liczbę wszystkich tych ciągów, w których Ania i jej dwóch znajomych zajmują trzy sąsiednie
+miejsca, możemy obliczyć, traktując Anię i jej dwóch znajomych jak „jedną osobę”.
+W rezultacie mamy ustawić ciąg złożony z 𝑛 − 2 osób, co można zrobić na (𝑛 − 2)!
+sposobów. Na ustalonych trzech miejscach Anię i jej dwóch znajomych możemy ustawić na
+3! sposobów, więc liczba wszystkich tych ciągów, w których Ania i jej dwóch znajomych
+zajmują trzy kolejne miejsca jest równa (𝑛 − 2)! ∙ 3!.
+Z warunków zadania wynika równanie
+𝑛! = 12 ∙ (𝑛 − 2)! ∙ 3!
+Stąd, po podzieleniu obu stron tego równania przez (𝑛 − 2)!, otrzymujemy:
+𝑛(𝑛 − 1) = 12 ∙ 6
+𝑛2 − 𝑛 − 72 = 0
+(𝑛 − 9)(𝑛 + 8) = 0
+Ponieważ 𝑛 jest liczbą całkowitą dodatnią, więc 𝑛 + 8 > 0. Zatem 𝑛 − 9 = 0, czyli 𝑛 = 9.
+Uwaga.
+Liczbę wszystkich ciągów, w których Ania i jej dwóch znajomych zajmują trzy kolejne miejsca,
+możemy obliczyć też w następujący sposób.
+Trzy kolejne miejsca spośród 𝑛 miejsc możemy wybrać na 𝑛 − 2 sposoby. Na wybranych
+trzech miejscach Anię i jej dwóch znajomych możemy ustawić na 3! sposobów, a na
+pozostałych 𝑛 − 3 miejscach możemy pozostałe osoby ustawić na (𝑛 − 3)! sposobów.
+Zatem liczba szukanych ciągów jest równa (𝑛 − 2) ∙ 3! ∙ (𝑛 − 3)! = (𝑛 − 2)! ∙ 3!
+Zasady oceniania rozwiązań zadań

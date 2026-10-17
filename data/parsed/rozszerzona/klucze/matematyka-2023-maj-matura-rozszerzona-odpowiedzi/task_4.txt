@@ -1,0 +1,70 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=10, 11, 12; level=rozszerzony; year=2023; month=maj; task_id=4]
+Zadanie 4. (0–3)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+II.R3) korzysta ze wzorów na: (𝑎 + 𝑏)3,
+(𝑎 − 𝑏)3, 𝑎3 + 𝑏3 i 𝑎3 − 𝑏3.
+Zasady oceniania
+3 pkt – przeprowadzenie pełnego rozumowania, tj. przekształcenie nierówności
+𝑥3 − 𝑥2𝑦 ≤ 𝑥𝑦2 − 𝑦3 do postaci, z której można bezpośrednio wnioskować
+o równości liczb 𝑥 i 𝑦 (lub do postaci, z której można bezpośrednio wnioskować, że
+jedna z liczb: 𝑥, 𝑦, jest równa 2) oraz obliczenie tych liczb: 𝑥 = 2 oraz 𝑦 = 2.
+2 pkt – zastosowanie wzoru na sześcian różnicy oraz kwadrat różnicy, wykorzystanie
+założenia i zapisanie nierówności kwadratowej z jedną niewiadomą 𝑥 (lub 𝑦)
+w postaci 𝑎𝑥2 + 𝑏𝑥 + 𝑐 ≥ 0 lub 𝑎𝑥2 + 𝑏𝑥 + 𝑐 ≤ 0, np. 16𝑥2 − 64𝑥 + 64 ≤ 0
+ALBO
+– wykorzystanie założenia 𝑥 + 𝑦 = 4 i zapisanie nierówności w postaci
+4(𝑥 − 𝑦)2 ≤ 0 (lub 4(4 − 2𝑦)2 ≤ 0, lub 4(2𝑥 − 4)2 ≤ 0),
+ALBO
+– przekształcenie nierówności do postaci (𝑥 − 𝑦)2 ⋅ (𝑥 + 𝑦) ≤ 0 oraz poprawne
+określenie znaku jednego z czynników iloczynu (𝑥 − 𝑦)2 ⋅ (𝑥 + 𝑦),
+ALBO
+– zastosowanie nierówności między średnią arytmetyczną a geometryczną, zapisanie
+obu przypadków i przeprowadzenie poprawnego rozumowania dla jednego z tych
+przypadków.
+1 pkt – wykorzystanie zależności 𝑥 + 𝑦 = 4 i zapisanie nierówności z jedną niewiadomą,
+np. 𝑥3 − 𝑥2(4 − 𝑥) ≤ 𝑥(4 − 𝑥)2 − (4 − 𝑥)3
+ALBO
+– przekształcenie nierówności 𝑥3 − 𝑥2𝑦 ≤ 𝑥𝑦2 − 𝑦3 do postaci
+(𝑥 − 𝑦)(𝑥2 − 𝑦2) ≤ 0,
+ALBO
+– przekształcenie nierówności 𝑥3 − 𝑥2𝑦 ≤ 𝑥𝑦2 − 𝑦3 do postaci 𝑥 ⋅ 𝑦 ≥ 4.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli zdający podstawia do związków 𝑥 + 𝑦 = 4 oraz 𝑥3 − 𝑥2𝑦 ≤ 𝑥𝑦2 − 𝑦3 konkretne
+wartości liczbowe i na tym opiera swoją argumentację, to otrzymuje 0 punktów za całe
+rozwiązanie.
+Zasady oceniania rozwiązań zadań
+Przykładowe pełne rozwiązania
+Sposób I
+Ponieważ 𝑥 + 𝑦 = 4, więc 𝑦 = 4 − 𝑥. Ponieważ ponadto 𝑥 i 𝑦 spełniają nierówność
+𝑥3 − 𝑥2𝑦 ≤ 𝑥𝑦2 − 𝑦3, więc otrzymujemy
+𝑥3 − 𝑥2(4 − 𝑥) ≤ 𝑥(4 − 𝑥)2 − (4 − 𝑥)3
+Stosujemy wzór na sześcian różnicy oraz kwadrat różnicy i otrzymujemy
+𝑥3 − 4𝑥2 + 𝑥3 ≤ 𝑥(16 − 8𝑥 + 𝑥2) − (64 − 48𝑥 + 12𝑥2 − 𝑥3)
+Przekształcamy nierówność i otrzymujemy kolejno
+𝑥3 − 4𝑥2 + 𝑥3 ≤ 16𝑥 − 8𝑥2 + 𝑥3 − 64 + 48𝑥 − 12𝑥2 + 𝑥3
+16𝑥2 − 64𝑥 + 64 ≤ 0
+(4𝑥 − 8)2 ≤ 0
+Ponieważ kwadrat każdej liczby rzeczywistej jest liczbą nieujemną, więc jedynym
+rozwiązaniem tej nierówności jest 𝑥 = 2.
+Ponieważ 𝑦 = 4 − 𝑥, więc 𝑦 = 2.
+To należało wykazać.
+Sposób II
+Przekształcamy nierówność 𝑥3 − 𝑥2𝑦 ≤ 𝑥𝑦2 − 𝑦3 kolejno do postaci
+𝑥3 − 𝑥2𝑦 − 𝑥𝑦2 + 𝑦3 ≤ 0
+(𝑥 − 𝑦)(𝑥2 − 𝑦2) ≤ 0
+(𝑥 + 𝑦)(𝑥 − 𝑦)2 ≤ 0
+Ponieważ 𝑥 + 𝑦 = 4, więc otrzymujemy
+4(𝑥 − 𝑦)2 ≤ 0
+Ponieważ kwadrat każdej liczby rzeczywistej jest liczbą nieujemną, więc musi zachodzić
+(𝑥 − 𝑦)2 = 0
+Stąd 𝑥 − 𝑦 = 0, czyli 𝑥 = 𝑦. Zatem 2𝑥 = 4, czyli 𝑥 = 2. Ponieważ 𝑦 = 4 − 𝑥, więc
+𝑦 = 2.
+To należało wykazać.

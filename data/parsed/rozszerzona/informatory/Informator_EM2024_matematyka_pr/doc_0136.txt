@@ -1,0 +1,18 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=136; level=rozszerzony; year=2024; section=|𝐵𝑆| = 𝐻2 − 𝐻1]
+136 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Zadanie 30. (0–3)
+Pewna choroba atakuje 0,2% całej populacji. W początkowym stadium nie daje widocznych
+objawów chorobowych. W ramach profilaktyki, aby wcześniej wykryć chorobę, stosuje się
+pewien test przesiewowy. Test ten może dać wynik pozytywny, oznaczający podejrzenie
+choroby, lub negatywny, gdy brak podejrzenia choroby.
+Test ten daje czasami fałszywy wynik. Prawdopodobieństwo tego, że test wykonany na
+osobie chorej da wynik pozytywny, jest równe 0,99. Prawdopodobieństwo tego, że test
+wykonany na osobie zdrowej da wynik negatywny, jest równe 0,98.
+Pan X poddał się testowi, który dał wynik pozytywny.
+Oblicz prawdopodobieństwo tego, że pan X jest naprawdę chory. Wynik zapisz
+w postaci ułamka dziesiętnego w zaokrągleniu do części setnych. Zapisz obliczenia.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik.
+2 pkt – zastosowanie wzoru Bayesa.
+1 pkt – obliczenie prawdopodobieństw warunkowych 𝑃(−|𝐶) oraz 𝑃(+|𝑍).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.

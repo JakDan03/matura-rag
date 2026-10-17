@@ -1,0 +1,42 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=29; level=podstawowy; year=2024; section=ALBO]
+Przykładowe zadania z rozwiązaniami 29
+Wymaganie ogólne
+I. Sprawność rachunkowa.
+Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora,
+stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych
+oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach
+rzeczywistych i teoretycznych.
+Wymaganie szczegółowe
+II. Wyrażenia algebraiczne. Zdający:
+1) stosuje wzory skróconego mnożenia na: (𝑎 + 𝑏)2, (𝑎 − 𝑏)2, 𝑎2 − 𝑏2.
+Zasady oceniania
+2 pkt – wybranie dwóch poprawnych odpowiedzi: B i D.
+1 pkt – wybranie jednej lub dwóch odpowiedzi, z których jedna jest poprawna: B albo D.
+0 pkt – odpowiedź całkowicie niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+BD
+Komentarz
+Przekształcimy równoważnie wyrażenie określające liczbę 𝑥 – w tym celu zastosujemy m.in.
+wzór skróconego mnożenia:
+𝑥 = 𝑎 − (√3 − √2)
+2
+= 𝑎 − (√3
+2
+− 2 ∙ √3 ∙ √2 + √2
+2
+) = 𝑎 − (3 − 2√6 + 2) =
+= 𝑎 − (5 − 2√6) = 𝑎 − 5 + 2√6
+Liczba 𝑥 będzie wymierna, jeśli liczba 𝑎 będzie postaci: 𝑎 = 𝑞 − 2√6, gdzie 𝑞 będzie
+dowolną liczbą wymierną:
+𝑥 = 𝑞 − 2√6 − 5 + 2√6 = 𝑞 − 5
+Sprawdzimy, które z liczb 𝑎 podanych w odpowiedziach A–F mają postać 𝑎 = 𝑞 − 2√6
+(gdzie 𝑞 jest wymierne):
+A. 𝑎 = 5
+B. 𝑎 = (√2 − √3)
+2
++ 0,3 = 5 − 2√6 + 0,3 = 5,3 − 2√6
+C. 𝑎 = 6
+D. 𝑎 = −2√6 + 12,5
+E. 𝑎 = 5 − 2√6 − 2√6 = 5 − 4√6
+F. 𝑎 = −√6
+Liczby podane w odpowiedziach B i D mają żądaną postać.

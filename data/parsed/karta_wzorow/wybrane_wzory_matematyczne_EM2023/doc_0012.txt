@@ -1,0 +1,40 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=12; year=2023; section=9. TRYGONOMETRIA]
+Strona 12 z 34
+• Wykresy funkcji trygonometrycznych
+• Związki między funkcjami trygonometrycznymi tego samego kąta
+sin2 𝛼 + cos2 𝛼 = 1
+tg 𝛼 = sin 𝛼
+cos 𝛼 dla 𝛼 ≠ 1
+2 𝜋 + 𝑘𝜋, 𝑘 ∈ ℤ
+𝑦
+1
+−1
+−𝜋 −
+1
+2 𝜋 0
+1
+2 𝜋 𝜋
+3
+2 𝜋 2𝜋 𝑥
+𝑦 = sin 𝑥
+𝑦
+1
+−1
+−𝜋 −
+1
+2 𝜋 0
+1
+2 𝜋 𝜋
+3
+2 𝜋 2𝜋 𝑥
+𝑦 = cos 𝑥
+𝑦
+𝑦 = tg 𝑥
+1
+−𝜋 −
+1
+2 𝜋 0
+1
+2 𝜋 𝜋
+3
+2 𝜋 2𝜋 𝑥

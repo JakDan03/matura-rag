@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=18, 19, 20; level=rozszerzony; year=2023; month=czerwiec; task_id=10]
+Zadanie 10. (0–5)
+Wyznacz wszystkie wartości parametru 𝒎, dla których równanie
+𝒎𝒙^𝟐 − (𝒎 + 𝟏)𝒙 − 𝟐𝒎 + 𝟑 = 𝟎
+ma dokładnie dwa różne rozwiązania rzeczywiste 𝒙_𝟏 oraz 𝒙_𝟐 , spełniające warunki:
+𝒙_𝟏 ≠ 𝟎, 𝒙_𝟐 ≠ 𝟎 oraz
+𝟏/𝒙_𝟏^𝟐 + 𝟏/𝒙_𝟐^𝟐 < 𝟏
+Zapisz obliczenia.

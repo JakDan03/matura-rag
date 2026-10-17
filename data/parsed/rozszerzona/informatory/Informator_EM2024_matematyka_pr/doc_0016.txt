@@ -1,0 +1,23 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=16; level=rozszerzony; year=2024; section=ALBO]
+16 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+|4 + 2𝑚 + 𝑚2
+2 + 𝑚 + −4𝑚
+𝑚 + 2| < 2
+|𝑚2 − 2𝑚 + 4
+𝑚 + 2 | < 2
+Ponieważ wyróżnik trójmianu kwadratowego 𝑚2 − 2𝑚 + 4 jest dodatni i współczynnik przy
+𝑚2 jest dodatni, wiec 𝑚2 − 2𝑚 + 4 > 0 dla każdego 𝑚 ∈ ℝ. Uwzględniając to,
+otrzymujemy dalej
+𝑚2 − 2𝑚 + 4
+|𝑚 + 2| < 2
+|2𝑚 + 4| > 𝑚2 − 2𝑚 + 4 i 𝑚 ∈ ℝ\{−2; 2}
+( 2𝑚 + 4 > 𝑚2 − 2𝑚 + 4 lub 2𝑚 + 4 < −𝑚2 + 2𝑚 − 4 ) i 𝑚 ∈ ℝ\{−2; 2}
+( 𝑚(𝑚 − 4) < 0 lub 𝑚2 + 8 < 0 ) i 𝑚 ∈ ℝ\{−2; 2}
+Nierówność 𝑚(𝑚 − 4) < 0 spełniona jest dla 𝑚 ∈ (0, 4).
+Nierówność 𝑚2 + 8 < 0 jest sprzeczna.
+Zatem warunki zadania są spełnione tylko wtedy, gdy 𝑚 ∈ (0, 4) i 𝑚 ∈ ℝ\{−2; 2}, czyli
+gdy 𝑚 ∈ (0, 2) ∪ (2, 4).
+Zadanie 2. (0–3)
+Dane są liczby 𝑎 = (log√5 2) ⋅ log2 25 i 𝑏 = log5 6
+log5 8 .
+Oblicz 𝒂𝒃+𝟏.

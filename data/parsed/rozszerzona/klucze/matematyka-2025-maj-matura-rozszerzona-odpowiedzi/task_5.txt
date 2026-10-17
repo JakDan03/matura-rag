@@ -1,0 +1,146 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=13, 14, 15, 16; level=rozszerzony; year=2025; month=maj; task_id=5]
+Zadanie 5. (0–4)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+III.R4) rozwiązuje równania i nierówności
+z wartością bezwzględną.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑥 ∈ (−∞, −10) ∪ (− 2
+3 , +∞).
+3 pkt – zapisanie trzech przedziałów: (−∞, −3) i [−3, 2) i [2, +∞) (z dokładnością do
+domknięcia) oraz zapisanie nierówności bez użycia symbolu wartości bezwzględnej
+w każdym z tych przedziałów oraz rozwiązanie nierówności w dwóch spośród tych
+przedziałów - tj. wyznaczenie części wspólnych zbiorów rozwiązań zapisanych
+nierówności z rozpatrywanymi przedziałami,
+ALBO
+– zapisanie czterech przypadków: 𝑥 + 3 < 0 i 𝑥 − 2 < 0, 𝑥 + 3 < 0 i 𝑥 − 2 ≥ 0,
+𝑥 + 3 ≥ 0 i 𝑥 − 2 < 0, 𝑥 + 3 ≥ 0 i 𝑥 − 2 ≥ 0 (z dokładnością do domknięcia)
+oraz zapisanie nierówności bez użycia symbolu wartości bezwzględnej w każdym
+z tych przypadków oraz rozwiązanie nierówności w dwóch spośród trzech
+następujących przypadków: 𝑥 + 3 < 0 i 𝑥 − 2 < 0, 𝑥 + 3 ≥ 0 i 𝑥 − 2 < 0,
+𝑥 + 3 ≥ 0 i 𝑥 − 2 ≥ 0 - tj. wyznaczenie części wspólnych zbiorów rozwiązań
+zapisanych nierówności,
+ALBO
+– zapisanie, że przypadek 𝑥 + 3 < 0 i 𝑥 − 2 ≥ 0 jest sprzeczny oraz zapisanie
+trzech przypadków: 𝑥 + 3 < 0 i 𝑥 − 2 < 0, 𝑥 + 3 ≥ 0 i 𝑥 − 2 < 0,
+𝑥 + 3 ≥ 0 i 𝑥 − 2 ≥ 0 (z dokładnością do domknięcia) oraz zapisanie nierówności
+bez użycia symbolu wartości bezwzględnej w każdym z tych przypadków oraz
+rozwiązanie nierówności w dwóch spośród tych trzech przypadków - tj. wyznaczenie
+części wspólnych zbiorów rozwiązań zapisanych nierówności,
+ALBO
+– zapisanie nierówności w postaci równoważnej koniunkcji dwóch nierówności:
+𝑥 − 2 < −2 + 2 ⋅ |𝑥 + 3| i 𝑥 − 2 > −(−2 + 2 ⋅ |𝑥 + 3|), a następnie w postaci
+równoważnej koniunkcji alternatyw nierówności bez użycia symbolu wartości
+bezwzględnej:
+(𝑥 + 3 > 1
+2 𝑥 lub 𝑥 + 3 < − 1
+2 𝑥) i (𝑥 + 3 > 4−𝑥
+2 lub 𝑥 + 3 < − 4−𝑥
+2 ),
+ALBO
+– odczytanie z wykresów funkcji 𝑓 oraz 𝑔 pierwszych współrzędnych punktów ich
+przecięcia: 𝑥 = − 2
+3 oraz 𝑥 = −10 i sprawdzenie rachunkiem poprawności
+odczytanych współrzędnych.
+2 pkt – zapisanie trzech przedziałów: (−∞, −3) i [−3, 2) i [2, +∞) (z dokładnością do
+domknięcia) oraz zapisanie nierówności bez użycia symbolu wartości bezwzględnej
+w każdym z tych przedziałów
+ALBO
+– zapisanie czterech przypadków: 𝑥 + 3 < 0 i 𝑥 − 2 < 0, 𝑥 + 3 < 0 i 𝑥 − 2 ≥ 0,
+𝑥 + 3 ≥ 0 i 𝑥 − 2 < 0, 𝑥 + 3 ≥ 0 i 𝑥 − 2 ≥ 0 (z dokładnością do domknięcia)
+oraz zapisanie nierówności bez użycia symbolu wartości bezwzględnej w każdym
+z tych przypadków,
+ALBO
+– zapisanie trzech przypadków: 𝑥 + 3 < 0 i 𝑥 − 2 < 0, 𝑥 + 3 ≥ 0 i 𝑥 − 2 < 0,
+𝑥 + 3 ≥ 0 i 𝑥 − 2 ≥ 0 (z dokładnością do domknięcia) oraz zapisanie nierówności
+bez użycia symbolu wartości bezwzględnej w każdym z tych przypadków oraz
+zapisanie, że przypadek 𝑥 + 3 < 0 i 𝑥 − 2 ≥ 0 jest sprzeczny,
+ALBO
+– zapisanie nierówności w postaci równoważnej koniunkcji dwóch nierówności:
+𝑥 − 2 < −2 + 2 ⋅ |𝑥 + 3| i 𝑥 − 2 > −(−2 + 2 ⋅ |𝑥 + 3|),
+ALBO
+– narysowanie wykresów funkcji 𝑓(𝑥) = |𝑥 − 2| oraz 𝑔(𝑥) = 2 ⋅ |𝑥 + 3| − 2.
+1 pkt – zapisanie trzech przedziałów: (−∞, −3) i [−3, 2) i [2, +∞) (z dokładnością do
+domknięcia) oraz zapisanie danej nierówności w jednym z tych przedziałów bez
+użycia symbolu wartości bezwzględnej
+ALBO
+– zapisanie jednego z przedziałów: (−∞, −3), [−3, 2), [2, +∞) (z dokładnością do
+domknięcia) oraz rozwiązanie danej nierówności w tym przedziale - tj. wyznaczenie
+części wspólnej zbioru rozwiązań zapisanej nierówności z rozpatrywanym
+przedziałem,
+ALBO
+Zasady oceniania rozwiązań zadań
+– zapisanie czterech przypadków: 𝑥 + 3 < 0 i 𝑥 − 2 < 0, 𝑥 + 3 < 0 i 𝑥 − 2 ≥ 0,
+𝑥 + 3 ≥ 0 i 𝑥 − 2 < 0, 𝑥 + 3 ≥ 0 i 𝑥 − 2 ≥ 0 (z dokładnością do domknięcia)
+oraz zapisanie danej nierówności w jednym z tych przypadków bez użycia wartości
+bezwzględnej,
+ALBO
+– zapisanie jednego z trzech przypadków: 𝑥 + 3 < 0 i 𝑥 − 2 < 0,
+𝑥 + 3 ≥ 0 i 𝑥 − 2 < 0, 𝑥 + 3 ≥ 0 i 𝑥 − 2 ≥ 0 (z dokładnością do domknięcia)
+oraz rozwiązanie danej nierówności w tym przypadku - tj. wyznaczenie części
+wspólnej zbiorów rozwiązań zapisanych nierówności.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający, zapisując nierówność bez użycia wartości bezwzględnej, popełni błąd,
+który nie jest rachunkowy, tylko w jednym z rozpatrywanych przypadków/przedziałów
+i rozwiąże zadanie do końca, to może uzyskać co najwyżej 2 punkty za całe rozwiązanie,
+o ile nie nabył prawa do innej punktacji zgodnej z zasadami oceniania.
+2. Jeżeli zdający nie rozpatruje przedziałów, które wyczerpują zbiór wszystkich liczb
+rzeczywistych i w których nierówność ma różne postaci (lub rozpatruje przypadki
+wyznaczone jedynie przez nierówności ostre, które nie wyczerpują zbioru ℝ), to może
+otrzymać co najwyżej 3 punkty za całe rozwiązanie.
+3. Jeżeli zdający przy rozwiązaniu graficznym poda zbiór rozwiązań
+(−∞, −10) ∪ (− 2
+3 , +∞), ale nie sprawdzi rachunkiem pierwszych współrzędnych
+punktów przecięcia wykresów funkcji 𝑓 i 𝑔, to może otrzymać co najwyżej 3 punkty za
+całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Wyznaczamy przedziały, które wyczerpują zbiór wszystkich liczb rzeczywistych i w których
+nierówność ma różne postaci: (−∞, −3) i [−3, 2) i [2, +∞).
+Rozważamy trzy przypadki.
+Przypadek 1. (gdy 𝑥 ∈ (−∞, −3))
+W tym przypadku nierówność ma postać −𝑥 + 2 + 2(𝑥 + 3) < −2, czyli 𝑥 < −10.
+Stąd otrzymujemy 𝑥 ∈ (−∞, −10).
+Przypadek 2. (gdy 𝑥 ∈ [−3, 2))
+W tym przypadku nierówność ma postać −𝑥 + 2 − 2(𝑥 + 3) < −2, czyli 𝑥 > − 2
+3 .
+Stąd otrzymujemy 𝑥 ∈ (− 2
+3 , 2).
+Przypadek 3. (gdy 𝑥 ∈ [2, +∞))
+W tym przypadku nierówność ma postać 𝑥 − 2 − 2(𝑥 + 3) < −2, czyli 𝑥 > −6.
+Stąd otrzymujemy 𝑥 ∈ [2, +∞).
+Ostatecznie rozwiązaniami nierówności |𝑥 − 2| − 2 ⋅ |𝑥 + 3| < −2 są wszystkie liczby ze
+zbioru (−∞, −10) ∪ (− 2
+3 , +∞).
+Sposób II (poprzez koniunkcję nierówności)
+Dla każdej liczby rzeczywistej 𝑥 i dla każdej liczby rzeczywistej 𝑎 prawdziwe są
+równoważności:
+(1) |𝑥| < 𝑎 wtedy i tylko wtedy, gdy 𝑥 < 𝑎 i 𝑥 > −𝑎
+oraz
+(2) |𝑥| > 𝑎 wtedy i tylko wtedy, gdy 𝑥 > 𝑎 lub 𝑥 < −𝑎.
+Przekształcamy nierówność |𝑥 − 2| − 2 ⋅ |𝑥 + 3| < −2 , korzystając z równoważności (1):
+𝑥 − 2 < −2 + 2 ⋅ |𝑥 + 3| i 𝑥 − 2 > −(−2 + 2 ⋅ |𝑥 + 3|)
+|𝑥 + 3| > 1
+2 𝑥 i |𝑥 + 3| > 4 − 𝑥
+2
+Rozwiązujemy każdą z otrzymanych nierówności, korzystając z równoważności (2):
+(𝑥 + 3 > 1
+2 𝑥 lub 𝑥 + 3 < − 1
+2 𝑥) i (𝑥 + 3 > 4 − 𝑥
+2 lub 𝑥 + 3 < − 4 − 𝑥
+2 )
+(𝑥 > −6 lub 𝑥 < −2) i (𝑥 > − 2
+3 lub 𝑥 < −10)
+𝑥 ∈ ℝ i (𝑥 > − 2
+3 lub 𝑥 < −10)
+𝑥 > − 2
+3 lub 𝑥 < −10
+Rozwiązaniami nierówności |𝑥 − 2| − 2 ⋅ |𝑥 + 3| < −2 są wszystkie liczby ze zbioru
+(−∞, −10) ∪ (− 2
+3 , +∞).

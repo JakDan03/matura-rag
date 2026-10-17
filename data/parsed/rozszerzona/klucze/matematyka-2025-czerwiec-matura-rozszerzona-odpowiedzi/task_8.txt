@@ -1,0 +1,122 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=24, 25, 26, 27; level=rozszerzony; year=2025; month=czerwiec; task_id=8]
+Zadanie 8. (0–4)
+Wymaganie ogólne Wymaganie szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście […]
+matematycznym […].
+Zdający:
+XIII.R3) […] podaje interpretację
+geometryczną i fizyczną pochodnej.
+Zasady oceniania (dla sposobów I oraz II)
+4 pkt – zastosowanie poprawnej metody i poprawny wynik niezależny od 𝑎, 𝑏, 𝑐:
+𝑓(𝑥) = 𝑥3 + 3𝑥2 + 3𝑥 + 2 (lub 𝑓(𝑥) = (𝑥 + 2)(𝑥2 + 𝑥 + 1)).
+3 pkt – zapisanie równania z jedną niewiadomą 𝑎, które wynika z warunków 𝑓(−2) = 0
+i 𝑓(1) = 9 oraz 𝑓′(−2) = 3, np. 9 = 1 + 𝑎 + (4𝑎 − 9) + (4𝑎 − 10) (dla
+sposobu I)
+ALBO
+– zapisanie układu dwóch niezależnych równań z dwiema niewiadomymi 𝑑 oraz 𝑒,
+np. 3 = (−2)2 + 𝑑 ⋅ (−2) + 𝑒 + 0 i 9 = (1 + 2)(12 + 𝑑 + 𝑒) (dla sposobu II),
+– zapisanie układu dwóch niezależnych równań z dwiema (spośród 𝑎, 𝑏 oraz 𝑐)
+niewiadomymi, które wynikają z warunków 𝑓(−2) = 0 i 𝑓(1) = 9 oraz z warunku
+𝑓′(−2) = 3, np.
+0 = (−2)3 + 𝑎 ⋅ (−2)2 + 𝑏 ⋅ (−2) + 9 − 13 − 𝑎 ⋅ 12 − 𝑏 ⋅ 1 oraz
+3 = 3 ⋅ (−2)2 + 2𝑎 ⋅ (−2) + 𝑏.
+2 pkt – wyznaczenie (z warunków 𝑓′(−2) = 3 i 𝑓(−2) = 0) 𝑏 oraz 𝑐 w zależności
+od 𝑎: 𝑏 = 4𝑎 − 9 i 𝑐 = 4𝑎 − 10 (dla sposobu I)
+ALBO
+– wyznaczenie (z warunków 𝑓′(−2) = 3 i 𝑓(1) = 9) 𝑏 oraz 𝑐 w zależności od 𝑎:
+𝑏 = 4𝑎 − 9 i 𝑐 = 17 − 5𝑎 (dla sposobu I),
+ALBO
+– zapisanie warunku 𝑓(1) = 9 w postaci równania z dwiema niewiadomymi 𝑑
+oraz 𝑒, np. 9 = (1 + 2)(12 + 𝑑 + 𝑒) (dla sposobu II),
+ALBO
+– zapisanie warunku 𝑓′(−2) = 3 w postaci równania z dwiema niewiadomymi 𝑑
+oraz 𝑒, np. 3 = (−2)2 + 𝑑 ⋅ (−2) + 𝑒 + 0 (dla sposobu II),
+ALBO
+– zapisanie układu trzech niezależnych równań z trzema niewiadomymi 𝑎, 𝑏 oraz 𝑐,
+które wynikają z warunków 𝑓(−2) = 0 i 𝑓(1) = 9 oraz 𝑓′(−2) = 3, np.
+0 = (−2)3 + 𝑎 ⋅ (−2)2 + 𝑏 ⋅ (−2) + 𝑐 oraz 9 = 13 + 𝑎 ⋅ 12 + 𝑏 ⋅ 1 + 𝑐 oraz
+3 = 3 ⋅ (−2)2 + 2𝑎 ⋅ (−2) + 𝑏,
+ALBO
+– obliczenie współczynnika kierunkowego stycznej: 3 oraz wyznaczenie (z warunków
+𝑓(−2) = 0 i 𝑓(1) = 9) 𝑏 w zależności od 𝑎: 𝑏 = 𝑎.
+1 pkt – obliczenie współczynnika kierunkowego stycznej: 3 (dla sposobów I oraz II),
+ALBO
+– zapisanie wzoru funkcji 𝑓 w postaci 𝑓(𝑥) = (𝑥 + 2)(𝑥2 + 𝑑𝑥 + 𝑒) (dla sposobu II),
+ALBO
+Zasady oceniania rozwiązań zadań
+– zapisanie układu dwóch niezależnych równań z trzema niewiadomymi 𝑎, 𝑏 oraz 𝑐,
+które wynikają z warunków 𝑓(−2) = 0 i 𝑓(1) = 9, np.
+0 = (−2)3 + 𝑎 ⋅ (−2)2 + 𝑏 ⋅ (−2) + 𝑐 oraz 9 = 13 + 𝑎 ⋅ 12 + 𝑏 ⋅ 1 + 𝑐.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania (dla sposobu III)
+4 pkt – zastosowanie poprawnej metody i poprawny wynik niezależny od 𝑎, 𝑏, 𝑐:
+𝑓(𝑥) = 𝑥3 + 3𝑥2 + 3𝑥 + 2 (lub 𝑓(𝑥) = (𝑥 + 2)(𝑥2 + 𝑥 + 1)).
+3 pkt – wyznaczenie równania stycznej, np. 𝑔(𝑥) = 3(𝑥 + 2), oraz zapisanie związków
+ℎ(−2) = 0 i ℎ′(−2) = 0, oraz przedstawienie wielomianu ℎ w postaci
+ℎ(𝑥) = (𝑥 + 𝑘)(𝑥 + 2)2
+ALBO
+– wyznaczenie wzoru wielomianu ℎ, np. ℎ(𝑥) = (𝑥 − 1)(𝑥 + 2)2.
+2 pkt – obliczenie współczynnika kierunkowego stycznej: 3 oraz zapisanie związków
+ℎ(−2) = 0 i ℎ′(−2) = 0
+ALBO
+– zapisanie związków ℎ(−2) = 0 i ℎ′(−2) = 0 oraz przedstawienie wielomianu ℎ
+w postaci ℎ(𝑥) = (𝑥 + 𝑘)(𝑥 + 2)2.
+1 pkt – obliczenie współczynnika kierunkowego stycznej: 3
+ALBO
+– zapisanie związków ℎ(−2) = 0 oraz ℎ′(−2) = 0.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Wzór wielomianu 𝑓 ma postać 𝑓(𝑥) = 𝑥3 + 𝑎𝑥2 + 𝑏𝑥 + 𝑐 przy pewnych 𝑎, 𝑏, 𝑐 ∈ ℝ.
+Styczna jest prostą, na której leżą punkty 𝐴 = (−2, 0) i 𝑃 = (1, 9).
+Obliczamy współczynnik kierunkowy 𝜇 tej prostej: 𝜇 = 9 − 0
+1 − (−2) = 3.
+Korzystając z geometrycznej interpretacji pochodnej, mamy 𝑓′(−2) = 3.
+Obliczając pochodną wielomianu 𝑓, otrzymujemy 𝑓′(𝑥) = 3𝑥2 + 2𝑎𝑥 + 𝑏.
+Zatem 3 = 3 ⋅ (−2)2 + 2𝑎 ⋅ (−2) + 𝑏. Stąd 𝑏 = 4𝑎 − 9.
+Ponieważ 𝑓(−2) = 0, więc (−2)3 + 𝑎 ⋅ (−2)2 + 𝑏 ⋅ (−2) + 𝑐 = 0, czyli
+−8 + 4𝑎 + (4𝑎 − 9) ⋅ (−2) + 𝑐 = 0
+𝑐 = 4𝑎 − 10
+Ponieważ 𝑓(1) = 9, więc 9 = 13 + 𝑎 ⋅ 12 + 𝑏 ⋅ 1 + 𝑐, czyli
+9 = 1 + 𝑎 + (4𝑎 − 9) + (4𝑎 − 10)
+𝑎 = 3
+Zatem 𝑏 = 4 ⋅ 3 − 9 = 3 oraz 𝑐 = 4 ⋅ 3 − 10 = 2.
+Wielomian 𝑓 jest określony wzorem 𝑓(𝑥) = 𝑥3 + 3𝑥2 + 3𝑥 + 2.
+Sposób II
+Zapisujemy wzór wielomianu 𝑓 w postaci 𝑓(𝑥) = (𝑥 + 2)(𝑥2 + 𝑑𝑥 + 𝑒), gdzie 𝑑, 𝑒 ∈ ℝ.
+Styczna jest prostą, na której leżą punkty 𝐴 = (−2, 0) i 𝑃 = (1, 9).
+Obliczamy współczynnik kierunkowy 𝜇 tej prostej: 𝜇 = 9 − 0
+1 − (−2) = 3.
+Korzystając z geometrycznej interpretacji pochodnej, mamy 𝑓′(−2) = 3.
+Obliczając pochodną wielomianu 𝑓, otrzymujemy
+𝑓′(𝑥) = 1 ⋅ (𝑥2 + 𝑑𝑥 + 𝑒) + (𝑥 + 2) ⋅ (2𝑥 + 𝑑)
+Zatem 3 = (−2)2 + 𝑑 ⋅ (−2) + 𝑒 + 0. Stąd 𝑒 = 2𝑑 − 1.
+Ponieważ 𝑓(1) = 9, więc 9 = (1 + 2)(12 + 𝑑 + 𝑒), czyli
+9 = 3 ⋅ (1 + 𝑑 + 2𝑑 − 1)
+𝑑 = 1
+Zatem 𝑒 = 2 ⋅ 1 − 1 = 1.
+Wielomian 𝑓 jest określony wzorem 𝑓(𝑥) = (𝑥 + 2)(𝑥2 + 𝑥 + 1).
+Sposób III
+Niech 𝑦 = 𝑔(𝑥) będzie równaniem stycznej do wykresu funkcji 𝑓 w punkcie 𝐴. Niech ℎ
+będzie wielomianem trzeciego stopnia określonym następująco: ℎ(𝑥) = 𝑓(𝑥) − 𝑔(𝑥) dla
+każdego 𝑥 ∈ ℝ.
+Punkt 𝐴 leży na wykresach funkcji 𝑓 oraz 𝑔, więc 𝑓(−2) = 𝑔(−2), czyli ℎ(−2) = 0.
+Korzystając z geometrycznej interpretacji pochodnej, mamy 𝑓′(−2) = 𝑔′(−2), więc
+ℎ′(−2) = 𝑓′(−2) − 𝑔′(−2) = 0. Zatem liczba (−2) jest pierwiastkiem podwójnym
+wielomianu ℎ, czyli ℎ(𝑥) = (𝑥 + 𝑘)(𝑥 + 2)2 przy pewnym 𝑘 ∈ ℝ.
+Punkt 𝑃 leży na wykresach funkcji 𝑓 oraz 𝑔, więc 𝑓(1) = 9 i 𝑔(1) = 9. Stąd
+ℎ(1) = 𝑓(1) − 𝑔(1) = 0. Zatem
+ℎ(1) = (1 + 𝑘)(1 + 2)2
+0 = (1 + 𝑘) ⋅ 9
+𝑘 = −1
+czyli ℎ(𝑥) = (𝑥 − 1)(𝑥 + 2)2.
+Styczna jest prostą, na której leżą punkty 𝐴 = (−2, 0) i 𝑃 = (1, 9).
+Obliczamy współczynnik kierunkowy 𝜇 tej prostej: 𝜇 = 9 − 0
+1 − (−2) = 3. Zatem
+𝑔(𝑥) = 3(𝑥 + 2).
+Wyznaczamy wzór funkcji 𝑓:
+𝑓(𝑥) = ℎ(𝑥) + 𝑔(𝑥) = (𝑥 − 1)(𝑥 + 2)2 + 3(𝑥 + 2) = (𝑥 + 2)(𝑥2 + 2𝑥 − 𝑥 − 2 + 3) =
+= (𝑥 + 2)(𝑥2 + 𝑥 + 1)
+Zasady oceniania rozwiązań zadań

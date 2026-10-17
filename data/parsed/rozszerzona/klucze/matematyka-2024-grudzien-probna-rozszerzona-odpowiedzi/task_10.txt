@@ -1,0 +1,73 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=20, 21, 22; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=10]
+Zadanie 10. (0–5)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+VI.7) wykorzystuje własności ciągów, w tym
+arytmetycznych i geometrycznych, do
+rozwiązywania zadań […].
+Zasady oceniania
+5 pkt – odrzucenie ciągu odpowiadającego 𝑟 = 11
+3 i obliczenie wyrazów ciągu
+geometrycznego: (32, 4, 1
+2).
+4 pkt – rozwiązanie równania z jedną niewiadomą 𝑟: 𝑟 = −3 oraz 𝑟 = 11
+3
+ALBO
+– rozwiązanie równania z jedną niewiadomą 𝑎1: 𝑎1 = 14 oraz 𝑎1 = −6.
+3 pkt – zapisane równania z jedną niewiadomą (𝑎1 lub 𝑟), np.
+42 = − 1
+8 (5 + 3𝑟) ⋅ (10 − 6𝑟 + 4), 42 = − 1
+8 (10 − 𝑎1) ⋅ (4 + 2𝑎1).
+2 pkt – zapisanie układu dwóch równań z dwiema niewiadomymi 𝑎1 i 𝑟, np.
+𝑎1 + 2𝑟 + 𝑎1 + 4𝑟 = 10 i (𝑎1 + 3𝑟 − 1)2 = − 1
+8 (𝑎1 + 6𝑟)(2𝑎1 + 4)
+ALBO
+– zapisanie związku 42 = − 1
+8 𝑎7 ⋅ (2𝑎1 + 4).
+1 pkt – zastosowanie własności ciągu geometrycznego i zapisanie związku
+(𝑎4 − 1)2 = − 1
+8 𝑎7 ⋅ (2𝑎1 + 4)
+ALBO
+– zastosowanie wzoru na 𝑛-ty wyraz ciągu arytmetycznego i zapisanie równania
+z dwiema niewiadomymi 𝑎1 i 𝑟, np. 𝑎1 + 2𝑟 + 𝑎1 + 4𝑟 = 10,
+ALBO
+– obliczenie 𝑎4 : 𝑎4 = 5.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli zdający obliczy wyrazy ciągów geometrycznych odpowiadające wartościom 𝑟 = −3
+oraz 𝑟 = 11
+3 i w odpowiedzi końcowej nie odrzuci ciągu (−8, 4, −2), to otrzymuje 4 punkty
+za całe rozwiązanie.
+Przykładowe pełne rozwiązanie
+Niech 𝑟 oznacza różnicę ciągu (𝑎𝑛). Z warunków zadania oraz ze wzoru na 𝑛-ty wyraz
+ciągu arytmetycznego otrzymujemy
+𝑎3 + 𝑎5 = 10
+Zasady oceniania rozwiązań zadań
+𝑎1 + 2𝑟 + 𝑎1 + 4𝑟 = 10
+𝑎1 = 5 − 3𝑟
+Z warunków zadania i z własności ciągu geometrycznego otrzymujemy
+(𝑎4 − 1)2 = − 1
+8 𝑎7 ⋅ (2𝑎1 + 4)
+(𝑎1 + 3𝑟 − 1)2 = − 1
+8 (𝑎1 + 6𝑟)(2𝑎1 + 4)
+Stąd i ze związku 𝑎1 = 5 − 3𝑟 dostajemy kolejno
+(5 − 3𝑟 + 3𝑟 − 1)2 = − 1
+8 (5 − 3𝑟 + 6𝑟)(10 − 6𝑟 + 4)
+16 = − 1
+8 (3𝑟 + 5)(14 − 6𝑟)
+18𝑟2 − 12𝑟 − 198 = 0
+𝑟 = −3 ∨ 𝑟 = 11
+3
+Dla 𝑟 = 11
+3 ciąg (𝑎𝑛) jest rosnący, więc warunki zadania nie są spełnione.
+Dla 𝑟 = −3 ciąg (𝑎𝑛) jest malejący, 𝑎1 = 14 oraz 𝑎3 + 𝑎5 = 8 + 2 = 10. Wtedy
+również (2𝑎1 + 4, 𝑎4 − 1, − 1
+8 𝑎7) = (32, 4, 1
+2). Ciąg (32, 4, 1
+2) jest geometryczny, więc
+jest jedynym rozwiązaniem zadania.

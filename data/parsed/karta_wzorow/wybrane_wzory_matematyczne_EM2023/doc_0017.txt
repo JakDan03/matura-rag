@@ -1,0 +1,47 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=17; year=2023; section=𝑃Δ𝐴𝐵𝐶 = 1]
+Strona 17 z 34
+• Cechy przystawania trójkątów
+a) cecha przystawania „bok–bok–bok” dla trójkątów 𝐴𝐵𝐶 i 𝐾𝐿𝑀:
+długości boków trójkąta 𝐴𝐵𝐶 są równe odpowiednim długościom boków trójkąta
+𝐾𝐿𝑀, np.: |𝐴𝐵| = |𝐾𝐿|, |𝐵𝐶| = |𝐾𝑀|, |𝐶𝐴| = |𝑀𝐿|
+b) cecha przystawania „bok–kąt–bok” dla trójkątów 𝐴𝐵𝐶 i 𝐾𝐿𝑀:
+długości dwóch boków trójkąta 𝐴𝐵𝐶 są równe odpowiednim długościom dwóch
+boków trójkąta 𝐾𝐿𝑀 i kąty między tymi parami boków są przystające, np.:
+|𝐴𝐵| = |𝐾𝐿|, |𝐵𝐶| = |𝐾𝑀| i |∡𝐴𝐵𝐶| = |∡𝐿𝐾𝑀|
+c) cecha przystawania „kąt–bok–kąt” dla trójkątów 𝐴𝐵𝐶 i 𝐾𝐿𝑀:
+długość jednego boku trójkąta 𝐴𝐵𝐶 jest równa długości jednego boku trójkąta 𝐾𝐿𝑀
+i kąty przyległe do tego boku trójkąta 𝐴𝐵𝐶 są przystające do odpowiednich kątów
+przyległych do odpowiedniego boku trójkąta 𝐾𝐿𝑀, np.:
+|𝐴𝐵| = |𝐾𝐿| oraz |∡𝐵𝐴𝐶| = |∡𝐾𝐿𝑀| i |∡𝐴𝐵𝐶| = |∡𝐿𝐾𝑀|
+• Cechy podobieństwa trójkątów
+a) cecha podobieństwa „bok–bok–bok” dla trójkątów 𝐴𝐵𝐶 i 𝐾𝐿𝑀:
+długości boków trójkąta 𝐴𝐵𝐶 są proporcjonalne do odpowiednich długości boków
+trójkąta 𝐾𝐿𝑀, np.:
+|𝐴𝐵|
+|𝐾𝐿| =
+|𝐵𝐶|
+|𝐿𝑀| =
+|𝐶𝐴|
+|𝑀𝐾|
+b) cecha podobieństwa „bok–kąt–bok” dla trójkątów 𝐴𝐵𝐶 i 𝐾𝐿𝑀:
+długości dwóch boków trójkąta 𝐴𝐵𝐶 są proporcjonalne do odpowiednich długości
+dwóch boków trójkąta 𝐾𝐿𝑀 i kąty między tymi parami boków są przystające, np.:
+|𝐴𝐵|
+|𝐾𝐿| =
+|𝐴𝐶|
+|𝐾𝑀| i |∡𝐵𝐴𝐶| = |∡𝐿𝐾𝑀|
+c) cecha podobieństwa „kąt–kąt–kąt” dla trójkątów 𝐴𝐵𝐶 i 𝐾𝐿𝑀:
+kąty trójkąta 𝐴𝐵𝐶 są przystające do odpowiednich kątów trójkąta 𝐾𝐿𝑀, np.:
+|∡𝐵𝐴𝐶| = |∡𝐿𝐾𝑀| i |∡𝐴𝐵𝐶| = |∡𝐾𝐿𝑀| i |∡𝐴𝐶𝐵| = |∡𝐾𝑀𝐿|
+𝐴
+𝐶
+𝐵
+𝑀
+𝐿
+𝐾
+𝐴
+𝐶
+𝐵
+𝑀
+𝐿
+𝐾

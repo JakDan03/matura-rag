@@ -1,0 +1,26 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=33; year=2023; section=16. POCHODNA FUNKCJI]
+Strona 33 z 34
+• Pochodne wybranych funkcji
+Niech 𝑎, 𝑏, 𝑐, 𝑟 będą dowolnymi liczbami rzeczywistymi.
+funkcja pochodna funkcji
+𝑓(𝑥) = 𝑐 𝑓′(𝑥) = 0
+𝑓(𝑥) = 𝑎𝑥 + 𝑏 𝑓′(𝑥) = 𝑎
+𝑓(𝑥) = 𝑎𝑥2 + 𝑏𝑥 + 𝑐 𝑓′(𝑥) = 2𝑎𝑥 + 𝑏
+𝑓(𝑥) = 𝑥𝑟 𝑓′(𝑥) = 𝑟 ⋅ 𝑥𝑟−1
+𝑓(𝑥) = 𝑎
+𝑥 𝑓′(𝑥) = − 𝑎
+𝑥2
+𝑓(𝑥) = √𝑥 𝑓′(𝑥) = 1
+2√𝑥
+𝑓(𝑥) = sin 𝑥 𝑓′(𝑥) = cos 𝑥
+𝑓(𝑥) = cos 𝑥 𝑓′(𝑥) = − sin 𝑥
+𝑓(𝑥) = tg 𝑥 𝑓′(𝑥) = 1
+(cos 𝑥)2
+𝑓(𝑥) = 𝑒𝑥 𝑓′(𝑥) = 𝑒𝑥
+gdzie 𝑒 jest liczbą Eulera; 𝑒 ≈ 2,72
+• Równanie stycznej
+Jeżeli funkcja 𝑓 ma pochodną w punkcie 𝑥0, to równanie stycznej do wykresu funkcji 𝑓
+w punkcie (𝑥0, 𝑓(𝑥0)) dane jest wzorem:
+𝑦 = 𝑎(𝑥 − 𝑥0) + 𝑓(𝑥0)
+gdzie
+𝑎 = 𝑓′(𝑥0)

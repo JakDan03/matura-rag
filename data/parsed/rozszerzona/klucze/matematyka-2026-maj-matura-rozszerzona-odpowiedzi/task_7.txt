@@ -1,0 +1,192 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=24, 25, 26, 27, 28; level=rozszerzony; year=2026; month=maj; task_id=7]
+Zadanie 7. (0–4)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VII.R6) rozwiązuje równania
+trygonometryczne.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik, np.: 𝜋𝑘
+2 oraz − 𝜋
+12 + 𝜋𝑘
+2 oraz
+𝜋
+12 + 𝜋𝑘
+2 , gdzie 𝑘 ∈ ℤ.
+3 pkt – przekształcenie równania do postaci alternatywy równań trygonometrycznych
+i rozwiązanie jednego z równań tej alternatywy, np.:
+• (sin(2𝑥) = 0 lub cos2(2𝑥) = 3
+4 ) oraz
+𝑥 = 𝜋𝑘
+2 (rozwiązania równania sin(2𝑥) = 0)
+Zasady oceniania rozwiązań zadań
+• (sin(2𝑥) = 0 lub cos(2𝑥) = −
+√3
+2 lub cos(2𝑥) =
+√3
+2 ) oraz
+𝑥 = − 5𝜋
+12 + 𝜋𝑘 oraz 𝑥 = 5𝜋
+12 + 𝜋𝑘 (rozwiązania równania cos(2𝑥) = −
+√3
+2 )
+• (sin(2𝑥) = 0 lub cos(4𝑥) = 1
+2 ) oraz
+𝑥 = − 𝜋
+12 + 𝜋𝑘
+2 oraz 𝑥 = 𝜋
+12 + 𝜋𝑘
+2 (rozwiązania równania cos(4𝑥) = 1
+2)
+• (sin(2𝑥) = 0 lub sin(2𝑥) = − 1
+2 lub sin(2𝑥) = 1
+2 ) oraz
+𝑥 = − 𝜋
+12 + 𝜋𝑘 oraz 𝑥 = − 5𝜋
+12 + 𝜋𝑘 (rozwiązania równania sin(2𝑥) = − 1
+2),
+gdzie 𝑘 ∈ ℤ.
+2 pkt – przekształcenie równania do postaci alternatywy równań trygonometrycznych, np.:
+sin(2𝑥) = 0 lub cos2(2𝑥) = 3
+4 ,
+sin(2𝑥) = 0 lub cos(2𝑥) = −
+√3
+2 lub cos(2𝑥) =
+√3
+2 ,
+sin(2𝑥) = 0 lub 2 cos(4𝑥) − 1 = 0,
+sin(2𝑥) = 0 lub 4 sin2(2𝑥) − 1 = 0.
+1 pkt – zastosowanie wzoru na sinus sumy i przekształcenie równania do postaci
+sin(4𝑥) cos(2𝑥) + cos(4𝑥) sin(2𝑥) − 2 sin(2𝑥) = 0 (dla sposobu I)
+ALBO
+– zastosowanie wzoru na różnicę sinusów i przekształcenie równania do postaci
+2 cos(4𝑥) sin(2𝑥) − sin(2𝑥) = 0 (dla sposobu II),
+ALBO
+– zastosowanie wzoru na sinus potrojonego kąta i przekształcenie równania do postaci
+−4 sin3(2𝑥) + 3 sin(2𝑥) − 2 sin(2𝑥) = 0 (dla sposobu III).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. a) Jeżeli zdający popełni błędy, które nie są rachunkowe, nie zrealizuje wymagań
+z kryterium za 1 punkt, przekształci równanie do postaci sin(2𝑥) ⋅ 𝑓(𝑥) = 0, to może
+otrzymać co najwyżej 1 punkt za całe rozwiązanie (za rozwiązanie równania
+sin(2𝑥) = 0).
+b) Jeżeli zdający zrealizuje wymagania z kryterium za 1 punkt, a następnie popełni błędy,
+które nie są rachunkowe, przekształci równanie do postaci sin(2𝑥) ⋅ 𝑓(𝑥) = 0
+i rozwiąże równanie sin(2𝑥) = 0, to otrzymuje 2 punkty za całe rozwiązanie.
+2. Jeżeli zdający popełni tylko błędy rachunkowe i przekształci równanie do postaci
+sin(2𝑥) ⋅ 𝑓(𝑥) = 0, gdzie funkcja trygonometryczna 𝑓 nie ma miejsc zerowych lub
+równanie trygonometryczne 𝑓(𝑥) = 0 ma jedną serię rozwiązań w zbiorze liczb
+rzeczywistych, oraz rozwiąże równanie sin(2𝑥) = 0, otrzymując 𝑥 = 𝜋𝑘
+2 , to może
+otrzymać co najwyżej 2 punkty za całe rozwiązanie, o ile nie nabył praw do innej
+punktacji.
+3. Jeżeli zdający przyjmie 𝑢 = 2𝑥 i rozwiąże równanie sin(3𝑢) − 2 sin 𝑢 = 0 (lub
+równanie −4 sin3 𝑢 + 3 sin 𝑢 − 2 sin 𝑢 = 0) i na tym zakończy lub dalej popełni błędy, to
+otrzymuje 3 punkty.
+Przykładowe pełne rozwiązania
+Sposób I (poprzez sinus sumy)
+Przekształcamy równanie sin(6𝑥) − 2 sin(2𝑥) = 0 równoważnie, stosując wzór na sinus
+sumy kątów i cosinus podwojonego kąta:
+sin(4𝑥 + 2𝑥) − 2 sin(2𝑥) = 0
+sin(4𝑥) cos(2𝑥) + cos(4𝑥) sin(2𝑥) − 2 sin(2𝑥) = 0
+2 sin(2𝑥) cos2(2𝑥) + [2 cos2(2𝑥) − 1] sin(2𝑥) − 2 sin(2𝑥) = 0
+sin(2𝑥) [4 cos2(2𝑥) − 3] = 0
+sin(2𝑥) = 0 ∨ cos2(2𝑥) = 3
+4
+sin(2𝑥) = 0 ∨ cos(2𝑥) = − √3
+2 ∨ cos(2𝑥) = √3
+2
+Rozwiązujemy równanie sin(2𝑥) = 0:
+2𝑥 = 𝜋𝑘
+𝑥 = 𝜋𝑘
+2
+gdzie 𝑘 ∈ ℤ.
+Rozwiązujemy równanie cos(2𝑥) = −
+√3
+2 :
+2𝑥 = 5𝜋
+6 + 2𝜋𝑘 ∨ 2𝑥 = − 5𝜋
+6 + 2𝜋𝑘
+𝑥 = 5𝜋
+12 + 𝜋𝑘 ∨ 𝑥 = − 5𝜋
+12 + 𝜋𝑘
+gdzie 𝑘 ∈ ℤ.
+Rozwiązujemy równanie cos(2𝑥) =
+√3
+2 :
+2𝑥 = 𝜋
+6 + 2𝜋𝑘 ∨ 2𝑥 = − 𝜋
+6 + 2𝜋𝑘
+𝑥 = 𝜋
+12 + 𝜋𝑘 ∨ 𝑥 = − 𝜋
+12 + 𝜋𝑘
+gdzie 𝑘 ∈ ℤ.
+Rozwiązaniami równania sin(6𝑥) − 2 sin(2𝑥) = 0 są wszystkie liczby postaci:
+𝜋𝑘
+2 , − 5𝜋
+12 + 𝜋𝑘, 5𝜋
+12 + 𝜋𝑘, − 𝜋
+12 + 𝜋𝑘 oraz 𝜋
+12 + 𝜋𝑘, gdzie 𝑘 ∈ ℤ.
+Zasady oceniania rozwiązań zadań
+Sposób II (poprzez różnicę sinusów)
+Przekształcamy równanie sin(6𝑥) − 2 sin(2𝑥) = 0 równoważnie, stosując wzór na różnicę
+sinusów:
+sin(6𝑥) − sin(2𝑥) − sin(2𝑥) = 0
+2 cos (6𝑥 + 2𝑥
+2 ) sin (6𝑥 − 2𝑥
+2 ) − sin(2𝑥) = 0
+2 cos(4𝑥) sin(2𝑥) − sin(2𝑥) = 0
+sin(2𝑥) [2 cos(4𝑥) − 1] = 0
+sin(2𝑥) = 0 ∨ cos(4𝑥) = 1
+2
+2𝑥 = 𝜋𝑘 ∨ 4𝑥 = 𝜋
+3 + 2𝜋𝑘 ∨ 4𝑥 = − 𝜋
+3 + 2𝜋𝑘
+𝑥 = 𝜋𝑘
+2 ∨ 𝑥 = 𝜋
+12 + 𝜋𝑘
+2 ∨ 𝑥 = − 𝜋
+12 + 𝜋𝑘
+2
+gdzie 𝑘 ∈ ℤ.
+Rozwiązaniami równania sin(6𝑥) − 2 sin(2𝑥) = 0 są wszystkie liczby postaci:
+𝜋𝑘
+2 , − 𝜋
+12 + 𝜋𝑘
+2 oraz 𝜋
+12 + 𝜋𝑘
+2 , gdzie 𝑘 ∈ ℤ.
+Sposób III (poprzez sinus potrojonego kąta)
+Przekształcamy równanie sin(6𝑥) − 2 sin(2𝑥) = 0 równoważnie, stosując wzór na sinus
+potrojonego kąta:
+sin(3 ⋅ 2𝑥) − 2sin(2𝑥) = 0
+−4 sin3(2𝑥) + 3 sin(2𝑥) − 2 sin(2𝑥) = 0
+sin(2𝑥) [−4 sin2(2𝑥) + 1] = 0
+sin(2𝑥) = 0 ∨ sin2(2𝑥) = 1
+4
+sin(2𝑥) = 0 ∨ sin(2𝑥) = − 1
+2 ∨ sin(2𝑥) = 1
+2
+2𝑥 = 𝜋𝑘 ∨ 2𝑥 = 7𝜋
+6 + 2𝜋𝑘 ∨ 2𝑥 = 11𝜋
+6 + 2𝜋𝑘 ∨ 2𝑥 = 𝜋
+6 + 2𝜋𝑘 ∨ 2𝑥 = 5𝜋
+6 + 2𝜋𝑘
+𝑥 = 𝜋𝑘
+2 ∨ 𝑥 = 7𝜋
+12 + 𝜋𝑘 ∨ 𝑥 = 11𝜋
+12 + 𝜋𝑘 ∨ 𝑥 = 𝜋
+12 + 𝜋𝑘 ∨ 𝑥 = 5𝜋
+12 + 𝜋𝑘
+gdzie 𝑘 ∈ ℤ.
+Rozwiązaniami równania sin(6𝑥) − 2 sin(2𝑥) = 0 są wszystkie liczby postaci:
+𝜋𝑘
+2 , 𝜋
+12 + 𝜋𝑘, 5𝜋
+12 + 𝜋𝑘, 7𝜋
+12 + 𝜋𝑘 oraz 11𝜋
+12 + 𝜋𝑘, gdzie 𝑘 ∈ ℤ.

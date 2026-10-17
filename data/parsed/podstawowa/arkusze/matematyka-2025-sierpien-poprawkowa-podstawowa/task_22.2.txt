@@ -1,0 +1,14 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=20; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=22.2]
+Zadanie 22.
+Dany jest trójkąt 𝐴𝐵𝐶, w którym |𝐴𝐵| = 6, |𝐴𝐶| = 4 oraz |∡𝐶𝐴𝐵| = 60° (zobacz
+rysunek).
+Zadanie 22.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Długość boku 𝐵𝐶 trójkąta 𝐴𝐵𝐶 jest równa
+A. √28 B. √40 C. 8 D. √76
+𝐴
+60°
+𝐵
+𝐶
+4
+6

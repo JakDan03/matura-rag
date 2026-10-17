@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=8; level=podstawowy; year=2026; month=maj; task_id=8]
+Zadanie 8. (0–1)
+Dane jest równanie
+3(𝑥 + 3)(𝑥 − 𝑚)(2𝑥 + 4) = 0
+gdzie 𝑥 jest niewiadomą, natomiast 𝑚 jest pewną liczbą rzeczywistą.
+Suma wszystkich rozwiązań tego równania jest równa 0.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba 𝑚 jest równa
+A. (−7) B. 2 C. 5 D. 7

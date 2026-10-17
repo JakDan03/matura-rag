@@ -1,0 +1,38 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=7; level=podstawowy; year=2024; section=OPIS ARKUSZA EGZAMINACYJNEGO]
+Opis egzaminu maturalnego z matematyki na poziomie podstawowym 7
+Aby sprawdzić opanowanie przez zdających wymagania ogólnego „IV. rozumowanie
+i argumentacja”, wśród zadań egzaminacyjnych znajdą się zadania na dowodzenie,
+wymagające od zdającego przeprowadzenia dowodu matematycznego. W celu sprawdzenia
+opanowania przez zdających wymagania ogólnego „III. 2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu problemów praktycznych i teoretycznych” wśród zadań
+egzaminacyjnych mogą znaleźć się zadania z kontekstem praktycznym / realistycznym.
+Zadania tego typu będą miały uproszczone założenia, tzn. będą pomijały niektóre
+rzeczywiste warunki. Dzięki takiej idealizacji zagadnienia będzie można łatwiej zbudować
+jego adekwatny model matematyczny, który – po pierwsze – będzie opisywał istotę
+zagadnienia, po drugie – będzie korzystał z narzędzi dostępnych na danym etapie
+nauczania, a po trzecie – nie będzie wymagał specjalistycznej wiedzy z danego kontekstu.
+OPIS ARKUSZA EGZAMINACYJNEGO
+Egzamin maturalny z matematyki na poziomie podstawowym trwa 180 minut2. W arkuszu
+egzaminacyjnym znajdzie się od 27 do 39 zadań. Łączna liczba punktów, jakie można
+uzyskać za poprawne rozwiązanie wszystkich zadań w arkuszu, jest równa 50.
+Liczbę zadań oraz liczbę punktów możliwych do uzyskania za poszczególne rodzaje zadań
+w całym arkuszu przedstawiono w poniższej tabeli.
+Rodzaj zadań Liczba zadań Łączna liczba
+punktów
+Udział w wyniku
+sumarycznym
+zamknięte 20–25 25 50%
+otwarte 7–14 25 50%
+RAZEM 27–39 50 100%
+W arkuszu egzaminacyjnym będą występowały wiązki zadań lub pojedyncze zadania.
+Wiązka zadań to zestaw od dwóch do czterech zadań występujących we wspólnym
+kontekście tematycznym, przy czym każde z zadań wiązki można rozwiązać niezależnie od
+rozwiązania innych zadań w danej wiązce. Wiązka zadań może się składać zarówno z zadań
+zamkniętych, jak i z zadań otwartych.
+Odpowiedzi do zadań zamkniętych zdający będą zaznaczali na karcie odpowiedzi
+(z wyjątkiem zdających ze specjalnymi potrzebami edukacyjnymi, którzy są zwolnieni z tego
+obowiązku).
+2 Czas trwania egzaminu może zostać wydłużony w przypadku zdających ze specjalnymi potrzebami edukacyjnymi,
+w tym niepełnosprawnych, oraz w przypadku cudzoziemców. Szczegóły są określane w Komunikacie dyrektora
+Centralnej Komisji Egzaminacyjnej w sprawie szczegółowych s posobów dostosowania warunków i form
+przeprowadzania egzaminu maturalnego w danym roku szkolnym.

@@ -1,0 +1,213 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=29, 30, 31, 32, 33, 34, 35; level=rozszerzony; year=2025; month=czerwiec; task_id=10]
+Zadanie 10. (0–5)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+X.5) oblicza objętości i pola
+graniastosłupów, ostrosłupów […].
+X.R2) wyznacza przekroje sześcianu
+i ostrosłupów prawidłowych […].
+Zasady oceniania (dla sposobów I – III)
+5 pkt – zastosowanie poprawnej metody i poprawny wynik: 6.
+4 pkt – wyznaczenie w zależności od 𝑥 czterech spośród wielkości 1)-4) określonych
+w zasadach oceniania za 1 punkt
+ALBO
+– wyznaczenie pola powierzchni całkowitej ostrosłupa w zależności od 𝑥: 126√3𝑥2.
+3 pkt – wyznaczenie w zależności od 𝑥 trzech spośród wielkości 1)-4) określonych
+w zasadach oceniania za 1 punkt.
+2 pkt – wyznaczenie w zależności od 𝑥 dwóch spośród wielkości 1)-4) określonych
+w zasadach oceniania za 1 punkt.
+1 pkt – wyznaczenie w zależności od 𝑥 jednej z poniższych wielkości 1)-4):
+1) długości wysokości ściany bocznej, np. |𝐵𝐸| = 5√3𝑥, |𝐷𝐹| = 5√7𝑥,
+2) długości krawędzi podstawy 𝐴𝐵𝐶: |𝐵𝐶| = 2√21𝑥,
+3) pola podstawy 𝐴𝐵𝐶: 21√3𝑥2,
+4) pola ściany bocznej (lub pola powierzchni bocznej): 35√3𝑥2 (lub 105√3𝑥2).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Ponieważ |𝐶𝐸|
+|𝐸𝐷| = 3
+11 , więc |𝐶𝐸| = 3𝑥 oraz |𝐸𝐷| = 11𝑥 przy pewnym 𝑥 > 0 (zobacz
+rysunki).
+Stosujemy twierdzenie Pitagorasa do trójkąta 𝐵𝐸𝐷 i otrzymujemy:
+|𝐵𝐸|2 + |𝐸𝐷|2 = |𝐵𝐷|2
+|𝐵𝐸|2 + (11𝑥)2 = (14𝑥)2
+|𝐵𝐸| = 5√3𝑥
+Stosujemy twierdzenie Pitagorasa do trójkąta 𝐵𝐶𝐸 i otrzymujemy:
+|𝐵𝐶|2 = |𝐶𝐸|2 + |𝐵𝐸|2
+|𝐵𝐶|2 = (3𝑥)2 + (5√3𝑥)
+2
+|𝐵𝐶| = 2√21𝑥
+Wyznaczamy pole 𝑃𝑏 powierzchni bocznej ostrosłupa prawidłowego 𝐴𝐵𝐶𝐷:
+𝑃𝑏 = 3 ⋅ 1
+2 ⋅ |𝐶𝐷| ⋅ |𝐵𝐸| = 3
+2 ⋅ 14𝑥 ⋅ 5√3𝑥 = 105√3𝑥2
+Wyznaczamy pole 𝑃𝑝 podstawy 𝐴𝐵𝐶:
+𝑃𝑝 = |𝐵𝐶|2 ⋅ √3
+4 = (2√21𝑥)
+2
+⋅ √3
+4 = 21√3𝑥2
+𝐵
+𝐶
+𝐷
+𝐸
+3𝑥
+11𝑥
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸
+3𝑥
+11𝑥
+Zasady oceniania rozwiązań zadań
+Obliczamy stosunek 𝜂 pola powierzchni całkowitej ostrosłupa do pola podstawy 𝐴𝐵𝐶
+ostrosłupa:
+𝜂 = 𝑃𝑏 + 𝑃𝑝
+𝑃𝑝
+= 105√3𝑥2 + 21√3𝑥2
+21√3𝑥2 = 6
+Sposób II
+Ponieważ |𝐶𝐸|
+|𝐸𝐷| = 3
+11 , więc |𝐶𝐸| = 3𝑥 oraz |𝐸𝐷| = 11𝑥 przy pewnym 𝑥 > 0.
+Niech 𝐹 będzie spodkiem wysokości ściany bocznej 𝐵𝐶𝐷 poprowadzonej z wierzchołka 𝐷
+na krawędź 𝐵𝐶 (zobacz rysunki).
+Z podobieństwa trójkątów prostokątnych 𝐶𝐸𝐵 oraz 𝐶𝐹𝐷 otrzymujemy:
+|𝐸𝐶|
+|𝐵𝐶| = |𝐹𝐶|
+|𝐶𝐷|
+3𝑥
+|𝐵𝐶| =
+1
+2 ⋅ |𝐵𝐶|
+14𝑥
+|𝐵𝐶| = 2√21𝑥
+Stosujemy twierdzenie Pitagorasa do trójkąta 𝐶𝐷𝐹 i otrzymujemy:
+|𝐶𝐷|2 = |𝐷𝐹|2 + |𝐹𝐶|2
+𝐵
+𝐶
+𝐷
+𝐸
+3𝑥
+11𝑥
+𝐹
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸
+𝐹
+3𝑥
+11𝑥
+(14𝑥)2 = |𝐷𝐹|2 + (1
+2 ⋅ 2√21𝑥)
+2
+|𝐷𝐹| = 5√7𝑥
+Wyznaczamy pole 𝑃𝑏 powierzchni bocznej ostrosłupa prawidłowego 𝐴𝐵𝐶𝐷:
+𝑃𝑏 = 3 ⋅ 1
+2 ⋅ |𝐵𝐶| ⋅ |𝐷𝐹| = 3
+2 ⋅ 2√21𝑥 ⋅ 5√7𝑥 = 105√3𝑥2
+Wyznaczamy pole 𝑃𝑝 podstawy 𝐴𝐵𝐶:
+𝑃𝑝 =
+|𝐵𝐶|2 ⋅ √3
+4 = (2√21𝑥)
+2
+⋅ √3
+4 = 21√3𝑥2
+Obliczamy stosunek 𝜂 pola powierzchni całkowitej ostrosłupa do pola podstawy 𝐴𝐵𝐶
+ostrosłupa:
+𝜂 = 𝑃𝑏 + 𝑃𝑝
+𝑃𝑝
+= 105√3𝑥2 + 21√3𝑥2
+21√3𝑥2 = 6
+Sposób III
+Przyjmijmy następujące oznaczenia:
+𝑂 – spodek wysokości ostrosłupa poprowadzonej z wierzchołka 𝐷 na podstawę 𝐴𝐵𝐶,
+𝐺 – środek krawędzi 𝐴𝐵,
+𝑎 – długość krawędzi podstawy 𝐴𝐵𝐶,
+ℎ𝑏 – wysokość ściany bocznej poprowadzonej z wierzchołka 𝐷,
+ℎ𝑝 – wysokość podstawy 𝐴𝐵𝐶 (zobacz rysunki).
+Zasady oceniania rozwiązań zadań
+Ponieważ |𝐶𝐸|
+|𝐸𝐷| = 3
+11 , więc |𝐶𝐸| = 3𝑥 oraz |𝐸𝐷| = 11𝑥 przy pewnym 𝑥 > 0.
+Ostrosłup jest prawidłowy, więc punkt 𝑂 jest środkiem okręgu opisanego na trójkącie
+równobocznym 𝐴𝐵𝐶 i jest jednocześnie środkiem okręgu wpisanego w ten trójkąt. Zatem
+|𝑂𝐶| = 2
+3 ℎ𝑝 = 𝑎√3
+3 oraz |𝑂𝐺| = 1
+3 ℎ𝑝 = 𝑎√3
+6 .
+Z podobieństwa trójkątów 𝐷𝑂𝐶 i 𝐺𝐸𝐶 mamy
+|𝐸𝐶|
+|𝐺𝐶| = |𝑂𝐶|
+|𝐷𝐶|
+3𝑥
+ℎ𝑝
+=
+𝑎√3
+3
+14𝑥
+3𝑥
+𝑎√3
+2
+=
+𝑎√3
+3
+14𝑥
+𝑎 = 2√21𝑥
+Stosujemy twierdzenie Pitagorasa do trójkąta 𝐺𝐵𝐷 i otrzymujemy:
+|𝐵𝐷|2 = |𝐷𝐺|2 + |𝐺𝐵|2
+(14𝑥)2 = ℎ𝑏
+2 + (1
+2 ⋅ 2√21𝑥)
+2
+𝐶
+𝐺
+𝑂
+ℎ𝑏
+𝐷
+1
+3 ℎ𝑝
+3𝑥
+11𝑥
+2
+3 ℎ𝑝
+𝐸
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸
+𝐺
+𝑂
+3𝑥
+11𝑥
+1
+3 ℎ𝑝
+2
+3 ℎ𝑝
+ℎ𝑏
+ℎ𝑏 = 5√7𝑥
+Wyznaczamy pole 𝑃𝑏 powierzchni bocznej ostrosłupa prawidłowego 𝐴𝐵𝐶𝐷:
+𝑃𝑏 = 3 ⋅ 1
+2 ⋅ 𝑎 ⋅ ℎ𝑏 = 3
+2 ⋅ 2√21𝑥 ⋅ 5√7𝑥 = 105√3𝑥2
+Wyznaczamy pole 𝑃𝑝 podstawy 𝐴𝐵𝐶:
+𝑃𝑝 = 𝑎2 ⋅ √3
+4 = (2√21𝑥)
+2
+⋅ √3
+4 = 21√3𝑥2
+Obliczamy stosunek 𝜂 pola powierzchni całkowitej ostrosłupa do pola podstawy 𝐴𝐵𝐶
+ostrosłupa:
+𝜂 = 𝑃𝑏 + 𝑃𝑝
+𝑃𝑝
+= 105√3𝑥2 + 21√3𝑥2
+21√3𝑥2 = 6
+Zasady oceniania rozwiązań zadań

@@ -1,0 +1,32 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=80; level=rozszerzony; year=2024; section=𝑃𝐵𝐶𝐷 = √15876]
+80 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Korzystamy ze wzoru Herona w celu obliczenia pola trójkąta 𝐵𝐶𝐷.
+𝑝 = 𝑎 + 𝑏 + 𝑐
+2 = 7√10 + √37 + 17
+2
+𝑝 − 𝑎 = √37 + 17 − 7√10
+2
+𝑝 − 𝑏 = 7√10 + 17 − √37
+2
+𝑝 − 𝑐 = √37 + 7√10 − 17
+2
+𝑝(𝑝 − 𝑎) ⋅ (𝑝 − 𝑏)(𝑝 − 𝑐) = (√37 + 17)
+2
+− (7√10)
+2
+4 ⋅ (7√10)
+2
+− (17 − √37)
+2
+4
+𝑝(𝑝 − 𝑎)(𝑝 − 𝑏)(𝑝 − 𝑐) = 34√37 − 164
+4 ⋅ 34√37 + 164
+4
+𝑝(𝑝 − 𝑎)(𝑝 − 𝑏)(𝑝 − 𝑐) = 15876
+16
+𝑃𝐵𝐶𝐷 = √15876
+16 = 63
+2
+Obliczamy pole równoległoboku 𝐴𝐵𝐶𝐷:
+𝑃𝐴𝐵𝐶𝐷 = 2 ⋅ 𝑃𝐵𝐶𝐷 = 63
+Pole równoległoboku 𝐴𝐵𝐶𝐷 jest równe 63.

@@ -1,0 +1,40 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=113; level=podstawowy; year=2024; section=3. Tworzenie pomocniczych obiektów matematycznych na podstawie istniejących,]
+Przykładowe zadania z rozwiązaniami 113
+Wymagania ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+3. Tworzenie pomocniczych obiektów matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub rozwiązania problemu.
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Wymagania szczegółowe
+X. Stereometria. Zdający:
+3) rozpoznaje w graniastosłupach i ostrosłupach kąty między odcinkami (np.
+krawędziami, krawędziami i przekątnymi) […];
+5) oblicza objętości i pola powierzchni graniastosłupów […] również z wykorzystaniem
+trygonometrii.
+Zasady oceniania
+4 pkt – poprawna metoda obliczenia pola powierzchni całkowitej graniastosłupa oraz
+podanie poprawnego wyniku: 𝑃𝑐 = 1528.
+3 pkt – poprawne obliczenie długości wszystkich krawędzi prostopadłościanu:
+|𝐵𝐶| = 14, |𝐶𝐺| = 18, |𝐺𝐻| = 16.
+2 pkt – obliczenie długości dwóch krawędzi 𝐵𝐶 oraz 𝐶𝐺: |𝐵𝐶| = 14 oraz |𝐶𝐺| = 18
+ALBO
+– obliczenie długości krawędzi 𝐺𝐻: |𝐺𝐻| = 16 oraz zapisanie układu równań
+z niewiadomymi |𝐵𝐶| oraz |𝐶𝐺| np.: |𝐵𝐶|2 + |𝐶𝐺|2 = (2√130)
+2
+oraz
+|𝐶𝐺|
+|𝐵𝐶| = 9
+7
+.
+1 pkt – zapisanie układu równań z niewiadomymi |𝐵𝐶| oraz |𝐶𝐺| np.:
+|𝐵𝐶|2 + |𝐶𝐺|2 = (2√130)
+2
+oraz
+|𝐶𝐺|
+|𝐵𝐶| = 9
+7
+ALBO
+– obliczenie długości krawędzi 𝐺𝐻: |𝐺𝐻| = 16.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.

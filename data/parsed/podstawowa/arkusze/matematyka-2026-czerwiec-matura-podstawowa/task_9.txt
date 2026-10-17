@@ -1,0 +1,21 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=10; level=podstawowy; year=2026; month=czerwiec; task_id=9]
+Zadanie 9. (0–1)
+W parku miejskim rosną drzewa iglaste i drzewa liściaste. Wszystkich drzew łącznie jest 198.
+Gdyby w tym parku rosło o 18 drzew iglastych więcej niż teraz, to wtedy drzew liściastych
+byłoby tam 3 razy więcej niż drzew iglastych.
+Przyjmijmy następujące oznaczenia:
+𝑥 – liczba drzew iglastych rosnących w parku miejskim,
+𝑦 – liczba drzew liściastych rosnących w parku miejskim.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Układem równań, którego poprawne rozwiązanie prowadzi do obliczenia liczby 𝑥 drzew
+iglastych oraz liczby 𝑦 drzew liściastych, jest
+A. { 𝑥 + 𝑦 = 198
+𝑥 + 18 = 3𝑦
+B. { 𝑥 + 𝑦 = 198
+3𝑥 + 18 = 𝑦
+C. {
+𝑥 + 𝑦 = 198
+1
+3 𝑥 + 18 = 𝑦
+D. { 𝑥 + 𝑦 = 198
+3(𝑥 + 18) = 𝑦

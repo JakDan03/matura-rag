@@ -1,0 +1,20 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=122; level=podstawowy; year=2024; section=3. Tworzenie pomocniczych obiektów matematycznych na podstawie istniejących,]
+122 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 61. (0–1)
+Pole powierzchni bocznej walca jest równe 16𝜋, a promień jego podstawy ma długość 2.
+Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.
+Objętość tego walca jest równa
+A. 16 B. 32 C. 16𝜋 D. 32𝜋
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+3. Tworzenie pomocniczych obiektów matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub rozwiązania problemu.
+Wymaganie szczegółowe
+X. Stereometria. Zdający:
+5) oblicza objętości i pola powierzchni graniastosłupów, ostrosłupów, walca, stożka
+i kuli, również z wykorzystaniem trygonometrii.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C

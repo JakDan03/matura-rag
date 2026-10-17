@@ -1,0 +1,34 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=97; level=podstawowy; year=2024; section=|∡𝐴𝑆𝐵| = 360° − |∡𝑆𝐴𝐶| − |∡𝑆𝐵𝐶| − |∡𝐴𝐶𝐵|]
+Przykładowe zadania z rozwiązaniami 97
+Sposób 3.
+Zauważmy, że:
+• trójkąt 𝐴𝐶𝐵 jest równoramienny, gdzie: |𝐴𝐶| = |𝐶𝐵| (na mocy twierdzenia
+o odcinkach stycznych).
+• trójkąt 𝐴𝑆𝐷 jest równoramienny, gdzie: |𝑆𝐷| = |𝑆𝐴| (odcinki 𝑆𝐷 i 𝑆𝐴 są
+promieniami okręgu).
+• |∡𝑆𝐴𝐶| = |∡𝑆𝐵𝐶| = 90° (promień poprowadzony do punktu styczności jest
+prostopadły do stycznej)
+Oznaczmy |∡𝐴𝐶𝐵| = 𝛼.
+Rozważmy czworokąt 𝐴𝐶𝐵𝑆. Ponieważ suma miar kątów w czworokącie jest równa 360°,
+a kąty 𝑆𝐴𝐶 oraz 𝑆𝐵𝐶 są proste, to:
+|∡𝐴𝑆𝐵| = 360° − |∡𝑆𝐴𝐶| − |∡𝑆𝐵𝐶| − |∡𝐴𝐶𝐵|
+Zatem:
+|∡𝐴𝑆𝐵| = 360° − 90° − 90° − 𝛼 = 180° − 𝛼
+Kąt 𝐷𝑆𝐴 jest przyległy do kąta 𝐴𝑆𝐵, zatem:
+|∡𝐷𝑆𝐴| = 180° − |∡𝐴𝑆𝐵| = 180° − (180° − 𝛼) = 𝛼.
+Długości dwóch boków trójkąta 𝐴𝐶𝐵 są proporcjonalne do odpowiednich długości dwóch
+boków trójkąta 𝐴𝑆𝐷 i kąty między tymi parami boków są przystające:
+|𝐴𝐶|
+|𝐴𝑆| = |𝐵𝐶|
+|𝐷𝑆| i |∡𝐴𝐶𝐵| = |∡𝐷𝑆𝐴| = 𝛼
+Trójkąty 𝐴𝐶𝐵 i 𝐴𝑆𝐷 są podobne na podstawie cechy bok – kąt – bok podobieństwa
+trójkątów.
+𝛼
+𝐵
+𝑆
+𝑘
+𝐶
+𝐴
+𝑙
+𝐷
+𝛼

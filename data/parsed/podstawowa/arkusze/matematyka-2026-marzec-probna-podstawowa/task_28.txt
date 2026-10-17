@@ -1,0 +1,14 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=27; level=podstawowy; year=2026; month=marzec; term=probna; task_id=28]
+Zadanie 28. (0–1)
+Rysunek drwala składa się z sześciu obszarów ponumerowanych liczbami od 1 do 6 (zobacz
+rysunek). Każdy z tych obszarów należy pokolorować jednym z siedmiu kolorów w taki
+sposób, aby każde dwa obszary graniczące ze sobą miały różny kolor.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wszystkich takich sposobów pokolorowania drwala jest
+A. 7 ⋅ 65 B. 73 ⋅ 63 C. 7 ⋅ 6 D. 7 ⋅ 6 ⋅ 5 ⋅ 4 ⋅ 3 ⋅ 2
+1
+2
+3
+4
+5
+6

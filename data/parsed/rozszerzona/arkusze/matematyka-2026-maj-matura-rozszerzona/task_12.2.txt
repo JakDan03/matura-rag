@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=28, 30; level=rozszerzony; year=2026; month=maj; task_id=12.2]
+Zadanie 12.
+W projekcie ogrodu zaplanowano kwietnik w kształcie trójkąta równoramiennego o podstawie
+długości 𝑥 metrów nieprzekraczającej 10 metrów. Na tym kwietniku ma znajdować się
+fontanna w kształcie koła o średnicy 4 metrów, które ma być styczne do każdego z boków
+trójkątnego kwietnika (zobacz rysunek). Projektantowi zależy, aby przy tak ustalonej
+wielkości fontanny pole tego kwietnika było najmniejsze.
+Zadanie 12.2. (0–4)
+Pole 𝑃 trójkątnego kwietnika o podstawie długości 𝑥 metrów jest określone wzorem
+𝑃(𝑥) = 2𝑥3
+𝑥2 − 16
+dla każdego 𝑥 ∈ (4, 10].
+Wyznacz długość 𝒙 podstawy trójkątnego kwietnika, dla której pole tego kwietnika
+jest najmniejsze. Oblicz to najmniejsze pole. Zapisz obliczenia.
+12.2.
+0–1–
+2–3–4

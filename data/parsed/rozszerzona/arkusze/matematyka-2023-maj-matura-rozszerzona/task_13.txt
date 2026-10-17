@@ -1,0 +1,24 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=22; level=rozszerzony; year=2023; month=maj; task_id=13]
+Zadanie 13. (0–6)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) prosta 𝑙 o równaniu 𝑥 − 𝑦 − 2 = 0
+przecina parabolę o równaniu 𝑦 = 4𝑥2 − 7𝑥 + 1 w punktach 𝐴 oraz 𝐵. Odcinek 𝐴𝐵 jest
+średnicą okręgu 𝒪. Punkt 𝐶 leży na okręgu 𝒪 nad prostą 𝑙, a kąt 𝐵𝐴𝐶 jest ostry i ma
+miarę 𝛼 taką, że tg 𝛼 = 1
+3 (zobacz rysunek).
+Oblicz współrzędne punktu 𝑪. Zapisz obliczenia.
+13.
+0–1–
+2–3–
+4–5–6
+1
+1
+𝑙
+𝐶
+𝐴
+𝐵
+𝛼
+𝑦 = 4𝑥2 − 7𝑥 + 1
+𝑥 − 𝑦 − 2 = 0
+okrąg 𝒪
+𝑥
+𝑦

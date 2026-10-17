@@ -1,0 +1,49 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=72; level=podstawowy; year=2024; section=|𝐴𝐷|2 = |𝐴𝐺|2 + |𝐺𝐷|2]
+72 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Przykładowe pełne rozwiązania
+Sposób 1. (zastosowanie twierdzenia cosinusów)
+Niech 𝐷 oznacza środek odcinka 𝐵𝐶.
+Wykonamy rysunek pomocniczy (zobacz obok).
+Ponieważ 𝐴𝐷 jest środkową, to |𝐵𝐷| = 4.
+Do obliczenia długości środkowej 𝐴𝐷 zastosujemy
+twierdzenie cosinusów dla trójkąta 𝐴𝐵𝐷:
+|𝐴𝐷|2 = |𝐴𝐵|2 + |𝐵𝐷|2 − 2 ⋅ |𝐴𝐵| ⋅ |𝐵𝐷| ⋅ cos |∡𝐴𝐵𝐶|
+|𝐴𝐷|2 = 122 + 42 − 2 ⋅ 12 ⋅ 4 ⋅ 1
+2 = 112
+|𝐴𝐷| = √112 = 4√7
+Sposób 2. (zastosowanie twierdzenia Pitagorasa i własności trójkąta o kątach 30°, 60°, 90°)
+Niech 𝐷 oznacza środek odcinka 𝐵𝐶.
+Wykonamy rysunek pomocniczy (zobacz obok).
+W celu obliczenia długości środkowej 𝐴𝐷 zastosujemy
+twierdzenie Pitagorasa dla trójkąta prostokątnego 𝐴𝐺𝐷
+(gdzie 𝐺 jest rzutem prostokątnym punktu 𝐷 na odcinek 𝐴𝐵).
+Ponieważ 𝐴𝐷 jest środkową, to |𝐵𝐷| = 4.
+Rozważmy dalej trójkąt 𝐺𝐵𝐷.
+Trójkąt 𝐺𝐵𝐷 ma kąty o miarach: 30°, 60°, 90°, skąd
+wynika, że przyprostokątne tego trójkąta mają długości:
+|𝐺𝐵| = 2
+|𝐷𝐺| = 2√3
+zatem długość przyprostokątnej 𝐴𝐺 trójkąta 𝐴𝐺𝐷 jest równa
+|𝐴𝐺| = 12 − 2 = 10
+Obliczymy długość środkowej 𝐴𝐷 z twierdzenia Pitagorasa dla trójkąta 𝐴𝐺𝐷:
+|𝐴𝐷|2 = |𝐴𝐺|2 + |𝐺𝐷|2
+|𝐴𝐷|2 = 102 + (2√3)2 = 112
+|𝐴𝐷| = √112 = 4√7
+𝐴
+𝐵
+𝐶
+60°
+𝐷
+4
+4
+12
+𝐶
+𝐷
+𝐴
+60°
+𝐵
+𝐺
+4
+2
+2√3
+10

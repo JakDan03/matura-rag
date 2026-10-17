@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=17; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=16]
+Zadanie 16. (0–1)
+Kąt 𝛼 jest ostry oraz cos 𝛼 = 24
+25
+.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Tangens kąta 𝛼 jest równy
+A. 7
+18 B. 7
+24 C. 7
+25 D. 18
+25

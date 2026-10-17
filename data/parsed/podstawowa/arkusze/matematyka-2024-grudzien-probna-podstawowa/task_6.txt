@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=7; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=6]
+Zadanie 6. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Dla każdej liczby rzeczywistej 𝑥 różnej od (−1), 0 oraz 1 wartość wyrażenia
+𝑥
+𝑥2 − 1 ∶ 3𝑥2
+𝑥 + 1 jest równa wartości wyrażenia
+A. 𝑥
+𝑥−1 B. 1
+3𝑥2−3𝑥 C. −3𝑥 D. − 1
+3𝑥

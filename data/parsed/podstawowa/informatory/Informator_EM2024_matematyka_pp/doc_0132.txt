@@ -1,0 +1,49 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=132; level=podstawowy; year=2024; section=ALBO]
+132 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+• Liczby parzyste, które na ostatniej pozycji mają cyfrę parzystą różną od cyfry 2 oraz cyfry
+2 i 3 (dokładnie po jednej) na różnych pozycjach od pierwszej do trzeciej:
+Liczbę zdarzeń elementarnych sprzyjających 𝐴 obliczymy z wykorzystaniem reguły
+mnożenia i dodawania łącznie:
+|𝐴| = 7 ⋅ 8 + 7 ⋅ 8 + 8 ⋅ 8 + 8 ⋅ 4 + 7 ⋅ 4 + 8 ⋅ 4 + 7 ⋅ 4 + 8 ⋅ 4 + 8 ⋅ 4 = 360
+Obliczymy prawdopodobieństwo zdarzenia 𝐴:
+𝑃(𝐴) =
+|𝐴|
+|Ω| = 360
+9000 = 1
+25
+8 możliwości
+{0, 1, 4, 5, 6, 7, 8, 9}
+4 możliwości
+{0, 4, 6, 8}
+2
+3
+7 możliwości
+{1, 4, 5, 6, 7, 8, 9}
+4 możliwości
+{0, 4, 6, 8}
+2
+3
+8 możliwości
+{0, 1, 4, 5, 6, 7, 8, 9}
+4 możliwości
+{0, 4, 6, 8}
+2
+3
+7 możliwości
+{1, 4, 5, 6, 7, 8, 9}
+4 możliwości
+{0, 4, 6, 8}
+2
+3
+8 możliwości
+{0, 1, 4, 5, 6, 7, 8, 9}
+4 możliwości
+{0, 4, 6, 8}
+2
+3
+8 możliwości
+{0, 1, 4, 5, 6, 7, 8, 9}
+4 możliwości
+{0, 4, 6, 8}
+2
+3

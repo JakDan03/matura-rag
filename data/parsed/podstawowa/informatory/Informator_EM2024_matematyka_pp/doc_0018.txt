@@ -1,0 +1,32 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=18; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+18 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zatem
+𝑛(𝑛2 + 3𝑛 + 2) = 𝑛(𝑛 + 1)(𝑛 + 2)
+Wśród każdych trzech kolejnych liczb naturalnych 𝑛, 𝑛 + 1, 𝑛 + 2 co najmniej jedna jest
+podzielna przez 2 i dokładnie jedna jest podzielna przez 3.
+Zatem liczba 𝑛(𝑛 + 1)(𝑛 + 2) dzieli się przez 2 oraz przez 3.
+Ponadto liczby 2 oraz 3 są względnie pierwsze.
+Zatem liczba 𝑛(𝑛2 + 3𝑛 + 2) = 𝑛(𝑛 + 1)(𝑛 + 2) jest podzielna przez 6.
+Zadanie 6. (0–1)
+Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.
+Liczba
+√2503 + √543
+√2503 − √543 jest równa
+A. √76
+49
+3
+B. (−1) C. 4 D. 4√2
+3
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymaganie szczegółowe
+I. Liczby rzeczywiste. Zdający:
+3) stosuje własności pierwiastków dowolnego stopnia, w tym pierwiastków stopnia
+nieparzystego z liczb ujemnych.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C

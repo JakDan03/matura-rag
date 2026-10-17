@@ -1,0 +1,195 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=13, 14, 15; level=podstawowy; year=2024; month=maj; task_id=14.4]
+Zadanie 14.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) przedstawiono fragment paraboli, która jest
+wykresem funkcji kwadratowej 𝑓 (zobacz rysunek). Wierzchołek tej paraboli oraz punkty
+przecięcia paraboli z osiami układu współrzędnych mają obie współrzędne całkowite.
+Zadanie 14.4. (0–2)
+Funkcje kwadratowe 𝑔 oraz ℎ są określone za pomocą funkcji 𝑓 (zobacz rysunek na
+stronie 13) następująco: 𝑔(𝑥) = 𝑓(𝑥 + 3), ℎ(𝑥) = 𝑓(−𝑥).
+Na rysunkach A–F przedstawiono, w kartezjańskim układzie współrzędnych (𝑥, 𝑦),
+fragmenty wykresów różnych funkcji – w tym fragment wykresu funkcji 𝑔 oraz fragment
+wykresu funkcji ℎ.
+Uzupełnij tabelę. Każdej z funkcji 𝒈 oraz 𝒉 przyporządkuj fragment jej wykresu.
+Wpisz w każdą pustą komórkę tabeli właściwą odpowiedź, wybraną spośród
+oznaczonych literami A–F.
+Fragment wykresu funkcji 𝑦 = 𝑔(𝑥) przedstawiono na rysunku
+Fragment wykresu funkcji 𝑦 = ℎ(𝑥) przedstawiono na rysunku
+A. B.
+1
+2
+3
+4
+5
+6
+7
+−3
+−2
+−1
+𝑦
+𝑥
+7
+6
+5
+4
+3
+2
+1
+−1
+−2
+−3
+−4
+−5
+−6
+0
+8
+9
+10
+1
+2
+3
+−7
+−6
+−5
+−4
+−3
+−2
+−1
+𝑦
+𝑥
+7
+6
+5
+4
+3
+2
+1
+−1
+−2
+−3
+−4
+−5
+−6
+0
+8
+9
+10
+14.4.
+0–1–2
+C. D.
+E. F.
+1
+2
+3
+4
+−6
+−5
+−4
+−3
+−2
+−1
+𝑦
+𝑥
+6
+5
+4
+3
+2
+1
+−1
+−2
+−3
+−4
+−5
+−6
+−7
+0
+−8
+−9
+−10
+1
+2
+3
+4
+−6
+−5
+−4
+−3
+−2
+−1
+𝑦
+𝑥
+7
+6
+5
+4
+3
+2
+1
+−1
+−2
+−3
+−4
+−5
+−6
+0
+8
+9
+10
+1
+2
+3
+4
+5
+6
+−4
+−3
+−2
+−1
+𝑦
+𝑥
+6
+5
+4
+3
+2
+1
+−1
+−2
+−3
+−4
+−5
+−6
+−7
+0
+−8
+−9
+−10
+1
+2
+3
+4
+5
+6
+−4
+−3
+−2
+−1
+𝑦
+𝑥
+7
+6
+5
+4
+3
+2
+1
+−1
+−2
+−3
+−4
+−5
+−6
+−7
+0
+8
+−8

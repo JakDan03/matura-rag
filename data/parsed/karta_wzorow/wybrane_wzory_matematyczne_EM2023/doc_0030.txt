@@ -1,0 +1,29 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=30; year=2023; section=𝑃(𝐴|𝐵) = 𝑃(𝐴 ∩ 𝐵)]
+Strona 30 z 34
+• Prawdopodobieństwo warunkowe
+Niech 𝐴, 𝐵 będą zdarzeniami losowymi zawartymi w Ω, przy czym 𝑃(𝐵) > 0.
+Prawdopodobieństwem warunkowym 𝑃(𝐴|𝐵) zdarzenia 𝐴 pod warunkiem zaistnienia
+zdarzenia 𝐵 nazywamy liczbę:
+• Twierdzenie o prawdopodobieństwie całkowitym
+Jeżeli zdarzenia losowe 𝐵1, 𝐵2, …, 𝐵𝑛 zawarte w Ω spełniają warunki:
+1. 𝐵1, 𝐵2, …, 𝐵𝑛 są parami rozłączne, tzn. 𝐵𝑖 ∩ 𝐵𝑗 = ∅ dla 𝑖 ≠ 𝑗, 1 ≤ 𝑖 ≤ 𝑛, 1 ≤ 𝑗 ≤ 𝑛
+2. 𝐵1 ∪ 𝐵2 ∪ … ∪ 𝐵𝑛 = Ω
+3. 𝑃(𝐵𝑖) > 0 dla 1 ≤ 𝑖 ≤ 𝑛
+to dla każdego zdarzenia losowego 𝐴 ⊂ Ω prawdziwa jest równość:
+• Twierdzenie Bayesa
+Jeżeli zdarzenia losowe 𝐴, 𝐵1, 𝐵2, …, 𝐵𝑛 zawarte w Ω spełniają warunki:
+1. 𝐵1, 𝐵2, …, 𝐵𝑛 są parami rozłączne, tzn. 𝐵𝑖 ∩ 𝐵𝑗 = ∅ dla 𝑖 ≠ 𝑗, 1 ≤ 𝑖 ≤ 𝑛, 1 ≤ 𝑗 ≤ 𝑛
+2. 𝐵1 ∪ 𝐵2 ∪ … ∪ 𝐵𝑛 = Ω
+3. 𝑃(𝐵𝑖) > 0 dla 1 ≤ 𝑖 ≤ 𝑛
+4. 𝑃(𝐴) > 0
+to dla każdego 𝑘 (1 ≤ 𝑘 ≤ 𝑛) prawdziwa jest równość:
+• Wartość oczekiwana zmiennej losowej
+Niech 𝑋 będzie zmienną losową o wartościach 𝑥1, 𝑥2, …, 𝑥𝑛 ∈ ℝ, określoną na
+zbiorze Ω, przy czym 𝑃( {𝜔: 𝜔 ∈ Ω oraz 𝑋(𝜔) = 𝑥𝑖} ) = 𝑝𝑖 dla 1 ≤ 𝑖 ≤ 𝑛. Wartością
+oczekiwaną zmiennej losowej 𝑋 nazywamy liczbę:
+𝑃(𝐴|𝐵) = 𝑃(𝐴 ∩ 𝐵)
+𝑃(𝐵)
+𝑃(𝐴) = 𝑃(𝐴|𝐵1) ⋅ 𝑃(𝐵1) + 𝑃(𝐴|𝐵2) ⋅ 𝑃(𝐵2) + … + 𝑃(𝐴|𝐵𝑛) ⋅ 𝑃(𝐵𝑛)
+𝑃(𝐵𝑘|𝐴) = 𝑃(𝐵𝑘) ⋅ 𝑃(𝐴|𝐵𝑘)
+𝑃(𝐴|𝐵1) ⋅ 𝑃(𝐵1) + 𝑃(𝐴|𝐵2) ⋅ 𝑃(𝐵2) + … + 𝑃(𝐴|𝐵𝑛) ⋅ 𝑃(𝐵𝑛)
+𝔼(𝑋) = 𝑥1 ⋅ 𝑝1 + 𝑥2 ⋅ 𝑝2 + … + 𝑥𝑛 ⋅ 𝑝𝑛

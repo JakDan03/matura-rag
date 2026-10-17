@@ -1,0 +1,50 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=91; level=podstawowy; year=2024; section=|𝐵𝐷|2 = |𝐷𝐴|2 + |𝐴𝐵|2 = 22 + 42 = 20]
+Przykładowe zadania z rozwiązaniami 91
+|𝐶𝐸| = 4
+√5
+= 4√5
+5
+Długość odcinka 𝐶𝐸 jest równa 4√5
+5
+.
+Sposób 2.
+Wprowadźmy oznaczenie: |∡𝐴𝐵𝐷| = 𝛽.
+Wyodrębnimy trójkąty prostokątne: 𝐴𝐵𝐷, 𝐸𝐷𝐶. W tych trójkątach wyznaczymy kąty ostre.
+Skorzystamy z zależności, że 𝛼 + 𝛽 = 90° oraz z własności kątów naprzemianległych.
+Na podstawie cechy kąt – kąt – kąt, stwierdzamy, że trójkąty 𝐴𝐵𝐷 i 𝐸𝐷𝐶 są podobne
+(zobacz rysunek).
+Ponieważ tg 𝛼 = 2, to |𝐴𝐵| = 4. Zatem |𝐷𝐶| = 4.
+Obliczymy |𝐵𝐷| z twierdzenia Pitagorasa dla trójkąta 𝐴𝐵𝐷:
+|𝐵𝐷|2 = |𝐷𝐴|2 + |𝐴𝐵|2 = 22 + 42 = 20
+|𝐵𝐷| = √20 = 2√5
+Z podobieństwa trójkątów 𝐴𝐵𝐷 i 𝐸𝐷𝐶 obliczymy długość odcinka 𝐶𝐸.
+|𝐷𝐴|
+|𝐵𝐷| =
+|𝐶𝐸|
+|𝐷𝐶|
+2
+2√5
+= |𝐶𝐸|
+4
+𝐶
+𝐷
+𝐸
+𝐴
+𝐵
+𝛼
+𝛽
+𝛽
+𝛼
+𝐶
+𝐷
+𝐸
+𝐴
+𝐵
+𝛼
+𝛽
+𝛽
+𝛼
+2
+4
+4
+2√5

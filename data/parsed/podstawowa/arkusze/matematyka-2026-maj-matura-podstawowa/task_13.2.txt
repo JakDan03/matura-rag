@@ -1,0 +1,15 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=14, 15; level=podstawowy; year=2026; month=maj; task_id=13.2]
+Zadanie 13.
+Funkcja liniowa 𝑓 jest określona wzorem 𝑓(𝑥) = 𝑎𝑥 + 𝑏, gdzie 𝑎 i 𝑏 są pewnymi
+liczbami rzeczywistymi. W kartezjańskim układzie współrzędnych (𝑥, 𝑦) przedstawiono
+fragment wykresu funkcji 𝑓. Każdy z punktów przecięcia wykresu funkcji 𝑓 z osiami układu
+współrzędnych ma obie współrzędne całkowite. Wykres funkcji 𝑓 jest nachylony do osi 𝑂𝑥
+układu współrzędnych pod kątem o mierze 𝛼 (zobacz rysunek).
+Zadanie 13.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Tangens kąta o mierze 𝛼 jest równy
+A. (− 3
+2) B. (− 2
+3) C. 2
+3 D. 3
+2

@@ -1,0 +1,85 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=4, 5, 6; level=rozszerzony; year=2024; month=czerwiec; task_id=2]
+Zadanie 2. (0–2)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+XIII.R1) oblicza granice funkcji (w tym
+jednostronne).
+Zasady oceniania
+2 pkt – poprawna metoda obliczenia granicy oraz poprawny wynik: (− 1
+6).
+1 pkt – zapisanie wyrażenia |𝑥−3|
+𝑥2−9 w postaci −1
+𝑥+3 , gdzie 𝑥 ∈ (−3, 3)
+ALBO
+– zapisanie wyrażenia | |𝑥 − 3|
+𝑥2 − 9 + 1
+6 | w postaci 1
+6 ⋅ | 𝑥 − 3
+𝑥 + 3 |, gdzie 𝑥 ∈ (−3, 3).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Przekształcamy wyrażenie |𝑥−3|
+𝑥2−9 , korzystając ze wzoru na różnicę kwadratów i definicji
+wartości bezwzględnej:
+|𝑥 − 3|
+𝑥2 − 9 = −(𝑥 − 3)
+(𝑥 − 3)(𝑥 + 3) = −1
+𝑥 + 3
+dla każdego 𝑥 ∈ (−3, 3).
+Ponieważ lim
+𝑥→3−
+(𝑥 + 3) = 6 oraz lim
+𝑥→3−
+(−1) = −1, więc
+lim
+𝑥→3−
+|𝑥 − 3|
+𝑥2 − 9 = − 1
+6
+Sposób II
+Niech 𝜖 będzie dowolną liczbą dodatnią. Oznaczmy 𝛿 = 6𝜖
+1+𝜖 . Wtedy 𝛿 > 0 i 𝛿 < 6.
+Niech 𝑥 będzie dowolną liczbą rzeczywistą spełniającą warunek −𝛿 < 𝑥 − 3 < 0.
+Wówczas
+|
+|𝑥 − 3|
+𝑥2 − 9 + 1
+6| = | −(𝑥 − 3)
+(𝑥 − 3)(𝑥 + 3) + 1
+6| = | −1
+𝑥 + 3 + 1
+6| = 1
+6 ⋅ |𝑥 − 3
+𝑥 + 3| < 1
+6 ⋅ 𝛿
+|𝑥 + 3| <
+< 1
+6 ⋅ 𝛿
+6 − 𝛿 = 1
+6 ⋅
+6𝜖
+1 + 𝜖
+6 − 6𝜖
+1 + 𝜖
+= 1
+6 ⋅ 6𝜖
+6 < 𝜖
+Zasady oceniania rozwiązań zadań
+Zatem dla każdego 𝜖 > 0 istnieje 𝛿 > 0 takie, że dla każdego 𝑥 spełniającego warunek
+−𝛿 < 𝑥 − 3 < 0 zachodzi
+||𝑥 − 3|
+𝑥2 − 9 + 1
+6| < 𝜖
+To oznacza, że
+lim
+𝑥→3−
+|𝑥 − 3|
+𝑥2 − 9 = − 1
+6

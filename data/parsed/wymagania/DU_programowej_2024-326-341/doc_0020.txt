@@ -1,0 +1,7 @@
+Dział X. Stereometria.
+Poziom: rozszerzony
+Zakres rozszerzony. Uczeń spełnia wymagania określone dla zakresu podstawowego, a
+ponadto:
+1) zna i stosuje twierdzenie o prostej prostopadłej do płaszczyzny i o trzech prostopadłych;
+2) wyznacza przekroje sześcianu i ostrosłupów prawidłowych oraz oblicza ich pola, także z
+wykorzystaniem trygonometrii.

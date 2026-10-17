@@ -1,0 +1,44 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=10; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=10]
+Zadanie 10. (0–4)
+Funkcja 𝑓 jest określona następująco:
+𝑓(𝑥) = {
+3 dla 𝑥 ∈ (−4, −2]
+−𝑥 + 1 dla 𝑥 ∈ (−2, 2]
+𝑥 − 3 dla 𝑥 ∈ (2, 4]
+Wykres funkcji 𝑦 = 𝑓(𝑥) przedstawiono w kartezjańskim układzie współrzędnych (𝑥, 𝑦)
+na rysunku poniżej.
+Uzupełnij zdania. Wpisz odpowiednie przedziały w wykropkowanych miejscach, aby
+zdania były prawdziwe.
+1. Dziedziną funkcji 𝑓 jest przedział …………… .
+2. Zbiorem wartości funkcji 𝑓 jest przedział …………… .
+3. Zbiorem wszystkich argumentów, dla których funkcja 𝑓 przyjmuje wartości ujemne, jest
+przedział …………… .
+4. Zbiorem wszystkich argumentów, dla których funkcja 𝑓 przyjmuje największą wartość,
+jest przedział …………… .
+1
+2
+3
+4
+−1
+−2
+5
+0
+𝑥
+−5
+−4
+−3
+1
+2
+3
+4
+𝑦
+5
+−1
+−2
+−3
+−4
+−5
+𝑦 = 𝑓(𝑥)
+10.
+0–1–
+2–3–4

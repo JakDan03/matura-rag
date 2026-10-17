@@ -1,0 +1,27 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=156; level=podstawowy; year=2024; section=ALBO]
+156 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Przykładowe pełne rozwiązania
+Sposób 1. (zastosowanie zasady mnożenia)
+Zastosujemy regułę mnożenia. Zauważmy, że utworzenie znaku polega na podjęciu kolejno
+6 decyzji o tym, jaki ma być rodzaj punktu – elementu znaku. Punkt może być wypukły albo
+może nie być wypukły. Zatem mamy dwie możliwości wyboru rodzaju punktu: albo .
+Zgodnie z regułą mnożenia, w takich przypadkach liczbę możliwości wyboru
+składnika/elementu obiektu mnożymy przez siebie tyle razy, z ilu elementów składa się
+obiekt:
+2 ⋅ 2 ⋅ 2 ⋅ 2 ⋅ 2 ⋅ 2 = 64
+Wszystkich możliwości jest 64. Ponieważ znak Braille’a musi zawierać co najmniej jeden punkt
+wypukły, to odrzucamy znak bez wypukłości (sześć białych kropek na schemacie powyżej).
+Wszystkich znaków jest zatem:
+64 − 1 = 63
+2 możliwości:
+albo
+2 możliwości:
+albo
+2 możliwości:
+albo
+2 możliwości:
+albo
+2 możliwości:
+albo
+2 możliwości:
+albo

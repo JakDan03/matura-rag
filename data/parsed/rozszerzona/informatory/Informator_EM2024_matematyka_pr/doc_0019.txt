@@ -1,0 +1,31 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=19; level=rozszerzony; year=2024; section=1. Interpretowanie i operowanie informacjami przedstawionymi […] w formie]
+Przykładowe zadania z rozwiązaniami 19
+Zasady oceniania
+3 pkt – obliczenie wszystkich pierwiastków wielomianu 𝑊.
+2 pkt – sprawdzenie, że liczba 8 jest pierwiastkiem wielomianu 𝑊 oraz podzielenie
+wielomianu 𝑊 przez dwumian (𝑥 − 8).
+1 pkt – zastosowanie twierdzenia o pierwiastkach całkowitych do wielomianu
+𝑥3 − 16𝑥2 + 67𝑥 − 24 i określenie liczb całkowitych mogących być pierwiastkami
+wielomianu 𝑊.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Przekształcamy wielomian 𝑊 do postaci 𝑊(𝑥) = 1
+8 (𝑥3 − 16𝑥2 + 67𝑥 − 24).
+Stosujemy do wielomianu 𝑥3 − 16𝑥2 + 67𝑥 − 24 twierdzenie o pierwiastkach całkowitych
+wielomianu o współczynnikach całkowitych.
+Na mocy tego twierdzenia wnosimy, że jeśli wielomian 𝑊 ma pierwiastek całkowity, to
+należy on do zbioru {±1, ±2, ±3, ±4, ±6, ±8, ±12, ±24}.
+Ponieważ dla 𝑥 ≤ 0 mamy 𝑥3 − 16𝑥2 + 67𝑥 − 24 < 0, więc wielomian 𝑊 nie ma
+pierwiastków ujemnych. Na podstawie fragmentu wykresu funkcji 𝑊 stwierdzamy, że jeden
+z pierwiastków całkowitych wielomianu może znajdować się w przedziale (7, +∞).
+Zatem pierwiastki całkowite wielomianu 𝑊 mogą być jedynie wśród liczb 8, 12 oraz 24.
+Sprawdzamy, czy liczba 8 jest pierwiastkiem wielomianu 𝑊:
+𝑊(8) = 1
+8 ⋅ (83 − 16 ⋅ 82 + 67 ⋅ 8 − 24) = 0
+Zatem wielomian 𝑊 jest podzielny przez dwumian (𝑥 − 8).
+Dzielimy wielomian 𝑊 przez dwumian (𝑥 − 8) i zapisujemy wielomian 𝑊 w postaci
+iloczynu:
+𝑊(𝑥) = 1
+8 ⋅ (𝑥 − 8)(𝑥2 − 8𝑥 + 3)
+Pierwiastkami trójmianu 𝑥2 − 8𝑥 + 3 są liczby: 4 − √13 oraz 4 + √13.
+Pierwiastkami wielomianu 𝑊 są liczby: 4 − √13, 4 + √13 oraz 8.

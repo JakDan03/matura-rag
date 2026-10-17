@@ -1,0 +1,34 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=74; level=podstawowy; year=2024; section=|∡𝐶𝐴𝐵| = 30°, |∡𝐴𝐵𝐶| = 30°, |∡𝐵𝐶𝐴| = 120°.]
+74 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zasady oceniania
+4 pkt – poprawne obliczenie miar kątów trójkąta 𝐴𝐵𝐶:
+|∡𝐶𝐴𝐵| = 30°, |∡𝐴𝐵𝐶| = 30°, |∡𝐵𝐶𝐴| = 120°.
+3 pkt – poprawne obliczenie miar kątów w trójkącie 𝐷𝐵𝐶:
+|∡𝐶𝐷𝐵| = 120°, |∡𝐷𝐵𝐶| = 30°, |∡𝐵𝐶𝐷| = 30°
+2 pkt – poprawne obliczenie miar kątów ostrych trójkąta 𝐴𝐷𝐶:
+|∡𝐶𝐴𝐷| = 30°, |∡𝐴𝐷𝐶| = 60°.
+1 pkt – zapisanie |∡𝐴𝐶𝐷| = 90°.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób 1.
+Przeanalizujemy zależności między odcinkami i kątami w przedstawionej sytuacji.
+Na poniższych rysunkach pomocniczych przedstawimy graficzną ilustrację kroków
+postępowania.
+1. Kąt 𝐴𝐶𝐷 jest kątem wpisanym opartym na średnicy, zatem |∡𝐴𝐶𝐷| = 90°, czyli trójkąt
+𝐴𝐷𝐶 jest prostokątny.
+2. Zastosujemy twierdzenie Pitagorasa do obliczenia długości boku |𝐶𝐷|:
+|𝐶𝐷|2 = |𝐴𝐷|2 − |𝐴𝐶|2
+|𝐶𝐷|2 = (2𝑟)2 − (√3𝑟)
+2
+= 𝑟2
+|𝐶𝐷| = 𝑟
+𝐶
+𝐴
+𝐵
+𝑆
+√3𝑟
+𝐷
+𝑟
+𝑟
+𝑟
+𝑟

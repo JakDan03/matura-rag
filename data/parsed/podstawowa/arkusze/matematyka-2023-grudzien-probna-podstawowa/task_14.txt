@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=15; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=14]
+Zadanie 14. (0–1)
+Ciąg (𝑎𝑛) jest określony dla każdej liczby naturalnej 𝑛 ≥ 1. Suma 𝑛 początkowych
+wyrazów tego ciągu jest określona wzorem 𝑆𝑛 = 4 ⋅ (2𝑛 − 1) dla każdej liczby naturalnej
+𝑛 ≥ 1.
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Pierwszy wyraz ciągu (𝑎𝑛) jest równy 4. P F
+Drugi wyraz ciągu (𝑎𝑛) jest równy 12. P F

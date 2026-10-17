@@ -1,0 +1,34 @@
+Dział V. Funkcje.
+Poziom: podstawowy
+Zakres podstawowy. Uczeń:
+1) określa funkcje jako jednoznaczne przyporządkowanie za pomocą opisu słownego, tabeli,
+wykresu, wzoru (także różnymi wzorami na różnych przedziałach);
+2) oblicza wartość funkcji zadanej wzorem algebraicznym;
+3) odczytuje i interpretuje wartości funkcji określonych za pomocą tabel, wykresów, wzorów
+itp., również w sytuacjach wielokrotnego użycia tego samego źródła informacji lub kilku
+źródeł jednocześnie;
+4) odczytuje z wykresu funkcji: dziedzinę, zbiór wartości, miejsca zerowe, przedziały
+monotoniczności, przedziały, w których funkcja przyjmuje wartości większe (nie
+mniejsze) lub mniejsze (nie większe) od danej liczby, największe i najmniejsze wartości
+funkcji (o ile istnieją) w danym przedziale domkniętym oraz argumenty, dla których
+wartości największe i najmniejsze są przez funkcję przyjmowane;
+5) interpretuje współczynniki występujące we wzorze funkcji liniowej;
+6) wyznacza wzór funkcji liniowej na podstawie informacji o jej wykresie lub o jej
+własnościach;
+7) szkicuje wykres funkcji kwadratowej zadanej wzorem;
+8) interpretuje współczynniki występujące we wzorze funkcji kwadratowej w postaci
+ogólnej, kanonicznej i iloczynowej (jeśli istnieje);
+9) wyznacza wzór funkcji kwadratowej na podstawie informacji o tej funkcji lub o jej
+wykresie;
+10) wyznacza na jwiększą i najmniejszą wartość funkcji kwadr atowej w przedziale
+domkniętym;
+11) wykorzystuje własności funkcji liniowej i kwadratowej do interpretacji zagadnień
+geometrycznych, fizycznych itp., także osadzonych w kontekście praktycznym;
+12) na podstawie wy kresu funkcji 𝑦𝑦 = 𝑓𝑓 (𝑥𝑥) szkicuje wykresy funkcji 𝑦𝑦 = 𝑓𝑓(𝑥𝑥 − 𝑎𝑎) ,
+𝑦𝑦 = 𝑓𝑓 (𝑥𝑥) + 𝑏𝑏;
+13) posługuje się funkcją 𝑓𝑓(𝑥𝑥) = 𝑎𝑎
+𝑥𝑥, w tym jej wykresem, do opisu i interpretacji zagadnień
+związanych z wielkościami odwrotnie proporcjonalnymi, również w zastosowaniach
+praktycznych;
+14) posługuje się funkcjami wykładniczą i logarytmiczną, w tym ich wykresami, do opisu i
+interpretacji zagadnień związanych z zastosowaniami praktycznymi.

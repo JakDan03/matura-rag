@@ -1,0 +1,123 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=12, 13, 14, 15; level=rozszerzony; year=2025; month=czerwiec; task_id=5]
+Zadanie 5. (0–4)
+Wymagania ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+3. Tworzenie pomocniczych obiektów
+matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub
+rozwiązania problemu.
+Zdający:
+III.R3) stosuje wzory Viète’a dla równań
+kwadratowych;
+III.R5) analizuje równania i nierówności
+liniowe z parametrami oraz równania
+i nierówności kwadratowe z parametrami
+[…].
+Zasady oceniania
+4 pkt – spełnienie następujących trzech warunków:
+1) poprawne rozwiązanie warunku 𝑚(𝑥1
+2 + 𝑥2
+2) = 3𝑚 ⋅ 𝑥1 ⋅ 𝑥2 + 2: 𝑚 = 2,
+2) poprawne rozwiązanie warunku Δ > 0: 𝑚 ∈ ℝ\{1}
+LUB
+wyznaczenie wszystkich wartości parametru 𝑚, dla których 𝑥1 ≠ 𝑥2: 𝑚 ≠ 1,
+LUB
+sprawdzenie, że dla 𝑚 = 2 są spełnione warunki zadania,
+3) zapisanie poprawnej odpowiedzi: 𝑚 = 2.
+3 pkt – poprawnie rozwiązany warunek Δ > 0: 𝑚 ∈ ℝ\{1} oraz zapisanie równania
+z jedną niewiadomą 𝑚, np. 𝑚 ⋅ [(−2𝑚)2 − 2 ⋅ (2𝑚 − 1)] = 3𝑚 ⋅ (2𝑚 − 1) + 2
+ALBO
+– rozwiązanie warunku 𝑚(𝑥1
+2 + 𝑥2
+2) = 3𝑚 ⋅ 𝑥1 ⋅ 𝑥2 + 2: 𝑚 = 2,
+ALBO
+– zapisanie, że 𝑥1 ≠ 𝑥2 dla 𝑚 ≠ 1 oraz zapisanie równania z jedną niewiadomą 𝑚,
+np. 𝑚 ⋅ [(−2𝑚)2 − 2 ⋅ (2𝑚 − 1)] = 3𝑚 ⋅ (2𝑚 − 1) + 2.
+2 pkt – poprawnie rozwiązany warunek Δ > 0: 𝑚 ∈ ℝ\{1} oraz przekształcenie warunku
+𝑚(𝑥1
+2 + 𝑥2
+2) = 3𝑚 ⋅ 𝑥1 ⋅ 𝑥2 + 2 do postaci pozwalającej na bezpośrednie
+zastosowanie wzorów Viète’a, np. 𝑚 ⋅ [(𝑥1 + 𝑥2)2 − 2𝑥1 ⋅ 𝑥2] = 3𝑚 ⋅ 𝑥1 ⋅ 𝑥2 + 2
+ALBO
+– zapisanie równania z jedną niewiadomą 𝑚, np.
+𝑚 ⋅ [(−2𝑚)2 − 2 ⋅ (2𝑚 − 1)] = 3𝑚 ⋅ (2𝑚 − 1) + 2
+ALBO
+– wyznaczenie pierwiastków trójmianu 𝑥2 + 2𝑚𝑥 + (2𝑚 − 1): (−1) oraz 1 − 2𝑚,
+oraz zapisanie, że 𝑥1 ≠ 𝑥2 dla 𝑚 ≠ 1.
+1 pkt – poprawnie rozwiązany warunek Δ > 0: 𝑚 ∈ ℝ\{1}
+ALBO
+– przekształcenie warunku 𝑚(𝑥1
+2 + 𝑥2
+2) = 3𝑚 ⋅ 𝑥1 ⋅ 𝑥2 + 2 do postaci pozwalającej
+na bezpośrednie zastosowanie wzorów Viète’a, np.
+𝑚 ⋅ [(𝑥1 + 𝑥2)2 − 2𝑥1 ⋅ 𝑥2] = 3𝑚 ⋅ 𝑥1 ⋅ 𝑥2 + 2
+ALBO
+– wyznaczenie pierwiastków trójmianu 𝑥2 + 2𝑚𝑥 + (2𝑚 − 1): (−1) oraz 1 − 2𝑚.
+Zasady oceniania rozwiązań zadań
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga.
+Jeżeli zdający przyjmie, że 𝑥1
+2 + 𝑥2
+2 jest równe (𝑥1 + 𝑥2)2 oraz doprowadzi rozwiązanie
+konsekwentnie do końca, to otrzymuje 2 punkty za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Równanie 𝑥2 + 2𝑚𝑥 + 2𝑚 − 1 = 0 ma dokładnie dwa różne rozwiązania rzeczywiste tylko
+wówczas, gdy wyróżnik Δ trójmianu kwadratowego 𝑥2 + 2𝑚𝑥 + (2𝑚 − 1) jest dodatni.
+Rozwiązujemy warunek Δ > 0:
+(2𝑚)2 − 4 ⋅ (2𝑚 − 1) > 0
+4𝑚2 − 8𝑚 + 4 > 0
+4(𝑚 − 1)2 > 0
+𝑚 ∈ (−∞, 1) ∪ (1, +∞)
+Przekształcamy warunek 𝑚(𝑥1
+2 + 𝑥2
+2) = 3𝑚 ⋅ 𝑥1 ⋅ 𝑥2 + 2 do postaci pozwalającej na
+bezpośrednie zastosowanie wzorów Viète’a i rozwiązujemy uzyskane równanie
+z niewiadomą 𝑚:
+𝑚(𝑥1
+2 + 𝑥2
+2) = 3𝑚 ⋅ 𝑥1 ⋅ 𝑥2 + 2
+𝑚 ⋅ [(𝑥1 + 𝑥2)2 − 2𝑥1 ⋅ 𝑥2] = 3𝑚 ⋅ 𝑥1 ⋅ 𝑥2 + 2
+𝑚 ⋅ [(−2𝑚)2 − 2 ⋅ (2𝑚 − 1)] = 3𝑚 ⋅ (2𝑚 − 1) + 2
+4𝑚3 − 10𝑚2 + 5𝑚 − 2 = 0
+4𝑚3 − 8𝑚2 − 2𝑚2 + 4𝑚 + 𝑚 − 2 = 0
+4𝑚2(𝑚 − 2) − 2𝑚(𝑚 − 2) + (𝑚 − 2) = 0
+(𝑚 − 2)(4𝑚2 − 2𝑚 + 1) = 0
+𝑚 − 2 = 0 ∨ 4𝑚2 − 2𝑚 + 1 = 0
+𝑚 = 2
+Ponieważ 4𝑚2 − 2𝑚 + 1 = 3𝑚2 + (𝑚 − 1)2 > 0, więc równanie 4𝑚2 − 2𝑚 + 1 = 0 nie
+ma rozwiązań rzeczywistych.
+Zatem warunek 𝑚(𝑥1
+2 + 𝑥2
+2) = 3𝑚 ⋅ 𝑥1 ⋅ 𝑥2 + 2 jest spełniony tylko dla 𝑚 = 2.
+Ponieważ 2 ∈ (−∞, 1) ∪ (1, +∞), więc warunki zadania są spełnione tylko dla 𝑚 = 2.
+Sposób II
+Zauważamy, że liczba (−1) jest rozwiązaniem równania 𝑥2 + 2𝑚𝑥 + 2𝑚 − 1 = 0.
+Korzystając ze wzorów Viète’a, mamy 𝑥1 + 𝑥2 = −2𝑚, czyli −1 + 𝑥2 = −2𝑚, więc
+𝑥2 = 1 − 2𝑚. Zatem 𝑥1 ≠ 𝑥2 gdy 𝑚 ≠ 1.
+Wyznaczamy wszystkie wartości parametru 𝑚, dla których spełniony jest warunek
+𝑚(𝑥1
+2 + 𝑥2
+2) = 3𝑚 ⋅ 𝑥1 ⋅ 𝑥2 + 2:
+𝑚(𝑥1
+2 + 𝑥2
+2) = 3𝑚 ⋅ 𝑥1 ⋅ 𝑥2 + 2
+𝑚 ⋅ [(−1)2 + (1 − 2𝑚)2] = 3𝑚 ⋅ (−1) ⋅ (1 − 2𝑚) + 2
+𝑚 ⋅ (1 + 1 − 4𝑚 + 4𝑚2) = 6𝑚2 − 3𝑚 + 2
+4𝑚3 − 10𝑚2 + 5𝑚 − 2 = 0
+4𝑚3 − 8𝑚2 − 2𝑚2 + 4𝑚 + 𝑚 − 2 = 0
+4𝑚2(𝑚 − 2) − 2𝑚(𝑚 − 2) + (𝑚 − 2) = 0
+(𝑚 − 2)(4𝑚2 − 2𝑚 + 1) = 0
+𝑚 − 2 = 0 ∨ 4𝑚2 − 2𝑚 + 1 = 0
+𝑚 = 2
+Wyróżnik trójmianu 4𝑚2 − 2𝑚 + 1 jest ujemny, więc równanie 4𝑚2 − 2𝑚 + 1 = 0 nie
+ma rozwiązań rzeczywistych.
+Zatem warunek 𝑚(𝑥1
+2 + 𝑥2
+2) = 3𝑚 ⋅ 𝑥1 ⋅ 𝑥2 + 2 jest spełniony tylko dla 𝑚 = 2.
+Warunki zadania są spełnione tylko dla 𝑚 = 2.
+Zasady oceniania rozwiązań zadań

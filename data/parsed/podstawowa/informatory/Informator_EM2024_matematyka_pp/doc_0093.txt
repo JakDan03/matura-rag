@@ -1,0 +1,53 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=93; level=podstawowy; year=2024; section=|𝐵𝐷|2 = |𝐷𝐴|2 + |𝐴𝐵|2 = 22 + 42 = 20]
+Przykładowe zadania z rozwiązaniami 93
+𝑥 = √16
+5 = 4
+√5
+= 4√5
+5
+Długość odcinka 𝐶𝐸 jest równa 4√5
+5
+.
+Sposób 4.
+Ponieważ |∡𝐵𝐷𝐴| = 𝛼, więc |∡𝐴𝐵𝐷| = 90° − 𝛼.
+Zatem |∡𝐶𝐵𝐷| = 90° − |∡𝐴𝐵𝐷| = 90° − (90° − 𝛼) = 𝛼.
+Ponieważ tg 𝛼 = 2 , zatem sin 𝛼
+cos 𝛼 = 2 . Stąd cos 𝛼 = 1
+2
+⋅ sin 𝛼.
+Wykorzystując tę zależność oraz tożsamość sin2 𝛼 + cos2 𝛼 = 1 otrzymujemy
+sin2 𝛼 + (1
+2 ⋅ sin 𝛼)
+2
+= 1
+5
+4 ⋅ sin2 𝛼 = 1
+sin2 𝛼 = 4
+5
+Stąd sin 𝛼 = 2
+√5
+, ponieważ 𝛼 jest kątem ostrym. Jednocześnie sin 𝛼 = |𝐶𝐸|
+|𝐵𝐶|
+.
+Zatem
+|𝐶𝐸|
+|𝐵𝐶| = 2
+√5
+|𝐶𝐸|
+2 = 2
+√5
+|𝐶𝐸| = 4
+√5
+= 4√5
+5
+Długość odcinka 𝐶𝐸 jest równa 4√5
+5
+.
+𝐶
+𝐴
+𝐵
+𝐷
+𝐸
+𝛼
+𝛼
+90° − 𝛼

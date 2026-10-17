@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=24; level=podstawowy; year=2026; month=czerwiec; task_id=24]
+Zadanie 24. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) odcinek o końcach 𝐴 = (1, 1) oraz
+𝐵 = (3, −1) jest średnicą okręgu 𝒪.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Okrąg 𝒪 jest określony równaniem
+A. (𝑥 − 1)2 + (𝑦 − 1)2 = 8
+B. 𝑥2 + (𝑦 − 2)2 = 2
+C. (𝑥 − 2)2 + 𝑦2 = 2
+D. (𝑥 − 2)2 + 𝑦2 = 8

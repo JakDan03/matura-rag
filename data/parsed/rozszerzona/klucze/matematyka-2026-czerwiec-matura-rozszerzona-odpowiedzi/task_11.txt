@@ -1,0 +1,143 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=24, 25, 26; level=rozszerzony; year=2026; month=czerwiec; task_id=11]
+Zadanie 11. (0–5)
+Wymagania ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+3. Tworzenie pomocniczych obiektów
+matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub
+rozwiązania problemu.
+Zdający:
+III.R3) stosuje wzory Viète’a dla równań
+kwadratowych;
+III.R5) analizuje równania i nierówności
+liniowe z parametrami oraz równania
+i nierówności kwadratowe z parametrami
+[…].
+Zasady oceniania
+Rozwiązanie zadania składa się z trzech etapów.
+Pierwszy etap polega na rozwiązaniu nierówności ∆ > 0. Za poprawne wykonanie tego
+etapu zdający otrzymuje 1 punkt.
+1 pkt – poprawne rozwiązanie nierówności ∆ > 0: 𝑚 ∈ (−∞, 0) ∪ (4, +∞).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga.
+Jeżeli zdający rozwiązuje warunek ∆ ≥ 0, to za tę część rozwiązania otrzymuje 0 punktów.
+Zasady oceniania rozwiązań zadań
+Drugi etap polega na wyznaczeniu tych wartości parametru 𝑚, dla których jest spełniony
+warunek 𝑥1
+4 + 𝑥2
+4 + 4 ⋅ 𝑥1
+3 ⋅ 𝑥2
+3 ≥ 3. Za poprawne wykonanie tego etapu zdający otrzymuje
+3 punkty.
+Podział punktów za drugi etap rozwiązania:
+3 pkt – rozwiązanie nierówności z jedną niewiadomą 𝑚 równoważnej warunkowi
+𝑥1
+4 + 𝑥2
+4 + 4 ⋅ 𝑥1
+3 ⋅ 𝑥2
+3 ≥ 3: 𝑚 ∈ (−∞, −1] ∪ [1, +∞).
+2 pkt – zapisanie nierówności z jedną niewiadomą 𝑚 równoważnej warunkowi
+𝑥1
+4 + 𝑥2
+4 + 4 ⋅ 𝑥1
+3 ⋅ 𝑥2
+3 ≥ 3, np. [(−𝑚)2 − 2𝑚]2 − 2𝑚2 + 4𝑚3 ≥ 3.
+1 pkt – przekształcenie nierówności 𝑥1
+4 + 𝑥2
+4 + 4 ⋅ 𝑥1
+3 ⋅ 𝑥2
+3 ≥ 3 do postaci pozwalającej na
+bezpośrednie zastosowanie wzorów Viète’a, np.
+[(𝑥1 + 𝑥2)2 − 2 ⋅ 𝑥1 ⋅ 𝑥2]2 − 2(𝑥1 ⋅ 𝑥2)2 + 4(𝑥1 ⋅ 𝑥2)3 ≥ 3.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Trzeci etap polega na wyznaczeniu wszystkich wartości parametru 𝑚, które spełniają
+jednocześnie warunki ∆ > 0 oraz 𝑥1
+4 + 𝑥2
+4 + 4 ⋅ 𝑥1
+3 ⋅ 𝑥2
+3 ≥ 3: 𝑚 ∈ (−∞, −1] ∪ (4, +∞).
+Za poprawne wykonanie tego etapu zdający otrzymuje 1 punkt.
+1 pkt – poprawne wyznaczenie wszystkich wartości parametru 𝑚, które spełniają
+jednocześnie warunki ∆ > 0 oraz 𝑥1
+4 + 𝑥2
+4 + 4 ⋅ 𝑥1
+3 ⋅ 𝑥2
+3 ≥ 3:
+𝑚 ∈ (−∞, −1] ∪ (4, +∞).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający w którymś z etapów I–II popełni błąd, który nie jest błędem rachunkowym,
+to za III etap otrzymuje 0 punktów.
+2. Jeżeli zdający w etapach I–II nie popełni błędów innych niż rachunkowe i otrzyma zbiory
+rozwiązań, które nie są rozłączne i żaden z nich nie jest zbiorem liczb rzeczywistych,
+a następnie poprawnie wyznaczy część wspólną zbiorów rozwiązań z etapów I–II, to za III
+etap otrzymuje 1 punkt; natomiast jeżeli otrzyma zbiory rozwiązań, które są rozłączne lub
+co najmniej jeden z nich jest zbiorem liczb rzeczywistych, to za III etap otrzymuje
+0 punktów.
+3. Jeżeli zdający w II etapie rozwiązania popełni błąd – przyjmie, że 𝑥1 ⋅ 𝑥2 = −𝑚 lub
+𝑥1 + 𝑥2 = ± 𝑏
+2𝑎 , to za II etap może otrzymać co najwyżej 2 punkty (1 punkt za
+przekształcenie nierówności 𝑥1
+4 + 𝑥2
+4 + 4 ⋅ 𝑥1
+3 ⋅ 𝑥2
+3 ≥ 3 do postaci pozwalającej na
+bezpośrednie zastosowanie wzorów Viète’a oraz 1 punkt za konsekwentne rozwiązanie
+nierówności do końca), a za III etap otrzymuje 0 punktów.
+4. Jeżeli zdający wprowadza dodatkowe założenie, które nie wynika z warunków zadania
+(np. 𝑥1 + 𝑥2 > 0), to za całe rozwiązanie może otrzymać co najwyżej 4 punkty (co
+najwyżej 1 punkt za I etap i co najwyżej 3 punkty za II etap).
+5. Jeżeli zdający podczas przekształcania nierówności 𝑥1
+4 + 𝑥2
+4 + 4 ⋅ 𝑥1
+3 ⋅ 𝑥2
+3 ≥ 3 do postaci
+pozwalającej na zastosowanie wzorów Viète’a popełni błąd, który nie jest błędem
+rachunkowym, ale otrzyma nierówność, która po poprawnym zastosowaniu wzorów
+Viète’a prowadzi do nierówności wielomianowej stopnia czwartego, to za II etap może
+otrzymać co najwyżej 2 punkty (1 punkt za poprawne zastosowanie wzorów Viète’a oraz
+1 punkt za konsekwentne rozwiązanie nierówności do końca), a za III etap otrzymuje
+0 punktów.
+Przykładowe pełne rozwiązanie
+Równanie 𝑥2 + 𝑚𝑥 + 𝑚 = 0 ma dokładnie dwa różne rozwiązania rzeczywiste tylko
+wówczas, gdy wyróżnik Δ trójmianu kwadratowego 𝑥2 + 𝑚𝑥 + 𝑚 jest dodatni.
+Rozwiązujemy warunek Δ > 0:
+𝑚2 − 4𝑚 > 0
+𝑚(𝑚 − 4) > 0
+𝑚 ∈ (−∞, 0) ∪ (4, +∞)
+Przekształcamy warunek 𝑥1
+4 + 𝑥2
+4 + 4 ⋅ 𝑥1
+3 ⋅ 𝑥2
+3 ≥ 3 do postaci pozwalającej na
+bezpośrednie zastosowanie wzorów Viète’a i rozwiązujemy uzyskaną nierówność
+z niewiadomą 𝑚:
+𝑥1
+4 + 𝑥2
+4 + 4 ⋅ 𝑥1
+3 ⋅ 𝑥2
+3 ≥ 3
+(𝑥1
+2 + 𝑥2
+2)2 − 2 ⋅ 𝑥1
+2 ⋅ 𝑥2
+2 + 4 ⋅ 𝑥1
+3 ⋅ 𝑥2
+3 ≥ 3
+[(𝑥1 + 𝑥2)2 − 2 ⋅ 𝑥1 ⋅ 𝑥2]2 − 2(𝑥1 ⋅ 𝑥2)2 + 4(𝑥1 ⋅ 𝑥2)3 ≥ 3
+[(−𝑚)2 − 2𝑚]2 − 2𝑚2 + 4𝑚3 ≥ 3
+𝑚4 + 2𝑚2 − 3 ≥ 0
+𝑚4 − 𝑚2 + 3𝑚2 − 3 ≥ 0
+(𝑚2 − 1)(𝑚2 + 3) ≥ 0
+(𝑚 − 1)(𝑚 + 1)(𝑚2 + 3) ≥ 0
+𝑚 ∈ (−∞, −1] ∪ [1, +∞)
+Wyznaczamy wszystkie wartości parametru 𝑚, które jednocześnie spełniają warunki Δ > 0
+oraz 𝑥1
+4 + 𝑥2
+4 + 4 ⋅ 𝑥1
+3 ⋅ 𝑥2
+3 ≥ 3: 𝑚 ∈ (−∞, −1] ∪ (4, +∞).

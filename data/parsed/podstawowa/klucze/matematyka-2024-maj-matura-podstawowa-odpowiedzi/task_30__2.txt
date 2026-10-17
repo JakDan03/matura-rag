@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=41; level=podstawowy; year=2024; month=maj; task_id=30]
+Zadanie 30.
+1 pkt – zapisanie jedynie liczby 25 (należy traktować to jako wyznaczenie liczby wszystkich
+zdarzeń elementarnych).
+Uwagi:
+1. W ocenie rozwiązania tego zadania (dla zdających z dyskalkulią) nie stosuje się uwagi 1.
+ze standardowych zasad oceniania.
+2. Jeżeli zdający poprawnie wypisze/zaznaczy wszystkie zdarzenia elementarne sprzyjające
+zdarzeniu 𝐴, lecz popełni błąd w ich zliczeniu (np. |𝐴| = 12) i konsekwentnie zapisze
+wynik (np. 12
+25), to otrzymuje 2 punkty.

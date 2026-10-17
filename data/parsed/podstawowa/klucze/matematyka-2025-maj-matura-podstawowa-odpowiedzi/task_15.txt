@@ -1,0 +1,188 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=17, 18, 19, 20, 21, 22; level=podstawowy; year=2025; month=maj; task_id=15]
+Zadanie 15. (0–3)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VI.7) wykorzystuje własności ciągów […]
+arytmetycznych […] do rozwiązywania
+zadań […].
+Zasady oceniania
+3 pkt – obliczenie i uzasadnienie, że jedyną wartością 𝑚, dla której ciąg
+(2𝑚 + 11, 𝑚2 + 3, 5 − 𝑚) jest arytmetyczny i malejący jest 5
+2 .
+2 pkt – wyznaczenie wartości 𝑚, dla których ciąg (2𝑚 + 11, 𝑚2 + 3, 5 − 𝑚) jest
+arytmetyczny: 𝑚 = −2 oraz 𝑚 = 5
+2
+ALBO
+– zapisanie równania z jedną niewiadomą 𝑚, np.:
+2𝑚 + 11 + 5 − 𝑚
+2 = 𝑚2 + 3,
+(𝑚2 + 3) − (2𝑚 + 11) = (5 − 𝑚) − (𝑚2 + 3),
+oraz rozwiązanie co najmniej jednej z trzech nierówności:
+• 2𝑚 + 11 > 𝑚2 + 3 : 𝑚 ∈ (−2, 4)
+• 𝑚2 + 3 > 5 − 𝑚 : 𝑚 ∈ (−∞, −2) ∪ (1, +∞)
+• 2𝑚 + 11 > 5 − 𝑚 : 𝑚 ∈ (−2, +∞),
+ALBO
+– obliczenie wszystkich wartości 𝑟, dla których ciąg (2𝑚 + 11, 𝑚2 + 3, 5 − 𝑚) jest
+arytmetyczny: 𝑟 = − 27
+4 lub 𝑟 = 0,
+ALBO
+– obliczenie wartości 𝑟, dla której ciąg (2𝑚 + 11, 𝑚2 + 3, 5 − 𝑚) jest arytmetyczny
+i malejący: 𝑟 = − 27
+4 .
+1 pkt – zapisanie równania z jedną niewiadomą 𝑚, np.:
+2𝑚 + 11 + 5 − 𝑚
+2 = 𝑚2 + 3,
+(𝑚2 + 3) − (2𝑚 + 11) = (5 − 𝑚) − (𝑚2 + 3)
+ALBO
+– zapisanie układu równań z dwiema niewiadomymi pozwalającego obliczyć 𝑚 i 𝑟, np.
+𝑚2 + 3 = 2𝑚 + 11 + 𝑟 oraz 5 − 𝑚 = 2𝑚 + 11 + 2𝑟,
+ALBO
+– rozwiązanie co najmniej jednej z trzech nierówności:
+• 2𝑚 + 11 > 𝑚2 + 3 : 𝑚 ∈ (−2, 4)
+• 𝑚2 + 3 > 5 − 𝑚 : 𝑚 ∈ (−∞, −2) ∪ (1, +∞)
+• 2𝑚 + 11 > 5 − 𝑚 : 𝑚 ∈ (−2, +∞).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający myli ciąg arytmetyczny z geometrycznym, to otrzymuje 0 punktów za całe
+rozwiązanie, o ile nie nabył prawa do innej liczby punktów (np. za rozwiązanie nierówności
+2𝑚 + 11 > 𝑚2 + 3).
+2. Jeżeli zdający nie uwzględnia istotnych nawiasów i rozwiązuje równanie postaci
+(𝑚2 + 3) − 2𝑚 + 11 = (5 − 𝑚) − 𝑚2 + 3, to otrzymuje 0 punktów za całe rozwiązanie,
+o ile nie nabył prawa do innej liczby punktów (np. za rozwiązanie nierówności
+2𝑚 + 11 > 𝑚2 + 3).
+3. Jeżeli zdający zapisze tylko 𝑚 = 5
+2 , to otrzymuje 0 punktów. Natomiast jeżeli zdający
+dodatkowo sprawdzi, zapisując odpowiednie obliczenia, że dla tej wartości 𝑚 spełnione
+są warunki zadania, ale nie uzasadni, że jest to jedyne rozwiązanie, to otrzymuje 1 punkt
+za całe rozwiązanie.
+4. Jeżeli zdający wyznaczy wartości 𝑚, dla których ciąg (2𝑚 + 11, 𝑚2 + 3, 5 − 𝑚) jest
+arytmetyczny: 𝑚 = −2 oraz 𝑚 = 5
+2 , i zapisze, że dla 𝑚 = −2 ciąg nie jest malejący, to
+otrzymuje 3 punkty.
+5. Jeżeli zdający wyznaczy wartości 𝑚, dla których ciąg (2𝑚 + 11, 𝑚2 + 3, 5 − 𝑚) jest
+arytmetyczny: 𝑚 = −2 oraz 𝑚 = 5
+2 , a następnie obliczy dla każdej z tych wartości 𝑚
+wyrazy ciągu i nie wskaże, że 𝑚 = 5
+2 jest jedyną szukaną wartością, to otrzymuje
+2 punkty za całe rozwiązanie.
+Zasady oceniania rozwiązań zadań
+Przykładowe pełne rozwiązania
+Sposób I
+Z własności ciągu arytmetycznego otrzymujemy:
+2𝑚 + 11 + 5 − 𝑚
+2 = 𝑚2 + 3
+𝑚 + 16 = 2𝑚2 + 6
+2𝑚2 − 𝑚 − 10 = 0
+Obliczamy wyróżnik trójmianu 2𝑚2 − 𝑚 − 10:
+Δ = (−1)2 − 4 ⋅ 2 ⋅ (−10) = 81
+Stąd
+𝑚1 = −(−1) − √81
+2 ⋅ 2 = −2
+𝑚2 = −(−1) + √81
+2 ⋅ 2 = 5
+2
+Dla 𝑚 = −2 otrzymujemy ciąg (7, 7, 7), który jest stały.
+Dla 𝑚 = 5
+2 otrzymujemy ciąg (16, 37
+4 , 5
+2), który jest malejący.
+Zatem ciąg (2𝑚 + 11, 𝑚2 + 3, 5 − 𝑚) jest malejącym ciągiem arytmetycznym, gdy
+𝑚 = 5
+2
+.
+Sposób II
+Ciąg (2𝑚 + 11, 𝑚2 + 3, 5 − 𝑚) jest malejący, gdy
+(𝑚2 + 3) − (2𝑚 + 11) < 0 i (5 − 𝑚) − (𝑚2 + 3) < 0
+𝑚2 − 2𝑚 − 8 < 0 i − 𝑚2 − 𝑚 + 2 < 0
+𝑚2 − 4𝑚 + 2𝑚 − 8 < 0 i − 𝑚2 − 2𝑚 + 𝑚 + 2 < 0
+𝑚(𝑚 − 4) + 2(𝑚 − 4) < 0 i − 𝑚(𝑚 + 2) + (𝑚 + 2) < 0
+(𝑚 − 4)(𝑚 + 2) < 0 i − (𝑚 + 2)(𝑚 − 1) < 0
+𝑚 ∈ (−2, 4) i 𝑚 ∈ (−∞, −2) ∪ (1, +∞)
+Zatem ciąg (2𝑚 + 11, 𝑚2 + 3, 5 − 𝑚) jest malejący, gdy 𝑚 ∈ (1, 4).
+Z definicji/własności ciągu arytmetycznego otrzymujemy:
+(𝑚2 + 3) − (2𝑚 + 11) = (5 − 𝑚) − (𝑚2 + 3)
+Stąd
+𝑚2 − 2𝑚 − 8 = −𝑚2 − 𝑚 + 2
+2𝑚2 − 𝑚 − 10 = 0
+2𝑚2 + 4𝑚 − 5𝑚 − 10 = 0
+2𝑚2 + 4𝑚 − 5𝑚 − 10 = 0
+2𝑚(𝑚 + 2) − 5(𝑚 + 2) = 0
+(𝑚 + 2)(2𝑚 − 5) = 0
+𝑚 + 2 = 0 lub 2𝑚 − 5 = 0
+𝑚 = −2 ∉ (1, 4) lub 𝑚 = 5
+2 ∈ (1, 4)
+Zatem ciąg (2𝑚 + 11, 𝑚2 + 3, 5 − 𝑚) jest malejącym ciągiem arytmetycznym, gdy
+𝑚 = 5
+2
+.
+Sposób III
+Ze wzoru na n-ty wyraz ciągu arytmetycznego otrzymujemy:
+{ 𝑚2 + 3 = 2𝑚 + 11 + 𝑟
+5 − 𝑚 = 2𝑚 + 11 + 2𝑟
+gdzie 𝑟 jest różnicą ciągu arytmetycznego. Stąd
+{ 2𝑚2 + 6 = 4𝑚 + 22 + 2𝑟
+5 − 𝑚 = 2𝑚 + 11 + 2𝑟
+Odejmujemy równania stronami i otrzymujemy:
+2𝑚2 + 6 − 5 + 𝑚 = 4𝑚 + 22 + 2𝑟 − 2𝑚 − 11 − 2𝑟
+2𝑚2 − 𝑚 − 10 = 0
+Obliczamy wyróżnik trójmianu 2𝑚2 − 𝑚 − 10:
+Δ = (−1)2 − 4 ⋅ 2 ⋅ (−10) = 81
+Stąd
+𝑚1 = −(−1) − √81
+2 ⋅ 2 = −2
+𝑚2 = −(−1) + √81
+2 ⋅ 2 = 5
+2
+Ciąg (2𝑚 + 11, 𝑚2 + 3, 5 − 𝑚) jest malejący, zatem
+2𝑚 + 11 > 5 − 𝑚
+Stąd
+𝑚 > −2
+Zasady oceniania rozwiązań zadań
+Dla 𝑚 = 5
+2 otrzymujemy ciąg arytmetyczny (16, 37
+4 , 5
+2), który jest malejący.
+Zatem ciąg (2𝑚 + 11, 𝑚2 + 3, 5 − 𝑚) jest malejącym ciągiem arytmetycznym, gdy
+𝑚 = 5
+2
+.
+Sposób IV
+Ze wzoru na n-ty wyraz ciągu arytmetycznego otrzymujemy:
+{ 𝑚2 + 3 = 2𝑚 + 11 + 𝑟
+5 − 𝑚 = 2𝑚 + 11 + 2𝑟
+gdzie 𝑟 jest różnicą ciągu arytmetycznego. Stąd
+{ 𝑚2 − 2𝑚 − 𝑟 − 8 = 0
+3𝑚 + 2𝑟 + 6 = 0
+Z drugiego z tych równań wyznaczamy 𝑚 = − 2
+3 𝑟 − 2 i podstawiamy w miejsce 𝑚 do
+pierwszego z równań, otrzymując:
+(− 2
+3 𝑟 − 2)
+2
+− 2 ⋅ (− 2
+3 𝑟 − 2) − 𝑟 − 8 = 0
+4
+9 𝑟2 + 8
+3 𝑟 + 4 + 4
+3 𝑟 + 4 − 𝑟 − 8 = 0
+4
+9 𝑟2 + 3𝑟 = 0 / ∶ 𝑟 (ciąg jest malejący, więc 𝑟 < 0)
+4
+9 𝑟 + 3 = 0
+𝑟 = − 27
+4
+Gdy 𝑟 = − 27
+4 , to ciąg (2𝑚 + 11, 𝑚2 + 3, 5 − 𝑚) jest malejący
+i 𝑚 = − 2
+3 ⋅ (− 27
+4 ) − 2 = 9
+2 − 2 = 5
+2 .
+Zatem ciąg (2𝑚 + 11, 𝑚2 + 3, 5 − 𝑚) jest malejącym ciągiem arytmetycznym, gdy
+𝑚 = 5
+2
+.

@@ -1,0 +1,24 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=75; level=rozszerzony; year=2024; section=4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach]
+Przykładowe zadania z rozwiązaniami 75
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Wymagania szczegółowe
+IX. Geometria analityczna na płaszczyźnie kartezjańskiej. Zdający:
+1R) znajduje punkty wspólne prostej i okręgu.
+VII. Trygonometria. Zdający:
+7R) stosuje twierdzenie sinusów.
+Zasady oceniania
+dla rozwiązań sposobami 1. oraz 2.
+3 pkt – zastosowanie poprawnej metody i poprawny wynik.
+2 pkt – obliczenie długości odcinka 𝐴𝐶.
+1 pkt – obliczenie współrzędnych wierzchołków 𝐴 i 𝐶 trapezu
+ALBO
+– obliczenie odległości środka okręgu od prostej zawierającej przekątną 𝐴𝐶 trapezu.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób 1.
+Zapisujemy równanie okręgu o środku w punkcie 𝑆 = (19, −11) i promieniu 17√2:
+(𝑥 − 19)2 + (𝑦 + 11)2 = 578
+Obliczamy współrzędne wierzchołków 𝐴 i 𝐶 trapezu:

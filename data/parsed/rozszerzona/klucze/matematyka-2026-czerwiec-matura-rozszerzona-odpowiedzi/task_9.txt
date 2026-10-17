@@ -1,0 +1,180 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=19, 20, 21, 22, 23; level=rozszerzony; year=2026; month=czerwiec; task_id=9]
+Zadanie 9. (0–4)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VIII.R1) stosuje własności czworokątów
+wpisanych w okrąg i opisanych na okręgu.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 20.
+3 pkt – zapisanie równania z jedną niewiadomą (długością jednej z przyprostokątnych
+trójkąta 𝐴𝐶𝐷), np. 𝑐2 + (8
+𝑐)
+2
+= 65
+ALBO
+– zapisanie równania (𝑐 + 𝑑)2 = 81,
+ALBO
+– obliczenie długości odcinków 𝐴𝐸 oraz 𝐸𝐶 (dla jednego przypadku): 1
+√65 i 64
+√65 .
+2 pkt – zapisanie układu równań niezależnych z dwiema niewiadomymi 𝑐 i 𝑑, np. 1
+2 𝑐𝑑 = 4
+oraz 𝑐2 + 𝑑2 = (√65)
+2
+(dla sposobu I)
+ALBO
+– zapisanie równania z jedną niewiadomą (długością odcinka 𝐴𝐸 lub 𝐸𝐶), np.
+√65−𝑥
+8
+√65
+=
+8
+√65
+𝑥 (dla sposobu II).
+1 pkt – obliczenie pola trójkąta 𝐴𝐶𝐷 i zapisanie, że trójkąt 𝐴𝐶𝐷 jest prostokątny (lub
+dokonanie zapisów, z których wynika, że zdający traktuje ten trójkąt jako
+prostokątny), np. 𝑃𝐴𝐶𝐷 = 4 oraz 1
+2 𝑐𝑑 = 4.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga.
+Jeżeli zdający uzyska tylko jeden czworokąt 𝐴𝐵𝐶𝐷 spełniający warunki zadania i nie
+skomentuje, że drugi czworokąt spełniający warunki zadania różni się tylko permutacją
+długości boków 𝐴𝐷 i 𝐶𝐷, to może otrzymać co najwyżej 3 punkty za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Przyjmijmy następujące oznaczenia: 𝑐 = |𝐶𝐷| oraz 𝑑 = |𝐴𝐷|.
+Ponieważ czworokąt 𝐴𝐵𝐶𝐷 jest wpisany w okrąg i odcinki 𝐴𝐵 oraz 𝐶𝐷 są prostopadłe,
+więc trójkąt 𝐴𝐵𝐶 jest prostokątny, a odcinek 𝐴𝐶 jest średnicą tego okręgu. Wobec tego
+trójkąt 𝐴𝐶𝐷 również jest prostokątny.
+Pole trójkąta 𝐴𝐵𝐶 jest równe 1
+2 ⋅ 4 ⋅ 7 = 14. Pole czworokąta 𝐴𝐵𝐶𝐷 jest równe 18, więc
+pole trójkąta 𝐴𝐶𝐷 jest równe 4. Zatem
+1
+2 𝑐𝑑 = 4
+Z twierdzenia Pitagorasa dla trójkątów 𝐴𝐵𝐶 i 𝐴𝐶𝐷 otrzymujemy:
+|𝐴𝐵|2 + |𝐵𝐶|2 = |𝐴𝐶|2 = |𝐶𝐷|2 + |𝐴𝐷|2
+42 + 72 = 𝑐2 + 𝑑2
+Stąd i z zależności 1
+2 𝑐𝑑 = 4 otrzymujemy dalej:
+𝑐2 + 𝑑2 = 65
+𝑐2 + 2𝑐𝑑 + 𝑑2 = 65 + 4 ⋅ 4
+(𝑐 + 𝑑)2 = 81
+𝑐 + 𝑑 = 9
+gdyż 𝑐 i 𝑑 to liczby dodatnie.
+Wyznaczając z tego równania 𝑑 = 9 − 𝑐 i wstawiając do równania 1
+2 𝑐𝑑 = 4, otrzymujemy:
+1
+2 𝑐(9 − 𝑐) = 4
+𝐴
+𝐵
+𝐶
+𝐷
+4
+7
+𝑑
+𝑐
+Zasady oceniania rozwiązań zadań
+0 = 𝑐2 − 9𝑐 + 8
+𝑐 = 1 ∨ 𝑐 = 8
+Gdy 𝑐 = 1, to 𝑑 = 8.
+Gdy 𝑐 = 8, to 𝑑 = 1.
+Otrzymaliśmy dwa czworokąty spełniające warunki zadania. Obwód 𝐿 każdego z nich jest
+równy
+𝐿 = 4 + 7 + 1 + 8 = 20
+Sposób II
+Przyjmijmy następujące oznaczenia:
+𝑐 – długość odcinka 𝐶𝐷,
+𝑑 – długość odcinka 𝐴𝐷,
+𝐸 – punkt przecięcia prostej 𝐴𝐶 z prostą do niej prostopadłą i przechodzącą przez punkt 𝐷,
+ℎ – wysokość trójkąta 𝐴𝐶𝐷 opuszczona z wierzchołka 𝐷,
+𝑥 – długość odcinka 𝐴𝐸 (zobacz rysunek).
+Ponieważ czworokąt 𝐴𝐵𝐶𝐷 jest wpisany w okrąg i odcinki 𝐴𝐵 oraz 𝐶𝐷 są prostopadłe,
+więc trójkąt 𝐴𝐵𝐶 jest prostokątny, a odcinek 𝐴𝐶 jest średnicą tego okręgu. Wobec tego
+trójkąt 𝐴𝐶𝐷 również jest prostokątny.
+Z twierdzenia Pitagorasa dla trójkąta 𝐴𝐵𝐶 otrzymujemy:
+|𝐴𝐵|2 + |𝐵𝐶|2 = |𝐴𝐶|2
+42 + 72 = |𝐴𝐶|2
+|𝐴𝐶| = √65
+𝐴
+𝐵
+𝐶
+𝐷
+ℎ
+𝐸
+𝑆
+4
+7
+𝑑
+𝑐
+𝑥
+Pole trójkąta 𝐴𝐵𝐶 jest równe 1
+2 ⋅ 4 ⋅ 7 = 14. Pole czworokąta 𝐴𝐵𝐶𝐷 jest równe 18, więc
+pole trójkąta 𝐴𝐶𝐷 jest równe 4. Zatem:
+1
+2 ⋅ |𝐴𝐶| ⋅ ℎ = 4
+1
+2 ⋅ √65 ⋅ ℎ = 4
+ℎ = 8
+√65
+Ponieważ ℎ jest wysokością trójkąta prostokątnego opuszczoną na przeciwprostokątną,
+więc:
+ℎ2 = |𝐴𝐸| ⋅ |𝐸𝐶|
+( 8
+√65
+)
+2
+= 𝑥 ⋅ (√65 − 𝑥)
+𝑥2 − √65𝑥 + 64
+65 = 0
+Δ = (−√65)
+2
+− 4 ⋅ 1 ⋅ 64
+65 = 652 − 162
+65 = 49 ⋅ 81
+65
+𝑥 =
+√65 − 7 ⋅ 9
+√65
+2 ⋅ 1 = 1
+√65
+∨ 𝑥 =
+√65 + 7 ⋅ 9
+√65
+2 ⋅ 1 = 64
+√65
+Gdy 𝑥 = 1
+√65 , to |𝐸𝐶| = √65 − 𝑥 = 64
+√65 i wówczas:
+𝑐2 = ℎ2 + |𝐸𝐶|2
+𝑐2 = 64
+65 + 642
+65
+𝑐 = 8
+oraz:
+𝑑2 = ℎ2 + 𝑥2
+𝑑2 = 64
+65 + 1
+65
+𝑑 = 1
+Gdy 𝑥 = 64
+√65 , to |𝐸𝐶| = √65 − 𝑥 = 1
+√65 i wówczas:
+𝑐2 = ℎ2 + |𝐸𝐶|2
+Zasady oceniania rozwiązań zadań
+𝑐2 = 64
+65 + 1
+65
+𝑐 = 1
+oraz:
+𝑑2 = ℎ2 + 𝑥2
+𝑑2 = 64
+65 + 642
+65
+𝑑 = 8
+Otrzymaliśmy dwa czworokąty spełniające warunki zadania. Obwód 𝐿 każdego z nich jest
+równy
+𝐿 = 4 + 7 + 1 + 8 = 20

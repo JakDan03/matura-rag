@@ -1,0 +1,36 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=46; level=rozszerzony; year=2024; section=ALBO]
+46 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Wymaganie szczegółowe
+XIII. Optymalizacja i rachunek różniczkowy. Zdający:
+2R) stosuje własność Darboux do uzasadniania istnienia miejsca zerowego funkcji.
+Zasady oceniania
+3 pkt – przeprowadzenie pełnego dowodu.
+2 pkt – uzasadnienie, że funkcja 𝑓 jest funkcją ciągłą, wskazanie argumentu, dla którego
+wartość funkcji jest mniejsza od 5 wraz z obliczeniem wartości funkcji dla tego
+argumentu i wskazanie argumentu, dla którego wartość funkcji jest większa od 5
+wraz z obliczeniem wartości funkcji dla tego argumentu.
+1 pkt – uzasadnienie, że funkcja 𝑓 jest funkcją ciągłą, wskazanie argumentu, dla którego
+wartość funkcji jest mniejsza od 5 i obliczenie wartości funkcji dla tego argumentu
+ALBO
+– uzasadnienie, że funkcja 𝑓 jest funkcją ciągłą, wskazanie argumentu, dla którego
+wartość funkcji jest większa od 5 i obliczenie wartości funkcji dla tego argumentu,
+ALBO
+– wskazanie argumentu, dla którego wartość funkcji jest mniejsza od 5 wraz
+z obliczeniem wartości funkcji dla tego argumentu i wskazanie argumentu, dla
+którego wartość funkcji jest większa od 5 wraz z obliczeniem wartości funkcji dla
+tego argumentu.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Funkcja 𝑓 jest funkcją ciągłą w zbiorze liczb rzeczywistych, ponieważ jest funkcją
+wielomianową.
+Ponieważ 𝑓(0) = 1 oraz 𝑓(2) = 64 − 32 − 8 + 1 = 25 i funkcja jest ciągła na
+przedziale (0, 2), więc, na mocy twierdzenia Darboux, przyjmuje w przedziale (0, 2)
+wszystkie wartości pośrednie pomiędzy 𝑓(0) a 𝑓(2). Wobec tego istnieje taki argument
+𝑥 ∈ (0, 2), dla którego zachodzi 𝑓(𝑥) = 5. To oznacza, że liczba 5 należy do zbioru
+wartości funkcji.
+Zadanie 15. (0–3)
+Rozwiąż równanie
+(𝟑 − 𝟐 𝐜𝐨𝐬 𝒙)𝟐 = 𝟖 𝐬𝐢𝐧𝟐 (𝒙
+𝟐) − 𝟖 𝐜𝐨𝐬𝟐 (𝒙
+𝟐) + 𝟏𝟐
+w zbiorze (𝟎, 𝝅). Zapisz obliczenia.

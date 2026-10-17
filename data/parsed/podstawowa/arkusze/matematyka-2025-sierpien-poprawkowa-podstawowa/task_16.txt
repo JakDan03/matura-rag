@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=16; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=16]
+Zadanie 16. (0–1)
+Ciąg arytmetyczny (𝑎𝑛) jest określony dla każdej liczby naturalnej 𝑛 ≥ 1.
+Różnica tego ciągu jest równa (−4) oraz 𝑎10 = −24.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Szósty wyraz ciągu (𝑎𝑛) jest równy
+A. (−12) B. (−8) C. (−4) D. 0

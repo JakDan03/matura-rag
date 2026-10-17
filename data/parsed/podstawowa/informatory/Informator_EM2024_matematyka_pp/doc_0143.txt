@@ -1,0 +1,20 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=143; level=podstawowy; year=2024; section=A. [−5, −3] B. [3, 8] C. [0, 6] D. [−3, 3]]
+Informacja o egzaminie maturalnym z matematyki dla absolwentów niesłyszących 143
+Zadanie 32.
+Z fizyki wiemy, że torem ruchu rzuconej piłki – przy pominięciu oporów powietrza – jest
+fragment paraboli. Koszykarz rzucił piłkę do kosza z odległości 𝑥𝑘 = 7,01 m (to odległość od
+środka piłki do środka obręczy kosza w linii poziomej). Tor ruchu opiszemy w układzie
+współrzędnych. W chwili początkowej środek piłki był w punkcie 𝑥0 = 0, 𝑦0 = 2,50 m.
+Środek piłki podczas rzutu poruszał się po paraboli danej równaniem:
+𝑦 = −0,174𝑥2 + 1,3𝑥 + 2,5
+Rzut był celny, a środek piłki przeszedł dokładnie przez środek obręczy kosza.
+Na rysunku poniżej przedstawiono tę sytuację oraz tor ruchu piłki w układzie współrzędnych.
+Zadanie 32.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Obręcz kosza jest na wysokości (podanej w zaokrągleniu z dokładnością do 0,01 m)
+A. 3,04 m B. 3,06 m C. 3,8 m D. 4,93 m
+7,01
+𝑦, m
+2,5
+𝑥, m
+(0,0)

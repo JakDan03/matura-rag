@@ -1,0 +1,3 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=6; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=5]
+Zadanie 5. (0–2)
+Wykaż, że liczba 𝟖𝟓𝟎 − 𝟐𝟏𝟒𝟓 jest podzielna przez 𝟑𝟏.

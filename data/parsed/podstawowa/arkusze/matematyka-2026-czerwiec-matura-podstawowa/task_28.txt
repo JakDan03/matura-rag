@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=28; level=podstawowy; year=2026; month=czerwiec; task_id=28]
+Zadanie 28. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wszystkich liczb naturalnych czterocyfrowych parzystych, w których zapisie dziesiętnym
+cyfry tysięcy i jedności są równe, jest
+A. 400 B. 500 C. 900 D. 1600

@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=21; level=podstawowy; year=2024; month=czerwiec; task_id=23.2]
+Zadanie 23.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dany jest okrąg 𝒪 o równaniu
+(𝑥 − 1)2 + (𝑦 + 2)2 = 5
+Zadanie 23.2. (0–1)
+Okrąg 𝒦 jest obrazem okręgu 𝒪 w symetrii środkowej względem początku układu
+współrzędnych.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Okrąg 𝒦 jest określony równaniem
+A. (𝑥 − 1)2 + (𝑦 + 2)2 = 5 B. (𝑥 + 1)2 + (𝑦 + 2)2 = 5
+C. (𝑥 − 1)2 + (𝑦 − 2)2 = 5 D. (𝑥 + 1)2 + (𝑦 − 2)2 = 5

@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=9; level=podstawowy; year=2026; month=marzec; term=probna; task_id=9]
+Zadanie 9. (0–1)
+Rozwiązaniem układu równań { 20𝑥 + 20𝑦 = 1
+26𝑥 − 26𝑦 = 1 jest para liczb: 𝑥 = 𝑥0 , 𝑦 = 𝑦0 .
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Suma 𝑥0 + 𝑦0 jest liczbą dodatnią. P F
+Iloczyn 𝑥0 ⋅ 𝑦0 jest liczbą dodatnią. P F

@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=25; level=podstawowy; year=2025; month=maj; task_id=27]
+Zadanie 27. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wszystkich liczb naturalnych trzycyfrowych nieparzystych, w których zapisie dziesiętnym
+występuje dokładnie jeden raz cyfra 0, jest
+A. 45 B. 50 C. 54 D. 81

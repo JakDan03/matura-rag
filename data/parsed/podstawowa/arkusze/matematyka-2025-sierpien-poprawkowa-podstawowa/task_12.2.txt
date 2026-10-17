@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=12, 13; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=12.2]
+Zadanie 12.
+Funkcja 𝑓 jest określona następująco:
+𝑓(𝑥) = {
+−2𝑥 − 10 dla 𝑥 ∈ (−5, −3]
+𝑥 − 1 dla 𝑥 ∈ (−3, 4]
+Wykres funkcji 𝑦 = 𝑓(𝑥) przedstawiono w kartezjańskim układzie współrzędnych (𝑥, 𝑦)
+na rysunku poniżej.
+Zadanie 12.2. (0–2)
+Uzupełnij zdania. Wpisz odpowiednie przedziały w wykropkowanych miejscach, aby
+zdania były prawdziwe.
+1. Zbiorem wartości funkcji 𝑓 jest przedział ………………… .
+2. Zbiorem wszystkich rozwiązań nierówności 𝑓(𝑥) < −2 jest przedział ………………… .

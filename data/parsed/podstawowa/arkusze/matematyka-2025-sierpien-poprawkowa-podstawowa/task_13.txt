@@ -1,0 +1,19 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=13; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=13]
+Zadanie 13. (0–1)
+Miejscem zerowym funkcji liniowej 𝑔 jest liczba (−3).
+Dla argumentu 0 funkcja 𝑔 przyjmuje wartość (− 3
+2).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Funkcja 𝑔 jest określona wzorem
+A. 𝑔(𝑥) = − 1
+2 𝑥 − 3
+2
+B. 𝑔(𝑥) = − 1
+2 𝑥 + 3
+2
+C. 𝑔(𝑥) = 1
+2 𝑥 − 3
+2
+D. 𝑔(𝑥) = 1
+2 𝑥 + 3
+2

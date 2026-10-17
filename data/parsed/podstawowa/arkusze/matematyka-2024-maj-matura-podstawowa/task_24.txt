@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=21; level=podstawowy; year=2024; month=maj; task_id=24]
+Zadanie 24. (0–2)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dany jest równoległobok 𝐴𝐵𝐶𝐷, w którym
+𝐴 = (−2, 6) oraz 𝐵 = (10, 2). Przekątne 𝐴𝐶 oraz 𝐵𝐷 tego równoległoboku przecinają
+się w punkcie 𝑃 = (6, 7).
+Oblicz długość boku 𝑩𝑪 tego równoległoboku. Zapisz obliczenia.
+24.
+0–1–2

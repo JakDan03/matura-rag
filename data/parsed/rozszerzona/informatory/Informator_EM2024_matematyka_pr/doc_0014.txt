@@ -1,0 +1,46 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=14; level=rozszerzony; year=2024; section=ALBO]
+14 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Zasady oceniania
+dla rozwiązań sposobami 1. oraz 2.
+6 pkt – zastosowanie poprawnej metody i poprawny wynik.
+5 pkt – rozwiązanie nierówności 𝑚2−2𝑚+4
+𝑚+2 > −2 oraz 𝑚2−2𝑚+4
+𝑚+2 < 2
+ALBO
+– rozwiązanie nierówności 2𝑚 + 4 > 𝑚2 − 2𝑚 + 4 oraz 2𝑚 + 4 < −𝑚2 + 2𝑚 − 4.
+4 pkt – rozwiązanie jednej z nierówności
+𝑚2 − 2𝑚 + 4
+𝑚 + 2 > −2 lub 𝑚2 − 2𝑚 + 4
+𝑚 + 2 < 2
+ALBO
+– zapisanie alternatywy 2𝑚 + 4 > 𝑚2 − 2𝑚 + 4 lub 2𝑚 + 4 < −𝑚2 + 2𝑚 − 4.
+3 pkt – zapisanie dwóch nierówności
+𝑚2 − 2𝑚 + 4
+𝑚 + 2 > −2 i 𝑚2 − 2𝑚 + 4
+𝑚 + 2 < 2
+ALBO
+– uzasadnienie, że 𝑚2 − 2𝑚 + 4 > 0 dla każdego 𝑚 ∈ ℝ oraz zapisanie
+nierówności 𝑚2−2𝑚+4
+|𝑚+2| < 2.
+2 pkt – wyznaczenie z układu (1) 𝑥 oraz 𝑦.
+1 pkt – określenie wartości parametru 𝑚, dla jakich układ jest oznaczony i wyznaczenie
+z układu (1) 𝑥 lub 𝑦.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Sposób 1.
+Rozwiązujemy układ (1) metodą podstawiania. Z pierwszego równania układu
+wyznaczamy 𝑦:
+𝑦 = 𝑚2 − 𝑚𝑥
+i wstawiamy do drugiego równania układu:
+4𝑥 + 𝑚(𝑚2 − 𝑚𝑥) = 8
+(4 − 𝑚2)𝑥 = 8 − 𝑚3
+Zatem układ jest oznaczony, gdy 𝑚 ∈ ℝ\{−2; 2}. Wtedy
+𝑥 = 8 − 𝑚3
+4 − 𝑚2 = (2 − 𝑚)(4 + 2𝑚 + 𝑚2)
+(2 − 𝑚)(2 + 𝑚) = 4 + 2𝑚 + 𝑚2
+𝑚 + 2
+Stąd
+𝑦 = 𝑚2 − 𝑚𝑥 = 𝑚2 − 𝑚 ⋅ 𝑚2 + 2𝑚 + 4
+𝑚 + 2 = 𝑚3 + 2𝑚2 − 𝑚(𝑚2 + 2𝑚 + 4)
+𝑚 + 2 = −4𝑚
+𝑚 + 2

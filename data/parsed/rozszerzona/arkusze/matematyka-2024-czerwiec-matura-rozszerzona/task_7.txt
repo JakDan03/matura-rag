@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=12; level=rozszerzony; year=2024; month=czerwiec; task_id=7]
+Zadanie 7. (0–4)
+Nieskończony ciąg geometryczny (𝑎𝑛) jest określony dla każdej liczby naturalnej 𝑛 ≥ 1.
+Suma wszystkich wyrazów ciągu (𝑎𝑛) o numerach nieparzystych jest równa 16, tj.
+𝑎1 + 𝑎3 + 𝑎5 + … = 16
+Ponadto 𝑎1 + 𝑎3 = 5
+2 ⋅ 𝑎2 .
+Wyznacz wzór ogólny na 𝒏–ty wyraz ciągu (𝒂𝒏). Zapisz obliczenia.

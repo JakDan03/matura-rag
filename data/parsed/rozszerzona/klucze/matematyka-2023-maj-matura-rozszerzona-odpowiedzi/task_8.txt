@@ -1,0 +1,137 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=28, 29, 30, 31; level=rozszerzony; year=2023; month=maj; task_id=8]
+Zadanie 8. (0–4)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+VIII.R1) stosuje własności czworokątów
+wpisanych w okrąg i opisanych na okręgu.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 16√3 + 10.
+3 pkt – obliczenie długości boku 𝐴𝐵: |𝐴𝐵| = 8√3 i zapisanie 𝑂𝑏𝐴𝐵𝐶𝐷 = 2 ⋅ (|𝐴𝐵| + |𝐶𝐷|)
+ALBO
+– obliczenie długości boku 𝐴𝐵: |𝐴𝐵| = 8√3 i zapisanie równania
+8√3 + 5 = 4 + |𝐴𝐷|.
+2 pkt – obliczenie długości boku 𝐴𝐵: 8√3
+ALBO
+– zapisanie równości 1) i 3) określonych w kryterium oceniania za 1 punkt,
+ALBO
+– zapisanie równości 2) i 3) określonych w kryterium oceniania za 1 punkt,
+ALBO
+– zapisanie równości 1) i 4) określonych w kryterium oceniania za 1 punkt.
+1 pkt – zapisanie jednej z poniższych równości 1)- 4):
+1) |𝐴𝐵|
+√3
+2
+= 4
+1
+4
+lub 1
+4 = 2√3
+|𝐴𝐵|,
+2) 1
+2 ⋅ 4 ⋅ |𝐴𝐶| ⋅
+√3
+2 = 1
+2 ⋅ |𝐴𝐶| ⋅ |𝐴𝐵| ⋅ 1
+4 ,
+3) 𝑂𝑏𝐴𝐵𝐶𝐷 = 2 ⋅ (|𝐴𝐵| + |𝐶𝐷|),
+4) |𝐴𝐵| + 5 = 4 + |𝐴𝐷|
+ALBO
+– zapisanie równania z jedną niewiadomą 𝑥 (długością boku 𝐴𝐵), np.
+𝑥2 = 16 + (2 + 𝑥√15
+4 )
+2
+− 4 (2 + 𝑥√15
+4 ),
+16 = (2 + √15
+4 𝑥)
+2
++ 𝑥2 − √15
+2 ⋅ (2 + √15
+4 𝑥) 𝑥
+(z twierdzenia cosinusów dla trójkąta 𝐴𝐵𝐶 i dwóch kątów tego trójkąta).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania rozwiązań zadań
+Przykładowe pełne rozwiązania
+Sposób I
+Oznaczmy 𝛼 = |∡𝐵𝐴𝐶|. Zgodnie z warunkami zadania
+sin 𝛼 = 1
+4 .
+Obliczamy długość 𝑎 boku 𝐴𝐵. Korzystamy
+z twierdzenia sinusów w trójkącie 𝐴𝐵𝐶 i otrzymujemy
+|𝐴𝐵|
+sin 60° = |𝐵𝐶|
+sin 𝛼
+|𝐴𝐵|
+√3
+2
+= 4
+1
+4
+Stąd |𝐴𝐵| = 8√3.
+Ponieważ w czworokąt 𝐴𝐵𝐶𝐷 można wpisać okrąg, więc prawdziwa jest zależność
+|𝐴𝐵| + |𝐶𝐷| = |𝐵𝐶| + |𝐴𝐷|
+Zatem obwód 𝑂𝑏𝐴𝐵𝐶𝐷 czworokąta jest równy
+𝑂𝑏𝐴𝐵𝐶𝐷 = 2 ⋅ (|𝐴𝐵| + |𝐶𝐷|) = 16√3 + 10
+Sposób II
+Zauważmy, że pole 𝑃 trójkąta 𝐴𝐵𝐶 można obliczyć na dwa sposoby:
+𝑃 = 1
+2 ⋅ |𝐵𝐶| ⋅ |𝐴𝐶| ⋅ sin 60° = 1
+2 ⋅ 4 ⋅ |𝐴𝐶| ⋅ √3
+2
+𝑃 = 1
+2 ⋅ |𝐴𝐶| ⋅ |𝐴𝐵| ⋅ 1
+4
+Stąd |𝐴𝐵| = 8√3.
+Ponieważ w czworokąt 𝐴𝐵𝐶𝐷 można wpisać okrąg, więc prawdziwa jest zależność
+|𝐴𝐵| + |𝐶𝐷| = |𝐵𝐶| + |𝐴𝐷|
+Zatem obwód 𝑂𝑏𝐴𝐵𝐶𝐷 czworokąta jest równy
+𝑂𝑏𝐴𝐵𝐶𝐷 = 2 ⋅ (|𝐴𝐵| + |𝐶𝐷|) = 16√3 + 10
+Sposób III
+Oznaczmy 𝛼 = |∡𝐵𝐴𝐶|. Zgodnie z warunkami zadania
+sin 𝛼 = 1
+4 . Obliczamy długość 𝑎 boku 𝐴𝐵.
+Prowadzimy wysokość 𝐵𝐸 trójkąta 𝐴𝐵𝐶.
+Trójkąt prostokątny 𝐵𝐶𝐸 ma kąty ostre 30° i 60°,
+więc jest „połową” trójkąta równobocznego o boku
+długości 4. Zatem
+5
+𝐶
+𝐷
+4
+𝛼
+𝐵
+𝐴
+𝑆
+60°
+𝐸
+5
+𝐶
+𝐷
+4
+𝛼
+𝐵
+𝐴
+𝑆
+60°
+𝑎
+|𝐸𝐵| = 4√3
+2 = 2√3
+Z definicji sinusa w trójkącie prostokątnym 𝐴𝐵𝐸 otrzymujemy
+sin 𝛼 =
+|𝐸𝐵|
+|𝐴𝐵|
+czyli
+1
+4 = 2√3
+|𝐴𝐵|
+Stąd |𝐴𝐵| = 8√3.
+Czworokąt 𝐴𝐵𝐶𝐷 jest opisany na okręgu, więc |𝐴𝐵| + |𝐶𝐷| = |𝐵𝐶| + |𝐴𝐷|.
+Zatem obwód 𝑂𝑏𝐴𝐵𝐶𝐷 czworokąta jest równy
+𝑂𝑏𝐴𝐵𝐶𝐷 = 2 ⋅ (|𝐴𝐵| + |𝐶𝐷|) = 16√3 + 10
+Zasady oceniania rozwiązań zadań

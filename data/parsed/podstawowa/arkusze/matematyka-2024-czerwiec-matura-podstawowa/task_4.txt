@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=5; level=podstawowy; year=2024; month=czerwiec; task_id=4]
+Zadanie 4. (0–1)
+Klient wpłacił do banku na trzyletnią lokatę kwotę w wysokości 𝐾0 zł. Po każdym rocznym
+okresie oszczędzania bank dolicza odsetki w wysokości 6% od kwoty bieżącego kapitału
+znajdującego się na lokacie – zgodnie z procentem składanym.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Po trzech latach oszczędzania w tym banku kwota na lokacie (bez uwzględniania podatków)
+jest równa
+A. 𝐾0 ⋅ (1,06)3 B. 𝐾0 ⋅ (1,02)3
+C. 𝐾0 ⋅ (1,03)6 D. 𝐾0 ⋅ 1,18

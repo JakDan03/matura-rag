@@ -1,0 +1,14 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=67; level=rozszerzony; year=2024; section=1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno]
+Przykładowe zadania z rozwiązaniami 67
+Wymagania ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno
+matematycznym, jak i popularnonaukowym, a także w formie wykresów,
+diagramów, tabel.
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Wymaganie szczegółowe
+X. Stereometria. Zdający:
+2R) wyznacza przekroje sześcianu i ostrosłupów prawidłowych oraz oblicza ich pola,
+także z wykorzystanie trygonometrii.

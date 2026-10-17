@@ -1,0 +1,473 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=43, 44, 45, 46, 47, 48, 49; level=rozszerzony; year=2023; month=maj; task_id=13]
+Zadanie 13. (0–6)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VII.R5) korzysta ze wzorów na sinus,
+cosinus i tangens sumy i różnicy kątów,
+a także na funkcje trygonometryczne kątów
+podwojonych.
+IX.R3) znajduje punkty wspólne prostej
+i okręgu oraz prostej i paraboli będącej
+wykresem funkcji kwadratowej.
+Zasady oceniania
+6 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝐶 = (11
+10 , − 3
+10).
+5 pkt – zapisanie jednego równania stopnia pierwszego i równania stopnia drugiego
+z dwiema niewiadomymi, np.
+{
+𝑦 = 2 (𝑥 − 1
+2) − 3
+2
+(𝑥 − 1)2 + (𝑦 + 1)2 = 1
+2
+(pr. 𝐴𝐶 i okrąg 𝒪),
+{
+𝑦 = 7(𝑥 − 1) − 1
+(𝑥 − 1)2 + (𝑦 + 1)2 = 1
+2
+(pr. 𝑆𝐶 i okrąg 𝒪),
+ALBO
+– wyznaczenie równania prostej 𝐶𝐶1: 𝑦 = −𝑥 + 4
+5 ,
+ALBO
+– zapisanie układu równań liniowych, np. równań prostych 𝐴𝐶 i 𝐵𝐶.
+4 pkt – zapisanie jednego równania z dwiema niewiadomymi, np.
+𝑦 = 2 (𝑥 − 1
+2) − 3
+2 (pr. 𝐴𝐶),
+(𝑥 − 1)2 + (𝑦 + 1)2 = 1
+2 (okrąg 𝒪),
+𝑦 = 7(𝑥 − 1) − 1 (pr. 𝑆𝐶),
+√ 2
+10 = √(3
+2 − 𝑥)
+2
++ (− 1
+2 − 𝑦)
+2
+(okrąg o środku w punkcie 𝐵 i promieniu 𝐵𝐶),
+3√ 2
+10 = √(1
+2 − 𝑥)
+2
++ (− 3
+2 − 𝑦)
+2
+(okrąg o środku w punkcie 𝐴 i promieniu 𝐴𝐶),
+√(3
+2 −𝑥)
+2
++(−1
+2 −𝑦)
+2
+√(1
+2 −𝑥)
+2
++(−3
+2−𝑦)
+2
+= 1
+3 (wykorzystanie zależności między przyprostokątnymi 𝐵𝐶
+oraz 𝐴𝐶).
+3 pkt – obliczenie współczynnika kierunkowego prostej 𝐴𝐶: 2 oraz obliczenie
+współrzędnych punktów przecięcia paraboli z prostą 𝑙: 𝐴 = (1
+2 , − 3
+2) oraz
+𝐵 = (3
+2 , − 1
+2)
+ALBO
+– obliczenie współrzędnych środka 𝑆 okręgu 𝒪 lub promienia 𝑅 okręgu 𝒪:
+𝑆 = (1, −1) lub 𝑅 =
+√2
+2 , lub |𝐴𝐵| = √2,
+ALBO
+– obliczenie współczynnika kierunkowego prostej 𝑆𝐶: 7 oraz obliczenie
+współrzędnych punktów przecięcia paraboli z prostą 𝑙: 𝐴 = (1
+2 , − 3
+2) oraz
+𝐵 = (3
+2 , − 1
+2).
+2 pkt – obliczenie współrzędnych punktów przecięcia paraboli z prostą 𝑙: 𝐴 = (1
+2 , − 3
+2)
+oraz 𝐵 = (3
+2 , − 1
+2)
+ALBO
+– obliczenie współczynnika kierunkowego prostej 𝐴𝐶: 2,
+ALBO
+– obliczenie współczynnika kierunkowego prostej 𝑆𝐶: 7,
+ALBO
+– zapisanie równania z jedną niewiadomą (jedną ze współrzędnych punktu 𝐴 lub 𝐵),
+które wynika z układu równań { 𝑦 = 4𝑥2 − 7𝑥 + 1
+𝑥 − 𝑦 − 2 = 0 oraz zapisanie, że
+𝑎𝐴𝐶 = tg(𝛼 + 45°) (lub 𝑎𝑆𝐶 = tg(2𝛼 + 45°) ),
+ALBO
+– zapisanie, że pierwsza/druga współrzędna środka 𝑆 okręgu jest średnią
+arytmetyczną rozwiązań równania 4𝑥2 − 8𝑥 + 3 = 0 (lub 4𝑦2 + 8𝑦 + 3 = 0), np.
+𝑥𝑆 = 𝑥1+𝑥2
+2 , 𝑥𝑆 =
+8
+4
+2 (wzory Viète’a).
+1 pkt – zapisanie równania z jedną niewiadomą (jedną ze współrzędnych punktu 𝐴 lub 𝐵),
+które wynika z układu równań { 𝑦 = 4𝑥2 − 7𝑥 + 1
+𝑥 − 𝑦 − 2 = 0 , np.
+𝑥 − 2 = 4𝑥2 − 7𝑥 + 1, 𝑦 = 4(𝑦 + 2)2 − 7(𝑦 + 2) + 1
+ALBO
+– zapisanie, że 𝑎𝐴𝐶 = tg(𝛼 + 45°) lub 𝑎𝑆𝐶 = tg(2𝛼 + 45°).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający obliczy 𝐶1 = (11
+10 , − 3
+10) oraz 𝐶2 (różny od 𝐶1) i nie odrzuci 𝐶2, to
+otrzymuje 5 punktów za całe rozwiązanie.
+2. Jeżeli jedynym błędem zdającego jest:
+a) zastosowanie niepoprawnej równości tg(𝛼 + 𝛽) = tg𝛼 + tg𝛽,
+Zasady oceniania rozwiązań zadań
+b) zastosowanie niepoprawnej definicji funkcji trygonometrycznej,
+c) podstawienie do równania okręgu średnicy zamiast promienia,
+d) błędne zastosowanie wzorów Viète’a przy obliczaniu współrzędnych środka okręgu,
+to zdający może otrzymać co najwyżej 4 punkty za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I (poprzez proste 𝐴𝐶 i 𝐵𝐶)
+Obliczamy współrzędne punktów przecięcia paraboli z prostą 𝑙:
+{ 𝑦 = 4𝑥2 − 7𝑥 + 1
+𝑥 − 𝑦 − 2 = 0
+{ 𝑦 = 4𝑥2 − 7𝑥 + 1
+𝑥 − (4𝑥2 − 7𝑥 + 1) − 2 = 0
+{ 𝑦 = 4𝑥2 − 7𝑥 + 1
+−4𝑥2 + 8𝑥 − 3 = 0
+{
+𝑦 = 4𝑥2 − 7𝑥 + 1
+𝑥 = 1
+2 ∨ 𝑥 = 3
+2
+Stąd 𝐴 = (1
+2 , − 3
+2) oraz 𝐵 = (3
+2 , − 1
+2).
+Prosta 𝑙 ma równanie kierunkowe 𝑦 = 𝑥 − 2, więc jest nachylona do osi 𝑂𝑥 układu
+współrzędnych pod kątem 45°. Zatem prosta przechodząca przez punkty 𝐴 i 𝐶 jest
+nachylona do osi 𝑂𝑥 układu pod kątem 𝛼 + 45°. Obliczamy tg(𝛼 + 45°), korzystając ze
+wzoru na tangens sumy kątów:
+tg(𝛼 + 45°) = tg 𝛼 + tg 45°
+1 − tg 𝛼 ⋅ tg 45° =
+1
+3 + 1
+1 − 1
+3 ⋅ 1
+=
+1 + 3
+3 − 1 = 2
+Wyznaczamy równanie prostej 𝐴𝐶: 𝑦 = 2 (𝑥 − 1
+2) − 3
+2 .
+Ponieważ 𝐴𝐵 jest średnicą okręgu, więc kąt 𝐴𝐶𝐵 (jako kąt wpisany oparty na średnicy
+𝐴𝐵) jest prosty. Wobec tego współczynnik kierunkowy 𝑎𝐵𝐶 prostej 𝐵𝐶 jest równy
+𝑎𝐵𝐶 = − 1
+2 i prosta 𝐵𝐶 ma równanie 𝑦 = − 1
+2 (𝑥 − 3
+2) − 1
+2 .
+Punkt 𝐶 = (𝑥𝐶, 𝑦𝐶) leży na prostych 𝐴𝐶 i 𝐵𝐶, więc 𝑦𝐶 = 2 (𝑥𝐶 − 1
+2) − 3
+2 oraz
+𝑦𝐶 = − 1
+2 (𝑥𝐶 − 3
+2) − 1
+2 . Stąd otrzymujemy:
+2 (𝑥𝐶 − 1
+2) − 3
+2 = − 1
+2 (𝑥𝐶 − 3
+2) − 1
+2
+5
+2 𝑥𝐶 = 11
+4
+𝑥𝐶 = 11
+10
+Zatem 𝐶 = (11
+10 , − 3
+10).
+Sposób II (poprzez długości odcinków 𝐴𝐶 i 𝐵𝐶)
+Wyznaczamy punkty przecięcia prostej 𝑙 i paraboli 𝑦 = 4𝑥2 − 7𝑥 + 1:
+{ 𝑦 = 4𝑥2 − 7𝑥 + 1
+𝑥 − 𝑦 − 2 = 0
+{ 𝑥 − 2 = 4𝑥2 − 7𝑥 + 1
+𝑦 = 𝑥 − 2
+{ 4𝑥2 − 8𝑥 + 3 = 0
+𝑦 = 𝑥 − 2
+Rozwiązujemy równanie kwadratowe 4𝑥2 − 8𝑥 + 3 = 0 i otrzymujemy 𝑥 = 1
+2 lub 𝑥 = 3
+2 .
+Dla 𝑥 = 1
+2 otrzymujemy 𝑦 = 1
+2 − 2 = − 3
+2 , więc 𝐴 = (1
+2 , − 3
+2).
+Dla 𝑥 = 3
+2 otrzymujemy 𝑦 = 3
+2 − 2 = − 1
+2 , więc 𝐵 = (3
+2 , − 1
+2).
+Obliczamy długość odcinka 𝐴𝐵:
+|𝐴𝐵| = √(3
+2 − 1
+2)
+2
++ (− 1
+2 + 3
+2)
+2
+= √2
+Ponieważ 𝐴𝐵 jest średnicą okręgu 𝒪, więc kąt wpisany 𝐴𝐶𝐵 jest prosty.
+Obliczamy długości boków 𝐴𝐶 i 𝐵𝐶 trójkąta prostokątnego 𝐴𝐵𝐶.
+Wobec tg 𝛼 = 1
+3 i |𝐴𝐵| = √2 otrzymujemy
+|𝐵𝐶|
+|𝐴𝐶| = 1
+3 i |𝐴𝐶|2 + |𝐵𝐶|2 = (√2)
+2
+. Stąd
+|𝐴𝐶| = 3√5
+5 i |𝐵𝐶| =
+√5
+5 .
+Niech 𝐶 = (𝑥, 𝑦). Wykorzystujemy obliczone długości przyprostokątnych trójkąta 𝐴𝐵𝐶 oraz
+wzór na długość odcinka i zapisujemy równania:
+√5
+5 = |𝐵𝐶| = √(𝑥 − 3
+2)
+2
++ (𝑦 + 1
+2)
+2
+3√5
+5 = |𝐴𝐶| = √(𝑥 − 1
+2)
+2
++ (𝑦 + 3
+2)
+2
+Z układu równań
+{
+1
+5 = 𝑥2 − 3𝑥 + 9
+4 + 𝑦2 + 𝑦 + 1
+4
+9
+5 = 𝑥2 − 𝑥 + 1
+4 + 𝑦2 + 3𝑦 + 9
+4
+otrzymujemy zależność liniową między 𝑦 a 𝑥
+Zasady oceniania rozwiązań zadań
+− 8
+5 = −2𝑥 − 2𝑦
+z której wyznaczamy 𝑦: 𝑦 = −𝑥 + 4
+5 .
+Z otrzymanych równań 𝑦 = −𝑥 + 4
+5 i 1
+5 = 𝑥2 − 3𝑥 + 9
+4 + 𝑦2 + 𝑦 + 1
+4 obliczamy
+współrzędne punktu 𝐶:
+1
+5 = 𝑥2 − 3𝑥 + 9
+4 + (−𝑥 + 4
+5)
+2
++ (−𝑥 + 4
+5) + 1
+4
+0 = 2𝑥2 − 28
+5 𝑥 + 187
+50
+0 = 100𝑥2 − 280𝑥 + 187
+𝑥 = 11
+10 lub 𝑥 = 17
+10
+Rozwiązanie 𝑥 = 17
+10 odrzucamy, gdyż wtedy 𝑦 = − 9
+10 , a punkt (17
+10 , − 9
+10) leży pod
+prostą 𝑙.
+Gdy 𝑥 = 11
+10 , to 𝑦 = − 3
+10 , więc 𝐶 = (11
+10 , − 3
+10).
+Sposób III (poprzez okrąg 𝒪 i prostą 𝐴𝐶)
+Obliczamy współrzędne punktów przecięcia paraboli z prostą 𝑙:
+{ 𝑦 = 4𝑥2 − 7𝑥 + 1
+𝑥 − 𝑦 − 2 = 0
+{ 𝑦 = 4𝑥2 − 7𝑥 + 1
+𝑥 − (4𝑥2 − 7𝑥 + 1) − 2 = 0
+{ 𝑦 = 4𝑥2 − 7𝑥 + 1
+−4𝑥2 + 8𝑥 − 3 = 0
+{
+𝑦 = 4𝑥2 − 7𝑥 + 1
+𝑥 = 1
+2 ∨ 𝑥 = 3
+2
+Stąd 𝐴 = (1
+2 , − 3
+2) oraz 𝐵 = (3
+2 , − 1
+2).
+Prosta 𝑙 ma równanie kierunkowe 𝑦 = 𝑥 − 2, więc jest nachylona do osi 𝑂𝑥 układu
+współrzędnych pod kątem 45°. Zatem prosta przechodząca przez punkty 𝐴 i 𝐶 jest
+nachylona do osi 𝑂𝑥 układu pod kątem 𝛼 + 45°. Obliczamy tg(𝛼 + 45°), korzystając ze
+wzoru na tangens sumy kątów:
+tg(𝛼 + 45°) = tg 𝛼 + tg 45°
+1 − tg 𝛼 ⋅ tg 45° =
+1
+3 + 1
+1 − 1
+3 ⋅ 1
+=
+1 + 3
+3 − 1 = 2
+Wyznaczamy równanie prostej 𝐴𝐶: 𝑦 = 2 (𝑥 − 1
+2) − 3
+2 .
+Obliczamy długość odcinka 𝐴𝐵:
+|𝐴𝐵| = √(3
+2 − 1
+2)
+2
++ (− 1
+2 + 3
+2)
+2
+= √2
+Obliczamy współrzędne środka 𝑆 okręgu 𝒪: 𝑆 = (1, −1).
+Zapisujemy równanie okręgu 𝒪: (𝑥 − 1)2 + (𝑦 + 1)2 = 1
+2 .
+Obliczamy współrzędne punktów przecięcia okręgu 𝒪 z prostą 𝐴𝐶:
+{
+(𝑥 − 1)2 + (𝑦 + 1)2 = 1
+2
+𝑦 = 2𝑥 − 5
+2
+Stąd
+(𝑥 − 1)2 + (2𝑥 − 5
+2 + 1)
+2
+= 1
+2
+𝑥2 − 2𝑥 + 1 + 4𝑥2 − 6𝑥 + 9
+4 = 1
+2
+5𝑥2 − 8𝑥 + 11
+4 = 0
+𝑥 = 1
+2 lub 𝑥 = 11
+10
+Dla 𝑥 = 1
+2 otrzymujemy 𝑦 = − 3
+2 , czyli współrzędne punktu 𝐴.
+Dla 𝑥 = 11
+10 otrzymujemy 𝑦 = − 3
+10 , czyli 𝐶 = (11
+10 , − 3
+10).
+Sposób IV (poprzez okrąg 𝒪 i średnicę przechodzącą przez 𝐶)
+Wyznaczamy punkty przecięcia prostej 𝑙 i paraboli 𝑦 = 4𝑥2 − 7𝑥 + 1:
+{ 𝑦 = 4𝑥2 − 7𝑥 + 1
+𝑥 − 𝑦 − 2 = 0
+{ 𝑥 − 2 = 4𝑥2 − 7𝑥 + 1
+𝑦 = 𝑥 − 2
+{ 4𝑥2 − 8𝑥 + 3 = 0
+𝑦 = 𝑥 − 2
+Rozwiązujemy równanie kwadratowe 4𝑥2 − 8𝑥 + 3 = 0 i otrzymujemy 𝑥 = 1
+2 lub 𝑥 = 3
+2 .
+Dla 𝑥 = 1
+2 otrzymujemy 𝑦 = 1
+2 − 2 = − 3
+2 , więc 𝐴 = (1
+2 , − 3
+2).
+Dla 𝑥 = 3
+2 otrzymujemy 𝑦 = 3
+2 − 2 = − 1
+2 , więc 𝐵 = (3
+2 , − 1
+2).
+Obliczamy długość odcinka 𝐴𝐵:
+Zasady oceniania rozwiązań zadań
+|𝐴𝐵| = √(3
+2 − 1
+2)
+2
++ (− 1
+2 + 3
+2)
+2
+= √2
+Ponieważ 𝐴𝐵 jest średnicą okręgu 𝒪, więc ten okrąg ma środek w punkcie 𝑆 = (1, −1)
+i promień 𝑟 =
+√2
+2 .
+Kąty 𝐶𝐴𝐵 oraz 𝐶𝑆𝐵 są oparte na tym samym łuku okręgu 𝒪, więc
+|∡𝐶𝑆𝐵| = 2 ⋅ |∡𝐶𝐴𝐵| = 2𝛼. Ponieważ tg 𝛼 = 1
+3 , więc
+tg(2𝛼) = 2 tg 𝛼
+1 − tg2 𝛼 =
+2
+3
+1 − (1
+3)
+2 = 3
+4
+Obliczamy współczynnik kierunkowy 𝑎 w równaniu prostej 𝑆𝐶:
+𝑎 = tg(2𝛼 + 45°) = tg(2𝛼) + tg 45°
+1 − tg(2𝛼) ⋅ tg 45° =
+3
+4 + 1
+1 − 3
+4 ⋅ 1
+= 7
+Równanie prostej 𝑆𝐶: 𝑦 = 7(𝑥 − 1) − 1.
+Obliczamy współrzędne punktu 𝐶:
+{ (𝑥 − 1)2 + (𝑦 + 1)2 = 1
+2
+𝑦 = 7(𝑥 − 1) − 1
+{ (𝑥 − 1)2 + [7(𝑥 − 1)]2 = 1
+2
+𝑦 = 7(𝑥 − 1) − 1
+{ 50(𝑥 − 1)2 = 1
+2
+𝑦 = 7(𝑥 − 1) − 1
+{ |𝑥 − 1| = 1
+10
+𝑦 = 7(𝑥 − 1) − 1
+{ 𝑥 = 9
+10 ∨ 𝑥 = 11
+10
+𝑦 = 7(𝑥 − 1) − 1
+Dla 𝑥 = 9
+10 otrzymujemy 𝑦 = − 17
+10 < 𝑦𝐴 , więc punkt ( 9
+10 , − 17
+10) nie spełnia warunków
+zadania.
+Dla 𝑥 = 11
+10 otrzymujemy 𝑦 = − 3
+10 , więc 𝐶 = (11
+10 , − 3
+10).

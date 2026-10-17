@@ -1,0 +1,43 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=130; level=podstawowy; year=2024; section=ALBO]
+130 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+– zapisanie |Ω| = 9 000 oraz poprawna metoda zliczenia czterocyfrowych liczb
+parzystych z ostatnią (i dokładnie jedną) cyfrą 2 oraz dokładnie jedną cyfrą 3
+w zapisie, łącznie z podaniem wyniku: 176,
+ALBO
+– zapisanie |Ω| = 9 000 oraz poprawna metoda zliczenia czterocyfrowych liczb
+parzystych z ostatnią cyfrą parzystą różną od 2 oraz dokładnie jedną cyfrą 3
+i dokładnie jedną cyfrą 2 w zapisie, łącznie z podaniem wyniku: 184.
+1 pkt – poprawna metoda obliczenia, ile jest wszystkich całkowitych liczb czterocyfrowych
+dodatnich, i zapisanie wyniku: |Ω| = 9 ⋅ 10 ⋅ 10 ⋅ 10 = 9 000
+ALBO
+– rozpisanie zbioru zdarzeń sprzyjających z poprawnie określonymi wszystkimi
+możliwymi pozycjami cyfr 2 i 3,
+ALBO
+– poprawna metoda zliczenia czterocyfrowych liczb parzystych z ostatnią (i dokładnie
+jedną) cyfrą 2 oraz dokładnie jedną cyfrą 3 w zapisie, łącznie z podaniem wyniku:
+176,
+ALBO
+– poprawna metoda zliczenia czterocyfrowych liczb parzystych z ostatnią cyfrą
+parzystą różną od 2 oraz dokładnie jedną cyfrą 3 i dokładnie jedną cyfrą 2
+w zapisie, łącznie z podaniem wyniku: 184.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Zbiór zdarzeń elementarnych Ω składa się ze wszystkich czterocyfrowych całkowitych liczb
+dodatnich.
+Sposób 1. obliczenia mocy zbioru Ω.
+Na diagramie poniżej rozpiszemy schemat liczby czterocyfrowej, gdzie dla każdej pozycji
+w zapisie dziesiętnym określimy, ile jest możliwości jej uzupełnienia.
+Zgodnie z zasadą mnożenia, wszystkich liczb czterocyfrowych dodatnich jest:
+|Ω| = 9 ⋅ 10 ⋅ 10 ⋅ 10 = 9 000
+10 możliwości
+wyboru spośród
+{0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+9 możliwości
+wyboru spośród
+{1, 2, 3, 4, 5, 6, 7, 8, 9}
+10 możliwości
+wyboru spośród
+{0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+10 możliwości
+wyboru spośród
+{0, 1, 2, 3, 4, 5, 6, 7, 8, 9}

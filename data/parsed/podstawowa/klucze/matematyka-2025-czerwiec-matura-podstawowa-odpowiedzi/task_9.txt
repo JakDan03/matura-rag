@@ -1,0 +1,56 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=9, 10, 11; level=podstawowy; year=2025; month=czerwiec; task_id=9]
+Zadanie 9. (0–2)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+III.4) rozwiązuje […] nierówności
+kwadratowe.
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody i zapisanie zbioru rozwiązań nierówności:
+𝑥 ∈ (−2, −1)
+ALBO
+– zastosowanie poprawnej metody i przedstawienie zbioru rozwiązań nierówności
+w postaci graficznej z poprawnie zaznaczonymi końcami przedziału, np.
+1 pkt – obliczenie/zapisanie pierwiastków trójmianu kwadratowego 𝑥2 + 3𝑥 + 2:
+𝑥1 = −2 oraz 𝑥2 = −1.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający, obliczając pierwiastki trójmianu 𝑥2 + 3𝑥 + 2, popełni błędy (ale otrzyma
+dwa różne pierwiastki) i konsekwentnie do popełnionych błędów zapisze zbiór rozwiązań
+nierówności, to otrzymuje 1 punkt za całe rozwiązanie.
+2. Jeżeli zdający wyznacza pierwiastki trójmianu kwadratowego, w przypadku gdy błędnie
+obliczony przez zdającego wyróżnik Δ jest ujemny, to otrzymuje 0 punktów za całe
+rozwiązanie.
+3. Jeżeli zdający rozpatruje inny niż podany w zadaniu trójmian kwadratowy, który nie wynika
+z błędu przekształcenia (np. 𝑥(𝑥 + 4)), i w konsekwencji rozpatruje inną nierówność
+(np. 𝑥(𝑥 + 4) < 0), to otrzymuje 0 punktów za całe rozwiązanie.
+4. Jeżeli zdający poda zbiór rozwiązań w postaci graficznej z poprawnie zaznaczonymi
+końcami przedziału i jednocześnie zapisze niewłaściwy przedział jako zbiór rozwiązań
+(np. 𝑥 ∈ [−2, −1]), to otrzymuje 1 punkt za całe rozwiązanie.
+Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki
+Jeśli zdający spełni kryterium za 1 punkt, a następnie zapisze zbiór rozwiązań nierówności
+w postaci (−1, −2), to otrzymuje 2 punkty.
+−2
+−1
+𝑥
+Przykładowe pełne rozwiązanie
+Zapisujemy nierówność w postaci 𝑥2 + 3𝑥 + 2 < 0 i obliczamy miejsca zerowe funkcji
+𝑦 = 𝑥2 + 3𝑥 + 2.
+Obliczamy wyróżnik trójmianu 𝑥2 + 3𝑥 + 2:
+Δ = 32 − 4 ⋅ 1 ⋅ 2 = 1
+Stąd
+𝑥1 = −3 − √1
+2 ⋅ 1 = −2
+𝑥2 = −3 + √1
+2 ⋅ 1 = −1
+Szkicujemy wykres funkcji 𝑦 = 𝑥2 + 3𝑥 + 2.
+Odczytujemy argumenty, dla których funkcja przyjmuje wartości ujemne.
+Zbiorem rozwiązań nierówności jest przedział (−2, −1).
+−2
+−1
+𝑥
+Zasady oceniania rozwiązań zadań

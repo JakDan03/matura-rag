@@ -1,0 +1,25 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=4, 5; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=5]
+Zadanie 5. (0–2)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+I.2) przeprowadza proste dowody dotyczące
+podzielności liczb całkowitych i reszt
+z dzielenia […];
+I.4) stosuje […] prawa działań na potęgach
+[…].
+Zasady oceniania
+2 pkt – poprawne przekształcenia i przeprowadzenie pełnego rozumowania.
+1 pkt – przekształcenie wyrażenia 850 − 2145 do postaci 2150 − 2145.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Korzystamy z własności działań na potęgach i otrzymujemy:
+850 − 2145 = (23)50 − 2145 = 2150 − 2145
+Wyłączamy wspólny czynnik przed nawias:
+2150 − 2145 = 2145 ⋅ (25 − 1) = 2145 ⋅ 31
+Liczba 2145 jest liczbą całkowitą, zatem liczba 850 − 2145 jest podzielna przez 31.
+Zasady oceniania rozwiązań zadań

@@ -1,0 +1,32 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=98; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+98 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 49. (0–3)
+Dany jest trójkąt 𝐴𝐵𝐶 o bokach długości: |𝐴𝐵| = 4, |𝐵𝐶| = 5, |𝐴𝐶| = 6.
+Oblicz sinus najmniejszego kąta wewnętrznego trójkąta 𝑨𝑩𝑪.
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymagania szczegółowe
+VII. Trygonometria. Zdający:
+2) korzysta z wzorów sin2 𝛼 + cos2 𝛼 = 1, tg 𝛼 =
+sin 𝛼
+cos 𝛼 ;
+3) stosuje twierdzenie cosinusów oraz wzór na pole trójkąta 𝑃 =
+1
+2 ⋅ 𝑎 ⋅ 𝑏 ⋅ sin 𝛾.
+VIII. Planimetria. Zdający:
+2) rozpoznaje trójkąty ostrokątne, prostokątne i rozwartokątne przy danych
+długościach boków (m.in. stosuje twierdzenie odwrotne do twierdzenia Pitagorasa i
+twierdzenie cosinusów); stosuje twierdzenie: w trójkącie naprzeciw większego kąta
+wewnętrznego leży dłuższy bok.
+Zasady oceniania
+3 pkt – obliczenie sinusa kąta 𝐴𝐶𝐵: sin|∡𝐴𝐶𝐵| =
+√7
+4
+.
+2 pkt – obliczenie cosinusa kąta 𝐴𝐶𝐵: cos|∡𝐴𝐶𝐵| = 3
+4
+.
+1 pkt – zapisanie, że najmniejszym kątem trójkąta jest kąt 𝐴𝐶𝐵.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.

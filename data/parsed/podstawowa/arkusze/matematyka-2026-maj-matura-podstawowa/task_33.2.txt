@@ -1,0 +1,14 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=32, 33; level=podstawowy; year=2026; month=maj; task_id=33.2]
+Zadanie 33.
+W chwili 𝑡 = 0 z poziomu ziemi wyrzucono piłeczkę pionowo do góry.
+Przyjmijmy, że wysokość ℎ, na której znajduje się piłeczka w danej chwili 𝑡, jest określona
+wzorem
+ℎ(𝑡) = −4,9𝑡2 + 14,7𝑡
+gdzie:
+• czas 𝑡 jest wyrażony w sekundach (s) i zmienia się od 0 do chwili pierwszego
+uderzenia piłeczki o ziemię
+• wysokość ℎ jest wyrażona w metrach i jest liczona względem poziomu ziemi.
+Zadanie 33.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wyrzucona piłeczka osiągnęła największą wysokość w chwili
+A. 𝑡 = 1,5 s B. 𝑡 = 2 s C. 𝑡 = 2,5 s D. 𝑡 = 3 s

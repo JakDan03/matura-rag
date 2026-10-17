@@ -1,0 +1,36 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=52; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+52 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+𝑔(𝑥) = 𝑎(𝑥 − 1)(𝑥 − 5)
+Obliczymy współczynnik 𝑎. Wykres funkcji przechodzi przez punkt (2, −6), zatem:
+−6 = 𝑎(2 − 1)(2 − 5), więc − 6 = 𝑎 ⋅ (−3) i stąd 𝑎 = 2
+Wzór funkcji 𝑔 w postaci iloczynowej ma postać:
+𝑔(𝑥) = 2(𝑥 − 1)(𝑥 − 5)
+Sposób 2.
+Naszkicujemy fragment wykresu funkcji kwadratowej 𝑦 = 𝑔(𝑥), który spełnia warunki:
+1) przechodzi przez punkt 𝑃 = (2, −6),
+2) posiada oś symetrii 𝑥 = 3,
+3) przecina oś 𝑂𝑥 w punkcie (1, 0) (miejsce zerowe funkcji 𝑔 to 𝑥1 = 1).
+Drugie miejsce zerowe funkcji 𝑔 jest położone symetrycznie do 𝑥1 = 1 względem prostej
+𝑥 = 3. Zatem drugim miejscem zerowym jest 𝑥2 = 5.
+Zapiszemy wzór funkcji 𝑔 w postaci iloczynowej dla pewnego rzeczywistego
+współczynnika 𝑎:
+𝑔(𝑥) = 𝑎(𝑥 − 1)(𝑥 − 5)
+Obliczymy współczynnik 𝑎. Wykres funkcji przechodzi przez punkt (2, −6), zatem:
+−6 = 𝑎(2 − 1)(2 − 5)
+Stąd 𝑎 = 2.
+Wzór funkcji 𝑔 w postaci iloczynowej ma postać:
+𝑔(𝑥) = 2(𝑥 − 1)(𝑥 − 5)
+−8 −6 −4 −2 0 2 4 6 8
+𝑦
+𝑥
+𝑦 = 𝑔(𝑥)
+8
+6
+4
+2
+– 2
+– 4
+– 6
+– 8
+𝑥 = 3
+𝑃

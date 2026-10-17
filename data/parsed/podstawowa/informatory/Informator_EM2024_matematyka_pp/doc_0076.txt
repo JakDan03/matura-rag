@@ -1,0 +1,50 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=76; level=podstawowy; year=2024; section=1. Kąt 𝐴𝐶𝐷 jest kątem wpisanym opartym na średnicy, zatem |∡𝐴𝐶𝐷| = 90°.]
+76 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Sposób 2.
+Przeanalizujemy zależności między odcinkami i kątami w przedstawionej sytuacji.
+Na poniższych rysunkach pomocniczych przedstawimy graficzną ilustrację kroków
+postępowania.
+1. Kąt 𝐴𝐶𝐷 jest kątem wpisanym opartym na średnicy, zatem |∡𝐴𝐶𝐷| = 90°.
+2. Zauważmy, że: cos |∡𝐶𝐴𝐷| =
+|𝐴𝐶|
+|𝐴𝐷| =
+√3
+2
+Stąd wynika, że |∡𝐶𝐴𝐷| = 30°, zatem |∡𝐴𝐷𝐶| = 60°.
+3. Zauważamy, że |𝑆𝐶| = |𝑆𝐷| = 𝑟, czyli trójkąt 𝑆𝐷𝐶 jest równoramienny, zatem:
+|∡𝐷𝐶𝑆| = |∡𝑆𝐷𝐶| = 60°, stąd wynika, że |∡𝐶𝑆𝐷| = 60°.
+Z powyższego wynika, że trójkąt 𝑆𝐷𝐶 jest równoboczny.
+4. Zauważamy, że |𝐷𝐵| = |𝐷𝐶| = 𝑟, zatem trójkąt 𝐷𝐵𝐶 jest równoramienny. Z tych
+i poprzednich faktów wynika, że
+|∡𝐶𝐷𝐵| = 180° − 60° = 120°, |∡𝐷𝐵𝐶| = 30°, |∡𝐵𝐶𝐷| = 30°
+𝐶
+𝐴
+𝐵
+𝑆
+√3𝑟
+30°
+60°
+𝐷
+𝑟
+𝑟
+𝑟
+𝐶
+𝐴
+𝐵
+𝑆
+𝐷
+𝑟
+𝑟
+60°
+60°
+60°
+𝑟
+𝑟
+𝐶
+𝐴
+𝐵
+𝑆
+𝐷
+30°
+30°
+120°

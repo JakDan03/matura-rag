@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=103; level=rozszerzony; year=2024; section=2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów]
+Przykładowe zadania z rozwiązaniami 103
+Wymagania ogólne
+II. Wykorzystanie i tworzenie informacji.
+2. […] operowanie informacjami przedstawionymi w tekście […] w formie wykresów,
+diagramów […].
+III. Wykorzystanie i interpretowanie reprezentacji.
+2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów
+praktycznych i teoretycznych.
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Wymagania szczegółowe
+XI. Kombinatoryka. Zdający:
+1R) oblicza liczbę możliwych sytuacji, spełniających określone kryteria,
+z wykorzystaniem reguły mnożenia i dodawania (także łącznie) oraz wzorów na
+liczbę: permutacji, kombinacji i wariacji;

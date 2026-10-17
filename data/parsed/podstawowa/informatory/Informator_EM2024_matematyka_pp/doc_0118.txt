@@ -1,0 +1,45 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=118; level=podstawowy; year=2024; section=1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno]
+118 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Wymagania ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno
+matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów,
+tabel.
+III. Wykorzystanie i interpretowanie reprezentacji.
+2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów
+praktycznych i teoretycznych.
+Wymagania szczegółowe
+VIII. Planimetria. Zdający:
+6) stosuje wzory na pole wycinka koła i długość łuku okręgu.
+X. Stereometria. Zdający:
+5) oblicza objętości i pola powierzchni graniastosłupów, ostrosłupów, walca, stożka
+i kuli, również z wykorzystaniem trygonometrii.
+Zasady oceniania
+3 pkt – poprawna metoda obliczenia miary kąta 𝐵𝑆𝐴 oraz podanie poprawnego wyniku
+|∡𝐵𝑆𝐴| ≈ 134°.
+2 pkt – poprawne wyprowadzenie i zapisanie związku 𝛼 = 𝑟
+𝑙 ⋅ 360° oraz zapisanie
+równania wynikającego z twierdzenia Pitagorasa: 𝑙2 = 𝑟2 + 𝐻2.
+1 pkt – zapisanie równania 𝛼
+360° ⋅ 2𝜋𝑙 = 2𝜋𝑟
+ALBO
+– zapisanie równania 𝛼
+360° ⋅ 𝜋𝑙2 = 𝜋𝑟𝑙 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Wprowadzimy oznaczenia:
+𝑟 = 𝑑
+2 – promień okręgu w podstawie stożka
+𝛼 = |∡𝐵𝑆𝐴| – miara kąta 𝐵𝑆𝐴 wycinka koła
+𝛽 – połowa miary kąta rozwarcia stożka
+𝐴
+𝑆
+𝑙
+𝐵
+𝛼
+𝑆
+𝑙
+𝐻
+𝛽
+𝑟
+𝑂

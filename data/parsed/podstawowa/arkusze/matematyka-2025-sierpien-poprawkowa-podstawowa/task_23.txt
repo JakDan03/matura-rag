@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=21; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=23]
+Zadanie 23. (0–1)
+Dany jest trapez 𝐴𝐵𝐶𝐷 o podstawach 𝐴𝐵 i 𝐶𝐷 takich, że |𝐴𝐵| = 2 ⋅ |𝐶𝐷|.
+Przekątne 𝐴𝐶 i 𝐵𝐷 przecinają się w punkcie 𝐸 (zobacz rysunek).
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Pola trójkątów 𝐵𝐶𝐸 oraz 𝐴𝐸𝐷 są równe. P F
+Pole trójkąta 𝐴𝐵𝐸 jest dwa razy większe od pola trójkąta 𝐶𝐷𝐸. P F
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸

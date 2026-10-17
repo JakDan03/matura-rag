@@ -1,0 +1,14 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=11; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=10]
+Zadanie 10. (0–1)
+Funkcja liniowa 𝑓 jest określona wzorem 𝑓(𝑥) =
+√3
+3 𝑥 − 3.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) wykres funkcji 𝑦 = 𝑓(𝑥) jest prostą
+nachyloną do osi 𝑂𝑥 pod kątem ostrym 𝛼.
+Uzupełnij poniższe zdanie. Wpisz odpowiednią liczbę w wykropkowanym miejscu tak,
+aby zdanie było prawdziwe.
+Sinus kąta 𝛼 jest równy ………. .
+9.
+0–1–2
+10.
+0–1

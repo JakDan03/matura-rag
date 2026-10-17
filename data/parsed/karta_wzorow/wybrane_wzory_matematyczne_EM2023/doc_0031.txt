@@ -1,0 +1,26 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=31; year=2023; section=15. PARAMETRY DANYCH STATYSTYCZNYCH]
+Strona 31 z 34
+15. PARAMETRY DANYCH STATYSTYCZNYCH
+• Średnia arytmetyczna
+Średnia arytmetyczna 𝑎̅ z liczb 𝑎1, 𝑎2, …, 𝑎𝑛 jest równa:
+• Średnia geometryczna
+Średnia geometryczna 𝑔̅ z liczb nieujemnych 𝑎1, 𝑎2, …, 𝑎𝑛 jest równa:
+• Średnia kwadratowa
+Średnia kwadratowa 𝑘̅ z liczb 𝑎1, 𝑎2, …, 𝑎𝑛 jest równa:
+• Nierówności między średnimi liczbowymi
+Niech 𝑎1, 𝑎2, …, 𝑎𝑛 będą liczbami nieujemnymi. Wtedy (przy powyższych
+oznaczeniach) prawdziwe są nierówności:
+Ponadto równość pomiędzy tymi średnimi liczbowymi zachodzi wtedy i tylko wtedy, gdy
+𝑎1 = 𝑎2 = … = 𝑎𝑛.
+• Średnia ważona
+Średnia ważona 𝑠̅ z liczb 𝑎1, 𝑎2, …, 𝑎𝑛, którym przypisano dodatnie wagi –
+odpowiednio: 𝑤1, 𝑤2, …, 𝑤𝑛, jest równa:
+𝑎̅ = 𝑎1 + 𝑎2 + … + 𝑎𝑛
+𝑛
+𝑔̅ = √𝑎1 ⋅ 𝑎2 ⋅ … ⋅ 𝑎𝑛
+𝑛
+𝑘̅ = √(𝑎1)2 + (𝑎2)2 + … + (𝑎𝑛)2
+𝑛
+𝑘̅ ≥ 𝑎̅ ≥ 𝑔̅
+𝑠̅ = 𝑤1 ⋅ 𝑎1 + 𝑤2 ⋅ 𝑎2 + … + 𝑤𝑛 ⋅ 𝑎𝑛
+𝑤1 + 𝑤2 + … + 𝑤𝑛

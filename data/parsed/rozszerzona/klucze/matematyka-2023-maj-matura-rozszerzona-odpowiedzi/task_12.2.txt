@@ -1,0 +1,77 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=41, 42, 43; level=rozszerzony; year=2023; month=maj; task_id=12.2]
+Zadanie 12.2. (0–4)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+XIII.R3) oblicza pochodną funkcji potęgowej
+o wykładniku rzeczywistym oraz oblicza
+pochodną, korzystając z twierdzeń
+o pochodnej sumy, różnicy, iloczynu
+i ilorazu;
+XIII.R4) stosuje pochodną do badania
+monotoniczności funkcji.
+Zasady oceniania
+4 pkt – uzasadnienie, że funkcja 𝑓 przyjmuje wartość najmniejszą dla 𝑥 = 1 i obliczenie
+wartości najmniejszej funkcji 𝑓: (−4).
+3 pkt – uzasadnienie (np. poprzez badanie monotoniczności funkcji), że funkcja 𝑓 przyjmuje
+wartość najmniejszą dla 𝑥 = 1.
+2 pkt – poprawne rozwiązanie równania 4𝑥3 + 2𝑥 − 6 = 0: 𝑥 = 1.
+1 pkt – wyznaczenie pochodnej funkcji 𝑓: 𝑓′(𝑥) = 4𝑥3 + 2𝑥 − 6.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający wyznaczy pochodną funkcji 𝑓 z błędem i wyznaczona pochodna nie jest
+wielomianem stopnia trzeciego, to otrzymuje 0 punktów za całe rozwiązanie.
+2. Za poprawne uzasadnienie, że rozważana funkcja posiada wartość najmniejszą dla
+wyznaczonej wartości 𝑥, przy której pochodna się zeruje, można uznać sytuację, gdy
+zdający bada znak pochodnej oraz:
+– opisuje (słownie lub graficznie - np. przy użyciu strzałek) monotoniczność funkcji 𝑓
+LUB
+– zapisuje, że dla wyznaczonej wartości 𝑥 funkcja 𝑓 ma minimum lokalne i jest to
+jednocześnie jej najmniejsza wartość
+LUB
+– zapisuje, że dla wyznaczonej wartości 𝑥 funkcja 𝑓 ma minimum lokalne i jest to
+jedyne ekstremum tej funkcji.
+3. Badanie znaku pochodnej zdający może opisać w inny sposób, np. szkicując wykres
+funkcji, która w ten sam sposób jak pochodna zmienia znak, i zaznaczając na rysunku,
+np. znakami „+” i „-” znak pochodnej.
+4. Jeżeli zdający przedstawi niepełne uzasadnienie, że dla 𝑥 = 1 funkcja 𝑓 osiąga
+najmniejszą wartość i obliczy 𝑓(1) = −4, to otrzymuje 3 punkty za całe rozwiązanie.
+Jeśli zdający nie przedstawi żadnego uzasadnienia i obliczy 𝑓(1) = −4, to otrzymuje co
+najwyżej 2 punkty za całe rozwiązanie.
+5. Jeżeli zdający:
+– nie rozwiązuje równania 4𝑥3 + 2𝑥 − 6 = 0, lecz stwierdza, że liczba 1 jest jego
+rozwiązaniem bez uzasadnienia, że jest to jedyne rozwiązanie rzeczywiste tego
+równania
+ALBO
+– popełnia błąd (który nie jest błędem rachunkowym) przy rozkładzie wielomianu
+4𝑥3 + 2𝑥 − 6 na czynniki, ale otrzymuje wielomian stopnia trzeciego, który przyjmuje
+w zbiorze (0, +∞) wartość najmniejszą
+i dalej konsekwentnie rozwiązuje zadanie do końca, to otrzymuje 2 punkty za całe
+rozwiązanie.
+Przykładowe pełne rozwiązanie
+Dla każdego 𝑥 > 0 wyrażenie 81log3 𝑥 + 2 ⋅ log2 √27 ⋅ log3 2
+3 ⋅ 𝑥2 − 6𝑥 jest równe
+wyrażeniu 𝑥4 + 𝑥2 − 6𝑥. Obliczamy najmniejszą wartość funkcji 𝑓 określonej wzorem
+𝑓(𝑥) = 𝑥4 + 𝑥2 − 6𝑥 dla 𝑥 ∈ (0, +∞).
+Wyznaczamy pochodną funkcji 𝑓: 𝑓′(𝑥) = 4𝑥3 + 2𝑥 − 6 dla 𝑥 ∈ (0, +∞).
+Obliczamy miejsca zerowe pochodnej funkcji 𝑓:
+𝑓′(𝑥) = 0
+4𝑥3 + 2𝑥 − 6 = 0
+4𝑥3 + 2𝑥 − 4 − 2 = 0
+4(𝑥3 − 1) + 2(𝑥 − 1) = 0
+4(𝑥 − 1)(𝑥2 + 𝑥 + 1) + 2(𝑥 − 1) = 0
+(𝑥 − 1)(4𝑥2 + 4𝑥 + 4 + 2) = 0
+(𝑥 − 1)(4𝑥2 + 4𝑥 + 6) = 0
+𝑥 − 1 = 0 lub 4𝑥2 + 4𝑥 + 6 = 0
+𝑥 = 1
+gdyż 4𝑥2 + 4𝑥 + 6 > 0 dla każdego 𝑥 > 0.
+Badamy znak pochodnej:
+𝑓′(𝑥) > 0 dla 𝑥 ∈ (1, +∞),
+𝑓′(𝑥) < 0 dla 𝑥 ∈ (0, 1).
+Zatem funkcja 𝑓 jest malejąca w przedziale (0, 1] oraz jest rosnąca w przedziale [1, +∞).
+Stąd dla 𝑥 = 1 funkcja 𝑓 osiąga wartość najmniejszą równą 𝑓(1) = 14 + 12 − 6 ∙ 1 = −4.
+Zasady oceniania rozwiązań zadań

@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=5; level=rozszerzony; year=2026; month=czerwiec; task_id=2]
+Zadanie 2. (0–3)
+Rozważamy wszystkie dziewięciocyfrowe kody, które spełniają jednocześnie następujące
+warunki:
+• na pierwszym miejscu kodu znajduje się cyfra 2
+• cyfra 4 występuje w kodzie dokładnie trzy razy
+• cyfra 8 występuje dokładnie dwa razy
+• pozostałe cyfry kodu są parami różnymi liczbami nieparzystymi.
+Oblicz liczbę wszystkich takich kodów. Zapisz obliczenia.
+2.
+0–1–
+2–3

@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=17; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=17]
+Zadanie 17. (0–1)
+Ciąg geometryczny (𝑎𝑛), o wszystkich wyrazach rzeczywistych różnych od 0, jest
+określony dla każdej liczby naturalnej 𝑛 ≥ 1.
+Wyrazy tego ciągu spełniają warunek 𝑎3 = −8 ⋅ 𝑎6 .
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Iloraz ciągu (𝑎𝑛) jest równy
+A. (−2) B. (− 1
+2) C. 1
+2 D. 2

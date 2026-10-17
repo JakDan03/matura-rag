@@ -1,0 +1,22 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=56; level=podstawowy; year=2024; section=2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów]
+56 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 32.3. (0–3)
+W opisanym rzucie piłka przeleciała swobodnie przez obręcz kosza i upadła na parkiet.
+Przyjmij, że obręcz kosza nie miała siatki, a na drodze rzutu nie było żadnej przeszkody.
+Promień piłki jest równy 0,12 m.
+Oblicz współrzędną 𝒙 środka piłki w momencie, w którym piłka dotknęła parkietu.
+Wynik zapisz w metrach w zaokrągleniu do drugiego miejsca po przecinku.
+Wymagania ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów
+praktycznych i teoretycznych.
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno
+matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów,
+tabel.
+Wymagania szczegółowe
+V. Funkcje. Zdający:
+11) wykorzystuje własności funkcji […] kwadratowej do interpretacji zagadnień
+geometrycznych, fizycznych itp., także osadzonych w kontekście praktycznym.
+III. Równania i nierówności. Zdający:
+4) rozwiązuje równania i nierówności kwadratowe.

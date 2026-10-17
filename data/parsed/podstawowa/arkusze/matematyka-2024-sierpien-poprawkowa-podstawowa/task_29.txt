@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=28; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=29]
+Zadanie 29. (0–2)
+Dane są dwa zbiory: 𝐶 = {0, 4, 5, 7, 9} oraz 𝐷 = {1, 2, 3}.
+Losujemy jedną liczbę ze zbioru 𝐶, a następnie losujemy jedną liczbę ze zbioru 𝐷.
+Oblicz prawdopodobieństwo zdarzenia 𝑨 polegającego na tym, że suma
+wylosowanych liczb będzie większa od 𝟗. Zapisz obliczenia.
+29.
+0–1–2

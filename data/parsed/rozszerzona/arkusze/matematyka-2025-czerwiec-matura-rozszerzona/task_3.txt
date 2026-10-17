@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=6, 7; level=rozszerzony; year=2025; month=czerwiec; task_id=3]
+Zadanie 3. (0–3)
+Rozważamy wszystkie liczby naturalne sześciocyfrowe, w których zapisie dziesiętnym
+iloczyn cyfr jest liczbą parzystą mniejszą od 5.
+Oblicz, ile jest wszystkich takich liczb sześciocyfrowych. Zapisz obliczenia.
+Kolejne zadania egzaminacyjne są wydrukowane
+na następnych stronach.

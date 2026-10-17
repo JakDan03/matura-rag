@@ -1,0 +1,64 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=24, 25; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=29]
+Zadanie 29. (0–2)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+XII.1) oblicza prawdopodobieństwo
+w modelu klasycznym.
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody obliczenia prawdopodobieństwa zdarzenia 𝐴
+i uzyskanie poprawnego wyniku: 𝑃(𝐴) = 6
+36
+.
+1 pkt – wypisanie wszystkich zdarzeń elementarnych LUB obliczenie/podanie liczby tych
+zdarzeń: |Ω| = 6 ⋅ 6, LUB sporządzenie tabeli o 36 polach odpowiadających
+zdarzeniom elementarnym, LUB sporządzenie pełnego drzewa stochastycznego
+ALBO
+– wypisanie (lub zaznaczenie w tabeli) wszystkich zdarzeń elementarnych
+sprzyjających zdarzeniu 𝐴 i niewypisanie żadnego niewłaściwego,
+ALBO
+– podanie liczby wszystkich zdarzeń elementarnych sprzyjających zdarzeniu 𝐴:
+|𝐴| = 6, o ile nie zostały zliczone błędne pary,
+ALBO
+– sporządzenie fragmentu drzewa stochastycznego, który zawiera wszystkie gałęzie
+sprzyjające zdarzeniu 𝐴, oraz zapisanie prawdopodobieństwa na co najmniej
+jednym odcinku każdego z etapów doświadczenia,
+ALBO
+– podanie prawdopodobieństwa jednoelementowego zdarzenia (elementarnego): 1
+36
+,
+ALBO
+– zapisanie tylko 𝑃(𝐴) = 1
+6
+,
+ALBO
+– zapisanie tylko 𝑃(𝐴) = 6
+36
+.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli zdający zapisuje tylko liczby 1 i 6 (lub 6 i 36) i z rozwiązania nie wynika znaczenie
+tych liczb, to otrzymuje 0 punktów za całe rozwiązanie.
+Zasady oceniania rozwiązań zadań
+Przykładowe pełne rozwiązanie
+Zdarzeniami elementarnymi są wszystkie uporządkowane pary liczb (𝑥, 𝑦), gdzie
+𝑥, 𝑦 ∈ {1, 2, 3, 4, 5, 6}.
+W tabeli literą 𝒜 zaznaczamy zdarzenia elementarne sprzyjające zdarzeniu 𝐴.
+II rzut
+I rzut
+𝟏 𝟐 𝟑 𝟒 𝟓 𝟔
+𝟏 𝒜
+𝟐 𝒜
+𝟑 𝒜
+𝟒 𝒜
+𝟓 𝒜
+𝟔 𝒜
+Moc zbioru Ω jest równa 36. Zdarzeń sprzyjających zdarzeniu 𝐴 jest 6.
+Zatem prawdopodobieństwo zdarzenia 𝐴 jest równe 6
+36 = 1
+6
+.

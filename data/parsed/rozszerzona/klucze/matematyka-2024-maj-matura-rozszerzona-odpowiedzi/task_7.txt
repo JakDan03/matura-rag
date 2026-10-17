@@ -1,0 +1,167 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=14, 15, 16, 17, 18; level=rozszerzony; year=2024; month=maj; task_id=7]
+Zadanie 7. (0–4)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+VI.6) wykorzystuje własności ciągów, w tym
+arytmetycznych i geometrycznych, do
+rozwiązywania zadań […].
+Zasady oceniania (dla sposobu I i II)
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑥 = 5, 𝑦 = 20, 𝑧 = 80.
+3 pkt – zapisanie równania z jedną niewiadomą 𝑟, np. (35 − 𝑟)2 = (35 − 2𝑟) ⋅ (35 + 3𝑟)
+ALBO
+– poprawne wyznaczenie 𝑟 w zależności od 𝑥 z równania (𝑥 + 𝑟)2 = 𝑥(𝑥 + 5𝑟):
+𝑟 = 3𝑥.
+2 pkt – zapisanie 𝑥, 𝑦 oraz 𝑧 w zależności od 𝑟: 𝑥 = 35 − 2𝑟, 𝑦 = 35 − 𝑟, 𝑧 = 35 + 3𝑟
+ALBO
+– zapisanie układu równań
+𝑥 + 𝑥 + 𝑟 + 𝑥 + 5𝑟 = 105 i (𝑥 + 𝑟)2 = 𝑥(𝑥 + 5𝑟) lub
+𝑥 + 𝑥 + 𝑟 + 𝑥 + 5𝑟 = 105 i 𝑥 + 𝑥 ⋅ 𝑥 + 5𝑟
+𝑥 + 𝑟 + 𝑥 ⋅ (𝑥 + 5𝑟
+𝑥 + 𝑟 )
+2
+= 105
+1 pkt – zapisanie równania 𝑥 + 𝑥 + 𝑟 + 𝑥 + 5𝑟 = 105
+ALBO
+– zapisanie równania (𝑥 + 𝑟)2 = 𝑥(𝑥 + 5𝑟),
+ALBO
+– zapisanie równania 𝑥 + 𝑥 ⋅ 𝑥 + 5𝑟
+𝑥 + 𝑟 + 𝑥 ⋅ (𝑥 + 5𝑟
+𝑥 + 𝑟 )
+2
+= 105.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania (dla sposobu III)
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑥 = 5, 𝑦 = 20, 𝑧 = 80.
+3 pkt – zapisanie równania z jedną niewiadomą 𝑦, np. 𝑦2 = (2𝑦 − 35) ⋅ (140 − 3𝑦).
+2 pkt – zapisanie 𝑥 oraz 𝑧 w zależności od 𝑦: 𝑥 = 2𝑦 − 35, 𝑧 = 140 − 3𝑦.
+1 pkt – zapisanie równania 4 ⋅ (𝑦 − 𝑥) = 𝑧 − 𝑦 lub 𝑦2 = 𝑥𝑧, lub 5(𝑦 − 𝑥) = 𝑧 − 𝑥.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania (dla sposobu IV)
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑥 = 5, 𝑦 = 20, 𝑧 = 80.
+3 pkt – zapisanie równania 𝑥 + 𝑥 ⋅ 𝑞 + 𝑥 ⋅ 𝑞2 = 105 oraz obliczenie 𝑞: 𝑞 = 4
+ALBO
+– zapisanie równania 𝑥 + 𝑥 ⋅ 𝑞 + 𝑥 ⋅ 𝑞2 = 105 oraz zapisanie, że ciąg (𝑥, 𝑦, 𝑧) jest
+rosnący, więc 𝑥 ≠ 0, oraz zapisanie równania 𝑞2 − 5𝑞 + 4 = 0.
+2 pkt – zapisanie równania 4 ⋅ (𝑥 ⋅ 𝑞 − 𝑥) = 𝑥 ⋅ 𝑞2 − 𝑥 ⋅ 𝑞 oraz zapisanie, że ciąg (𝑥, 𝑦, 𝑧)
+jest rosnący, więc 𝑥 ≠ 0 i 𝑞 ≠ 1, oraz obliczenie 𝑞: 𝑞 = 4
+Zasady oceniania rozwiązań zadań
+ALBO
+– zapisanie równań 4 ⋅ (𝑥 ⋅ 𝑞 − 𝑥) = 𝑥 ⋅ 𝑞2 − 𝑥 ⋅ 𝑞 oraz
+𝑥 + 𝑥 ⋅ 𝑞 + 𝑥 ⋅ 𝑞2 = 105.
+1 pkt – zapisanie równania 4 ⋅ (𝑥 ⋅ 𝑞 − 𝑥) = 𝑥 ⋅ 𝑞2 − 𝑥 ⋅ 𝑞 lub 𝑥 + 𝑥 ⋅ 𝑞 + 𝑥 ⋅ 𝑞2 = 105.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający dzieli obie strony otrzymanego równania przez wyrażenie zawierające
+niewiadomą i nie umieszcza zapisu, że to wyrażenie jest różne od zera, oraz
+konsekwentnie rozwiąże zadanie do końca, to może otrzymać co najwyżej 3 punkty za
+całe rozwiązanie.
+2. Jeżeli zdający popełni błąd, który nie jest rachunkowy, np. 𝑎1 + 𝑎1 + 5𝑟
+2 ⋅ 6 = 105,
+𝑦 − 𝑥 = 4 ⋅ (𝑧 − 𝑦) i rozwiąże zadanie do końca, to może otrzymać co najwyżej
+2 punkty za całe rozwiązanie (za spełnienie kryterium z kategorii za 1 pkt oraz za
+obliczenie 𝑥, 𝑦 oraz 𝑧).
+Przykładowe pełne rozwiązania
+Sposób I
+Niech 𝑟 będzie różnicą ciągu arytmetycznego (𝑎𝑛). Wtedy 𝑦 = 𝑥 + 𝑟 oraz 𝑧 = 𝑥 + 5𝑟.
+Ponieważ 𝑥 + 𝑦 + 𝑧 = 105, więc
+𝑥 + (𝑥 + 𝑟) + (𝑥 + 5𝑟) = 105
+𝑥 + 2𝑟 = 35
+𝑥 = 35 − 2𝑟
+Zatem 𝑦 = 35 − 2𝑟 + 𝑟 = 35 − 𝑟 oraz 𝑧 = 35 − 2𝑟 + 5𝑟 = 35 + 3𝑟.
+Z własności ciągu geometrycznego otrzymujemy
+𝑦2 = 𝑥 ⋅ 𝑧
+(35 − 𝑟)2 = (35 − 2𝑟) ⋅ (35 + 3𝑟)
+352 − 70𝑟 + 𝑟2 = 352 + 35𝑟 − 6𝑟2
+7𝑟2 − 105𝑟 = 0
+𝑟 = 0 ∨ 𝑟 = 15
+Dla 𝑟 = 0 otrzymujemy 𝑥 = 𝑦 = 𝑧, więc warunki zadania nie są spełnione.
+Dla 𝑟 = 15 otrzymujemy 𝑥 = 5, 𝑦 = 20, 𝑧 = 80. Ciąg (5, 20, 80) jest geometryczny
+i rosnący. Suma wyrazów tego ciągu jest równa 105. Ponadto wyrazy tego ciągu są –
+odpowiednio – pierwszym, drugim i szóstym wyrazem ciągu arytmetycznego określonego
+wzorem 𝑎𝑛 = 5 + 15𝑛, gdzie 𝑛 ∈ ℕ+.
+Zatem ostatecznie 𝑥 = 5, 𝑦 = 20, 𝑧 = 80.
+Sposób II
+Niech 𝑟 będzie różnicą ciągu arytmetycznego (𝑎𝑛). Wtedy 𝑦 = 𝑥 + 𝑟 oraz 𝑧 = 𝑥 + 5𝑟.
+Ponieważ 𝑥 + 𝑦 + 𝑧 = 105, więc
+𝑥 + (𝑥 + 𝑟) + (𝑥 + 5𝑟) = 105
+Z własności ciągu geometrycznego otrzymujemy
+𝑦2 = 𝑥 ⋅ 𝑧
+Ponieważ 𝑦 = 𝑥 + 𝑟 oraz 𝑧 = 𝑥 + 5𝑟, więc
+(𝑥 + 𝑟)2 = 𝑥 ⋅ (𝑥 + 5𝑟)
+Zatem otrzymujemy układ dwóch równań z niewiadomymi 𝑥 oraz 𝑟:
+{ 𝑥 + 𝑥 + 𝑟 + 𝑥 + 5𝑟 = 105
+(𝑥 + 𝑟)2 = 𝑥(𝑥 + 5𝑟)
+Ze związku (𝑥 + 𝑟)2 = 𝑥 ⋅ (𝑥 + 5𝑟) otrzymujemy kolejno:
+𝑥2 + 2𝑥𝑟 + 𝑟2 = 𝑥2 + 5𝑥𝑟
+𝑟2 − 3𝑟𝑥 = 0
+𝑟 = 0 ∨ 𝑟 = 3𝑥
+Dla 𝑟 = 0 otrzymujemy 𝑥 = 𝑦 = 𝑧, więc warunki zadania nie są spełnione.
+Dla 𝑟 = 3𝑥 otrzymujemy
+{3𝑥 + 6𝑟 = 105
+𝑟 = 3𝑥
+Rozwiązaniem tego układu równań jest para liczb { 𝑥 = 5
+𝑟 = 15
+Stąd 𝑦 = 𝑥 + 𝑟 = 5 + 15 = 20 oraz 𝑧 = 𝑥 + 5𝑟 = 5 + 75 = 80.
+Ciąg (5, 20, 80) jest geometryczny i rosnący. Suma wyrazów tego ciągu jest równa 105.
+Ponadto wyrazy tego ciągu są – odpowiednio – pierwszym, drugim i szóstym wyrazem ciągu
+arytmetycznego określonego wzorem 𝑎𝑛 = 5 + 15𝑛, gdzie 𝑛 ∈ ℕ+.
+Zatem ostatecznie 𝑥 = 5, 𝑦 = 20, 𝑧 = 80.
+Sposób III
+Z warunków zadania oraz z własności ciągów geometrycznego i arytmetycznego
+otrzymujemy zależności między 𝑥, 𝑦 oraz 𝑧:
+𝑥 + 𝑦 + 𝑧 = 105
+𝑦2 = 𝑥𝑧
+4 ⋅ (𝑦 − 𝑥) = 𝑧 − 𝑦
+Rozwiązujemy układ tych trzech równań:
+{
+𝑧 = 105 − 𝑥 − 𝑦
+𝑦2 = 𝑥 ⋅ (105 − 𝑥 − 𝑦)
+4 ⋅ (𝑦 − 𝑥) = 105 − 𝑥 − 𝑦 − 𝑦
+Zasady oceniania rozwiązań zadań
+{
+𝑧 = 105 − 𝑥 − 𝑦
+𝑦2 = 𝑥 ⋅ (105 − 𝑥 − 𝑦)
+𝑥 = 2𝑦 − 35
+{
+𝑧 = 140 − 3𝑦
+𝑦2 = (2𝑦 − 35) ⋅ (140 − 3𝑦)
+𝑥 = 2𝑦 − 35
+{
+𝑧 = 140 − 3𝑦
+7𝑦2 − 385𝑦 + 4900 = 0
+𝑥 = 2𝑦 − 35
+{
+𝑧 = 80
+𝑦 = 20
+𝑥 = 5
+∨ {
+𝑧 = 35
+𝑦 = 35
+𝑥 = 35
+Dla 𝑥 = 𝑦 = 𝑧 = 35 warunki zadania nie są spełnione.
+Ciąg (5, 20, 80) jest geometryczny i rosnący. Suma wyrazów tego ciągu jest równa 105.
+Ponadto wyrazy tego ciągu są – odpowiednio – pierwszym, drugim i szóstym wyrazem ciągu
+arytmetycznego określonego wzorem 𝑎𝑛 = 5 + 15𝑛, gdzie 𝑛 ∈ ℕ+.
+Zatem 𝑥 = 5, 𝑦 = 20, 𝑧 = 80.
+Sposób IV
+Niech 𝑞 będzie ilorazem ciągu geometrycznego (𝑥, 𝑦, 𝑧). Wtedy 𝑦 = 𝑥 ⋅ 𝑞 oraz
+𝑧 = 𝑥 ⋅ 𝑞2. Z warunków zadania oraz własności ciągu arytmetycznego otrzymujemy
+4 ⋅ (𝑦 − 𝑥) = 𝑧 − 𝑦
+4 ⋅ (𝑥 ⋅ 𝑞 − 𝑥) = 𝑥 ⋅ 𝑞2 − 𝑥 ⋅ 𝑞
+Ponieważ ciąg (𝑥, 𝑦, 𝑧) jest rosnący, więc 𝑥 ≠ 0 i 𝑞 ≠ 1. Zatem
+4 ⋅ (𝑥 ⋅ 𝑞 − 𝑥) = 𝑥 ⋅ 𝑞2 − 𝑥 ⋅ 𝑞
+4 ⋅ 𝑥 ⋅ (𝑞 − 1) = 𝑥 ⋅ 𝑞 ⋅ (𝑞 − 1)
+4 = 𝑞
+Z warunków zadania 𝑥 + 𝑦 + 𝑧 = 105, więc 𝑥 + 𝑥 ⋅ 𝑞 + 𝑥 ⋅ 𝑞2 = 105 i dalej
+𝑥 + 𝑥 ⋅ 4 + 𝑥 ⋅ 42 = 105. Stąd otrzymujemy 𝑥 = 5. Wówczas 𝑦 = 5 ⋅ 4 = 20 oraz
+𝑧 = 5 ⋅ 42 = 80.
+Ciąg (5, 20, 80) jest geometryczny i rosnący. Suma wyrazów tego ciągu jest równa 105.
+Ponadto wyrazy tego ciągu są – odpowiednio – pierwszym, drugim i szóstym wyrazem ciągu
+arytmetycznego określonego wzorem 𝑎𝑛 = 5 + 15𝑛, gdzie 𝑛 ∈ ℕ+.
+Zatem 𝑥 = 5, 𝑦 = 20, 𝑧 = 80.

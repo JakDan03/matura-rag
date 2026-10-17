@@ -1,0 +1,38 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=29; level=rozszerzony; year=2026; month=czerwiec; task_id=13.1]
+Zadanie 13.1. (0–2)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+IX.1) […] znajduje punkt wspólny dwóch
+prostych […];
+IX.2) posługuje się równaniami prostych na
+płaszczyźnie […].
+Zasady oceniania
+2 pkt – poprawne przekształcenia i przeprowadzenie pełnego rozumowania.
+1 pkt – wyznaczenie pierwszej współrzędnej 𝑥𝐴 punktu 𝐴 oraz drugiej współrzędnej 𝑦𝐵
+punktu 𝐵 w zależności od współczynnika kierunkowego 𝑎 prostej 𝐴𝐵: 𝑥𝐴 = 𝑎 − 2
+𝑎
+oraz 𝑦𝐵 = 2 − 𝑎.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Prosta 𝐴𝐵 przechodzi przez punkty 𝐵 oraz 𝐾 = (1, 2) o różnych pierwszych
+współrzędnych, więc równanie tej prostej można zapisać w postaci kierunkowej
+𝑦 = 𝑎(𝑥 − 1) + 2, czyli 𝑦 = 𝑎𝑥 + (2 − 𝑎).
+Ponieważ punkt 𝐵 leży na dodatniej półosi 𝑂𝑦, więc 𝐵 = (0, 2 − 𝑎) i 2 − 𝑎 > 0, czyli
+𝑎 < 2.
+Ponieważ punkt 𝐴 leży na dodatniej półosi 𝑂𝑥, więc 𝐴 = (𝑎 − 2
+𝑎 , 0) oraz 𝑎 − 2
+𝑎 > 0.
+Wyznaczamy pole 𝑃 trójkąta 𝐴𝐵𝐶:
+𝑃 = 1
+2 ⋅ |𝐴𝐶| ⋅ |𝐵𝐶| = 1
+2 ⋅ |𝑎 − 2
+𝑎 | ⋅ |2 − 𝑎| = 1
+2 ⋅ 𝑎 − 2
+𝑎 ⋅ (2 − 𝑎) = −𝑎2 + 4𝑎 − 4
+2𝑎
+To należało wykazać.

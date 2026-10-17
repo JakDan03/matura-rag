@@ -1,0 +1,59 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=6, 7, 8; level=podstawowy; year=2026; month=marzec; term=probna; task_id=8]
+Zadanie 8. (0–2)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+III.4) rozwiązuje […] nierówności
+kwadratowe.
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody i poprawny wynik: (−∞, −6) ∪ (4, +∞)
+ALBO
+– zastosowanie poprawnej metody i przedstawienie zbioru rozwiązań nierówności
+w postaci graficznej z poprawnie zaznaczonymi końcami przedziałów, np.
+1 pkt – obliczenie pierwiastków trójmianu kwadratowego 𝑥2 + 2𝑥 − 24:
+𝑥1 = −6 oraz 𝑥2 = 4.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Odpowiedź zdającego uznajemy za poprawną tylko wtedy, gdy można w sposób
+jednoznaczny ustalić, czy przedziały zapisane przez zdającego są otwarte czy domknięte.
+2. Jeżeli zdający, obliczając pierwiastki trójmianu 𝑥2 + 2𝑥 − 24, popełni błędy (ale otrzyma
+dwa różne pierwiastki) i konsekwentnie do popełnionych błędów zapisze zbiór rozwiązań
+nierówności, to otrzymuje 1 punkt za całe rozwiązanie.
+3. Jeżeli zdający wyznacza pierwiastki trójmianu kwadratowego, w przypadku gdy błędnie
+obliczony przez zdającego wyróżnik Δ jest ujemny, to otrzymuje 0 punktów za całe
+rozwiązanie.
+4. Jeżeli zdający rozpatruje trójmian kwadratowy inny niż podany w zadaniu, który nie wynika
+z błędu przekształcenia (np. 𝑥2 + 2𝑥 − 15), i w konsekwencji rozpatruje inną nierówność
+(np. 𝑥2 + 2𝑥 − 15 > 0), to otrzymuje 0 punktów za całe rozwiązanie.
+5. Jeżeli zdający poda zbiór rozwiązań w postaci graficznej z poprawnie zaznaczonymi
+końcami przedziałów i jednocześnie zapisze niewłaściwy zbiór rozwiązań (np. 𝑥 ∈ (−6, 4)
+lub 𝑥 ∈ (−∞ − 6] ∪ [4, +∞)), to otrzymuje 1 punkt za całe rozwiązanie.
+Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki
+Jeśli zdający spełni kryterium za 1 punkt, a następnie pomyli porządek liczb na osi liczbowej
+przy zachowaniu poprawnych krańców przedziału, np. zapisze zbiór rozwiązań nierówności
+w postaci (−∞, 4) ∪ (−6, +∞) lub w postaci (+∞, −6) ∪ (4, −∞), to otrzymuje 2 punkty.
+−6
+4
+𝑥
+Zasady oceniania rozwiązań zadań
+Przykładowe pełne rozwiązanie
+Zapisujemy nierówność w postaci 𝑥2 + 2𝑥 − 24 > 0 i obliczamy miejsca zerowe funkcji
+𝑦 = 𝑥2 + 2𝑥 − 24.
+Obliczamy wyróżnik trójmianu 𝑥2 + 2𝑥 − 24:
+Δ = 22 − 4 ⋅ 1 ⋅ (−24) = 100
+Stąd
+𝑥1 = −2 − √100
+2 ⋅ 1 = −6
+𝑥2 = −2 + √100
+2 ⋅ 1 = 4
+Szkicujemy wykres funkcji 𝑦 = 𝑥2 + 2𝑥 − 24.
+Odczytujemy argumenty, dla których funkcja przyjmuje wartości dodatnie.
+Zbiorem rozwiązań nierówności jest (−∞, −6) ∪ (4, +∞).
+−6
+4
+𝑥
+Próbny egzamin maturalny z matematyki na poziomie podstawowym – marzec 2026 r.

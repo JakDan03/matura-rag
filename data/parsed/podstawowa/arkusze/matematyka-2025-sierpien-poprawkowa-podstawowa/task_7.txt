@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=7; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=7]
+Zadanie 7. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Zbiorem wszystkich rozwiązań nierówności
+3 − 𝑥 ≥ 5𝑥 − 1
+2
+jest przedział
+A. (−∞, 1] B. (−∞, 7
+6] C. [1, +∞) D. [7
+6 , +∞)

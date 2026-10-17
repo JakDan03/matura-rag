@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=16; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=15]
+Zadanie 15. (0–1)
+Ciąg (𝑎𝑛) jest określony wzorem 𝑎𝑛 = 32 ⋅ (−1)𝑛
+2𝑛−1 dla każdej liczby naturalnej 𝑛 ≥ 1.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Szósty wyraz ciągu (𝑎𝑛) jest równy
+A. (−2) B. (−1) C. 1 D. 2

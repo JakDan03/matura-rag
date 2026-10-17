@@ -1,0 +1,32 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=79; level=podstawowy; year=2024; section=2 D. 20]
+Przykładowe zadania z rozwiązaniami 79
+Zadanie 44. (0–1)
+Dany jest trójkąt prostokątny 𝐴𝐵𝐶 o bokach |𝐴𝐶| = 12, |𝐵𝐶| = 5, |𝐴𝐵| = 13.
+Dwusieczne kątów tego trójkąta przecinają się w punkcie 𝑃 (zobacz rysunek).
+Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.
+Odległość 𝑥 punktu 𝑃 od przeciwprostokątnej 𝐴𝐵 jest równa
+A. 1 B. 2 C. 5
+2 D. 20
+13
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymaganie szczegółowe
+VIII. Planimetria. Zdający:
+10) wskazuje podstawowe punkty szczególne w trójkącie: środek okręgu wpisanego
+w trójkąt, środek okręgu opisanego na trójkącie, ortocentrum, środek ciężkości oraz
+korzysta z ich własności.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+B
+𝑥
+𝑃
+𝐶
+𝐴
+𝐵
+12
+13
+5

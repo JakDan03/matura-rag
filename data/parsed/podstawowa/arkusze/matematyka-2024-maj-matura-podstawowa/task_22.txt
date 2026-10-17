@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=20; level=podstawowy; year=2024; month=maj; task_id=22]
+Zadanie 22. (0–1)
+W trójkącie 𝐴𝐵𝐶, wpisanym w okrąg o środku w punkcie 𝑆, kąt 𝐴𝐶𝐵 ma miarę 42°
+(zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Miara kąta ostrego 𝐵𝐴𝑆 jest równa
+A. 42° B. 45° C. 48° D. 69°

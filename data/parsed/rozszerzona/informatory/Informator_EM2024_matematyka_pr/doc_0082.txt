@@ -1,0 +1,53 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=82; level=rozszerzony; year=2024; section=4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań […].]
+82 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań […].
+Wymaganie szczegółowe
+X. Stereometria. Zdający:
+2R) wyznacza przekroje sześcianu […].
+Zasady oceniania
+dla rozwiązań sposobami 1.–4.
+3 pkt – zastosowanie poprawnej metody i poprawny wynik.
+2 pkt – obliczenie pola trójkąta 𝐶𝑃𝑆 i wyrażenie pola tegoż trójkąta za pomocą ℎ (gdzie ℎ
+jest szukaną docelowo odległością w zadaniu)
+ALBO
+– obliczenie sinusa kąta 𝑆𝑃𝐶 i wyrażenie sinusa kąta 𝐾𝑃𝐶 za pomocą ℎ (gdzie ℎ
+jest szukaną docelowo odległością w zadaniu)
+ALBO
+– wyznaczenie objętości ostrosłupa 𝐵𝐶𝐷𝑃 o podstawie 𝐵𝐶𝐷 i wyrażenie objętości
+ostrosłupa 𝐵𝐷𝑃𝐶 o podstawie 𝐵𝐷𝑃 za pomocą ℎ (gdzie ℎ jest szukaną
+docelowo odległością w zadaniu)
+ALBO
+– zastosowanie twierdzenia Pitagorasa do trójkątów 𝑆𝐾𝐶 oraz 𝑃𝐾𝐶 i zapisanie
+równania
+(√2
+2 𝑎)
+2
+− (|𝑃𝑆| − |𝐾𝑃|)2 = (𝑎
+2)
+2
+− |𝐾𝑃|2
+1 pkt – obliczenie odległości punktu 𝑃 od punktu 𝑆.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób 1. (z wykorzystaniem równości pól trójkąta)
+Oznaczmy przez 𝑆 punkt przecięcia się przekątnych podstawy 𝐴𝐵𝐶𝐷 sześcianu,
+natomiast przez ℎ – wysokość trójkąta 𝐶𝑃𝑆 opuszczoną z wierzchołka 𝐶 na bok 𝑃𝑆.
+Stosujemy twierdzenie Pitagorasa do trójkąta 𝐶𝑃𝑆 i obliczamy długość boku 𝑃𝑆:
+|𝑃𝑆|2 = |𝐶𝑆|2 + |𝐶𝑃|2
+|𝑃𝑆|2 = (1
+2 𝑎√2)
+2
++ (1
+2 𝑎)
+2
+|𝑃𝑆| = √3
+2 𝑎
+Ponieważ pole trójkąta 𝐶𝑃𝑆 jest równe
+𝑃𝐶𝑃𝑆 = 1
+2 ⋅ |𝐶𝑆| ⋅ |𝐶𝑃| = 1
+2 ⋅ 1
+2 𝑎√2 ⋅ 1
+2 𝑎 = √2
+8 𝑎2

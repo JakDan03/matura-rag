@@ -1,0 +1,203 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=20, 21, 22, 23, 24, 25; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=21]
+Zadanie 21. (0–4)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+IX.1) […] znajduje wspólny punkt dwóch
+prostych […];
+IX.2) posługuje się równaniem prostej na
+płaszczyźnie w postaci kierunkowej, w tym
+wyznacza równanie prostej o zadanych
+własnościach (takich jak na przykład [...]
+równoległość […] do innej prostej […]).
+Zasady oceniania
+4 pkt – poprawna metoda obliczenia współrzędnych punktu 𝐵 oraz podanie poprawnego
+wyniku: 𝐵 = (6, 2).
+3 pkt – wyznaczenie równania prostej 𝐵𝐶: 𝑦 = 2𝑥 − 10
+ALBO
+– obliczenie współrzędnych punktu 𝐷: 𝐷 = (12, 20),
+ALBO
+– obliczenie współrzędnych punktu 𝐴: 𝐴 = (2, 0) oraz obliczenie współrzędnych
+środka 𝑀𝐴𝐵 boku 𝐴𝐵: 𝑀𝐴𝐵 = (4, 1),
+ALBO
+– obliczenie współrzędnych punktu 𝐶: 𝐶 = (16, 22) oraz obliczenie współrzędnych
+środka 𝑀𝐵𝐶 boku 𝐵𝐶: 𝑀𝐵𝐶 = (11, 12),
+ALBO
+– zapisanie układu równań pozwalającego obliczyć jedną ze współrzędnych punktu 𝐵,
+np.:
+𝑥𝑏 + 𝑥𝑑
+2 = 9 oraz
+1
+2 𝑥𝑏 − 1 + 2𝑥𝑑 − 4
+2 = 11,
+𝑥𝑏 + 𝑥𝑑
+2 = 9 oraz 𝑦𝑏 + 𝑦𝑑
+2 = 11 oraz 𝑦𝑏 = 1
+2 𝑥𝑏 − 1 oraz 𝑦𝑑 = 2𝑥𝑑 − 4.
+2 pkt – obliczenie współrzędnych punktu 𝐶: 𝐶 = (16, 22)
+ALBO
+– obliczenie współrzędnych środka 𝑀𝐴𝐵 boku 𝐴𝐵: 𝑀𝐴𝐵 = (4, 1),
+ALBO
+– obliczenie współrzędnych środka 𝑀𝐵𝐶 boku 𝐵𝐶: 𝑀𝐵𝐶 = (11, 12),
+ALBO
+– obliczenie współrzędnych punktu 𝐴: 𝐴 = (2, 0) oraz wyznaczenie równania prostej
+𝑆𝑀𝐴𝐵 (gdzie 𝑀𝐴𝐵 jest środkiem boku 𝐴𝐵): 𝑦 = 2𝑥 − 7,
+ALBO
+Zasady oceniania rozwiązań zadań
+– obliczenie współrzędnych punktu 𝐴: 𝐴 = (2, 0) oraz obliczenie współrzędnych
+środka 𝑀𝐴𝐷 boku 𝐴𝐷: 𝑀𝐴𝐷 = (7, 10),
+ALBO
+– zapisanie zależności pomiędzy odpowiednimi współrzędnymi punktów 𝐵, 𝐷 oraz 𝑆:
+𝑥𝑏 + 𝑥𝑑
+2 = 9 oraz 𝑦𝑏 + 𝑦𝑑
+2 = 11 oraz zapisanie współrzędnych punktu 𝐵
+w zależności od jednej zmiennej (𝑥𝑏 lub 𝑦𝑏), np. 𝐵 = (𝑥𝑏, 1
+2 𝑥𝑏 − 1),
+ALBO
+– zapisanie zależności pomiędzy odpowiednimi współrzędnymi punktów 𝐵, 𝐷 oraz 𝑆:
+𝑥𝑏 + 𝑥𝑑
+2 = 9 oraz 𝑦𝑏 + 𝑦𝑑
+2 = 11 oraz zapisanie współrzędnych punktu 𝐷
+w zależności od jednej zmiennej (𝑥𝑑 lub 𝑦𝑑), np. 𝐷 = (𝑥𝑑, 2𝑥𝑑 − 4),
+ALBO
+– zapisanie współrzędnych punktu 𝐵 w zależności od jednej zmiennej (𝑥𝑏 lub 𝑦𝑏)
+oraz zapisanie współrzędnych punktu 𝐷 w zależności od jednej zmiennej (𝑥𝑑 lub
+𝑦𝑑), np. 𝐵 = (𝑥𝑏, 1
+2 𝑥𝑏 − 1) oraz 𝐷 = (𝑥𝑑, 2𝑥𝑑 − 4).
+1 pkt – obliczenie współrzędnych punktu 𝐴: 𝐴 = (2, 0)
+ALBO
+– wyznaczenie równania prostej 𝑆𝑀𝐴𝐵 (gdzie 𝑀𝐴𝐵 jest środkiem odcinka 𝐴𝐵):
+𝑦 = 2𝑥 − 7,
+ALBO
+– obliczenie współrzędnych środka 𝑀𝐴𝐷 boku 𝐴𝐷: 𝑀𝐴𝐷 = (7, 10),
+ALBO
+– zapisanie zależności pomiędzy odpowiednimi współrzędnymi punktów 𝐵, 𝐷 oraz 𝑆:
+𝑥𝑏 + 𝑥𝑑
+2 = 9 oraz 𝑦𝑏 + 𝑦𝑑
+2 = 11,
+ALBO
+– zapisanie współrzędnych punktu 𝐵 w zależności od jednej zmiennej, np.
+𝐵 = (𝑥𝑏, 1
+2 𝑥𝑏 − 1),
+ALBO
+– zapisanie współrzędnych punktu 𝐷 w zależności od jednej zmiennej, np.
+𝐷 = (𝑥𝑑, 2𝑥𝑑 − 4).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli jedynym błędem zdającego jest:
+a) zastosowanie niepoprawnego wzoru na współczynnik kierunkowy prostej
+b) zastosowanie niepoprawnego związku między współczynnikami kierunkowymi
+prostych równoległych
+c) zastosowanie niepoprawnego wzoru na współrzędne środka odcinka,
+i rozwiązanie zostanie doprowadzone konsekwentnie do końca, to zdający może otrzymać
+2 punkty za całe rozwiązanie. Jeżeli zdający popełni więcej niż jeden z wymienionych
+błędów a)–c), to otrzymuje 0 punktów za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Punkt 𝐴 jest punktem wspólnym prostych 𝐴𝐵 i 𝐴𝐷, zatem współrzędne tego punktu są
+rozwiązaniem układu równań
+{ 𝑦 = 1
+2 𝑥 − 1
+𝑦 = 2𝑥 − 4
+Stąd
+2𝑥 − 4 = 1
+2 𝑥 − 1
+3
+2 𝑥 = 3
+𝑥 = 2
+𝑦 = 0
+Zatem 𝐴 = (2, 0).
+Punkt 𝑆 jest środkiem odcinka 𝐴𝐶, więc
+2 + 𝑥𝑐
+2 = 9 oraz 0 + 𝑦𝑐
+2 = 11
+𝑥𝑐 = 16 oraz 𝑦𝑐 = 22
+Zatem 𝐶 = (16, 22).
+Prosta 𝐵𝐶 jest równoległa do prostej 𝐴𝐷, zatem współczynnik kierunkowy prostej 𝐵𝐶 jest
+równy 2. Wyznaczamy równanie prostej 𝐵𝐶:
+𝑦 = 2(𝑥 − 16) + 22
+𝑦 = 2𝑥 − 10
+Punkt 𝐵 jest punktem wspólnym prostych 𝐴𝐵 i 𝐵𝐶, zatem współrzędne tego punktu są
+rozwiązaniem układu równań
+{ 𝑦 = 1
+2 𝑥 − 1
+𝑦 = 2𝑥 − 10
+Stąd
+2𝑥 − 10 = 1
+2 𝑥 − 1
+3
+2 𝑥 = 9
+𝑥 = 6
+𝑦 = 2
+Zatem 𝐵 = (6, 2).
+Zasady oceniania rozwiązań zadań
+Sposób II
+Punkt 𝐴 jest punktem wspólnym prostych 𝐴𝐵 i 𝐴𝐷, zatem współrzędne tego punktu są
+rozwiązaniem układu równań
+{ 𝑦 = 1
+2 𝑥 − 1
+𝑦 = 2𝑥 − 4
+Stąd
+2𝑥 − 4 = 1
+2 𝑥 − 1
+3
+2 𝑥 = 3
+𝑥 = 2
+𝑦 = 0
+Zatem 𝐴 = (2,0).
+Oznaczmy przez 𝑀𝐴𝐵 środek odcinka 𝐴𝐵. Prosta 𝑆𝑀𝐴𝐵 jest równoległa do prostej 𝐴𝐷,
+zatem współczynnik kierunkowy prostej 𝑆𝑀𝐴𝐵 jest równy 2.
+Wyznaczamy równanie prostej 𝑆𝑀𝐴𝐵:
+𝑦 = 2(𝑥 − 9) + 11
+𝑦 = 2𝑥 − 7
+Punkt 𝑀𝐴𝐵 jest punktem wspólnym prostych 𝐴𝐵 i 𝑆𝑀𝐴𝐵, zatem współrzędne tego punktu
+są rozwiązaniem układu równań
+{ 𝑦 = 1
+2 𝑥 − 1
+𝑦 = 2𝑥 − 7
+Stąd
+2𝑥 − 7 = 1
+2 𝑥 − 1
+3
+2 𝑥 = 6
+𝑥 = 4
+𝑦 = 1
+Zatem 𝑀𝐴𝐵 = (4, 1).
+Punkt 𝑀𝐴𝐵 jest środkiem odcinka 𝐴𝐵, więc
+2 + 𝑥𝑏
+2 = 4 oraz 0 + 𝑦𝑏
+2 = 1
+𝑥𝑏 = 6 oraz 𝑦𝑏 = 2
+Zatem 𝐵 = (6, 2).
+Sposób III
+Punkt 𝐵 leży na prostej o równaniu 𝑦 = 1
+2 𝑥 − 1, stąd 𝑦𝑏 = 1
+2 𝑥𝑏 − 1.
+Punkt 𝐷 leży na prostej o równaniu 𝑦 = 2𝑥 − 4, stąd 𝑦𝑑 = 2𝑥𝑑 − 4.
+Punkt 𝑆 jest środkiem odcinka 𝐵𝐷, więc
+𝑥𝑏 + 𝑥𝑑
+2 = 9 oraz 𝑦𝑏 + 𝑦𝑑
+2 = 11
+Zatem
+𝑥𝑏 + 𝑥𝑑
+2 = 9 oraz
+1
+2 𝑥𝑏 − 1 + 2𝑥𝑑 − 4
+2 = 11
+𝑥𝑏 + 𝑥𝑑 = 18 oraz 1
+2 𝑥𝑏 + 2𝑥𝑑 = 27
+𝑥𝑑 = 18 − 𝑥𝑏 oraz 1
+2 𝑥𝑏 + 2(18 − 𝑥𝑏) = 27
+Stąd otrzymujemy
+− 3
+2 𝑥𝑏 = −9
+𝑥𝑏 = 6
+𝑦𝑏 = 1
+2 𝑥𝑏 − 1 = 1
+2 ⋅ 6 − 1 = 2
+Zatem 𝐵 = (6, 2).
+Zasady oceniania rozwiązań zadań

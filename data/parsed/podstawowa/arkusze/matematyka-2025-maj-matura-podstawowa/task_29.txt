@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=26; level=podstawowy; year=2025; month=maj; task_id=29]
+Zadanie 29. (0–1)
+Średnia arytmetyczna siedmiu liczb: 1, 2, 3, 4, 5, 𝑥, 𝑦, jest równa 3.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Suma 𝑥 + 𝑦 jest równa
+A. 4 B. 5 C. 6 D. 7

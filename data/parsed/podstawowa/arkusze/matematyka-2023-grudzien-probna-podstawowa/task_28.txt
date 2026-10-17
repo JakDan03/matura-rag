@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=27; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=28]
+Zadanie 28. (0–1)
+Doświadczenie losowe polega na dwukrotnym rzucie symetryczną sześcienną kostką do gry,
+która na każdej ściance ma inną liczbę oczek – od jednego oczka do sześciu oczek.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Prawdopodobieństwo zdarzenia polegającego na tym, że iloczyn liczb wyrzuconych oczek
+jest liczbą nieparzystą, jest równe
+A. 1
+2 B. 1
+5 C. 1
+4 D. 3
+4

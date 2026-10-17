@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=4; level=podstawowy; year=2024; month=czerwiec; task_id=2]
+Zadanie 2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba log3 (3
+2) + log3 (2
+9) jest równa
+A. log3
+31
+18 B. log3
+5
+11 C. (−1) D. 1
+3

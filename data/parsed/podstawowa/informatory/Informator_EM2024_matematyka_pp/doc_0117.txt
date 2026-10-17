@@ -1,0 +1,28 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=117; level=podstawowy; year=2024; section=1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno]
+Przykładowe zadania z rozwiązaniami 117
+Wymagania ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno
+matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów,
+tabel.
+III. Wykorzystanie i interpretowanie reprezentacji.
+2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów
+praktycznych i teoretycznych.
+Wymagania szczegółowe
+X. Stereometria. Zdający:
+4) rozpoznaje w walcach i w stożkach kąt między odcinkami oraz kąt między
+odcinkami i płaszczyznami (np. kąt rozwarcia stożka, kąt między tworzącą
+a podstawą), oblicza miary tych kątów.
+VII. Trygonometria. Zdający:
+4) oblicza kąty trójkąta prostokątnego i długości jego boków przy odpowiednich danych
+(rozwiązuje trójkąty prostokątne, w tym z wykorzystaniem funkcji
+trygonometrycznych).
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+A
+Zadanie 59.2. (0–3)
+Oblicz miarę kąta 𝑩𝑺𝑨 wycinka koła, z którego powstała powierzchnia boczna stożka
+opisanego we wstępie do zadania. Miarę kąta 𝑩𝑺𝑨 podaj w zaokrągleniu do jednego
+stopnia.

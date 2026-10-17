@@ -1,0 +1,40 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=121; level=podstawowy; year=2024; section=|𝑂𝐸| = |𝑆𝑂|]
+Przykładowe zadania z rozwiązaniami 121
+Przykładowe pełne rozwiązanie
+Przyjmujemy oznaczenia jak na rysunku:
+Ponieważ 𝑂 jest punktem przecięcia przekątnych kwadratu, to |𝑂𝐸| = 3√3.
+W trójkącie prostokątnym 𝑆𝑂𝐸 mamy
+tg 30° = |𝑆𝑂|
+|𝑂𝐸| = |𝑆𝑂|
+3√3
+Zatem
+|𝑆𝑂| = 3√3 ⋅ tg 30° = 3√3 ⋅ √3
+3 = 3
+Obliczamy objętość 𝑉 ostrosłupa:
+𝑉 = 1
+3 ⋅ (6√3)
+2
+⋅ 3 = 108
+Ponadto
+cos 30° = |𝑂𝐸|
+|𝑆𝐸| = 3√3
+|𝑆𝐸|
+Stąd
+|𝑆𝐸| ⋅ cos 30° = 3√3
+|𝑆𝐸| ⋅ √3
+2 = 3√3
+|𝑆𝐸| = 6
+Obliczamy pole powierzchni całkowitej 𝑃𝑐 ostrosłupa:
+𝑃𝑐 = (6√3)
+2
++ 4 ⋅ 1
+2 ⋅ 6√3 ⋅ 6 = 108 + 72√3
+30°
+6√3
+𝑆
+𝐸
+𝑂
+𝐷
+𝐵
+𝐴
+𝐶

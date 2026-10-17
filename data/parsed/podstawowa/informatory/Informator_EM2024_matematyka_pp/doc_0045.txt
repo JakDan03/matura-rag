@@ -1,0 +1,33 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=45; level=podstawowy; year=2024; section=A. [−5, −3] B. [3, 8] C. [0, 6] D. [−3, 3]]
+Przykładowe zadania z rozwiązaniami 45
+Zadanie 27.2. (0–1)
+Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.
+Funkcja 𝑓 jest malejąca w przedziale
+A. [−5, −3] B. [3, 8] C. [0, 6] D. [−3, 3]
+Wymaganie ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno
+matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów,
+tabel.
+Wymaganie szczegółowe
+V. Funkcje. Zdający:
+4) odczytuje z wykresu funkcji […] przedziały monotoniczności […].
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+D
+Zadanie 27.3. (0–2)
+Uzupełnij zdania. Wpisz odpowiednie liczby w wykropkowanych miejscach tak, aby
+zdania były prawdziwe.
+1. Największa wartość funkcji 𝑓 jest równa ……… .
+2. Najmniejsza wartość funkcji 𝑓 w przedziale [6, 8] jest równa ……… .
+Wymaganie ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno
+matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów,
+tabel.
+Wymaganie szczegółowe
+V. Funkcje. Zdający:
+4) odczytuje z wykresu funkcji […] największe i najmniejsze wartości funkcji (o ile
+istnieją) w danym przedziale domkniętym [...].

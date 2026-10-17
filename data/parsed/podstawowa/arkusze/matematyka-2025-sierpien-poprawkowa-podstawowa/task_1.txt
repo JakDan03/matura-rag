@@ -1,0 +1,5 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=4; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=1]
+Zadanie 1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba |√5 − 3| + |√5 − 1| jest równa
+A. 2√5 − 4 B. 2√5 + 4 C. 2 D. 4

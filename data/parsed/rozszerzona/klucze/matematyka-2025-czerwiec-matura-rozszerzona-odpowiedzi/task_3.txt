@@ -1,0 +1,79 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=7, 8, 9; level=rozszerzony; year=2025; month=czerwiec; task_id=3]
+Zadanie 3. (0–3)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+XI.R1) oblicza liczbę możliwych sytuacji,
+spełniających określone kryteria,
+z wykorzystaniem reguły mnożenia
+i dodawania (także łącznie) oraz wzorów na
+liczbę: permutacji, kombinacji i wariacji.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 368 586.
+2 pkt – wyznaczenie liczby liczb sześciocyfrowych o iloczynie cyfr równym 4 (np. (6
+2) + 6)
+oraz zapisanie liczby liczb sześciocyfrowych o iloczynie cyfr równym 2: 6, oraz
+wyznaczenie liczby liczb sześciocyfrowych o iloczynie cyfr równym 0
+(np. 9 ⋅ 105 − 96).
+1 pkt – wyznaczenie liczby liczb sześciocyfrowych o iloczynie cyfr równym 4 (np. (6
+2) + 6)
+oraz zapisanie liczby liczb sześciocyfrowych o iloczynie cyfr równym 2: 6
+ALBO
+– wyznaczenie liczby liczb sześciocyfrowych o iloczynie cyfr równym 0, np.:
+9 ⋅ 105 − 96 , 5 ⋅ 95 + (5
+2) ⋅ 94 + (5
+3) ⋅ 93 + (5
+4) ⋅ 92 + (5
+5) ⋅ 9, 368 559,
+ALBO
+– wypisanie wszystkich przypadków, dla których iloczyn cyfr będzie liczbą parzystą
+mniejszą od 5: jedna dwójka i pięć jedynek, dwie dwójki i cztery jedynki, jedna
+czwórka i pięć jedynek, co najmniej jedno zero.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Iloczyn cyfr liczby naturalnej sześciocyfrowej jest równy 4 tylko wtedy, gdy w zapisie
+dziesiętnym tej liczby występują:
+• dwie dwójki i cztery jedynki,
+albo
+• jedna czwórka i pięć jedynek.
+Liczb naturalnych sześciocyfrowych, w których zapisie dziesiętnym występują dokładnie dwie
+dwójki i cztery jedynki jest (6
+2) = 15.
+Liczb naturalnych sześciocyfrowych, w których zapisie dziesiętnym występują dokładnie
+jedna czwórka i pięć jedynek jest 6.
+Zatem wszystkich liczb naturalnych sześciocyfrowych o iloczynie cyfr równym 4 jest 21.
+Iloczyn cyfr liczby naturalnej sześciocyfrowej jest równy 2 tylko wtedy, gdy w zapisie
+dziesiętnym tej liczby występują jedna dwójka i pięć jedynek.
+Zatem wszystkich liczb naturalnych sześciocyfrowych o iloczynie cyfr równym 2 jest 6.
+Iloczyn cyfr liczby naturalnej sześciocyfrowej jest równy 0 tylko wtedy, gdy w zapisie
+dziesiętnym tej liczby występuje na pierwszej pozycji cyfra różna od zera, a na dalszych
+pozycjach co najmniej jedno zero.
+Ponieważ wszystkich liczb naturalnych sześciocyfrowych jest 9 ⋅ 105, a wszystkich liczb
+naturalnych sześciocyfrowych o wszystkich cyfrach różnych od zera jest 96, więc wszystkich
+liczb naturalnych sześciocyfrowych o iloczynie cyfr równym 0 jest 9 ⋅ 105 − 96 = 368 559.
+Zatem wszystkich liczb naturalnych sześciocyfrowych, których iloczyn cyfr jest liczbą
+parzystą mniejszą od 5 jest 21 + 6 + 368 559 = 368 586.
+Uwaga.
+Liczbę wszystkich liczb naturalnych sześciocyfrowych o iloczynie cyfr równym 0 można
+obliczyć też w następujący sposób.
+Wszystkich liczb naturalnych sześciocyfrowych, w których zapisie dziesiętnym cyfra zero
+występuje dokładnie jeden raz jest (5
+1) ⋅ 95 = 295 245.
+Wszystkich liczb naturalnych sześciocyfrowych, w których zapisie dziesiętnym cyfra zero
+występuje dokładnie dwa razy jest (5
+2) ⋅ 94 = 65 610.
+Wszystkich liczb naturalnych sześciocyfrowych, w których zapisie dziesiętnym cyfra zero
+występuje dokładnie trzy razy jest (5
+3) ⋅ 93 = 7 290.
+Wszystkich liczb naturalnych sześciocyfrowych, w których zapisie dziesiętnym cyfra zero
+występuje dokładnie cztery razy jest (5
+4) ⋅ 92 = 405.
+Wszystkich liczb naturalnych sześciocyfrowych, w których zapisie dziesiętnym cyfra zero
+występuje dokładnie pięć razy jest (5
+5) ⋅ 91 = 9.
+Zatem wszystkich liczb naturalnych sześciocyfrowych o iloczynie cyfr równym 0 jest
+295 245 + 65 610 + 7 290 + 405 + 9 = 368 559
+Zasady oceniania rozwiązań zadań

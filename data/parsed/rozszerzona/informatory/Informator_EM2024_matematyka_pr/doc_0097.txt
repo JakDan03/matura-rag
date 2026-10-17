@@ -1,0 +1,58 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=97; level=rozszerzony; year=2024; section=KOMBINATORYKA, RACHUNEK PRAWDOPODOBIEŃSTWA I STATYSTYKA]
+Przykładowe zadania z rozwiązaniami 97
+Wymagania szczegółowe
+XI. Kombinatoryka. Zdający:
+1R) oblicza liczbę możliwych sytuacji, spełniających określone kryteria,
+z wykorzystaniem reguły mnożenia i dodawania (także łącznie) oraz wzorów na
+liczbę: permutacji, kombinacji i wariacji;
+2R) stosuje współczynnik dwumianowy (symbol Newtona) i jego własności przy
+rozwiązywaniu problemów kombinatorycznych.
+XII. Rachunek prawdopodobieństwa i statystyka. Zdający:
+1) oblicza prawdopodobieństwo w modelu klasycznym.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik.
+3 pkt – rozpatrzenie wszystkich możliwych przypadków, kiedy suma trzech liczb naturalnych
+daje przy dzieleniu przez 3 resztę 1, tj. zapisanie, że moc zbioru 𝐴 wynosi
+(𝑛
+2) ⋅ (𝑛 + 1
+1 ) + (𝑛 + 1
+2 ) ⋅ (𝑛
+1) + (𝑛
+2) ⋅ (𝑛
+1)
+2 pkt – rozpatrzenie tylko dwóch z wszystkich możliwych przypadków, kiedy suma trzech
+liczb naturalnych daje przy dzieleniu przez 3 resztę 1 – tj. zapisanie, że moc zbioru
+𝐴 wynosi
+(𝑛
+2) ⋅ (𝑛 + 1
+1 ) + (𝑛 + 1
+2 ) ⋅ (𝑛
+1)
+LUB
+(𝑛
+2) ⋅ (𝑛 + 1
+1 ) + (𝑛
+2) ⋅ (𝑛
+1)
+LUB
+(𝑛 + 1
+2 ) ⋅ (𝑛
+1) + (𝑛
+2) ⋅ (𝑛
+1)
+1 pkt – wyznaczenie liczby wszystkich trójelementowych podzbiorów zbioru 𝕄.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Wyznaczamy liczbę wszystkich trójelementowych podzbiorów zbioru 𝕄:
+(3𝑛 + 1
+3 ) = (3𝑛 + 1) ⋅ 3𝑛 ⋅ (3𝑛 − 1)
+6 = (3𝑛 + 1)𝑛(3𝑛 − 1)
+2
+Wyznaczamy moc zbioru 𝐴.
+Zauważmy, że suma trzech liczb naturalnych daje przy dzieleniu przez 3 resztę 1, gdy:
+1) dwie z tych liczb są podzielne przez 3, a jedna z tych liczb daje przy dzieleniu przez 3
+resztę 1
+LUB
+2) dwie z tych liczb dają przy dzieleniu przez 3 resztę 1, a jedna z tych liczb daje przy
+dzieleniu przez 3 resztę 2,
+LUB

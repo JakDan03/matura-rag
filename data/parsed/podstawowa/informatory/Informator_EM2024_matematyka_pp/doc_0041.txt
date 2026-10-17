@@ -1,0 +1,26 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=41; level=podstawowy; year=2024; section=A. (−6) B. (−4) C. 3 D. 4]
+Przykładowe zadania z rozwiązaniami 41
+Zadanie 24. (0–1)
+Dana jest funkcja 𝑓 określona wzorem:
+𝑓(𝑥) = {
+2𝑥 − 6 dla 𝑥 ≤ 2
+𝑥 − 4 dla 𝑥 > 2
+Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.
+Miejscem zerowym funkcji 𝑓 jest liczba
+A. (−6) B. (−4) C. 3 D. 4
+Wymaganie ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymagania szczegółowe
+V. Funkcje. Zdający:
+1) określa funkcje jako jednoznaczne przyporządkowanie za pomocą opisu słownego,
+tabeli, wykresu, wzoru (także różnymi wzorami na różnych przedziałach);
+3) odczytuje i interpretuje wartości funkcji określonych za pomocą tabel, wykresów,
+wzorów itp., również w sytuacjach wielokrotnego użycia tego samego źródła
+informacji lub kilku źródeł jednocześnie.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+D

@@ -1,0 +1,44 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=107; level=podstawowy; year=2024; section=ALBO]
+Przykładowe zadania z rozwiązaniami 107
+1 pkt – obliczenie współrzędnych punktu 𝐴: 𝐴 = (2, 0)
+ALBO
+– wyznaczenie równania prostej 𝑆𝑀𝐴𝐵 (gdzie 𝑀𝐴𝐵 jest środkiem odcinka 𝐴𝐵):
+𝑦 = 3𝑥 − 8.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób 1.
+Punkt 𝐴 jest punktem wspólnym prostych 𝐴𝐵 i 𝐴𝐷, zatem współrzędne tego punktu są
+rozwiązaniem układu równań
+{𝑦 = 𝑥 − 2
+𝑦 = 3𝑥 − 6
+Stąd
+𝑥 − 2 = 3𝑥 − 6
+−2𝑥 = −4
+𝑥 = 2
+𝑦 = 0
+Zatem 𝐴 = (2,0).
+Punkt 𝑆 jest środkiem odcinka 𝐴𝐶, więc
+2 + 𝑥𝑐
+2 = 11
+2 oraz 0 + 𝑦𝑐
+2 = 17
+2
+𝑥𝑐 = 9 oraz 𝑦𝑐 = 17
+Zatem 𝐶 = (9, 17).
+Prosta 𝐵𝐶 jest równoległa do prostej 𝐴𝐷, zatem współczynnik kierunkowy prostej 𝐵𝐶 jest
+równy 3.
+Wyznaczamy równanie prostej 𝐵𝐶. Skorzystamy ze wzoru na równanie kierunkowe prostej
+o danym współczynniku kierunkowym, która przechodzi przez dany punkt (zobacz
+w Wybranych wzorach matematycznych).
+𝑦 = 3(𝑥 − 9) + 17
+𝑦 = 3𝑥 − 10
+Punkt 𝐵 jest punktem wspólnym prostych 𝐴𝐵 i 𝐵𝐶, zatem współrzędne tego punktu są
+rozwiązaniem układu równań
+{ 𝑦 = 𝑥 − 2
+𝑦 = 3𝑥 − 10
+Stąd
+𝑥 − 2 = 3𝑥 − 10
+−2𝑥 = −8
+𝑥 = 4
+𝑦 = 2
+Zatem 𝐵 = (4, 2).

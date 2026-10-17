@@ -1,0 +1,16 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=8; level=rozszerzony; year=2025; month=czerwiec; task_id=4]
+Zadanie 4. (0–3)
+Dany jest prostokąt 𝐴𝐵𝐶𝐷, w którym |𝐴𝐵| = 2 ⋅ |𝐴𝐷|. Na bokach 𝐴𝐵, 𝐵𝐶, 𝐶𝐷 oraz 𝐷𝐴
+tego prostokąta obrano punkty – odpowiednio – 𝐾, 𝐿, 𝑀 oraz 𝑁 (przy czym każdy z tych
+punktów leży na dokładnie jednym boku prostokąta 𝐴𝐵𝐶𝐷). Czworokąt 𝐾𝐿𝑀𝑁 jest
+trapezem prostokątnym (zobacz rysunek), a wysokość 𝐿𝑀 tego trapezu jest równoległa do
+przekątnej 𝐵𝐷 prostokąta.
+Wykaż, że stosunek pola trójkąta 𝑴𝑫𝑵 do pola trójkąta 𝑲𝑩𝑳 jest równy 𝟏𝟔.
+𝐴
+𝐵
+𝐶
+𝐷
+𝐾
+𝐿
+𝑀
+𝑁

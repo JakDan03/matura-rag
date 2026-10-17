@@ -1,0 +1,24 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=37; level=rozszerzony; year=2024; section=|𝐷𝐾| + |𝐾𝐴| = |𝐷′𝐾| + |𝐾𝐴| ≥ |𝐷′𝐴| = |𝐷𝐾′| + |𝐾′𝐴|]
+Przykładowe zadania z rozwiązaniami 37
+Zauważmy jeszcze, że w przypadku sieci dróg z jednym węzłem, najkrótsza taka sieć będzie
+miała długość równą 600√2 km (i węzeł w środku kwadratu 𝐴𝐵𝐶𝐷). Będzie więc dłuższa
+niż sieć z dwoma węzłami.
+Zadanie 11. (0–3)
+Funkcja 𝑓 jest określona wzorem 𝑓(𝑥) = 2𝑥 − 3
+𝑥 + 2 + 4 log1
+2
+𝑥 dla każdego 𝑥 > 0.
+Wykaż, że funkcja 𝒇 ma co najmniej jedno miejsce zerowe, które należy do
+przedziału [𝟏
+𝟐 , 𝟒].
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+1. przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.
+Wymaganie szczegółowe
+XIII. Optymalizacja i rachunek różniczkowy. Zdający:
+2R) stosuje własność Darboux do uzasadniania istnienia miejsca zerowego funkcji.
+Zasady oceniania
+3 pkt – przeprowadzenie pełnego dowodu.
+2 pkt – zapisanie, że 𝑓 (1
+2) > 0 i 𝑓(4) < 0 oraz uzasadnienie, że funkcja 𝑓 jest ciągła.

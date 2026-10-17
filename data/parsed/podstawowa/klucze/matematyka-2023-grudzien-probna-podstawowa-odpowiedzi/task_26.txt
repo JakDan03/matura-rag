@@ -1,0 +1,373 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=24, 25, 26, 27, 28, 29, 30, 31; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=26]
+Zadanie 26. (0–3)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+3. Tworzenie pomocniczych obiektów
+matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub
+rozwiązania problemu.
+Zdający:
+X.2) posługuje się pojęciem kąta między
+prostą a płaszczyzną;
+X.3) rozpoznaje w graniastosłupach
+i ostrosłupach kąty między odcinkami
+(np. krawędziami, krawędziami
+i przekątnymi), oblicza miary tych kątów;
+X.4) oblicza objętości […] ostrosłupów,
+również z wykorzystaniem trygonometrii
+i poznanych twierdzeń.
+Zasady oceniania
+3 pkt – poprawna metoda obliczenia wysokości ściany bocznej ostrosłupa oraz poprawny
+wynik: ℎ𝑏 = 10.
+2 pkt – obliczenie współczynnika proporcjonalności: 𝑥 = 2
+ALBO
+– obliczenie długości krawędzi podstawy: 𝑎 = 12,
+ALBO
+– obliczenie wysokości ostrosłupa: 𝐻 = 8,
+ALBO
+– zapisanie, że 𝐻 = 8 i
+1
+2 𝑎 = 6 oraz sprawdzenie, że dla tych danych liczbowych
+objętość ostrosłupa jest równa 384,
+– zapisanie równania z jedną niewiadomą ℎ𝑏 – wysokością ściany bocznej, np.
+1
+3 ∙ (
+6
+5 ℎ𝑏)
+2
+∙
+4
+5 ℎ𝑏 = 384,
+– obliczenie objętości 𝑉1 = 48 ostrosłupa o krawędzi podstawy 𝑎1 = 6 i wysokości
+𝐻1 = 4, podobnego do rozpatrywanego oraz obliczenie skali podobieństwa tych
+ostrosłupów, np. 𝑘 = √
+384
+48
+3
+= 2.
+1 pkt – oznaczenie połowy krawędzi podstawy jako 3𝑥 i zapisanie wysokości ostrosłupa
+jako 4𝑥 oraz zapisanie wysokości ściany bocznej jako 5𝑥, gdzie 𝑥 jest
+współczynnikiem proporcjonalności
+ALBO
+– oznaczenie połowy krawędzi podstawy jako 3𝑥 i zapisanie wysokości ostrosłupa
+jako 4𝑥 oraz zapisanie równania z jedną niewiadomą 𝑥 prowadzącego do
+wyznaczenia krawędzi podstawy oraz wysokości ostrosłupa, np.
+1
+3 ∙ (6𝑥)2 ∙ 4𝑥 = 384,
+ALBO
+Zasady oceniania rozwiązań zadań
+– zapisanie dwóch równań z niewiadomymi 𝑎 oraz 𝐻 prowadzących do wyznaczenia
+krawędzi podstawy oraz wysokości ostrosłupa, np.
+𝐻
+1
+2𝑎
+=
+4
+3 oraz
+1
+3 ∙ 𝑎2 ∙ 𝐻 = 384,
+ALBO
+– zapisanie zależności pomiędzy długością krawędzi podstawy oraz wysokością ściany
+bocznej np.
+1
+2𝑎
+ℎ𝑏
+=
+3
+5 oraz zapisanie zależności pomiędzy wysokością ostrosłupa oraz
+wysokością ściany bocznej, np.
+𝐻
+ℎ𝑏
+=
+4
+5 ,
+– obliczenie objętości 𝑉1 = 48 ostrosłupa o krawędzi podstawy 𝑎1 = 6 i wysokości
+𝐻1 = 4, podobnego do rozpatrywanego oraz zapisanie stosunku objętości tych
+ostrosłupów, np.
+𝑉
+𝑉1
+=
+384
+48 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający przyjmuje w rozwiązaniu, że jedna ze ścian bocznych ostrosłupa jest
+trójkątem równobocznym i wykorzystuje to do obliczenia wysokości ściany bocznej, to
+otrzymuje 0 punktów za całe rozwiązanie, o ile nie nabył prawa do innej liczby punktów.
+2. Jeżeli jedynym błędem zdającego jest:
+a) zastosowanie niepoprawnej definicji jednej funkcji trygonometrycznej
+b) błędne zastosowanie twierdzenia Pitagorasa
+c) zastosowanie niepoprawnej tożsamości √𝑥2 + 𝑦2 = 𝑥 + 𝑦
+d) uwzględnienie we wzorze na objętość ostrosłupa połowy długości krawędzi
+podstawy
+i rozwiązanie zostanie doprowadzone konsekwentnie do końca, to zdający może otrzymać
+1 punkt za całe rozwiązanie, o ile nie nabył praw do innej liczby punktów.
+Jeżeli zdający popełni więcej niż jeden z wymienionych błędów a) – d), to otrzymuje
+0 punktów za całe rozwiązanie.
+3. Jeżeli zdający jedynie zapisze lub obliczy długość przeciwprostokątnej trójkąta
+prostokątnego o przyprostokątnych długości 3 i 4, to otrzymuje 0 punktów.
+4. Jeżeli zdający poprawnie obliczy wysokość ściany bocznej ostrosłupa opuszczoną
+z wierzchołka podstawy na krawędź boczną, to otrzymuje 3 punkty.
+Przykładowe pełne rozwiązania
+Sposób I
+Przyjmujemy oznaczenia:
+𝛼 – miara kąta pomiędzy wysokością ściany bocznej a podstawą,
+𝑎 – długość krawędzi podstawy,
+𝐻 – wysokość ostrosłupa,
+ℎ𝑏 – wysokość ściany bocznej ostrosłupa,
+𝑉 – objętość ostrosłupa,
+𝑃𝑝 – pole podstawy ostrosłupa.
+Zauważamy, że 𝛼 ∈ (0°, 90°) oraz 𝑎 > 0, 𝐻 > 0 i ℎ𝑏 > 0.
+Ponieważ 𝑂 jest punktem przecięcia przekątnych kwadratu, więc |𝑂𝐸| =
+1
+2 𝑎.
+W trójkącie prostokątnym 𝑆𝑂𝐸 mamy
+tg 𝛼 =
+|𝑆𝑂|
+|𝑂𝐸| = 𝐻
+1
+2 𝑎
+= 4
+3
+Zatem |𝑆𝑂| = 4𝑥 oraz |𝑂𝐸| = 3𝑥 (zobacz rysunek)
+Z twierdzenia Pitagorasa otrzymujemy:
+|𝑆𝐸|2 = |𝑆𝑂|2 + |𝑂𝐸|2
+(ℎ𝑏)2 = 𝐻2 + (1
+2 𝑎)
+2
+(ℎ𝑏)2 = (4𝑥)2 + (3𝑥)2 = 16𝑥2 + 9𝑥2 = 25𝑥2
+ℎ𝑏 = 5𝑥
+Ponadto
+𝑉 = 1
+3 ∙ 𝑃𝑝 ∙ 𝐻 = 1
+3 ∙ 𝑎2 ∙ 𝐻 = 1
+3 ∙ (6𝑥)2 ∙ 4𝑥 = 1
+3 ∙ 36𝑥2 ∙ 4𝑥 = 48𝑥3
+Stąd, że 𝑉 = 384, otrzymujemy
+48𝑥3 = 384
+𝑥3 = 8
+𝑥 = 2
+Obliczamy wysokość ℎ𝑏 ściany bocznej ostrosłupa:
+ℎ𝑏 = 5𝑥 = 10
+𝛼
+∶
+∶
+𝐴
+𝐵
+𝐶
+𝐷
+𝑆
+𝑂
+ℎ𝑏
+4𝑥
+3𝑥
+6𝑥
+𝐸
+Zasady oceniania rozwiązań zadań
+Sposób II
+Przyjmujemy oznaczenia:
+𝛼 – miara kąta pomiędzy wysokością ściany bocznej a podstawą,
+𝑎 – długość krawędzi podstawy,
+𝐻 – wysokość ostrosłupa,
+ℎ𝑏 – wysokość ściany bocznej ostrosłupa,
+𝑉 – objętość ostrosłupa,
+𝑃𝑝 – pole podstawy ostrosłupa.
+Zauważamy, że 𝛼 ∈ (0°, 90°) oraz 𝑎 > 0, 𝐻 > 0 i ℎ𝑏 > 0.
+Ponieważ 𝑂 jest punktem przecięcia przekątnych kwadratu, więc |𝑂𝐸| =
+1
+2 𝑎.
+W trójkącie prostokątnym 𝑆𝑂𝐸 mamy
+tg 𝛼 =
+|𝑆𝑂|
+|𝑂𝐸| = 𝐻
+1
+2 𝑎
+= 4
+3
+Zatem
+𝐻 = 4
+3 ⋅ 1
+2 𝑎 = 2
+3 𝑎
+Ponadto
+𝑉 = 1
+3 ∙ 𝑃𝑝 ∙ 𝐻 = 1
+3 ∙ 𝑎2 ∙ 𝐻 = 1
+3 ∙ 𝑎2 ∙ 2
+3 𝑎 = 2
+9 𝑎3
+Stąd, że 𝑉 = 384, otrzymujemy
+2
+9 𝑎3 = 384
+𝛼
+∶
+∶
+𝐴
+𝐵
+𝐶
+𝐷
+𝑆
+𝑂
+ℎ𝑏
+𝐻
+1
+2
+𝑎
+𝑎
+𝐸
+𝑎3 = 384 ∶ 2
+9 = 384 ∙ 9
+2 = 1728
+𝑎 = 12
+𝐻 = 2
+3 𝑎 = 2
+3 ∙ 12 = 8
+Z twierdzenia Pitagorasa obliczamy wysokość ℎ𝑏 ściany bocznej ostrosłupa:
+|𝑆𝐸|2 = |𝑆𝑂|2 + |𝑂𝐸|2
+(ℎ𝑏)2 = 𝐻2 + (1
+2 𝑎)
+2
+(ℎ𝑏)2 = 82 + 62 = 64 + 36 = 100
+ℎ𝑏 = 10
+Sposób III
+Przyjmujemy oznaczenia:
+𝛼 – miara kąta pomiędzy wysokością ściany bocznej a podstawą,
+𝑎 – długość krawędzi podstawy,
+𝐻 – wysokość ostrosłupa,
+ℎ𝑏 – wysokość ściany bocznej ostrosłupa,
+𝑉 – objętość ostrosłupa,
+𝑃𝑝 – pole podstawy ostrosłupa.
+Zauważamy, że 𝛼 ∈ (0°, 90°) oraz 𝑎 > 0, 𝐻 > 0 i ℎ𝑏 > 0.
+Ponieważ 𝑂 jest punktem przecięcia przekątnych kwadratu, więc |𝑂𝐸| =
+1
+2 𝑎.
+𝛼
+∶
+∶
+𝐴
+𝐵
+𝐶
+𝐷
+𝑆
+𝑂
+ℎ𝑏
+𝐻
+1
+2
+𝑎
+𝑎
+𝐸
+Zasady oceniania rozwiązań zadań
+Z treści zadania wiemy, że tg 𝛼 =
+4
+3 , zatem
+sin 𝛼
+cos 𝛼 =
+4
+3 . Stąd sin 𝛼 =
+4
+3 ⋅ cos 𝛼.
+Wykorzystując tę zależność oraz tożsamość sin2 𝛼 + cos2 𝛼 = 1 otrzymujemy
+(4
+3 cos 𝛼)
+2
++ cos2 𝛼 = 1
+16
+9 cos2 𝛼 + cos2 𝛼 = 1
+25
+9 cos2 𝛼 = 1
+cos2 𝛼 = 9
+25
+Stąd cos 𝛼 =
+3
+5 , ponieważ 𝛼 jest kątem ostrym.
+Zatem sin 𝛼 =
+4
+3 ⋅ cos 𝛼 =
+4
+3 ⋅
+3
+5 =
+4
+5
+Z trójkąta prostokątnego 𝐴𝑂𝑆 otrzymujemy
+sin 𝛼 =
+𝐻
+ℎ𝑏
+oraz cos 𝛼 =
+1
+2𝑎
+ℎ𝑏
+Zatem
+𝐻
+ℎ𝑏
+=
+4
+5 oraz
+1
+2𝑎
+ℎ𝑏
+=
+3
+5
+𝐻 =
+4
+5 ℎ𝑏 oraz 𝑎 =
+6
+5 ℎ𝑏
+Ponadto
+𝑉 = 1
+3 ∙ 𝑃𝑝 ∙ 𝐻 = 1
+3 ∙ 𝑎2 ∙ 𝐻 = 1
+3 ∙ (6
+5 ℎ𝑏)
+2
+∙ 4
+5 ℎ𝑏 = 1
+3 ⋅ 36
+25 ℎ𝑏
+2 ⋅ 4
+5 ℎ𝑏 = 48
+125 ℎ𝑏
+3
+Stąd, że 𝑉 = 384, otrzymujemy
+48
+125 ℎ𝑏
+3 = 384
+ℎ𝑏
+3 = 384 ∶ 48
+125 = 384 ⋅ 125
+48 = 1000
+ℎ𝑏 = 10
+Sposób IV
+Rozważmy ostrosłup prawidłowy czworokątny 𝐴1𝐵1𝐶1𝐷1𝑆1 o wysokości 4
+i krawędzi podstawy długości 6.
+Objętość tego ostrosłupa jest równa
+𝑉1 = 1
+3 ⋅ 62 ⋅ 4 = 48
+Ostrosłup ten jest podobny do danego ostrosłupa, a stosunek ich objętości jest równy
+sześcianowi skali podobieństwa. Zatem
+𝑘3 = 𝑉
+𝑉1
+= 384
+48 = 8
+Stąd 𝑘 = 2.
+Ponieważ wysokość 𝑆1𝐸1 ściany bocznej ostrosłupa 𝐴1𝐵1𝐶1𝐷1𝑆1 jest równa 5, więc
+szukana wysokość ściany bocznej danego ostrosłupa jest równa 5 ⋅ 2 = 10.
+𝛼
+∶
+∶
+𝐴1
+𝐵1
+𝐶1
+𝐷1
+𝑆1
+𝑂1
+5
+4
+3
+6
+𝐸1
+Zasady oceniania rozwiązań zadań

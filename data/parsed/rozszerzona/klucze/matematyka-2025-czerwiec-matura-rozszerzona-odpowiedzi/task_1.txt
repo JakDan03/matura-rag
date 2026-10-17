@@ -1,0 +1,72 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=2, 3, 4; level=rozszerzony; year=2025; month=czerwiec; task_id=1]
+Zadanie 1. (0–3)
+Wymagania określone w podstawie programowej1
+Wymagania ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+I. Sprawność rachunkowa.
+Zdający:
+XII.R2) stosuje schemat Bernoullego.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 0,984.
+2 pkt – zapisanie poprawnego prawdopodobieństwa uzyskania co najwyżej jednego sukcesu
+w dziesięciu próbach Bernoullego, np.
+𝑃 = (10
+0 ) ⋅ (0,98)10 + (10
+1 ) ⋅ (0,02)1 ⋅ (1 − 0,02)9,
+𝑃 = (0,98)10 + 10 ⋅ 0,02 ⋅ (0,98)9
+1 pkt – zapisanie prawdopodobieństwa odniesienia sukcesu (𝑝) i porażki (𝑞) w pojedynczej
+próbie: 𝑝 = 0,02 , 𝑞 = 0,98
+ALBO
+– zapisanie prawdopodobieństwa w postaci 𝑞10 + 10𝑝 ⋅ 𝑞9, gdzie 𝑝 jest
+prawdopodobieństwem odniesienia sukcesu, 𝑞 – porażki,
+ALBO
+– przedstawienie fragmentu drzewa zawierającego wszystkie istotne gałęzie
+odpowiadające sytuacji wysłania przez sklep dziesięciu pralek, które nie ulegną
+uszkodzeniu podczas transportu, oraz wszystkie istotne gałęzie odpowiadające
+sytuacji wysłania przez sklep dziesięciu pralek, z których dokładnie jedna uległa
+uszkodzeniu podczas transportu,
+ALBO
+1Rozporządzenie Ministra Edukacji z dnia 28 czerwca 2024 r. zmieniające rozporządzenie w sprawie podstawy
+programowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia
+(Dz.U. z 2024 r. poz. 1019).
+Zasady oceniania rozwiązań zadań
+– przedstawienie fragmentu drzewa zawierającego gałąź odpowiadającą sytuacji
+uszkodzenia podczas transportu jednej spośród dziesięciu wysłanych pralek oraz
+określenie na każdym odcinku gałęzi prawdopodobieństwa sukcesu i porażki.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający zapisze poprawne prawdopodobieństwa
+𝑃(𝑆10
+0 ) = (10
+0 ) ⋅ (0,02)0 ⋅ (0,98)10 oraz 𝑃(𝑆10
+1 ) = (10
+1 ) ⋅ (0,02)1 ⋅ (0,98)9, ale
+z dalszego rozwiązania nie wynika, że 𝑃 = 𝑃(𝑆10
+0 ) + 𝑃(𝑆10
+1 ), to otrzymuje co najwyżej
+1 punkt za całe rozwiązanie.
+2. Jeżeli zdający przyjmuje 𝑝 = 0,2 oraz 𝑞 = 0,8 (albo 𝑝 = 0,02 i 𝑞 = 0,8)
+i konsekwentnie rozwiąże zadanie do końca, to otrzymuje 2 punkty za całe rozwiązanie.
+3. Jeżeli zdający przyjmuje 𝑝 = 0,98 i 𝑞 = 0,02, konsekwentnie rozwiąże zadanie do
+końca, lecz błędnie interpretuje wynik końcowy, to otrzymuje 1 punkt za całe rozwiązanie.
+4. Jeżeli zdający nie określi sukcesu w pojedynczej próbie, ale z rozwiązania wynika, że
+poprawnie interpretuje warunki zadania, to może otrzymać 3 punkty za całe rozwiązanie.
+Przykładowe pełne rozwiązanie
+Sukcesem w pojedynczej próbie Bernoullego jest uszkodzenie pralki podczas transportu.
+Określamy prawdopodobieństwo sukcesu (𝑝) i porażki (𝑞) w pojedynczej próbie Bernoullego:
+𝑝 = 0,02 , 𝑞 = 1 − 𝑝 = 0,98.
+Niech 𝑆10
+𝑘 oznacza zdarzenie polegające na tym, że wśród dziesięciu wysłanych przez
+sklep pralek dokładnie 𝑘 pralek uległo uszkodzeniu podczas transportu (𝑘 ∈ {0, 1}).
+Obliczamy prawdopodobieństwo 𝑃 zdarzenia polegającego na tym, że wśród dziesięciu
+wysłanych pralek uszkodzeniu podczas transportu ulegnie co najwyżej jedna:
+𝑃 = 𝑃(𝑆10
+0 ) + 𝑃(𝑆10
+1 ) = (10
+0 ) ⋅ (0,02)0 ⋅ (0,98)10 + (10
+1 ) ⋅ (0,02)1 ⋅ (0,98)9 =
+= (0,98)9 ⋅ (0,98 + 10 ⋅ 0,02) = (0,98)9 ⋅ 1,18 ≈ 0,984

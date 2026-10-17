@@ -1,0 +1,37 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=12; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=12.1]
+Zadanie 12.
+Funkcja 𝑓 jest określona następująco:
+𝑓(𝑥) = {
+−2𝑥 − 10 dla 𝑥 ∈ (−5, −3]
+𝑥 − 1 dla 𝑥 ∈ (−3, 4]
+Wykres funkcji 𝑦 = 𝑓(𝑥) przedstawiono w kartezjańskim układzie współrzędnych (𝑥, 𝑦)
+na rysunku poniżej.
+Zadanie 12.1. (0–2)
+Uzupełnij zdania. Wpisz odpowiednie liczby w wykropkowanych miejscach, aby zdania
+były prawdziwe.
+1. Miejscem zerowym funkcji 𝑓 jest liczba ……… .
+2. Wartość wyrażenia 𝑓(−2) + 3 ⋅ 𝑓(2) jest równa ……… .
+1
+2
+3
+4
+−1
+−2
+5
+0
+𝑥
+−5
+−4
+−3
+1
+2
+3
+4
+𝑦
+5
+−1
+−2
+−3
+−4
+−5
+𝑦 = 𝑓(𝑥)

@@ -1,0 +1,131 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=28, 29, 30; level=podstawowy; year=2026; month=maj; task_id=21]
+Zadanie 21. (0–2)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+VIII.11) przeprowadza dowody
+geometryczne.
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody i przeprowadzenie pełnego rozumowania.
+1 pkt – zapisanie pola trójkąta 𝐾𝑁𝑀 w postaci 𝑃𝐾𝑁𝑀 = 1
+2 ⋅ 𝑎 ⋅ |𝑀𝑁| ⋅ sin 𝛼 oraz zapisanie
+pola trójkąta 𝑁𝐿𝑀 w postaci 𝑃𝑁𝐿𝑀 = 1
+2 ⋅ 𝑏 ⋅ |𝑀𝑁| ⋅ sin 𝛼
+ALBO
+– uzasadnienie, że wysokości trójkątów 𝐾𝑁𝑀 i 𝑁𝐿𝑀 poprowadzone
+z wierzchołka 𝑁 są równe,
+ALBO
+– zapisanie pola trójkąta 𝐾𝑁𝑀 w postaci 𝑃𝐾𝑁𝑀 = 1
+2 ⋅ |𝐾𝑁| ⋅ ℎ oraz zapisanie pola
+trójkąta 𝑁𝐿𝑀 w postaci 𝑃𝑁𝐿𝑀 = 1
+2 ⋅ |𝑁𝐿| ⋅ ℎ,
+ALBO
+– zapisanie związku
+|𝐾𝑁|
+|𝑁𝐿| = 𝑎
+𝑏 ,
+ALBO
+– zapisanie związku 𝑃𝐾𝑁𝑀
+𝑃𝑁𝐿𝑀
+=
+|𝐾𝑁|
+|𝑁𝐿| .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. a) Jeżeli zdający zapisze 𝑃𝐾𝑁𝑀
+𝑃𝑁𝐿𝑀
+=
+1
+2𝑎ℎ
+1
+2𝑏ℎ = 𝑎
+𝑏 i w rozwiązaniu nie określa, że ℎ
+reprezentuje wysokości trójkątów 𝐾𝑁𝑀 i 𝑁𝐿𝑀 poprowadzone z wierzchołka 𝑁, to
+otrzymuje 0 punktów za całe rozwiązanie.
+b) Jeżeli zdający zapisze 𝑃𝐾𝑁𝑀
+𝑃𝑁𝐿𝑀
+=
+1
+2𝑎ℎ
+1
+2𝑏ℎ = 𝑎
+𝑏 i w rozwiązaniu określa (np. na rysunku), że
+ℎ reprezentuje wysokości trójkątów 𝐾𝑁𝑀 i 𝑁𝐿𝑀 poprowadzone z wierzchołka 𝑁,
+ale nie uzasadnia równości tych wysokości, to może otrzymać 1 punkt za całe
+rozwiązanie, o ile nie popełnił innych błędów.
+2. Jeżeli zdający przyjmuje konkretną wartość kąta, np. |∡𝐿𝑀𝐾| = 90°, i na tym opiera
+swoje rozumowanie, to otrzymuje 0 punktów za całe rozwiązanie.
+Zasady oceniania rozwiązań zadań
+Przykładowe pełne rozwiązania
+Sposób I
+Przyjmijmy następujące oznaczenie: |∡𝐿𝑀𝐾| = 2𝛼.
+Odcinek 𝑀𝑁 zawiera się w dwusiecznej kąta 𝐿𝑀𝐾, więc |∡𝑁𝑀𝐾| = 𝛼 oraz |∡𝐿𝑀𝑁| = 𝛼.
+Stosujemy wzór na pole trójkąta w zależności od długości dwóch boków i sinusa kąta między
+tymi bokami i otrzymujemy:
+𝑃𝐾𝑁𝑀 = 1
+2 ⋅ 𝑎 ⋅ |𝑀𝑁| ⋅ sin 𝛼
+𝑃𝑁𝐿𝑀 = 1
+2 ⋅ 𝑏 ⋅ |𝑀𝑁| ⋅ sin 𝛼
+Zatem:
+𝑃𝐾𝑁𝑀
+𝑃𝑁𝐿𝑀
+=
+1
+2 ⋅ 𝑎 ⋅ |𝑀𝑁| ⋅ sin 𝛼
+1
+2 ⋅ 𝑏 ⋅ |𝑀𝑁| ⋅ sin 𝛼
+= 𝑎
+𝑏
+To należało wykazać.
+Sposób II
+Dwusieczna kąta jest zbiorem punktów równoodległych od ramion tego kąta. Punkt 𝑁 leży
+na dwusiecznej kąta 𝐿𝑀𝐾. Oznacza to, że odległości punktu 𝑁 od półprostych 𝑀𝐾 i 𝑀𝐿
+są równe. Zatem wysokości trójkątów 𝐾𝑁𝑀 i 𝑁𝐿𝑀 poprowadzone z wierzchołka 𝑁 są
+równe. Oznaczmy tę wysokość przez 𝑑 (zobacz rysunek).
+Wtedy:
+𝑃𝐾𝑁𝑀
+𝑃𝑁𝐿𝑀
+=
+1
+2 ⋅ 𝑎 ⋅ 𝑑
+1
+2 ⋅ 𝑏 ⋅ 𝑑
+= 𝑎
+𝑏
+To należało wykazać.
+𝑎
+𝑀
+𝑏
+𝐾
+𝐿
+𝑁
+𝑑
+𝑑
+Sposób III
+Trójkąty 𝐾𝑁𝑀 i 𝑁𝐿𝑀 mają wspólną wysokość ℎ poprowadzoną z wierzchołka 𝑀, więc
+stosunek pól tych trójkątów jest równy:
+𝑃𝐾𝑁𝑀
+𝑃𝑁𝐿𝑀
+=
+1
+2 ⋅ |𝐾𝑁| ⋅ ℎ
+1
+2 ⋅ |𝑁𝐿| ⋅ ℎ
+=
+|𝐾𝑁|
+|𝑁𝐿|
+Z twierdzenia o dwusiecznej zastosowanego w trójkącie 𝐾𝐿𝑀 otrzymujemy:
+|𝐾𝑁|
+|𝑁𝐿| = 𝑎
+𝑏
+Zatem:
+𝑃𝐾𝑁𝑀
+𝑃𝑁𝐿𝑀
+= |𝐾𝑁|
+|𝑁𝐿| = 𝑎
+𝑏
+To należało wykazać.

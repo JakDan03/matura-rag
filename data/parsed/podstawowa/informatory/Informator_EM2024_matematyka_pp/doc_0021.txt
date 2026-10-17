@@ -1,0 +1,29 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=21; level=podstawowy; year=2024; section=A. 30% B. 34% C. 36% D. 43%]
+Przykładowe zadania z rozwiązaniami 21
+Zadanie 9. (0–1)
+Oprocentowanie na długoterminowej lokacie w pewnym banku wynosi 3% w skali roku (już
+po uwzględnieniu podatków). Po każdym roku oszczędzania są doliczane odsetki od
+aktualnego kapitału znajdującego się na lokacie – zgodnie z procentem składanym.
+Dokończ zdanie. Zaznacz właściwą odpowiedź spośród podanych.
+Po 10 latach oszczędzania w tym banku (i bez wypłacania kapitału ani odsetek w tym
+okresie) kwota na lokacie będzie większa od kwoty wpłaconej na samym początku
+o (w zaokrągleniu do 1%)
+A. 30% B. 34% C. 36% D. 43%
+Wymagania ogólne
+I. Sprawność rachunkowa.
+Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora,
+stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych
+oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach
+rzeczywistych i teoretycznych.
+III. Wykorzystanie i interpretowanie reprezentacji.
+1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Wymaganie szczegółowe
+I. Liczby rzeczywiste. Zdający:
+8) wykorzystuje własności potęgowania i pierwiastkowania w sytuacjach praktycznych,
+w tym do obliczania procentów składanych, zysków z lokat i kosztów kredytów.
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+B

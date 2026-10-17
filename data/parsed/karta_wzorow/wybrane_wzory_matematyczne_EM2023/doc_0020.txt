@@ -1,0 +1,24 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=20; year=2023; section=|𝑃𝐴| = |𝑃𝐵|]
+Strona 20 z 34
+• Twierdzenie o odcinkach stycznych
+Jeżeli styczne do okręgu w punktach 𝐴 i 𝐵 przecinają się w punkcie 𝑃, to:
+• Twierdzenie o odcinkach siecznej i stycznej
+Dane są: prosta przecinająca okrąg w punktach 𝐴 i 𝐵 oraz prosta styczna do tego
+okręgu w punkcie 𝐶. Jeżeli proste te przecinają się w punkcie 𝑃, to:
+• Czworokąty
+Trapez – czworokąt, który ma co najmniej jedną parę boków równoległych.
+Wzór na pole 𝑃 trapezu:
+|𝑃𝐴| = |𝑃𝐵|
+|𝑃𝐴| ⋅ |𝑃𝐵| = |𝑃𝐶|2
+𝑃 = 𝑎 + 𝑏
+2 ⋅ ℎ
+𝑃
+𝐴
+𝐵
+𝐴
+𝐶
+𝐵
+𝑃
+𝑎
+ℎ
+𝑏

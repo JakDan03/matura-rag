@@ -1,0 +1,9 @@
+Dział XI. Kombinatoryka.
+Poziom: rozszerzony
+Zakres rozszerzony. Uczeń spełnia wymagania określone dla zakresu podstawowego, a
+ponadto:
+1) oblicza liczbę możliwych sytuacji, spełniających określone kryteria, z wykorzystaniem
+reguły mnożenia i dodawania (także łącznie) oraz wzorów na liczbę: permutacji,
+kombinacji i wariacji;
+2) stosuje współczynnik dwumianowy (symbol Newtona) i jego własności przy
+rozwiązywaniu problemów kombinatorycznych.

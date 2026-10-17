@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=18; level=rozszerzony; year=2024; month=czerwiec; task_id=10]
+Zadanie 10. (0–4)
+Długość krawędzi podstawy graniastosłupa prawidłowego trójkątnego jest równa 𝑎.
+Sinus kąta między przekątnymi ścian bocznych wychodzącymi z jednego wierzchołka
+graniastosłupa jest równy
+√11
+6 .
+Wyznacz pole powierzchni całkowitej tego graniastosłupa. Zapisz obliczenia.

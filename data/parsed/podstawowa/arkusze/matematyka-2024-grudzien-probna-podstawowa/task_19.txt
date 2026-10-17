@@ -1,0 +1,15 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=18; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=19]
+Zadanie 19. (0–4)
+W trapezie prostokątnym 𝐴𝐵𝐶𝐷 dłuższa podstawa 𝐴𝐵 ma długość 7,5.
+Krótsza przekątna 𝐴𝐶 ma długość równą 6 i dzieli trapez na dwa trójkąty prostokątne
+(zobacz rysunek).
+Oblicz pole trapezu 𝑨𝑩𝑪𝑫. Zapisz obliczenia.
+𝐴
+𝐵
+𝐷
+𝐶
+7,5
+6
+19.
+0–1–
+2–3–4

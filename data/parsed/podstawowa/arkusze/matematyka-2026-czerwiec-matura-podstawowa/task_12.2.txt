@@ -1,0 +1,22 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=12, 13; level=podstawowy; year=2026; month=czerwiec; task_id=12.2]
+Zadanie 12.
+Funkcja 𝑓 jest określona następująco:
+𝑓(𝑥) =
+{
+4
+3 𝑥 + 14
+3 dla 𝑥 ∈ [−5, −2)
+3
+4 𝑥 + 3
+2 dla 𝑥 ∈ [−2, 2]
+−3𝑥 + 9 dla 𝑥 ∈ (2, 4)
+Wykres funkcji 𝑦 = 𝑓(𝑥) przedstawiono w kartezjańskim układzie współrzędnych (𝑥, 𝑦)
+na rysunku poniżej.
+Zadanie 12.2. (0–2)
+Uzupełnij zdania. Wpisz odpowiednie przedziały w wykropkowanych miejscach, aby
+zdania były prawdziwe.
+1. Dziedziną funkcji 𝑓 jest przedział ………………… .
+2. Zbiorem wszystkich argumentów, dla których funkcja 𝑓 przyjmuje wartości nieujemne,
+jest przedział ………………… .
+12.2.
+0–1–2

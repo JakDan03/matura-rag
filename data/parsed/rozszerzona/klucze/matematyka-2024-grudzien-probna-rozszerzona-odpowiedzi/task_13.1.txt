@@ -1,0 +1,48 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=32, 33; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=13.1]
+Zadanie 13.1. (0–2)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+V.3) odczytuje i interpretuje wartości funkcji
+określonych za pomocą […] wykresów,
+wzorów itp., również w sytuacjach
+wielokrotnego użycia tego samego źródła
+informacji lub kilku źródeł jednocześnie.
+Zasady oceniania
+2 pkt – przeprowadzenie pełnego rozumowania.
+1 pkt – obliczenie współrzędnych punktów 𝐵 i 𝐷 oraz zapisanie drugiej współrzędnej
+punktu 𝐶 w zależności od 𝑥: 𝐵 = (7, 0) i 𝐷 = (0, 21
+2 ) oraz 𝐶 = (𝑥, 12𝑥−84
+𝑥−8 ).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Obliczamy współrzędne punktu 𝐵:
+12𝑥 − 84
+𝑥 − 8 = 0
+12𝑥 − 84 = 0
+𝑥 = 7 ∈ (−∞, 8)
+Zatem 𝐵 = (7, 0).
+Obliczamy współrzędne punktu 𝐷: 𝑓(0) = 12⋅0−84
+0−8 = 21
+2
+Zatem 𝐷 = (0, 21
+2 ).
+Ponieważ 𝐶 leży na wykresie funkcji 𝑓 i ma obie współrzędne dodatnie, więc
+𝐶 = (𝑥, 12𝑥−84
+𝑥−8 ), gdzie 0 < 𝑥 < 7.
+Pole 𝑃 czworokąta 𝑂𝐵𝐶𝐷 jest sumą pól trójkątów 𝑂𝐶𝐷 i 𝑂𝐵𝐶, więc
+𝑃 = 𝑃𝑂𝐶𝐷 + 𝑃𝑂𝐵𝐶 = 1
+2 ⋅ 21
+2 ⋅ 𝑥 + 1
+2 ⋅ 7 ⋅ 12𝑥 − 84
+𝑥 − 8 = 21
+4 ⋅ 𝑥2 − 8𝑥 + 8𝑥 − 56
+𝑥 − 8 = 21
+4 ⋅ 𝑥2 − 56
+𝑥 − 8
+gdzie 𝑥 ∈ (0, 7).
+Zasady oceniania rozwiązań zadań

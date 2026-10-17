@@ -1,0 +1,20 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=17, 18; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=16]
+Zadanie 16. (0–1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+VII.1) wykorzystuje definicje funkcji: […]
+cosinus i tangens dla kątów od 0° do 180°
+[…].
+Zasady oceniania
+2 pkt – dwie poprawne odpowiedzi.
+1 pkt – jedna poprawna odpowiedź.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+16.1. B
+16.2. D

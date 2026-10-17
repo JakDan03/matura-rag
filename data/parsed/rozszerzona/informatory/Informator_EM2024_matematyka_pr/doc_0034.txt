@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=34; level=rozszerzony; year=2024; section=4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach]
+34 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Wymaganie ogólne
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Wymagania szczegółowe
+XIII. Optymalizacja i rachunek różniczkowy. Zdający:
+4R) oblicza pochodną funkcji potęgowej o wykładniku rzeczywistym oraz oblicza
+pochodną, korzystając z twierdzeń o pochodnej sumy, różnicy, iloczynu, ilorazu
+i funkcji złożonej;
+5R) stosuje pochodną do badania monotoniczności funkcji;
+6R) rozwiązuje zadania optymalizacyjne z zastosowaniem pochodnej.

@@ -1,0 +1,30 @@
+[ŹRÓDŁO: plik=wybrane_wzory_matematyczne_EM2023.pdf; typ=formula_sheet; strona=4; year=2023; section=1. WARTOŚĆ BEZWZGLĘDNA LICZBY]
+Strona 4 z 34
+1. WARTOŚĆ BEZWZGLĘDNA LICZBY
+• Wartość bezwzględną liczby rzeczywistej 𝑥 definiujemy wzorem:
+Liczba |𝑥| jest to odległość na osi liczbowej punktu o współrzędnej 𝑥 od punktu
+o współrzędnej 0.
+• Dla dowolnej liczby 𝑥 mamy:
+Dla dowolnych liczb rzeczywistych 𝑥, 𝑦 mamy:
+Ponadto, jeśli 𝑦 ≠ 0, to:
+• Dla dowolnych liczb rzeczywistych 𝑎 oraz 𝑟 ≥ 0 mamy:
+2. POTĘGI I PIERWIASTKI
+• Niech 𝑛 będzie liczbą całkowitą dodatnią. Dla dowolnej liczby rzeczywistej 𝑎
+definiujemy jej 𝑛-tą potęgę:
+• Pierwiastkiem arytmetycznym √𝑎
+𝑛
+stopnia 𝑛 z liczby 𝑎 ≥ 0 nazywamy liczbę 𝑏 ≥ 0
+taką, że 𝑏𝑛 = 𝑎.
+W szczególności, dla każdej liczby rzeczywistej 𝑎 prawdziwa jest równość:
+|𝑥| = { 𝑥 dla 𝑥 ≥ 0
+−𝑥 dla 𝑥 < 0
+|𝑥| ≥ 0 |𝑥| = 0 wtedy i tylko wtedy, gdy 𝑥 = 0 | − 𝑥| = |𝑥|
+|𝑥 + 𝑦| ≤ |𝑥| + |𝑦| |𝑥 − 𝑦| ≤ |𝑥| + |𝑦| |𝑥 ⋅ 𝑦| = |𝑥| ⋅ |𝑦|
+| 𝑥
+𝑦 | = |𝑥|
+|𝑦|
+|𝑥 − 𝑎| ≤ 𝑟 wtedy i tylko wtedy, gdy 𝑎 − 𝑟 ≤ 𝑥 ≤ 𝑎 + 𝑟
+|𝑥 − 𝑎| ≥ 𝑟 wtedy i tylko wtedy, gdy 𝑥 ≤ 𝑎 − 𝑟 lub 𝑥 ≥ 𝑎 + 𝑟
+𝑎𝑛 = 𝑎 ⋅ 𝑎 ⋅ … ⋅ 𝑎⏟
+𝑛 razy
+√𝑎2 = |𝑎|

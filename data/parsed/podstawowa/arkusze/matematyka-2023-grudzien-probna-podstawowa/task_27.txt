@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=26; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=27]
+Zadanie 27. (0–2)
+E-dowód ma zapisany na pierwszej stronie specjalny sześciocyfrowy numer CAN, który
+zabezpiecza go przed odczytaniem danych przez osoby nieuprawnione.
+Oblicz, ile jest wszystkich sześciocyfrowych numerów CAN o różnych cyfrach,
+spełniających warunek: trzy pierwsze cyfry są kolejnymi wyrazami ciągu
+arytmetycznego o różnicy (−𝟑). Zapisz obliczenia.
+27.
+0–1–2

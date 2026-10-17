@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=26; level=podstawowy; year=2026; month=maj; task_id=26]
+Zadanie 26. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dana jest prosta 𝑘 o równaniu
+𝑦 = − 1
+3 𝑥 + 2. Prosta 𝑙 jest równoległa do prostej 𝑘 i przechodzi przez punkt (2, −2).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Prosta 𝑙 przecina oś 𝑂𝑦 w punkcie
+A. (0, −3) B. (0, − 1
+2) C. (0, −1) D. (0, − 4
+3)

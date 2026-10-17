@@ -1,0 +1,63 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-podstawowa.pdf; typ=exam_paper; strony=11, 12; level=podstawowy; year=2025; month=maj; task_id=11]
+Zadanie 11. (0–4)
+Funkcja 𝑓 jest określona następująco:
+𝑓(𝑥) = {
+𝑥 + 5 dla 𝑥 ∈ [−4, −2]
+3 dla 𝑥 ∈ (−2, 2]
+−3𝑥 + 9 dla 𝑥 ∈ (2, 4)
+Wykres funkcji 𝑦 = 𝑓(𝑥) przedstawiono w kartezjańskim układzie współrzędnych (𝑥, 𝑦)
+na rysunku poniżej.
+Uzupełnij zdania. Wpisz odpowiednie przedziały w wykropkowanych miejscach, aby
+zdania były prawdziwe.
+1. Dziedziną funkcji 𝑓 jest przedział …………………… .
+2. Zbiorem wartości funkcji 𝑓 jest przedział …………………… .
+3. Zbiorem wszystkich argumentów, dla których funkcja 𝑓 przyjmuje wartości dodatnie, jest
+przedział …………………… .
+4. Zbiorem wszystkich rozwiązań równania 𝑓(𝑥) = 3 jest przedział …………………… .
+1
+2
+3
+4
+−1
+−2
+5
+0
+𝑥
+−5
+−4
+−3
+1
+2
+3
+4
+𝑦
+5
+−1
+−2
+−3
+−4
+−5
+𝑦 = 𝑓(𝑥)
+11.
+0–1–
+2–3–4
+6
+5
+𝑦
+3
+1
+4
+2
+–1
+–2
+4
+5
+2
+1
+𝑥
+3
+–1
+–2
+–3
+𝑦 = 𝑓(𝑥)
+0

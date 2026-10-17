@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=14; level=rozszerzony; year=2023; month=maj; task_id=9]
+Zadanie 9. (0–4)
+Rozwiąż nierówność
+√𝒙𝟐 + 𝟒𝒙 + 𝟒 < 𝟐𝟓
+𝟑 − √𝒙𝟐 − 𝟔𝒙 + 𝟗
+Zapisz obliczenia.
+Wskazówka: skorzystaj z tego, że √𝑎2 = |𝑎| dla każdej liczby rzeczywistej 𝑎.
+9.
+0–1–
+2–3–4

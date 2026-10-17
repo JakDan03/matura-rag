@@ -1,0 +1,80 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=25, 26, 27; level=podstawowy; year=2025; month=czerwiec; task_id=27]
+Zadanie 27. (0–2)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+XII.1) oblicza prawdopodobieństwo
+w modelu klasycznym.
+Zasady oceniania
+2 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑃(𝐴) = 17
+24
+.
+1 pkt – wypisanie wszystkich zdarzeń elementarnych LUB obliczenie/podanie liczby tych
+zdarzeń: |Ω| = 6 ⋅ 4, LUB sporządzenie tabeli o 24 polach odpowiadających
+zdarzeniom elementarnym, LUB sporządzenie pełnego drzewa stochastycznego
+ALBO
+– wypisanie (lub zaznaczenie w tabeli) wszystkich zdarzeń elementarnych
+sprzyjających zdarzeniu 𝐴 i niewypisanie żadnego niewłaściwego,
+ALBO
+– podanie liczby wszystkich zdarzeń elementarnych sprzyjających zdarzeniu 𝐴:
+|𝐴| = 17, o ile nie zostały zliczone błędne pary,
+ALBO
+– sporządzenie fragmentu drzewa stochastycznego, który zawiera wszystkie gałęzie
+sprzyjające zdarzeniu 𝐴, oraz zapisanie prawdopodobieństwa na co najmniej
+jednym odcinku każdego z etapów doświadczenia,
+ALBO
+– podanie prawdopodobieństwa jednoelementowego zdarzenia (elementarnego): 1
+24
+,
+ALBO
+– zapisanie tylko 𝑃(𝐴) = 17
+24
+.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli zdający zapisuje tylko liczby 17 lub 24 i z rozwiązania nie wynika znaczenie tych
+liczb, to otrzymuje 0 punktów za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Zdarzeniami elementarnymi są wszystkie uporządkowane pary liczb (𝑥, 𝑦), gdzie
+𝑥 ∈ {−3, −2, −1, 0, 1, 2} oraz 𝑦 ∈ {−2, −1, 0, 1}.
+Liczbę wszystkich zdarzeń elementarnych obliczamy z wykorzystaniem reguły mnożenia.
+Moc zbioru Ω jest równa 6 ⋅ 4 = 24.
+Zdarzeniu 𝐴 sprzyjają następujące zdarzenia elementarne:
+(−3, −2), (−3, −1), (−3, 0), (−2, −2), (−2, −1), (−2, 0), (−1, −2), (−1, −1), (−1, 0),
+(0, −2), (0, −1), (0, 0), (0, 1), (1, 0), (1, 1), (2, 0), (2, 1),
+więc moc zbioru 𝐴 jest równa 17.
+Zatem prawdopodobieństwo zdarzenia 𝐴 jest równe 17
+24 .
+Sposób II
+W tabeli literą 𝒜 zaznaczamy zdarzenia elementarne sprzyjające zdarzeniu 𝐴.
+−2 −1 0 1
+−3 𝒜 𝒜 𝒜
+−2 𝒜 𝒜 𝒜
+−1 𝒜 𝒜 𝒜
+0 𝒜 𝒜 𝒜 𝒜
+1 𝒜 𝒜
+2 𝒜 𝒜
+Moc zbioru Ω jest równa 24.
+Zdarzeń sprzyjających zdarzeniu 𝐴 jest 17.
+Zatem prawdopodobieństwo zdarzenia 𝐴 jest równe 17
+24 .
+𝑌
+𝑋
+Zasady oceniania rozwiązań zadań
+Sposób III (drzewo stochastyczne)
+Rysujemy fragment drzewa stochastycznego rozważanego doświadczenia,
+z uwzględnieniem wszystkich istotnych gałęzi.
+Prawdopodobieństwo zdarzenia 𝐴 jest równe:
+𝑃(𝐴) = 3
+6 ⋅ 3
+4 + 1
+6 ⋅ 4
+4 + 2
+6 ⋅ 2
+4 = 17
+24

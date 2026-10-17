@@ -1,0 +1,21 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=25; level=podstawowy; year=2024; month=maj; task_id=29]
+Zadanie 29. (0–1)
+Na diagramie przedstawiono wyniki sprawdzianu z matematyki w pewnej klasie maturalnej.
+Na osi poziomej podano oceny, które uzyskali uczniowie tej klasy, a na osi pionowej podano
+liczbę uczniów, którzy otrzymali daną ocenę.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Mediana ocen uzyskanych z tego sprawdzianu przez uczniów tej klasy jest równa
+A. 4,5 B. 4 C. 3,5 D. 3
+0
+1
+2
+3
+4
+5
+6
+7
+8
+1 2 3 4 5 6
+liczba
+uczniów
+ocena

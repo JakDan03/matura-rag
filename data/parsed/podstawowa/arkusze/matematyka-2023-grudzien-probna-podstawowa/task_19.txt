@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=18; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=19]
+Zadanie 19. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dane są proste 𝑘 oraz 𝑙 o równaniach
+𝑘: 𝑦 = − 1
+2 𝑥 − 7
+𝑙: 𝑦 = (2𝑚 − 1)𝑥 + 13
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Proste 𝑘 oraz 𝑙 są równoległe, gdy
+A. 𝑚 = (− 1
+2) B. 𝑚 = 1
+4 C. 𝑚 = 3
+2 D. 𝑚 = 2

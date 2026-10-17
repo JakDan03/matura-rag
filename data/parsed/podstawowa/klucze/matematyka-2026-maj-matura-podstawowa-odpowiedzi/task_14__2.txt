@@ -1,0 +1,20 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=41, 42; level=podstawowy; year=2026; month=maj; task_id=14]
+Zadanie 14.
+2 pkt – zapisanie miejsc zerowych funkcji 𝑓: 𝑥1 = 1, 𝑥2 = 5,
+ALBO
+– zapisanie wzoru funkcji 𝑔 w postaci 𝑔(𝑥) = 𝑎(𝑥 − 2)2 − 2,
+ALBO
+– zapisanie wzoru funkcji 𝑔 w postaci 𝑔(𝑥) = 𝑎𝑥(𝑥 − 4),
+ALBO
+– zapisanie, że wierzchołkiem wykresu funkcji 𝑔 jest punkt o współrzędnych (2, −2),
+oraz zapisanie, że drugim miejscem zerowym funkcji 𝑔 jest liczba 4.
+1 pkt – zapisanie wzoru funkcji 𝑓 w postaci 𝑓(𝑥) = 𝑎(𝑥 − 𝑝)2 + 𝑞 oraz zapisanie
+𝑝 = 3 oraz 𝑞 = −2
+ALBO
+– zapisanie jednego z równań:
+• −𝑏
+2𝑎 = 3
+• −∆
+4𝑎 = −2
+• 𝑎 ⋅ 32 + 𝑏 ⋅ 3 + 𝑐 = −2
+• 𝑎 + 𝑏 + 𝑐 = 0

@@ -1,0 +1,28 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=20; level=rozszerzony; year=2024; section=1. Interpretowanie i operowanie informacjami przedstawionymi w tekście […].]
+20 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Zadanie 4. (0–3)
+Funkcja 𝑓 jest określona wzorem 𝑓(𝑥) = −3𝑥+41
+𝑥−13 dla każdej liczby rzeczywistej 𝑥 ≠ 13.
+Punktem kratowym nazywamy punkt w kartezjańskim układzie współrzędnych, którego obie
+współrzędne są liczbami całkowitymi.
+Wyznacz wszystkie punkty kratowe należące do wykresu funkcji 𝒇. Zapisz obliczenia.
+Wymagania ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi w tekście […].
+IV. Rozumowanie i argumentacja.
+3. Dobieranie argumentów do uzasadnienia poprawności rozwiązywania problemów,
+tworzenie ciągu argumentów, gwarantujących poprawność rozwiązania […].
+Wymagania szczegółowe
+II. Wyrażenia algebraiczne. Zdający:
+4) mnoży i dzieli wyrażenia wymierne.
+V. Funkcje. Zdający:
+13) posługuje się funkcją 𝑓(𝑥) = 𝑎
+𝑥 […].
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik.
+2 pkt – poprawne określenie dwóch z czterech możliwych przypadków, dla których 2
+𝑥–13 ∈ ℤ
+i poprawne wyznaczenie dwóch punktów kratowych.
+1 pkt – przekształcenie wzoru funkcji 𝑓 do postaci 𝑓(𝑥) = −3 + 2
+𝑥−13 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.

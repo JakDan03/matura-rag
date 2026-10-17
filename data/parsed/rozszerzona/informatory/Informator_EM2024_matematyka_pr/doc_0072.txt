@@ -1,0 +1,14 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=72; level=rozszerzony; year=2024; section=|𝑂𝑆|2 = |𝑂𝐹|2 + |𝑆𝐹|2]
+72 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Zadanie 22. (0–5)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) proste o równaniach
+2𝑥 + 𝑦 − 4𝑚 − 4 = 0 oraz 𝑥 − 3𝑦 + 5𝑚 + 5 = 0 przecinają się w punkcie 𝑃
+o współrzędnych (𝑥𝑃, 𝑦𝑃).
+Wyznacz wszystkie wartości parametru 𝒎, dla których współrzędne punktu 𝑷
+spełniają warunki:
+𝒙𝑷 > 𝟎, 𝒚𝑷 > 𝟎, 𝒚𝑷 ≥ 𝒙𝑷
+𝟐 oraz 𝟐 < − 𝟖
+(𝒚𝑷)𝟐 + 𝟖
+𝒙𝑷
+.
+Zapisz obliczenia.

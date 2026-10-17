@@ -1,0 +1,19 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=28, 29; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=29.2]
+Zadanie 29.
+W hurtowni owoców wyselekcjonowane jabłko spełnia normę jakości, gdy jego masa (po
+zaokrągleniu do pełnych dekagramów) mieści się w przedziale [19 dag, 21 dag].
+Pobrano próbę kontrolną liczącą 50 jabłek i następnie zważono każde z nich.
+Na poniższym wykresie słupkowym przedstawiono rozkład masy jabłek w badanej próbie.
+Na osi poziomej podano – wyrażoną w dekagramach – masę jabłka (w zaokrągleniu do
+pełnych dekagramów), a na osi pionowej przedstawiono liczbę jabłek o określonej masie.
+Zadanie 29.2. (0–1)
+Dokończ zdanie tak, aby było prawdziwe. Wybierz odpowiedź A albo B oraz jej
+uzasadnienie 1., 2. albo 3.
+Dominanta masy 50 zważonych jabłek (w zaokrągleniu do pełnych dekagramów)
+z pobranej próby kontrolnej jest równa
+20 dag,
+ponieważ
+1. ta masa jest największa w tej próbie. A.
+2. iloczyn tej masy i liczby jabłek o takiej masie jest
+największy w tej próbie.
+23 dag, B. 3. ta masa występuje najliczniej w tej próbie.

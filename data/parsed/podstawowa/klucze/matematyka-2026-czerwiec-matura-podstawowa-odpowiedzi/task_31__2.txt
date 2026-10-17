@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=37; level=podstawowy; year=2026; month=czerwiec; task_id=31]
+Zadanie 31.
+1 pkt – zapisanie jedynie liczby 30 (należy traktować to jako wyznaczenie liczby wszystkich
+zdarzeń elementarnych).
+Uwagi:
+1. W ocenie rozwiązania tego zadania (dla zdających z dyskalkulią) nie stosuje się uwagi 1.
+ze standardowych zasad oceniania.
+2. Jeżeli zdający poprawnie wypisze/zaznaczy wszystkie zdarzenia elementarne sprzyjające
+zdarzeniu 𝐴, lecz popełni błąd w ich zliczeniu (np. |𝐴| = 8) i konsekwentnie zapisze
+wynik (np. 8
+30), to otrzymuje 2 punkty.

@@ -1,0 +1,13 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa.pdf; typ=exam_paper; strony=10; level=podstawowy; year=2026; month=maj; task_id=11]
+Zadanie 11. (0–2)
+Na przedstawienie w pewnym teatrze sprzedawano bilety według poniższego cennika.
+CENNIK BILETÓW
+Rodzaj biletu Cena w złotych
+Normalny 35
+Ulgowy 25
+Na to przedstawienie sprzedano łącznie 200 biletów.
+Po opłaceniu kosztów związanych z organizacją przedstawienia w wysokości 25% wpływów
+ze sprzedaży biletów organizatorom pozostało 4665 zł.
+Oblicz liczbę biletów ulgowych sprzedanych na to przedstawienie. Zapisz obliczenia.
+11.
+0–1–2

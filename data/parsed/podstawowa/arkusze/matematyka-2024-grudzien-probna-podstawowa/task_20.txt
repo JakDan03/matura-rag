@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=20; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=20]
+Zadanie 20. (0–1)
+Dany jest okrąg o środku w punkcie 𝑆 i promieniu 6.
+Miara kąta wpisanego 𝐴𝐶𝐵 jest równa 60° (zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Długość łuku 𝐴𝐵, na którym oparty jest kąt wpisany 𝐴𝐶𝐵, jest równa
+A. 2𝜋 B. 4𝜋 C. 6𝜋 D. 12𝜋
+𝐴
+𝐵
+𝐶
+𝑆
+60°

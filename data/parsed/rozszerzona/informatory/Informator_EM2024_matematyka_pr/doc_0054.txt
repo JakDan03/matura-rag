@@ -1,0 +1,39 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=54; level=rozszerzony; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+54 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Zasady oceniania
+4 pkt – powołanie się na odpowiednie własności funkcji 𝑓 prowadzące do wniosku, że układ
+(1)–(2) ma rozwiązanie w zbiorze liczb rzeczywistych nie mniejszych od 4.
+3 pkt – przyjęcie założenia 𝑐 ∈ [4, 28
+3 ] i zbudowanie funkcji
+𝑓(𝑎) = 𝑎2 + (𝑐 − 20)𝑎 + (𝑐2 − 20𝑐 + 128) dla podanego zakresu parametru 𝑐.
+2 pkt – obliczenie wyróżnika równania i podanie argumentacji prowadzącej do wniosku
+𝑐 ∈ [4, 28
+3 ].
+1 pkt – przyjęcie założenia, że układ (1)–(2) ma rozwiązanie i zapisanie prawidłowego
+równania kwadratowego z niewiadomą 𝑎 (lub 𝑏) i parametrem 𝑐.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Załóżmy, że układ równań (1)–(2) ma rozwiązanie w zbiorze liczb rzeczywistych nie
+mniejszych od 4. Wtedy
+{ 𝑎 + 𝑏 + 𝑐 = 20
+𝑎𝑏 + 𝑏𝑐 + 𝑐𝑎 = 128 (3)
+Przekształcamy układ równań do postaci, w której otrzymamy równanie kwadratowe
+z niewiadomą 𝑎 i parametrem 𝑐:
+{𝑏 = 20 − 𝑎 − 𝑐
+𝑎(20 − 𝑎 − 𝑐) + (20 − 𝑎 − 𝑐)𝑐 + 𝑐𝑎 = 128
+{𝑏 = 20 − 𝑎 − 𝑐
+−𝑎2 + (−𝑐 + 20)𝑎 + (−𝑐2 + 20𝑐 − 128) = 0
+{𝑏 = 20 − 𝑎 − 𝑐
+𝑎2 + (𝑐 − 20)𝑎 + (𝑐2 − 20𝑐 + 128) = 0
+Równanie 𝑎2 + (𝑐 − 20)𝑎 + (𝑐2 − 20𝑐 + 128) = 0 ma z założenia rozwiązanie, więc
+wyróżnik Δ𝑎 jest nieujemny, co prowadzi do:
+Δ𝑎 ≥ 0
+(𝑐 − 20)2 − 4(𝑐2 − 20𝑐 + 128) ≥ 0
+−3𝑐2 + 40𝑐 − 112 ≥ 0
+−3(𝑐 − 4) (𝑐 − 28
+3 ) ≥ 0
+𝑐 ∈ [4, 28
+3 ]
+Jeśli 𝑐 ∈ [4, 28
+3 ], to funkcja 𝑓(𝑎) = 𝑎2 + (𝑐 − 20)𝑎 + (𝑐2 − 20𝑐 + 128) ma co najmniej
+jedno miejsce zerowe (gdyż Δ𝑎 ≥ 0).

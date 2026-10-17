@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=131; level=rozszerzony; year=2024; section=ALBO]
+Informacja o egzaminie maturalnym z matematyki dla absolwentów niesłyszących 131
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik.
+3 pkt – obliczenie miary łukowej kąta 𝐵𝑆𝑃 na siatce stożka i obliczenie długości odcinków
+𝐵𝑆 oraz 𝑃𝑆.
+2 pkt – obliczenie miary łukowej kąta 𝐵𝑆𝑃 na siatce stożka
+ALBO
+– obliczenie długości odcinków 𝐵𝑆 oraz 𝑃𝑆.
+1 pkt – zapisanie, że najkrótsza droga jest równa długości odcinka 𝑃𝐵 na siatce stożka.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Niech 𝑙 będzie długością tworzącej stożka, a 𝑟 – długością promienia podstawy stożka.
+Rozwiniemy powierzchnię boczną stożka, na której zaznaczymy punkty 𝑃, 𝐵 i 𝑆,
+oznaczające: 𝑃 – miejsce rozpoczęcia wyprawy, 𝐵 – miejsce położenia bazy i 𝑆 – szczyt
+góry. Długość odcinka 𝑃𝐵 oznaczymy jako 𝑑. Jest to długość najkrótszej drogi z punktu 𝑃
+do bazy (zobacz rys. 1.).

@@ -1,0 +1,65 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=27, 28, 29; level=rozszerzony; year=2024; month=czerwiec; task_id=10]
+Zadanie 10. (0–4)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+X.3) rozpoznaje w graniastosłupach […]
+kąty między odcinkami (np. krawędziami,
+krawędziami i przekątnymi), oblicza miary
+tych kątów;
+X.4) oblicza […] pola powierzchni
+graniastosłupów […], również
+z wykorzystaniem trygonometrii i poznanych
+twierdzeń.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik:
+√3𝑎2
+2 + 3√2𝑎2 .
+3 pkt – wyznaczenie wysokości graniastosłupa: 𝑎√2.
+2 pkt – zapisanie równania z jedną niewiadomą (wysokością graniastosłupa), np.
+(𝐻2 + 𝑎2) + (𝐻2 + 𝑎2) − 2 ⋅ √𝐻2 + 𝑎2 ⋅ √𝐻2 + 𝑎2 ⋅ 5
+6 = 𝑎2
+1 pkt – obliczenie cosinusa kąta 𝛼: 5
+6
+ALBO
+– zastosowanie twierdzenia cosinusów do trójkąta 𝐴𝐵𝐹 i zapisanie równania
+|𝐴𝐹|2 + |𝐵𝐹|2 − 2 ⋅ |𝐴𝐹| ⋅ |𝐵𝐹| ⋅ cos 𝛼 = 𝑎2.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Przyjmijmy oznaczenia jak na rysunku.
+𝛼
+𝑎
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸
+𝐹
+Oznaczmy ponadto przez 𝐻 wysokość graniastosłupa.
+Korzystamy z tożsamości sin2 𝛼 + cos2 𝛼 = 1 i obliczamy cos 𝛼:
+(√11
+6 )
+2
++ cos2 𝛼 = 1
+cos2 𝛼 = 25
+36
+więc cos 𝛼 = 5
+6 , gdyż 𝛼 jest kątem ostrym.
+Stosujemy do trójkąta 𝐴𝐵𝐹 twierdzenie cosinusów, a następnie korzystamy z twierdzenia
+Pitagorasa i otrzymujemy:
+|𝐴𝐹|2 + |𝐵𝐹|2 − 2 ⋅ |𝐴𝐹| ⋅ |𝐵𝐹| ⋅ cos 𝛼 = 𝑎2
+(𝐻2 + 𝑎2) + (𝐻2 + 𝑎2) − 2 ⋅ √𝐻2 + 𝑎2 ⋅ √𝐻2 + 𝑎2 ⋅ 5
+6 = 𝑎2
+1
+3 ⋅ (𝐻2 + 𝑎2) = 𝑎2
+𝐻 = 𝑎√2
+Obliczamy pole 𝑃 powierzchni całkowitej graniastosłupa:
+𝑃 = 2 ⋅ 𝑎2√3
+4 + 3 ⋅ 𝑎 ⋅ 𝑎√2 = √3𝑎2
+2 + 3√2𝑎2
+Zasady oceniania rozwiązań zadań

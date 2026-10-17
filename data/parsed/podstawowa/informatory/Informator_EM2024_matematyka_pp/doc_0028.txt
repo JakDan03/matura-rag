@@ -1,0 +1,47 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=28; level=podstawowy; year=2024; section=ALBO]
+28 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Podstawiamy wartości 𝑎 i 𝑏 do otrzymanego wyrażenia i obliczamy jego wartość:
+𝑎 ⋅ 𝑏 = (√5 − 2 )(√5 + 2 ) = (√5)
+2
+− 22 = 5 − 4 = 1
+Sposób 2.
+Zauważmy, że:
+𝑎 ⋅ 𝑏 = (√5 − 2 ) ⋅ (√5 + 2 ) = (√5)
+2
+− 22 = 5 − 4 = 1
+zatem liczby 𝑎 i 𝑏 są wzajemnie odwrotne. Zauważamy także, że:
+(√𝑎 + √𝑏) ⋅ √𝑎 − √𝑏
+𝑎 − 𝑏 = 𝑎 − 𝑏
+𝑎 − 𝑏 = 1
+co oznacza, że liczby √𝑎 + √𝑏 i √𝑎−√𝑏
+𝑎−𝑏 także są wzajemnie odwrotne, tj. √𝑎−√𝑏
+𝑎−𝑏 =
+1
+√𝑎+√𝑏
+Z powyższych zależności wynika
+𝑎 ⋅ 𝑏
+√𝑎 + √𝑏
+∶ √𝑎 − √𝑏
+𝑎 − 𝑏 = 𝑎𝑏 · 1
+√𝑎 + √𝑏
+∶ 1
+√𝑎 + √𝑏
+= 1 ⋅ 1 = 1
+Zadanie 15. (0–2)
+Dana jest liczba 𝑥 = 𝑎 − (√3 − √2)
+2
+, gdzie 𝑎 należy do zbioru liczb rzeczywistych.
+W rozwiązaniu zadania uwzględnij fakt, że liczby √2, √3 oraz √2 ⋅ √3 są niewymierne.
+Dokończ zdanie. Zaznacz dwie odpowiedzi, tak aby dla każdej z nich dokończenie
+zdania było prawdziwe.
+Liczba 𝑥 jest wymierna dla
+A. 𝑎 = 5
+B. 𝑎 = (√2 − √3)
+2
++ 0,3
+C. 𝑎 = 6
+D. 𝑎 = −2√6 + 12,5
+E. 𝑎 = (√2 − √3)
+2
+− 2√6
+F. 𝑎 = −√6

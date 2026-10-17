@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=26; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=28]
+Zadanie 28. (0–2)
+Dane są dwa zbiory: 𝐶 = {1, 2, 3, 4, 5, 6} oraz 𝐷 = {7, 8, 9, 10}.
+Losujemy jedną liczbę ze zbioru 𝐶, a następnie losujemy jedną liczbę ze zbioru 𝐷.
+Oblicz prawdopodobieństwo zdarzenia 𝑨 polegającego na tym, że wylosujemy liczby,
+których iloczyn będzie podzielny przez 𝟒. Zapisz obliczenia.
+28.
+0–1–2

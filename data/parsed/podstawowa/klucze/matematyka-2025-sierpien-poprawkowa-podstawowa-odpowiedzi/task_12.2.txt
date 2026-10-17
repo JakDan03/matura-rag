@@ -1,0 +1,28 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=12; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=12.2]
+Zadanie 12.2. (0–2)
+Wymaganie ogólne Wymaganie szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście,
+zarówno matematycznym, jak
+i popularnonaukowym, a także w formie
+wykresów, diagramów, tabel.
+Zdający:
+V.4) odczytuje z wykresu funkcji: […] zbiór
+wartości, […] przedziały, w których funkcja
+przyjmuje wartości […] mniejsze […] od
+danej liczby […].
+Zasady oceniania
+2 pkt – poprawne uzupełnienie dwóch zdań.
+1 pkt – poprawne uzupełnienie jednego zdania.
+0 pkt – brak spełnienia powyższych kryteriów.
+Rozwiązanie
+1. Zbiorem wartości funkcji 𝑓 jest przedział [−4, 3].
+2. Zbiorem wszystkich rozwiązań nierówności 𝑓(𝑥) < −2 jest przedział (−4, −1).
+Uwaga:
+Odpowiedź zdającego uznajemy za poprawną tylko wtedy, gdy można w sposób
+jednoznaczny ustalić, czy zapisany przez zdającego przedział jest otwarty czy domknięty.
+Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki
+Jeśli zdający pomyli porządek liczb na osi liczbowej przy zachowaniu poprawnych krańców
+przedziału, np. zapisze, że zbiorem wartości funkcji 𝑓 jest przedział [3, −4], to otrzymuje
+1 punkt za tak uzupełnione zdanie.

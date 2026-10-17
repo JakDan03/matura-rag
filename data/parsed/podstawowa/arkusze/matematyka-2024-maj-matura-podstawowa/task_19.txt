@@ -1,0 +1,22 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=18; level=podstawowy; year=2024; month=maj; task_id=19]
+Zadanie 19. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba sin3 20° + cos2 20° ⋅ sin 20° jest równa
+A. cos 20° B. sin 20°
+C. tg 20° D. sin 20° ⋅ cos 20°
+18.
+0–1–2
+1
+2
+3
+−3
+−2
+−1
+𝑦
+𝑥
+𝛼
+0
+2
+1
+−1
+3

@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=14; level=podstawowy; year=2025; month=czerwiec; task_id=15.1]
+Zadanie 15.
+W ciągu arytmetycznym (𝑎𝑛), określonym dla każdej liczby naturalnej 𝑛 ≥ 1, dane są
+wyrazy: 𝑎1 = 52 oraz 𝑎25 = 2.
+Zadanie 15.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Różnica ciągu (𝑎𝑛) jest równa
+A. (− 25
+12) B. (−2) C. 2 D. 25
+12

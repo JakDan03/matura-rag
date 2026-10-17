@@ -1,0 +1,103 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=47, 48, 49; level=rozszerzony; year=2026; month=maj; task_id=11]
+Zadanie 11. (0–6)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VIII.R1) stosuje własności czworokątów
+wpisanych w okrąg i opisanych na okręgu.
+Zasady oceniania
+6 pkt – zastosowanie poprawnej metody i poprawny wynik: |𝐵𝐶| = 5 i |𝐶𝐷| = 6 oraz
+𝑃 = 30√3.
+5 pkt – obliczenie długości boków 𝐵𝐶 oraz 𝐶𝐷: |𝐵𝐶| = 5 oraz |𝐶𝐷| = 6.
+4 pkt – zapisanie równania z jedną niewiadomą (długością boku 𝐵𝐶 lub długością boku
+𝐶𝐷), np.
+91 = |𝐵𝐶|2 + (|𝐵𝐶| + 1)2 − 2 ⋅ |𝐵𝐶| ⋅ (|𝐵𝐶| + 1) ⋅ cos 120°,
+91 = (|𝐵𝐶| + 1 + 1
+2 ⋅ |𝐵𝐶|)
+2
++ (√3
+2 ⋅ |𝐵𝐶|)
+2
+ALBO
+– zapisanie układu równań z dwiema niewiadomymi (długościami boków 𝐵𝐶 i 𝐶𝐷),
+np. {
+9 + |𝐶𝐷| = 10 + |𝐵𝐶|
+(√91)
+2
+= |𝐵𝐶|2 + |𝐶𝐷|2 − 2 ⋅ |𝐵𝐶| ⋅ |𝐶𝐷| ⋅ cos 120°
+3 pkt – spełnienie wszystkich warunków 1) – 3) określonych w kryterium za 1 punkt
+ALBO
+– spełnienie warunków 1) i 2) określonych w kryterium za 1 punkt oraz zastosowanie
+twierdzenia cosinusów do trójkąta 𝐵𝐶𝐷 i zapisanie równania
+|𝐵𝐷|2 = |𝐵𝐶|2 + |𝐶𝐷|2 − 2 ⋅ |𝐵𝐶| ⋅ |𝐶𝐷| ⋅ cos|∡𝐵𝐶𝐷|,
+ALBO
+– spełnienie warunków 2) i 3) określonych w kryterium za 1 punkt oraz zastosowanie
+twierdzenia cosinusów do trójkąta 𝐵𝐶𝐷 i zapisanie równania
+|𝐵𝐷|2 = |𝐵𝐶|2 + |𝐶𝐷|2 − 2 ⋅ |𝐵𝐶| ⋅ |𝐶𝐷| ⋅ cos|∡𝐵𝐶𝐷|.
+2 pkt – spełnienie dwóch spośród warunków 1) – 3) określonych w kryterium za 1 punkt.
+1 pkt – spełnienie jednego z warunków 1) – 3):
+1) zastosowanie twierdzenia o czworokącie opisanym na okręgu i zapisanie
+zależności między długością boku 𝐵𝐶 a długością boku 𝐶𝐷 czworokąta, np.
+9 + |𝐶𝐷| = 10 + |𝐵𝐶|,
+2) zapisanie jednego z dwóch równań: |𝐵𝐷|2 = 92 + 102 − 2 ⋅ 9 ⋅ 10 ⋅ cos 60° lub
+|𝐵𝐷|2 = (
+√3
+2 ⋅ 10)
+2
++ (9 − 5)2,
+3) zastosowanie twierdzenia o czworokącie wpisanym w okrąg i obliczenie miary kąta
+𝐵𝐶𝐷: 120°.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli jedynym błędem zdającego jest:
+a) błędne zastosowanie twierdzenia cosinusów albo
+b) błędne zastosowanie wzoru redukcyjnego, albo
+c) błędne zastosowanie twierdzenia o czworokącie opisanym na okręgu (tj. zapisanie
+związku 9 ⋅ |𝐶𝐷| = 10 ⋅ |𝐵𝐶| lub 10 + |𝐶𝐷| = 9 + |𝐵𝐶|), albo
+d) błędne zastosowanie własności miarowych trójkąta prostokątnego o kątach ostrych
+30° i 60°, albo
+e) błędna interpretacja obliczonej długości jednego z dwóch szukanych boków
+czworokąta,
+ale zdający realizuje poprawnie strategię rozwiązania zadania, to może otrzymać co
+najwyżej 4 punkty za całe rozwiązanie, o ile nie nabył prawa do innej liczby punktów.
+Jeżeli zdający popełni dodatkowo błędy rachunkowe, to może otrzymać co najwyżej
+3 punkty za całe rozwiązanie, o ile nie nabył prawa do innej liczby punktów.
+Przykładowe pełne rozwiązanie
+Przyjmijmy następujące oznaczenia: 𝑥 = |𝐵𝐶|, 𝑦 = |𝐶𝐷|, 𝑑 = |𝐵𝐷| (zobacz rysunek).
+Na czworokącie 𝐴𝐵𝐶𝐷 jest opisany okrąg, więc 60° + |∡𝐵𝐶𝐷| = 180°, czyli
+|∡𝐵𝐶𝐷| = 120°.
+W czworokąt 𝐴𝐵𝐶𝐷 jest wpisany okrąg, więc 9 + 𝑦 = 10 + 𝑥, czyli 𝑦 = 𝑥 + 1.
+Stosujemy twierdzenie cosinusów do trójkąta 𝐴𝐵𝐷 i otrzymujemy
+𝑑2 = 92 + 102 − 2 ⋅ 9 ⋅ 10 ⋅ cos 60°
+Stosujemy twierdzenie cosinusów do trójkąta 𝐵𝐶𝐷 i otrzymujemy:
+𝑑2 = 𝑥2 + 𝑦2 − 2 ⋅ 𝑥 ⋅ 𝑦 ⋅ cos 120°
+𝑑2 = 𝑥2 + (𝑥 + 1)2 + 2𝑥(𝑥 + 1) ⋅ 1
+2
+𝐴
+𝐵
+𝐶
+𝐷
+9
+10
+60°
+𝑥
+𝑦
+𝑑
+Zasady oceniania rozwiązań zadań
+Zatem:
+92 + 102 − 2 ⋅ 9 ⋅ 10 ⋅ cos 60° = 𝑥2 + (𝑥 + 1)2 + 2𝑥(𝑥 + 1) ⋅ 1
+2
+0 = 3𝑥2 + 3𝑥 − 90
+0 = 𝑥2 + 𝑥 − 30
+𝑥 = 5 ∨ 𝑥 = −6 ∉ (0, +∞)
+Stąd |𝐵𝐶| = 5 i |𝐶𝐷| = |𝐵𝐶| + 1 = 6.
+Pole czworokąta 𝐴𝐵𝐶𝐷 jest sumą pól trójkątów 𝐴𝐵𝐷 i 𝐵𝐶𝐷.
+Obliczamy pole 𝑃 czworokąta 𝐴𝐵𝐶𝐷:
+𝑃 = 1
+2 ⋅ 9 ⋅ 10 ⋅ sin 60° + 1
+2 ⋅ 5 ⋅ 6 ⋅ sin 120° = 45 ⋅ √3
+2 + 15 ⋅ √3
+2 = 30√3

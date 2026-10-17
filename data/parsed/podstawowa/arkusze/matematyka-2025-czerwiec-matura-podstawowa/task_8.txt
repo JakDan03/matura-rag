@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=8; level=podstawowy; year=2025; month=czerwiec; task_id=8]
+Zadanie 8. (0–2)
+W maju 2024 roku założono dwa sady: posadzono w nich łącznie 1410 drzew.
+Po roku stwierdzono, że uschło 20% drzew w pierwszym sadzie i 15% drzew w drugim
+sadzie. Uschnięte drzewa usunięto, a nowych nie dosadzano.
+Liczba drzew, które pozostały w drugim sadzie, stanowiła 70% liczby drzew, które
+pozostały w pierwszym sadzie.
+Oblicz, ile drzew posadzono w pierwszym sadzie w maju 2024 roku. Zapisz obliczenia.

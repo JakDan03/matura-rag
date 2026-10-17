@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=25; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=24]
+Zadanie 24. (0–1)
+Liczba wszystkich ścian ostrosłupa prawidłowego jest równa 12.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba wszystkich wierzchołków tego ostrosłupa jest równa
+A. 10 B. 11 C. 12 D. 13

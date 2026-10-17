@@ -1,0 +1,267 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=4, 5, 6, 7, 8; level=rozszerzony; year=2023; month=maj; task_id=2]
+Zadanie 2. (0–3)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+XII.R2) stosuje schemat Bernoullego.
+Zasady oceniania
+3 pkt – zastosowanie poprawnej metody i poprawny wynik: 1
+64 .
+2 pkt – zapisanie poprawnego prawdopodobieństwa uzyskania co najmniej czterech
+sukcesów w pięciu próbach Bernoullego, np. 𝑃 = (5
+4) ⋅ (1
+4)
+4
+⋅ (3
+4)
+1
++ (5
+5) ⋅ (1
+4)
+5
+,
+𝑃 = 5 ⋅ (1
+4)
+4
+⋅ 3
+4 + (1
+4)
+5
+,
+𝑃 = 1 − [(5
+0) ⋅ (1
+4)
+0
+⋅ (3
+4)
+5
++ (5
+1) ⋅ (1
+4)
+1
+⋅ (3
+4)
+4
++ (5
+2) ⋅ (1
+4)
+2
+⋅ (3
+4)
+3
++ (5
+3) ⋅ (1
+4)
+3
+⋅ (3
+4)
+1
+]
+1 pkt – zapisanie prawdopodobieństwa odniesienia sukcesu (𝑝) i porażki (𝑞) w pojedynczej
+partii: 𝑝 = 1
+4 , 𝑞 = 3
+4
+ALBO
+– zapisanie prawdopodobieństwa w postaci 𝑝5 + 5𝑝4 ⋅ 𝑞, gdzie 𝑝 jest
+prawdopodobieństwem odniesienia sukcesu, 𝑞 – porażki,
+ALBO
+– przedstawienie fragmentu drzewa zawierającego wszystkie istotne gałęzie
+odpowiadające pięciu wygranym i czterem wygranym,
+ALBO
+– przedstawienie fragmentu drzewa zawierającego gałąź odpowiadającą czterem
+wygranym i jednej przegranej oraz określenie na każdym odcinku gałęzi
+prawdopodobieństwa sukcesu i porażki.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający zapisze poprawne prawdopodobieństwa 𝑃(𝑆5
+4) = (5
+4) ⋅ (1
+4)
+4
+⋅ (3
+4)
+1
+oraz
+𝑃(𝑆5
+5) = (5
+5) ⋅ (1
+4)
+5
+, ale z dalszego rozwiązania nie wynika, że 𝑃 = 𝑃(𝑆5
+4) + 𝑃(𝑆5
+5), to
+otrzymuje co najwyżej 1 punkt za całe rozwiązanie.
+2. Jeżeli zdający określa błędnie prawdopodobieństwo porażki i konsekwentnie rozwiąże
+zadanie do końca, to otrzymuje 1 punkt za całe rozwiązanie.
+Zasady oceniania rozwiązań zadań
+Przykładowe pełne rozwiązania
+Sposób I
+Określamy prawdopodobieństwo sukcesu (𝑝) i porażki (𝑞) w pojedynczej partii: 𝑝 = 1
+4 ,
+𝑞 = 1 − 𝑝 = 3
+4 .
+Niech 𝑆5
+𝑘 oznacza zdarzenie polegające na wygraniu przez Tomka dokładnie 𝑘 partii
+spośród pięciu rozgrywanych (𝑘 ∈ {0, 1, 2, 3, 4, 5}).
+Obliczamy prawdopodobieństwo 𝑃 wygrania przez Tomka co najmniej czterech z pięciu
+partii:
+𝑃 = 𝑃(𝑆5
+4) + 𝑃(𝑆5
+5) = (5
+4) ⋅ (1
+4)
+4
+⋅ (3
+4)
+1
++ (5
+5) ⋅ (1
+4)
+5
+= 5 ⋅ 3 + 1
+45 = 16
+45 = 1
+64
+Sposób II (poprzez drzewo)
+Określamy prawdopodobieństwo sukcesu (𝑝) i porażki (𝑞) w pojedynczej partii: 𝑝 = 1
+4 ,
+𝑞 = 1 − 𝑝 = 3
+4 .
+Rysujemy fragment drzewa doświadczenia, zawierający wszystkie gałęzie odpowiadające
+czterem oraz pięciu wygranym przez Tomka partiom.
+Symbol 𝑇 odpowiada partii wygranej przez Tomka, natomiast 𝑅 – partii, której Tomek nie
+wygrał. Oznaczamy przez 𝐴 zdarzenie polegające na tym, że Tomek wygrał co najmniej
+cztery spośród pięciu partii.
+Prawdopodobieństwo zdarzenia 𝐴 jest równe
+𝑃(𝐴) = 1
+4 ∙ 1
+4 ∙ 1
+4 ∙ 1
+4 ∙ 1
+4 + 5 ∙ 3
+4 ∙ 1
+4 ∙ 1
+4 ∙ 1
+4 ∙ 1
+4 = 16
+1024 = 1
+64
+Sposób III (przez zdarzenie przeciwne)
+Określamy prawdopodobieństwo sukcesu (𝑝) i porażki (𝑞) w pojedynczej partii: 𝑝 = 1
+4 ,
+𝑞 = 1 − 𝑝 = 3
+4 .
+Niech 𝑆5
+𝑘 oznacza zdarzenie polegające na wygraniu przez Tomka dokładnie 𝑘 partii
+spośród pięciu rozgrywanych (𝑘 ∈ {0, 1, 2, 3, 4, 5}).
+1
+4
+3
+4
+𝑇
+𝑅
+1
+4
+1
+4
+3
+4
+𝑇
+𝑅
+𝑇
+𝑇
+𝑅
+𝑇
+𝑇
+1
+4
+1
+4
+1
+4
+3
+4
+1
+4
+1
+4
+1
+4
+3
+4
+1
+4
+𝑇
+𝑅
+𝑇
+𝑇
+𝑇
+𝑇
+𝑅
+𝑇
+𝑇
+𝑇
+𝑇
+1
+4
+1
+4
+1
+4
+3
+4
+1
+4
+1
+4
+Zasady oceniania rozwiązań zadań
+Obliczymy prawdopodobieństwo zdarzenia 𝐴′ – przeciwnego do zdarzenia 𝐴. Zdarzenie 𝐴′
+odpowiada co najwyżej trzem wygranym przez Tomka partiom.
+Prawdopodobieństwo zdarzenia 𝐴′ jest równe
+𝑃(𝐴′) = 𝑃(𝑆5
+0) + 𝑃(𝑆5
+1) + 𝑃(𝑆5
+2) + 𝑃(𝑆5
+3) =
+= (5
+0) ⋅ (1
+4)
+0
+⋅ (3
+4)
+5
++ (5
+1) ⋅ (1
+4)
+1
+⋅ (3
+4)
+4
++ (5
+2) ⋅ (1
+4)
+2
+⋅ (3
+4)
+3
++ (5
+3) ⋅ (1
+4)
+3
+⋅ (3
+4)
+2
+=
+= 9 ∙ 112
+45 = 63
+64
+Zatem prawdopodobieństwo zdarzenia 𝐴 – tj. wygrania przez Tomka co najmniej czterech
+z pięciu partii, jest równe
+𝑃(𝐴) = 1 − 𝑃(𝐴′) = 1 − 63
+64 = 1
+64

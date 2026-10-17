@@ -1,0 +1,18 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=85; level=podstawowy; year=2024; section=1. Zapiszemy wzór na pole trójkąta 𝐴𝐵𝐶 i wykorzystamy dane zadania:]
+Przykładowe zadania z rozwiązaniami 85
+Zadanie 46. (0–3)
+Na podstawie twierdzenia Pitagorasa można udowodnić bardziej ogólną własność niż ta,
+o której mówi samo to twierdzenie.
+Rozważmy trójkąt prostokątny 𝐴𝐵𝐶 o kącie prostym przy wierzchołku 𝐴. Niech każdy
+z boków tego trójkąta: 𝐶𝐴, 𝐴𝐵, 𝐵𝐶 będzie podstawą trójkątów podobnych, odpowiednio:
+𝐶𝐴𝑊1, 𝐴𝐵𝑊2, 𝐵𝐶𝑊3. Trójkąty te mają odpowiadające sobie kąty o równych miarach,
+odpowiednio przy wierzchołkach: 𝑊1, 𝑊2, 𝑊3.
+Pola trójkątów: 𝐶𝐴𝑊1, 𝐴𝐵𝑊2, 𝐵𝐶𝑊3 oznaczymy odpowiednio jako 𝑃1, 𝑃2, 𝑃3.
+Udowodnij, że
+𝑷𝟑 = 𝑷𝟏 + 𝑷𝟐
+𝐶
+𝑊3
+𝑊1
+𝐴
+𝐵
+𝑊2

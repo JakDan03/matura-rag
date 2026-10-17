@@ -11,6 +11,7 @@ from llama_index.core.node_parser import SentenceSplitter
 
 from src.rag.documents import load_documents
 from src.rag.models import configure_models
+from src.rag.parsed_store import parsed_dir
 from src.rag.pdf_parser import PARSER_VERSION
 
 
@@ -23,8 +24,9 @@ class IndexManager:
 
     def _source_hash(self) -> str:
         digest = hashlib.sha256()
+        parsed_root = parsed_dir(self.app_settings.data_dir)
         for path in sorted(self.app_settings.data_dir.rglob("*")):
-            if path.is_file():
+            if path.is_file() and parsed_root not in path.parents:
                 digest.update(str(path.relative_to(self.app_settings.data_dir)).encode())
                 digest.update(path.read_bytes())
         return digest.hexdigest()

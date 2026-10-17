@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=15; level=podstawowy; year=2026; month=marzec; term=probna; task_id=16]
+Zadanie 16. (0–1)
+Ciąg geometryczny (𝑎𝑛), określony dla każdej liczby naturalnej 𝑛 ≥ 1, jest malejący.
+Wyrazy tego ciągu spełniają warunek 𝑎6 = 25 ⋅ 𝑎8 .
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Iloraz ciągu (𝑎𝑛) jest równy
+A. 1
+5 B. (− 1
+5) C. 5 D. (−5)

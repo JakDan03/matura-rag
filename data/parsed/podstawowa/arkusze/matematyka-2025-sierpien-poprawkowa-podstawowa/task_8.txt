@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2025-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=8; level=podstawowy; year=2025; month=sierpień; term=poprawkowa; task_id=8]
+Zadanie 8. (0–3)
+Dane jest równanie
+3
+3𝑥 − 7 = 5𝑥
+𝑥 − 8 , gdzie 𝑥 ≠ 7
+3 i 𝑥 ≠ 8.
+Wyznacz wszystkie rozwiązania tego równania należące do przedziału (𝟓
+𝟒 , +∞).
+Zapisz obliczenia.

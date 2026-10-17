@@ -1,0 +1,93 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=9, 10, 11, 12; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=6]
+Zadanie 6. (0–4)
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+III.R4) rozwiązuje równania […] z wartością
+bezwzględną.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 2
+5 oraz 14
+3 .
+3 pkt – rozwiązanie równania w dwóch spośród rozważanych przedziałów/przypadków (o ile
+zdający rozpatruje równanie w przedziałach/przypadkach, których suma jest równa
+ℝ/wyczerpujących zbiór ℝ)
+ALBO
+– rozwiązanie równania 4𝑥 − 8 = |𝑥 + 2| + 4 (dla sposobu II),
+ALBO
+– rozwiązanie równania 4𝑥 − 8 = −|𝑥 + 2| − 4 (dla sposobu II).
+2 pkt – zastosowanie definicji wartości bezwzględnej lub własności wartości bezwzględnej
+i zapisanie danego równania odpowiednio w trzech przedziałach: (−∞, −2), [−2, 2),
+[2, +∞), lub w czterech przypadkach: 𝑥 + 2 < 0 i 𝑥 − 2 < 0, 𝑥 + 2 < 0
+i 𝑥 − 2 ≥ 0, 𝑥 + 2 ≥ 0 i 𝑥 − 2 < 0, 𝑥 + 2 ≥ 0 i 𝑥 − 2 ≥ 0
+ALBO
+– zapisanie równania w postaci równoważnej alternatywy dwóch równań:
+4𝑥 − 8 = |𝑥 + 2| + 4 lub 4𝑥 − 8 = −|𝑥 + 2| − 4 (dla sposobu II).
+1 pkt – przekształcenie danego równania do postaci 4 ⋅ |𝑥 − 2| = |𝑥 + 2| + 4
+ALBO
+– przekształcenie danego równania do postaci |4𝑥 − 8| = |𝑥 + 2| + 4,
+ALBO
+– zapisanie przedziałów: (−∞, −2), [−2, 2), [2, +∞), oraz zapisanie danego
+równania w jednym z tych przedziałów bez użycia symbolu wartości bezwzględnej
+ALBO
+– zapisanie jednego z przedziałów: (−∞, −2), [−2, 2), [2, +∞), oraz rozwiązanie
+danego równania w tym przedziale.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Ponieważ |4𝑥 − 8| = 4 ⋅ |𝑥 − 2| oraz |2 − 𝑥| = |𝑥 − 2| dla każdego 𝑥 ∈ ℝ, więc
+równanie |4𝑥 − 8| + |𝑥 − 2| = |2 − 𝑥| + |𝑥 + 2| + 4 można przekształcić równoważnie do
+postaci
+4 ⋅ |𝑥 − 2| = |𝑥 + 2| + 4
+Rozważamy trzy przypadki.
+Przypadek 1. (gdy 𝑥 ∈ (−∞, −2))
+W tym przypadku równanie ma postać −4𝑥 + 8 = −𝑥 − 2 + 4, czyli 𝑥 = 2.
+Ponieważ 2 ∉ (−∞, −2), więc liczba 2 nie jest rozwiązaniem równania.
+Przypadek 2. (gdy 𝑥 ∈ [−2, 2))
+W tym przypadku równanie ma postać −4𝑥 + 8 = 𝑥 + 2 + 4, czyli 𝑥 = 2
+5 .
+Ponieważ 2
+5 ∈ [−2, 2), więc liczba 2
+5 jest rozwiązaniem równania.
+Przypadek 3. (gdy 𝑥 ∈ [2, +∞))
+W tym przypadku równanie ma postać 4𝑥 − 8 = 𝑥 + 2 + 4, czyli 𝑥 = 14
+3 .
+Ponieważ 14
+3 ∈ [2, +∞), więc liczba 14
+3 jest rozwiązaniem równania.
+Ostatecznie rozwiązaniami danego równania są liczby 2
+5 oraz 14
+3 .
+Sposób II
+Ponieważ |2 − 𝑥| = |𝑥 − 2| dla każdego 𝑥 ∈ ℝ, więc równanie
+|4𝑥 − 8| + |𝑥 − 2| = |2 − 𝑥| + |𝑥 + 2| + 4 można przekształcić równoważnie do postaci
+|4𝑥 − 8| = |𝑥 + 2| + 4
+Ponieważ wyrażenie |𝑥 + 2| + 4 jest dodatnie dla każdego 𝑥 ∈ ℝ, więc równanie
+|4𝑥 − 8| = |𝑥 + 2| + 4 można zapisać równoważnie jako alternatywę równań:
+4𝑥 − 8 = |𝑥 + 2| + 4 ∨ 4𝑥 − 8 = −|𝑥 + 2| − 4
+Stąd
+|𝑥 + 2| = 4𝑥 − 12 ∨ |𝑥 + 2| = 4 − 4𝑥
+Rozwiązujemy równanie |𝑥 + 2| = 4𝑥 − 12:
+4𝑥 − 12 ≥ 0 ∧ (𝑥 + 2 = 4𝑥 − 12 ∨ 𝑥 + 2 = −4𝑥 + 12)
+𝑥 ≥ 3 ∧ (𝑥 = 14
+3 ∨ 𝑥 = 2)
+Ponieważ 14
+3 ∈ [3, +∞) i 2 ∉ [3, +∞), więc rozwiązaniem równania
+|𝑥 + 2| = 4𝑥 − 12 jest liczba 14
+3 .
+Rozwiązujemy równanie |𝑥 + 2| = 4 − 4𝑥:
+4 − 4𝑥 ≥ 0 ∧ (𝑥 + 2 = 4 − 4𝑥 ∨ 𝑥 + 2 = −4 + 4𝑥)
+𝑥 ≤ 1 ∧ (𝑥 = 2
+5 ∨ 𝑥 = 2)
+Zasady oceniania rozwiązań zadań
+Ponieważ 2
+5 ∈ (−∞, 1] i 2 ∉ (−∞, 1], więc rozwiązaniem równania
+|𝑥 + 2| = 4 − 4𝑥 jest liczba 2
+5 .
+Rozwiązaniami równania |4𝑥 − 8| + |𝑥 − 2| = |2 − 𝑥| + |𝑥 + 2| + 4 są liczby 2
+5 oraz 14
+3 .

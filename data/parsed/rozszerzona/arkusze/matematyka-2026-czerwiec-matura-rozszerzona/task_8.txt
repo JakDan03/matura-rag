@@ -1,0 +1,10 @@
+[ŹRÓDŁO: plik=matematyka-2026-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=14; level=rozszerzony; year=2026; month=czerwiec; task_id=8]
+Zadanie 8. (0–4)
+Trzywyrazowy ciąg (𝑥, 𝑦, 𝑧) jest geometryczny. Jeżeli w tym ciągu pomniejszymy trzeci
+wyraz o 4, a pozostałe wyrazy pozostawimy bez zmian, to otrzymamy ciąg arytmetyczny.
+Jeżeli drugi i trzeci wyraz tak otrzymanego ciągu arytmetycznego pomniejszymy o 1, to
+otrzymamy nowy ciąg geometryczny.
+Oblicz 𝒙, 𝒚 oraz 𝒛. Zapisz obliczenia.
+8.
+0–1–
+2–3–4

@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=14; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=13]
+Zadanie 13. (0–1)
+Ciąg arytmetyczny (𝑎𝑛) jest określony dla każdej liczby naturalnej 𝑛 ≥ 1. W tym ciągu
+𝑎2 = 4 oraz 𝑎3 = 9.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Szósty wyraz ciągu (𝑎𝑛) jest równy
+A. 24 B. 29 C. 36 D. 69

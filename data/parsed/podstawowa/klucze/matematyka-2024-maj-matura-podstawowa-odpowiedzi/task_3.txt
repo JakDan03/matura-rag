@@ -1,0 +1,66 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=3, 4, 5; level=podstawowy; year=2024; month=maj; task_id=3]
+Zadanie 3. (0–2)
+Wymagania egzaminacyjne 2024
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+I.2) przeprowadza proste dowody dotyczące
+podzielności liczb całkowitych i reszt
+z dzielenia nie trudniejsze niż dowód
+podzielności przez 24 iloczynu czterech
+kolejnych liczb naturalnych.
+Zasady oceniania
+2 pkt – przekształcenie wyrażenia 𝑛2 + (𝑛 + 1)2 + (𝑛 + 2)2 do postaci
+3(𝑛2 + 2𝑛 + 1) + 2
+ALBO
+– przekształcenie wyrażenia 𝑛2 + (𝑛 + 1)2 + (𝑛 + 2)2 do postaci
+3𝑛2 + 6𝑛 + 5 oraz zapisanie, że składniki 3𝑛2 oraz 6𝑛 są podzielne przez 3,
+a reszta z dzielenia liczby 5 przez 3 jest równa 2,
+ALBO
+– zapisanie, że 𝑛, 𝑛 + 1, 𝑛 + 2, to trzy kolejne liczby całkowite, więc dokładnie jedna
+z nich jest podzielna przez 3, a dwie pozostałe nie są podzielne przez 3 oraz
+zapisanie, że kwadrat liczby podzielnej przez 3 jest podzielny przez 3, a kwadrat
+liczby niepodzielnej przez 3 przy dzieleniu przez 3 daje resztę 1, oraz zapisanie
+wniosku, że reszta z dzielenia przez 3 liczby 𝑛2 + (𝑛 + 1)2 + (𝑛 + 2)2 jest
+równa 2.
+1 pkt – przekształcenie wyrażenia 𝑛2 + (𝑛 + 1)2 + (𝑛 + 2)2 do postaci
+𝑛2 + 𝑛2 + 2𝑛 + 1 + 𝑛2 + 4𝑛 + 4
+ALBO
+– zapisanie, że 𝑛, 𝑛 + 1, 𝑛 + 2, to trzy kolejne liczby naturalne, więc dokładnie jedna
+z nich jest podzielna przez 3, a dwie pozostałe nie są podzielne przez 3 oraz
+zapisanie, że kwadrat liczby podzielnej przez 3 jest podzielny przez 3, a kwadrat
+liczby niepodzielnej przez 3 przy dzieleniu przez 3 daje resztę 1.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający sprawdza prawdziwość tezy tylko dla wybranych wartości 𝑛, to otrzymuje
+0 punktów za całe rozwiązanie.
+2. Jeżeli zdający przyjmuje np. 𝑛 = 3𝑘 + 𝑟, gdzie 𝑘 ∈ ℕ i 𝑟 jest resztą z dzielenia liczby
+𝑛 przez 3 (lub 𝑛 = 2𝑘 + 𝑟, gdzie 𝑘 ∈ ℕ i 𝑟 jest resztą z dzielenia liczby 𝑛 przez 2),
+i przeprowadzi pełne rozumowanie dla wszystkich przypadków, to otrzymuje 2 punkty.
+Gdy przeprowadzi pełne rozumowanie dla co najmniej połowy przypadków, ale nie
+przeprowadzi pełnego rozumowania dla wszystkich przypadków, to otrzymuje 1 punkt za
+całe rozwiązanie.
+3. Jeżeli zdający rozpatruje tylko jeden przypadek 𝑛 = 3𝑘 + 2, to otrzymuje 0 punktów za
+całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Przekształcamy równoważnie dane wyrażenie
+𝑛2 + (𝑛 + 1)2 + (𝑛 + 2)2 = 𝑛2 + 𝑛2 + 2𝑛 + 1 + 𝑛2 + 4𝑛 + 4
+= 3𝑛2 + 6𝑛 + 5 = 3 ∙ (𝑛2 + 2𝑛 + 1) + 2
+Ponieważ 𝑛 jest liczbą naturalną, więc 𝑛2 + 2𝑛 + 1 jest liczbą naturalną.
+Zatem 3 ∙ (𝑛2 + 2𝑛 + 1) jest wielokrotnością liczby 3.
+Stąd 3 ∙ (𝑛2 + 2𝑛 + 1) + 2 przy dzieleniu przez 3 daje resztę 2.
+To należało wykazać.
+Sposób II
+Liczby 𝑛, 𝑛 + 1, 𝑛 + 2 to trzy kolejne liczby naturalne, więc dokładnie jedna z nich jest
+podzielna przez 3, a dwie pozostałe nie są podzielne przez 3.
+Kwadrat liczby podzielnej przez 3 jest również podzielny przez 3.
+Kwadrat liczby niepodzielnej przez 3 daje przy dzieleniu przez 3 resztę 1.
+Zasady oceniania rozwiązań zadań
+Zatem suma reszt z dzielenia przez 3 liczby 𝑛2 + (𝑛 + 1)2 + (𝑛 + 2)2 jest równa
+0 + 1 + 1 = 2.
+To należało wykazać.

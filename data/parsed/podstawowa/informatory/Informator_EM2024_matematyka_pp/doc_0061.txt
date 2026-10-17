@@ -1,0 +1,70 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=61; level=podstawowy; year=2024; section=1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno]
+Przykładowe zadania z rozwiązaniami 61
+Przykładowe pełne rozwiązania
+Sposób 1.
+Przyjmijmy, że:
+𝑚0 – masa początkowa izotopu węgla C
+14 ,
+𝑚(𝑡) – masa izotopu węgla C
+14 po czasie 𝑡, licząc od chwili 𝑡0 = 0.
+Wykorzystamy wzór podany we wstępie do zadania, opisujący rozpad promieniotwórczy,
+zastosowany do masy izotopu:
+𝑚(𝑡) = 𝑚0 ⋅ (1
+2)
+𝑡
+𝑇
+Podstawimy dane z zadania i przekształcimy równanie:
+1
+16 ⋅ 𝑚0 = 𝑚0 ⋅ (1
+2)
+𝑡
+𝑇
+, czyli 1
+16 = (1
+2)
+𝑡
+𝑇
+Powyższa równość oznacza, że liczba 1
+2 podniesiona do potęgi 𝑡
+𝑇 daje w wyniku 1
+16
+.
+Zatem:
+𝑡
+𝑇 = 4
+Obliczymy, ile lat liczy sobie znalezisko. Z powyższego równania wynika, że:
+𝑡 = 4𝑇 ≈ 4 ⋅ 5700 = 22 800 lat
+Sposób 2.
+Przyjmijmy, że:
+𝑚0 – masa początkowa izotopu węgla C
+14 ,
+𝑚(𝑡) – masa izotopu węgla C
+14 po czasie 𝑡, licząc od chwili 𝑡0 = 0.
+Zgodnie z definicją pojęcia czasu połowicznego rozpadu, po każdym upływie czasu równym
+czasowi połowicznego rozpadu, masa izotopu promieniotwórczego w próbce zmniejsza się
+o połowę. Zatem po każdym kolejnym upływie 5 700 lat, masa izotopu węgla C
+14
+w próbce/znalezisku zmniejszała się o połowę.
+Zatem:
+𝑚1 = 1
+2 ⋅ 𝑚0 – masa izotopu węgla C
+14 w próbce po około 5 700 latach.
+𝑚2 = 1
+2 ⋅ 1
+2 ⋅ 𝑚0 = 1
+4 ⋅ 𝑚0 – masa izotopu węgla C
+14 w próbce po około 11 400 latach.
+𝑚3 = 1
+2 ⋅ 1
+2 ⋅ 1
+2 ⋅ 𝑚0 = 1
+8 ⋅ 𝑚0 – masa izotopu węgla C
+14 w próbce po około 17 100 latach.
+𝑚4 = 1
+2 ⋅ 1
+2 ⋅ 1
+2 ⋅ 1
+2 ⋅ 𝑚0 = 1
+16 ⋅ 𝑚0 – masa izotopu węgla C
+14 w próbce po około 22 800 latach.
+Znalezisko archeologiczne ma około 22 800 lat.

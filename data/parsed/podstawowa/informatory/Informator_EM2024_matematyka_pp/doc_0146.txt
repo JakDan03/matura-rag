@@ -1,0 +1,24 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=146; level=podstawowy; year=2024; section=ALBO]
+146 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zasady oceniania
+3 pkt – poprawna metoda wyznaczenia współrzędnej 𝑥 oraz zapisanie wyniku 8,99 m.
+2 pkt – poprawne rozwiązanie równania 0,174𝑥2 − 1,3𝑥 − 2,38 = 0.
+1 pkt – zapisanie równania 0,12 = −0,174𝑥2 + 1,3𝑥 + 2,5.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Zauważmy, że w momencie gdy piłka upadła i dotknęła podłogi, to środek piłki należy do
+paraboli oraz jest na wysokości 0,12 m ponad podłogą. Zatem współrzędne środka piłki
+(𝑥, 𝑦) spełniają równanie paraboli, a współrzędna 𝑦 = 0,12 m.
+0,12 = −0,174𝑥2 + 1,3𝑥 + 2,5
+0,174𝑥2 − 1,3𝑥 − 2,38 = 0
+Rozwiązujemy otrzymane równanie kwadratowe.
+Obliczamy wyróżnik Δ trójmianu kwadratowego 0,174𝑥2 − 1,3𝑥 − 2,38 (zobacz
+w Wybranych wzorach matematycznych):
+Δ = (−1,3)2 − 4 ⋅ 0,174 ⋅ (−2,38) = 3,34648
+Rozwiązaniami powyższego równania kwadratowego są liczby:
+𝑥1 = 1,3 − √3,34648
+0,348 𝑥1 = 1,3 + √3,34648
+0,348
+𝑥1 ≈ −1,52 𝑥2 ≈ 8,99
+Współrzędna 𝑥 środka piłki w momencie, w którym piłka dotknęła podłogi, jest równa w
+przybliżeniu 8,99 m.

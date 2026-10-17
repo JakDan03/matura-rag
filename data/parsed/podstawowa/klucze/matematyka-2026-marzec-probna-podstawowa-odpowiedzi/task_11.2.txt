@@ -1,0 +1,24 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=9, 10; level=podstawowy; year=2026; month=marzec; term=probna; task_id=11.2]
+Zadanie 11.2. (0–2)
+Wymaganie ogólne Wymagania szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście,
+zarówno matematycznym, jak
+i popularnonaukowym, a także w formie
+wykresów, diagramów, tabel.
+Zdający:
+V.3) odczytuje i interpretuje wartości funkcji
+określonych za pomocą […] wykresów,
+wzorów […];
+V.4) odczytuje z wykresu funkcji: […]
+największe i najmniejsze wartości funkcji
+[…].
+Zasady oceniania
+2 pkt – poprawne uzupełnienie dwóch zdań.
+1 pkt – poprawne uzupełnienie jednego zdania.
+0 pkt – brak spełnienia powyższych kryteriów.
+Rozwiązanie
+1. Największa wartość funkcji 𝑓 jest równa 4.
+2. Równanie 𝑓(𝑥) = √5 ma 3 rozwiązania.
+Próbny egzamin maturalny z matematyki na poziomie podstawowym – marzec 2026 r.

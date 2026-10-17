@@ -1,0 +1,109 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=26; level=podstawowy; year=2024; section=1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć]
+26 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Przykładowe pełne rozwiązania
+Sposób 1.
+𝑥 + 𝑦
+𝑥 = 1 + 𝑦
+𝑥 = 1 + 2
+1 + √5
+= 1 + √5 + 2
+1 + √5
+= 3 + √5
+1 + √5
+= 3 + √5
+1 + √5
+⋅ 1 − √5
+1 − √5
+=
+= 3 − 3√5 + √5 − 5
+1 − 5 = −2 − 2√5
+−4 = 1 + √5
+2
+Sposób 2.
+𝑥 + 𝑦
+𝑥 = 1 + 𝑦
+𝑥 = 1 + 2
+1 + √5
+= 1 + 2
+1 + √5
+⋅ 1 − √5
+1 − √5
+= 1 + 2 − 2√5
+−4 =
+= 1 + √5 − 1
+2 = 2 + √5 − 1
+2 = 1 + √5
+2
+Sposób 3.
+𝑥 + 𝑦
+𝑥 =
+𝑥 + 𝑦
+𝑦
+𝑥
+𝑦
+=
+𝑥
+𝑦 + 1
+𝑥
+𝑦
+=
+1 + √5
+2 + 2
+2
+1 + √5
+2
+=
+3 + √5
+2
+1 + √5
+2
+= 3 + √5
+1 + √5
+=
+= 3 + √5
+1 + √5
+⋅ 1 − √5
+1 − √5
+= −2 − 2√5
+−4 = 1 + √5
+2
+Sposób 4.
+Z równości 𝑥
+𝑦 = 1+√5
+2 wyznaczamy 𝑥:
+𝑥 = (1 + √5
+2 ) 𝑦
+Wyznaczony 𝑥 podstawimy do wyrażenia 𝑥+𝑦
+𝑥 :
+𝑥 + 𝑦
+𝑥 =
+(1 + √5
+2 ) ⋅ 𝑦 + 𝑦
+(1 + √5
+2 ) ⋅ 𝑦
+=
+𝑦 ⋅ (1 + √5
+2 + 1)
+𝑦 ∙ (1 + √5
+2 )
+=
+1 + √5
+2 + 2
+2
+1 + √5
+2
+=
+3 + √5
+2
+1 + √5
+2
+= 3 + √5
+1 + √5
+=
+= 3 + √5
+1 + √5
+⋅ 1 − √5
+1 − √5
+= −2 − 2√5
+−4 = 1 + √5
+2

@@ -1,0 +1,14 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=24; level=podstawowy; year=2026; month=marzec; term=probna; task_id=25]
+Zadanie 25. (0–1)
+Dany jest sześcian 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 (zobacz rysunek). Pole trójkąta 𝐴𝐶𝐻 jest równe 4√3.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Długość krawędzi tego sześcianu jest równa
+A. 2 B. 2√2 C. 4 D. 4√2
+𝐴
+𝐵
+𝐶
+𝐷
+𝐹
+𝐻
+𝐺
+𝐸

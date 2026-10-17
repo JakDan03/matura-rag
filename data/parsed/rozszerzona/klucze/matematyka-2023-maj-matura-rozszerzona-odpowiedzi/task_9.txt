@@ -1,0 +1,139 @@
+[ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=31, 32, 33, 34; level=rozszerzony; year=2023; month=maj; task_id=9]
+Zadanie 9. (0–4)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+1. Stosowanie obiektów matematycznych
+i operowanie nimi, interpretowanie pojęć
+matematycznych.
+Zdający:
+II.1) stosuje wzory skróconego mnożenia
+na: (𝑎 + 𝑏)2, (𝑎 − 𝑏)2, 𝑎2 − 𝑏2.
+III.R4) rozwiązuje równania i nierówności
+z wartością bezwzględną, o stopniu
+trudności nie większym niż:
+2|𝑥 + 3| + 3|𝑥 − 1| = 13,
+|𝑥 + 2| + 2|𝑥 − 3| < 11.
+Zasady oceniania
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 𝑥 ∈ (− 11
+3 , 14
+3 ).
+3 pkt – rozwiązanie nierówności w dwóch spośród rozważanych przedziałów/przypadków
+(o ile rozpatruje nierówność w przedziałach/przypadkach, których suma jest równa
+ℝ/wyczerpujących zbiór ℝ)
+ALBO
+– zapisanie nierówności w postaci równoważnej koniunkcji dwóch nierówności:
+𝑥 + 2 < 25
+3 − |𝑥 − 3| i 𝑥 + 2 > − (25
+3 − |𝑥 − 3|), a następnie w postaci
+równoważnej koniunkcji nierówności bez użycia symbolu wartości bezwzględnej:
+𝑥 − 3 < 19
+3 − 𝑥 i 𝑥 − 3 > − (19
+3 − 𝑥) i 𝑥 − 3 < 𝑥 + 31
+3 i 𝑥 − 3 > − (𝑥 + 31
+3 ),
+ALBO
+– odczytanie z wykresów funkcji 𝑓 oraz 𝑔 pierwszych współrzędnych punktów ich
+przecięcia: 𝑥 = − 11
+3 oraz 𝑥 = 14
+3 i sprawdzenie rachunkiem poprawności
+odczytanych współrzędnych.
+2 pkt – zastosowanie definicji wartości bezwzględnej lub własności wartości bezwzględnej
+i zapisanie danej nierówności odpowiednio w trzech przedziałach: (−∞, −2),
+[−2, 3), [3, +∞), lub w czterech przypadkach: 𝑥 + 2 < 0 i 𝑥 − 3 < 0, 𝑥 + 2 < 0
+i 𝑥 − 3 ≥ 0, 𝑥 + 2 ≥ 0 i 𝑥 − 3 < 0, 𝑥 + 2 ≥ 0 i 𝑥 − 3 ≥ 0 (z dokładnością do
+domknięcia)
+ALBO
+– zapisanie nierówności w postaci równoważnej koniunkcji dwóch nierówności:
+𝑥 + 2 < 25
+3 − |𝑥 − 3| i 𝑥 + 2 > − (25
+3 − |𝑥 − 3|),
+ALBO
+– narysowanie wykresów funkcji 𝑓(𝑥) = |𝑥 + 2| oraz 𝑔(𝑥) = 25
+3 − |𝑥 − 3|.
+1 pkt – przekształcenie danej nierówności do postaci |𝑥 + 2| < 25
+3 − |𝑥 − 3|.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeśli w rozwiązaniu algebraicznym zdający popełni błąd przy zapisie nierówności tylko
+w jednym z rozpatrywanych przypadków, ale konsekwentnie do popełnionego błędu
+rozwiąże zadanie do końca, to może uzyskać co najwyżej 2 punkty za całe rozwiązanie.
+2. Jeśli w rozwiązaniu graficznym zdający popełni jeden błąd przy rysowaniu wykresu funkcji
+𝑓(𝑥) = |𝑥 + 2| albo 𝑔(𝑥) = 25
+3 − |𝑥 − 3|, ale otrzyma dwa punkty przecięcia i dalej
+konsekwentnie do popełnionego błędu rozwiąże zadanie do końca, to może uzyskać co
+najwyżej 2 punkty za całe rozwiązanie (za zapisanie wyrażeń w postaci |𝑥 + 2| oraz
+|𝑥 − 3| oraz konsekwentną interpretację zbioru rozwiązań).
+3. Jeżeli zdający przy rozwiązaniu graficznym poda zbiór rozwiązań 𝑥 ∈ (− 11
+3 , 14
+3 ), ale nie
+sprawdzi rachunkiem pierwszych współrzędnych punktów przecięcia wykresów funkcji 𝑓
+i 𝑔, to może otrzymać co najwyżej 3 punkty za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Zauważamy, że √𝑥2 + 4𝑥 + 4 = √(𝑥 + 2)2 = |𝑥 + 2| oraz
+√𝑥2 − 6𝑥 + 9 = √(𝑥 − 3)2 = |𝑥 − 3|.
+Zapisujemy nierówność √𝑥2 + 4𝑥 + 4 < 25
+3 − √𝑥2 − 6𝑥 + 9 w równoważnej postaci
+|𝑥 + 2| < 25
+3 − |𝑥 − 3|.
+Rozważamy trzy przypadki.
+Przypadek 1. (gdy 𝑥 ∈ (−∞, −2))
+W tym przypadku nierówność ma postać – 𝑥 − 2 < 25
+3 + 𝑥 − 3, czyli 𝑥 > − 11
+3 .
+Stąd otrzymujemy 𝑥 ∈ (− 11
+3 , −2).
+Przypadek 2. (gdy 𝑥 ∈ [−2, 3))
+W tym przypadku nierówność ma postać 𝑥 + 2 < 25
+3 + 𝑥 − 3. Otrzymujemy prawdziwą
+nierówność 5 < 25
+3 , więc 𝑥 ∈ [−2, 3).
+Przypadek 3. (gdy 𝑥 ∈ [3, +∞))
+W tym przypadku nierówność ma postać 𝑥 + 2 < 25
+3 − 𝑥 + 3, czyli 𝑥 < 14
+3 . Stąd
+otrzymujemy 𝑥 ∈ [3, 14
+3 ).
+Ostatecznie rozwiązaniami danej nierówności są wszystkie liczby ze zbioru (− 11
+3 , 14
+3 ).
+Sposób II (poprzez koniunkcję nierówności)
+Zauważamy, że √𝑥2 + 4𝑥 + 4 = √(𝑥 + 2)2 = |𝑥 + 2| oraz
+√𝑥2 − 6𝑥 + 9 = √(𝑥 − 3)2 = |𝑥 − 3|.
+Zapisujemy nierówność √𝑥2 + 4𝑥 + 4 < 25
+3 − √𝑥2 − 6𝑥 + 9 w równoważnej postaci
+Zasady oceniania rozwiązań zadań
+|𝑥 + 2| < 25
+3 − |𝑥 − 3|.
+Dla każdej liczby rzeczywistej 𝑥 i dla każdej liczby rzeczywistej 𝑎 prawdziwa jest
+równoważność: |𝑥| < 𝑎 wtedy i tylko wtedy, gdy 𝑥 < 𝑎 i 𝑥 > −𝑎.
+Przekształcamy nierówność |𝑥 + 2| < 25
+3 − |𝑥 − 3| , korzystając z tej równoważności
+dwukrotnie:
+𝑥 + 2 < 25
+3 − |𝑥 − 3| i 𝑥 + 2 > − (25
+3 − |𝑥 − 3|)
+|𝑥 − 3| < 19
+3 − 𝑥 i |𝑥 − 3| < 𝑥 + 31
+3
+𝑥 − 3 < 19
+3 − 𝑥 i 𝑥 − 3 > − (19
+3 − 𝑥) i 𝑥 − 3 < 𝑥 + 31
+3 i 𝑥 − 3 > − (𝑥 + 31
+3 )
+2𝑥 < 28
+3 i − 3 > − 19
+3 i − 3 < 31
+3 i 2𝑥 > − 22
+3
+𝑥 < 14
+3 i 𝑥 ∈ ℝ i 𝑥 ∈ ℝ i 𝑥 > − 11
+3
+− 11
+3 < 𝑥 < 14
+3
+Ostatecznie rozwiązaniami danej nierówności są wszystkie liczby ze zbioru (− 11
+3 , 14
+3 ).

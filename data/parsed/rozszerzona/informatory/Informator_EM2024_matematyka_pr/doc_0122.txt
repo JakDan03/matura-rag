@@ -1,0 +1,20 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=122; level=rozszerzony; year=2024; section=|𝐷𝐾| + |𝐾𝐴| = |𝐷′𝐾| + |𝐾𝐴| ≥ |𝐷′𝐴| = |𝐷𝐾′| + |𝐾′𝐴|]
+122 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Zadanie 21. (0–5)
+W ostrosłupie prawidłowym czworokątnym 𝐴𝐵𝐶𝐷𝐸 punkt 𝑂 jest środkiem symetrii
+podstawy ostrosłupa. Stosunek obwodu podstawy 𝐴𝐵𝐶𝐷 do sumy długości wszystkich
+krawędzi ostrosłupa jest równy 1: 5. Przez przekątną 𝐴𝐶 podstawy i środek 𝑆 krawędzi
+bocznej 𝐵𝐸 poprowadzono płaszczyznę (zobacz rysunek).
+Oblicz stosunek pola otrzymanego przekroju do pola podstawy ostrosłupa oraz miarę
+kąta 𝑩𝑺𝑶 (w zaokrągleniu do 𝟏°). Zapisz obliczenia.
+Wskazówka.
+Skorzystaj z tablicy wartości funkcji trygonometrycznych (Wybrane wzory matematyczne,
+strona 34).
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸
+𝑆
+𝑂
+𝛼

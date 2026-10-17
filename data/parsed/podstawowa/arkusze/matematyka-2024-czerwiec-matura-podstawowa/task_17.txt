@@ -1,0 +1,7 @@
+[ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=17; level=podstawowy; year=2024; month=czerwiec; task_id=17]
+Zadanie 17. (0–1)
+W ciągu arytmetycznym (𝑎𝑛), określonym dla każdej liczby naturalnej 𝑛 ≥ 1, dane są
+wyrazy: 𝑎1 = 7 oraz 𝑎2 = 13.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wyraz 𝑎10 jest równy
+A. (−47) B. 52 C. 61 D. 67

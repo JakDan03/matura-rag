@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=7; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=7]
+Zadanie 7. (0–1)
+Para liczb 𝑥 = −1 i 𝑦 = 6 jest rozwiązaniem układu równań
+{𝑎𝑥 + 3𝑦 = 20
+𝑥 + 𝑏𝑦 = 5
+gdzie 𝑎 oraz 𝑏 są liczbami rzeczywistymi.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wartość wyrażenia 𝑎 ⋅ 𝑏 jest równa
+A. (−2) B. (−0,5) C. 0,5 D. 2

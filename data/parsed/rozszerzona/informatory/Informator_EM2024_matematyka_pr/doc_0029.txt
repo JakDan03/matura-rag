@@ -1,0 +1,33 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=29; level=rozszerzony; year=2024; section=ALBO]
+Przykładowe zadania z rozwiązaniami 29
+To oznacza, że funkcja 𝑓 jest rosnąca.
+Sposób 4. (z wykorzystaniem własności funkcji postaci 𝑦 = 𝑎
+𝑥 ).
+Wzór funkcji 𝑓 przedstawiamy w postaci:
+𝑓(𝑥) = 3𝑥
+𝑥 + 1 =
+(3𝑥 + 3) − 3
+𝑥 + 1 = 3 − 3
+𝑥 + 1
+Wykres funkcji 𝑓 można uzyskać przez przesunięcie wykresu funkcji 𝑔(𝑥) = − 3
+𝑥
+(określonej dla 𝑥 > 0) o wektor [−1, 3]. Z własności funkcji 𝑔 wynika, że funkcja 𝑔 jest
+rosnąca dla 𝑥 > 0, więc funkcja 𝑓 jest rosnąca dla 𝑥 > −1.
+To kończy dowód.
+Sposób 5. (oparty na umiejętności porównywania ułamków).
+Wzór funkcji 𝑓 przedstawiamy w postaci:
+𝑓(𝑥) = 3𝑥
+𝑥 + 1 =
+(3𝑥 + 3) − 3
+𝑥 + 1 = 3 − 3
+𝑥 + 1
+Dla każdej liczby rzeczywistej 𝑥 > −1 ułamek 3
+𝑥+1 jest dodatni, a ponieważ licznik jest
+stały i dodatni, to ułamek jest tym mniejszy, im jego mianownik jest większy. Zatem ze
+wzrostem liczby 𝑥 > −1 liczba 3 − 3
+𝑥+1 jest coraz większa. Tym samym funkcja 𝑓 jest
+rosnąca.
+Zadanie 8. (0–2)
+Oblicz granicę 𝐥𝐢𝐦
+𝒏→∞ √𝟔𝒏 + 𝟕𝒏𝒏
+. Zapisz obliczenia.

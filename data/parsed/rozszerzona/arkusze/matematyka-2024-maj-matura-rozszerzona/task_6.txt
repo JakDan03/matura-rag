@@ -1,0 +1,8 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=9; level=rozszerzony; year=2024; month=maj; task_id=6]
+Zadanie 6. (0–3)
+Rozważamy wszystkie liczby naturalne, w których zapisie dziesiętnym nie powtarza się
+jakakolwiek cyfra oraz dokładnie trzy cyfry są nieparzyste i dokładnie dwie cyfry są parzyste.
+Oblicz, ile jest wszystkich takich liczb. Zapisz obliczenia.
+6.
+0–1–
+2–3

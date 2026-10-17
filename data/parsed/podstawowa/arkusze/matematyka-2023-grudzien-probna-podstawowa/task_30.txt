@@ -1,0 +1,11 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=30; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=30]
+Zadanie 30. (0–4)
+Zgodnie z założeniem architekta okno na poddaszu ma mieć kształt trapezu
+równoramiennego, który nie jest równoległobokiem. Dłuższa podstawa trapezu ma mieć
+długość 12 dm, a suma długości krótszej podstawy i wysokości tego trapezu ma być
+równa 18 dm.
+Oblicz, jaką długość powinna mieć krótsza podstawa tego trapezu, tak aby pole
+powierzchni okna było największe. Oblicz to pole. Zapisz obliczenia.
+30.
+0–1–
+2–3–4

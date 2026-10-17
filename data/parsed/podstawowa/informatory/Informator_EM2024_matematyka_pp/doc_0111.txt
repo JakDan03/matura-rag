@@ -1,0 +1,58 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=111; level=podstawowy; year=2024; section=ALBO]
+Przykładowe zadania z rozwiązaniami 111
+Zadanie 57.
+Dany jest prostopadłościan 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻, w którym prostokąty 𝐴𝐵𝐶𝐷
+i 𝐸𝐹𝐺𝐻 są jego podstawami. Odcinek 𝐵𝐻 jest przekątną tego
+prostopadłościanu.
+Zadanie 57.1. (0–1)
+Na którym rysunku prawidłowo oznaczono i podpisano kąt 𝜶
+pomiędzy przekątną 𝑩𝑯 prostopadłościanu a jego ścianą boczną
+𝑨𝑫𝑯𝑬? Zaznacz właściwą odpowiedź spośród podanych.
+A. 𝛼 = ∡𝐵𝐻𝐷 B. 𝛼 = ∡𝐵𝐻𝐸
+C. 𝛼 = ∡𝐵𝐻𝐴 D. 𝛼 = ∡𝐵𝐻𝐾, gdzie 𝐾 jest środkiem
+krawędzi 𝐴𝐸.
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸
+𝐹
+𝐺
+𝐻
+𝐴
+𝐶
+𝐸
+𝐺
+𝐻
+𝐹
+𝐷
+𝐵
+𝛼
+𝐴
+𝐶
+𝐸
+𝐺
+𝐻
+𝐹
+𝐷
+𝐵
+𝛼
+𝐻
+𝐺
+𝐸
+𝛼
+𝐹
+𝐶
+𝐷
+𝐴
+𝐵
+𝐻
+𝐺
+𝛼
+𝐸
+𝐹
+𝐶
+𝐷
+𝐴
+𝐵
+𝐾

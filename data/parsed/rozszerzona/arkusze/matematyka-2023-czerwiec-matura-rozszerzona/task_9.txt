@@ -1,0 +1,6 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=16, 17, 18; level=rozszerzony; year=2023; month=czerwiec; task_id=9]
+Zadanie 9. (0–4)
+W okrąg o równaniu (𝑥 − 1)^2 + (𝑦 − 2)^2 = 25 wpisano trójkąt 𝐴𝐵𝐶. Bok 𝐴𝐵 tego
+trójkąta jest zawarty w prostej o równaniu 4𝑥 − 3𝑦 + 2 = 0. Wysokość 𝐶𝐷 tego trójkąta
+dzieli bok 𝐴𝐵 tak, że |𝐴𝐷| = 4 ⋅ |𝐷𝐵|.
+Oblicz pole trójkąta 𝑨𝑩𝑪. Zapisz obliczenia.

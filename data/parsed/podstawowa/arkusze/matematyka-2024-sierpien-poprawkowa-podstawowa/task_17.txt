@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2024-sierpien-poprawkowa-podstawowa.pdf; typ=exam_paper; strony=18; level=podstawowy; year=2024; month=sierpień; term=poprawkowa; task_id=17]
+Zadanie 17. (0–1)
+W trójkącie prostokątnym 𝐴𝐵𝐶 sinus kąta 𝐶𝐴𝐵 jest równy 3
+5
+, a przeciwprostokątna 𝐴𝐵
+jest o 8 dłuższa od przyprostokątnej 𝐵𝐶.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Długość przeciwprostokątnej 𝐴𝐵 tego trójkąta jest równa
+A. 18 B. 20 C. 24 D. 25

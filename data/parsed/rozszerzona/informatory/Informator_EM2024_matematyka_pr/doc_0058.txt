@@ -1,0 +1,23 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=58; level=rozszerzony; year=2024; section=2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów]
+58 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Wymagania ogólne
+III. Wykorzystanie i interpretowanie reprezentacji.
+2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów
+praktycznych i teoretycznych.
+IV. Rozumowanie i argumentacja.
+4) Stosowanie i tworzenie strategii przy rozwiązywaniu zadań […].
+Wymagania szczegółowe
+XIII. Optymalizacja i rachunek różniczkowy. Zdający:
+4R) oblicza pochodną funkcji potęgowej o wykładniku rzeczywistym oraz oblicza
+pochodną, korzystając z twierdzeń o pochodnej sumy, różnicy, iloczynu, ilorazu
+i funkcji złożonej;
+6R) rozwiązuje zadania optymalizacyjne z zastosowaniem pochodnej.
+Zasady oceniania
+dla rozwiązania sposobem 1.
+4 pkt – poprawna metoda wyznaczenia chwili, w której odległość między zastępami będzie
+najmniejsza i poprawna odpowiedź.
+3 pkt – uzasadnienie, że odległość 𝑑 jest najmniejsza wtedy, gdy wyrażenie
+podpierwiastkowe 20𝑡2 − 60𝑡 + 225 jest możliwie najmniejsze oraz podanie
+zakresu zmienności 𝑡.
+2 pkt – wyznaczenie odległości 𝑑 między zastępami w zależności od czasu 𝑡, jaki upłynął
+od momentu wyruszenia zastępów.

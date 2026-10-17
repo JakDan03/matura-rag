@@ -1,0 +1,215 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=18, 19, 20, 21, 22, 23, 24; level=rozszerzony; year=2025; month=czerwiec; task_id=7]
+Zadanie 7. (0–4)
+Wymaganie ogólne Wymaganie szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+VIII.R1) stosuje własności czworokątów
+wpisanych w okrąg i opisanych na okręgu.
+Zasady oceniania (dla sposobu I)
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 7√3
+3 .
+3 pkt – obliczenie długości jednej z przekątnych czworokąta 𝐴𝐵𝐶𝐷, np. 𝑑 = 7, |𝐴𝐶| = 39
+7 ,
+ALBO
+– obliczenie cosinusa jednego z kątów czworokąta 𝐴𝐵𝐶𝐷, np. cos 𝛼 = 1
+2 ,
+cos 𝛾 = − 1
+2 , cos|∡𝐴𝐵𝐶| = − 71
+98 , cos|∡𝐶𝐷𝐴| = 71
+98 .
+2 pkt – zapisanie równań 𝑑2 = 32 + 82 − 2 ⋅ 3 ⋅ 8 ⋅ cos 𝛼 oraz
+𝑑2 = 32 + 52 + 2 ⋅ 3 ⋅ 5 ⋅ cos 𝛼
+ALBO
+– zapisanie równań 𝑑2 = 32 + 82 + 2 ⋅ 3 ⋅ 8 ⋅ cos 𝛾 oraz
+𝑑2 = 32 + 52 − 2 ⋅ 3 ⋅ 5 ⋅ cos 𝛾,
+ALBO
+– zapisanie równań |𝐴𝐶|2 = 32 + 32 − 2 ⋅ 3 ⋅ 3 ⋅ cos|∡𝐴𝐵𝐶| oraz
+|𝐴𝐶|2 = 82 + 52 + 2 ⋅ 8 ⋅ 5 ⋅ cos|∡𝐴𝐵𝐶|,
+ALBO
+– zapisanie równań |𝐴𝐶|2 = 32 + 32 + 2 ⋅ 3 ⋅ 3 ⋅ cos|∡𝐶𝐷𝐴| oraz
+|𝐴𝐶|2 = 82 + 52 − 2 ⋅ 8 ⋅ 5 ⋅ cos|∡𝐶𝐷𝐴|.
+1 pkt – zapisanie związków 𝑑2 = 32 + 82 − 2 ⋅ 3 ⋅ 8 ⋅ cos 𝛼 oraz 𝛼 + 𝛾 = 180°
+ALBO
+– zapisanie związków 𝑑2 = 32 + 52 − 2 ⋅ 3 ⋅ 5 ⋅ cos 𝛾 oraz 𝛼 + 𝛾 = 180°,
+ALBO
+– zapisanie związków 𝑑2 = 32 + 82 − 2 ⋅ 3 ⋅ 8 ⋅ cos 𝛼 oraz
+𝑑2 = 32 + 52 − 2 ⋅ 3 ⋅ 5 ⋅ cos 𝛾,
+ALBO
+– zapisanie związków |𝐴𝐶|2 = 32 + 32 − 2 ⋅ 3 ⋅ 3 ⋅ cos|∡𝐴𝐵𝐶| oraz
+|∡𝐴𝐵𝐶| + |∡𝐶𝐷𝐴| = 180°,
+ALBO
+– zapisanie związków |𝐴𝐶|2 = 82 + 52 − 2 ⋅ 8 ⋅ 5 ⋅ cos|∡𝐶𝐷𝐴| oraz
+|∡𝐴𝐵𝐶| + |∡𝐶𝐷𝐴| = 180°,
+ALBO
+– zapisanie związków |𝐴𝐶|2 = 32 + 32 − 2 ⋅ 3 ⋅ 3 ⋅ cos|∡𝐴𝐵𝐶| oraz
+|𝐴𝐶|2 = 82 + 52 − 2 ⋅ 8 ⋅ 5 ⋅ cos|∡𝐶𝐷𝐴|.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania rozwiązań zadań
+Zasady oceniania (dla sposobu II)
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 7√3
+3 .
+3 pkt – obliczenie długości przekątnej 𝐴𝐶: |𝐴𝐶| = 39
+7
+ALBO
+– obliczenie cos 𝛿: cos 𝛿 = 13
+14 .
+2 pkt – zapisanie równań 𝑒2 = 52 + 82 − 2 ⋅ 5 ⋅ 8 ⋅ (2 cos2 𝛿 − 1) oraz
+1
+2 𝑒
+3 = cos 𝛿.
+1 pkt – zapisanie związków 𝑒2 = 52 + 82 − 2 ⋅ 5 ⋅ 8 ⋅ cos |∡𝐴𝐷𝐶| oraz |∡𝐴𝐷𝐶| = 2𝛿.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania (dla sposobu III)
+4 pkt – zastosowanie poprawnej metody i poprawny wynik: 7√3
+3 .
+3 pkt – obliczenie długości przekątnej 𝐴𝐶: |𝐴𝐶| = 39
+7 .
+2 pkt – zapisanie, że trójkąt 𝐴𝐵𝐶′ jest równoboczny.
+1 pkt – uzasadnienie, że 𝐵𝐷 jest dwusieczną kąta 𝐴𝐷𝐶 oraz zapisanie, że 𝐶′ leży na
+odcinku 𝐴𝐷.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Przyjmijmy następujące oznaczenia:
+𝑅 – promień okręgu opisanego na czworokącie 𝐴𝐵𝐶𝐷,
+𝑑 – długość przekątnej 𝐵𝐷,
+𝛼 – miara kąta 𝐵𝐴𝐷,
+𝛾 – miara kąta 𝐵𝐶𝐷.
+Stosujemy twierdzenie cosinusów do trójkątów 𝐴𝐵𝐷 oraz 𝐵𝐶𝐷 i otrzymujemy
+𝐴
+𝐵
+𝐶
+𝐷
+𝑅
+𝛾
+5
+3
+3
+𝑑
+8
+𝛼
+𝑑2 = 32 + 82 − 2 ⋅ 3 ⋅ 8 ⋅ cos 𝛼 ∧ 𝑑2 = 32 + 52 − 2 ⋅ 3 ⋅ 5 ⋅ cos 𝛾
+Stąd i z twierdzenia o czworokącie wpisanym w okrąg mamy
+73 − 48 cos 𝛼 = 34 − 30 cos(180° − 𝛼)
+Po zastosowaniu wzorów redukcyjnych otrzymujemy
+73 − 48 cos 𝛼 = 34 + 30 cos 𝛼
+cos 𝛼 = 1
+2
+Zatem 𝛼 = 60° i 𝑑2 = 73 − 48 ⋅ 1
+2 = 49, czyli 𝑑 = 7.
+Okrąg opisany na czworokącie 𝐴𝐵𝐶𝐷 jest jednocześnie okręgiem opisanym na trójkącie
+𝐴𝐵𝐷. Stosując do tego trójkąta twierdzenie sinusów, otrzymujemy
+𝑑
+sin 𝛼 = 2𝑅
+7
+√3
+2
+= 2𝑅
+𝑅 = 7√3
+3
+Sposób II
+Przyjmijmy następujące oznaczenia:
+𝑅 – promień okręgu opisanego na czworokącie 𝐴𝐵𝐶𝐷,
+𝑒 – długość przekątnej 𝐴𝐶,
+𝛿 – miara kąta ostrego 𝐴𝐶𝐵.
+𝐴
+𝐵
+𝐶
+𝐷
+𝑅
+𝛿
+5
+3
+3
+𝑒
+8
+Zasady oceniania rozwiązań zadań
+Ponieważ |𝐴𝐵| = |𝐵𝐶|, więc |∡𝐵𝐴𝐶| = |∡𝐴𝐶𝐵| = 𝛿. Kąty wpisane 𝐴𝐷𝐵 i 𝐴𝐶𝐵 są
+oparte na tym samym łuku, więc |∡𝐴𝐷𝐵| = 𝛿. Kąty wpisane 𝐵𝐴𝐶 i 𝐵𝐷𝐶 są oparte na tym
+samym łuku, więc |∡𝐵𝐷𝐶| = 𝛿.
+Stosujemy twierdzenie cosinusów do trójkąta 𝐴𝐷𝐶 oraz wzór na cosinus podwojonego
+argumentu i otrzymujemy:
+𝑒2 = 52 + 82 − 2 ⋅ 5 ⋅ 8 ⋅ cos(2𝛿)
+𝑒2 = 89 − 80 ⋅ (2 cos2 𝛿 − 1)
+𝑒2 = 169 − 160 cos2 𝛿
+Z trójkąta równoramiennego 𝐴𝐶𝐵 otrzymujemy
+1
+2 𝑒
+3 = cos 𝛿 , więc 𝑒 = 6 cos 𝛿. Zatem
+(6 cos 𝛿)2 = 169 − 160 cos2 𝛿
+196 cos2 𝛿 = 169
+cos 𝛿 = 13
+14 ∨ cos 𝛿 = − 13
+14
+Kąt 𝐴𝐶𝐵 w trójkącie równoramiennym 𝐴𝐵𝐶 jest ostry, więc cos 𝛿 = 13
+14 ,
+czyli sin 𝛿 = 3√3
+14 .
+Okrąg opisany na czworokącie 𝐴𝐵𝐶𝐷 jest jednocześnie okręgiem opisanym na
+trójkącie 𝐴𝐵𝐶. Stosując do tego trójkąta twierdzenie sinusów, otrzymujemy
+3
+sin 𝛿 = 2𝑅
+3
+3√3
+14
+= 2𝑅
+𝑅 = 7√3
+3
+Sposób III
+Przyjmijmy następujące oznaczenia:
+𝑅 – promień okręgu opisanego na czworokącie 𝐴𝐵𝐶𝐷,
+𝑑 – długość przekątnej 𝐵𝐷,
+𝛿 – miara kąta ostrego 𝐴𝐶𝐵.
+Ponieważ |𝐴𝐵| = |𝐵𝐶|, więc |∡𝐵𝐴𝐶| = |∡𝐴𝐶𝐵| = 𝛿. Kąty wpisane 𝐴𝐷𝐵 i 𝐴𝐶𝐵 są parte
+na tym samym łuku, więc |∡𝐴𝐷𝐵| = 𝛿. Kąty wpisane 𝐵𝐴𝐶 i 𝐵𝐷𝐶 są oparte na tym
+samym łuku, więc |∡𝐵𝐷𝐶| = 𝛿. Zatem 𝐵𝐷 jest dwusieczną kąta 𝐴𝐷𝐶.
+Niech 𝐶′ będzie obrazem punktu 𝐶 w symetrii osiowej względem prostej 𝐵𝐷. Wtedy 𝐵𝐷
+będzie zawierać wysokość trójkąta równoramiennego 𝐶𝐶′𝐷 i |𝐶′𝐷| = |𝐶𝐷| = 5, więc 𝐶′
+będzie leżał na odcinku 𝐴𝐷.
+𝐴
+𝐵
+𝐶
+𝐷
+𝑅
+𝛿
+5
+3
+3
+𝑑
+8
+𝛿
+𝐴
+𝐵
+𝐶
+𝐷
+𝑅
+𝛿
+𝛿
+𝛿
+𝐶′
+3
+5
+5
+3
+3
+𝑑
+Zasady oceniania rozwiązań zadań
+Zatem czworokąt 𝐵𝐶𝐷𝐶′ jest deltoidem i |𝐵𝐶′| = |𝐵𝐶| = 3.
+Ponieważ |𝐴𝐶′| = |𝐴𝐷| − |𝐷𝐶′| = 8 − 5 = 3, więc trójkąt 𝐴𝐵𝐶′ jest równoboczny,
+czyli |∡𝐵𝐴𝐷| = 60°.
+Stosujemy twierdzenie cosinusów do trójkąta 𝐵𝐴𝐷 i otrzymujemy:
+𝑑2 = 32 + 82 − 2 ⋅ 3 ⋅ 8 ⋅ cos 60°
+𝑑 = 7
+Okrąg opisany na czworokącie 𝐴𝐵𝐶𝐷 jest jednocześnie okręgiem opisanym na trójkącie
+𝐴𝐵𝐷. Stosując do tego trójkąta twierdzenie sinusów, otrzymujemy
+𝑑
+sin |∡𝐵𝐴𝐷| = 2𝑅
+7
+√3
+2
+= 2𝑅
+𝑅 = 7√3
+3

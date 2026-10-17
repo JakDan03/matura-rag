@@ -1,0 +1,19 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=16; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=17.2]
+Zadanie 17.
+Dany jest trójkąt prostokątny 𝐴𝐵𝐶, w którym |𝐴𝐶| = √15 i |𝐵𝐶| = 8. Na przyprostokątnej
+𝐴𝐵 leży taki punkt 𝐷, że |𝐵𝐷| = 6 (zobacz rysunek).
+Zadanie 17.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Tangens kąta ostrego 𝐴𝐷𝐶 jest równy
+A. √15 B. 1
+2 C. 7
+8 D.
+√15
+8
+𝐴
+𝐵
+𝐶
+𝐷
+6
+8
+√15

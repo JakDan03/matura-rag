@@ -1,0 +1,35 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=36; level=podstawowy; year=2024; section=ALBO]
+36 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zadanie 20. (0–3)
+Rozważmy takie liczby rzeczywiste a i b, które spełniają warunki:
+𝑎 ≠ 0, 𝑏 ≠ 0 oraz 𝑎3 + 𝑏3 = (𝑎 + 𝑏)(𝑎2 + 3𝑎𝑏 + 𝑏2).
+Oblicz wartość liczbową wyrażenia 𝒂
+𝒃 dla dowolnych liczb rzeczywistych 𝒂 i 𝒃,
+spełniających powyższe warunki.
+Wymaganie ogólne
+I. Sprawność rachunkowa.
+Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora,
+stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych
+oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach
+rzeczywistych i teoretycznych.
+Wymagania szczegółowe
+II. Wyrażenia algebraiczne. Zdający:
+2) dodaje, odejmuje i mnoży wielomiany jednej i wielu zmiennych;
+3) wyłącza poza nawias jednomian z sumy algebraicznej.
+III. Równania i nierówności. Zdający:
+1) przekształca równania i nierówności w sposób równoważny, w tym np. przekształca
+równoważnie równanie 5
+𝑥 + 1 = 𝑥 + 3
+2𝑥−1
+;
+5) rozwiązuje równania wielomianowe postaci 𝑊(𝑥) = 0 dla wielomianów
+doprowadzonych do postaci iloczynowej.
+Zasady oceniania
+3 pkt – poprawna metoda obliczenia wartości ilorazu 𝑎
+𝑏 oraz podanie poprawnego wyniku
+𝑎
+𝑏 = −1.
+2 pkt – przekształcenie równania do postaci 4𝑎𝑏(𝑎 + 𝑏) = 0 oraz wyznaczenie rozwiązań
+tego równania: 𝑎 = 0, 𝑏 = 0, 𝑎 = −𝑏 (bez uwzględnienia warunków zadania).
+1 pkt – przekształcenie równania do postaci 4𝑎𝑏(𝑎 + 𝑏) = 0.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.

@@ -1,0 +1,155 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=48, 49, 50, 51; level=rozszerzony; year=2024; month=maj; task_id=12]
+Zadanie 12. (0–6)
+Wymagania egzaminacyjne 2024
+Wymagania ogólne Wymagania szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+3. Tworzenie pomocniczych obiektów
+matematycznych na podstawie istniejących,
+w celu przeprowadzenia argumentacji lub
+rozwiązania problemu.
+Zdający:
+III.R3) stosuje wzory Viète’a dla równań
+kwadratowych;
+III.R5) analizuje równania i nierówności
+liniowe z parametrami oraz równania
+i nierówności kwadratowe z parametrami,
+w szczególności wyznacza liczbę rozwiązań
+w zależności od parametrów, podaje
+warunki, przy których rozwiązania mają
+żądaną własność, i wyznacza rozwiązania
+w zależności od parametrów.
+Zasady oceniania
+Rozwiązanie zadania składa się z trzech etapów.
+Pierwszy etap polega na rozwiązaniu nierówności ∆> 0. Za poprawne wykonanie tego
+etapu zdający otrzymuje 1 punkt.
+1 pkt – poprawne rozwiązanie nierówności ∆> 0: 𝑚 ∈ (−∞, −3) ∪ (1, +∞).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Jeżeli zdający rozwiązuje warunek ∆≥ 0, to za tę część rozwiązania otrzymuje 0 punktów.
+Drugi etap polega na wyznaczeniu tych wartości parametru 𝑚, dla których jest spełniony
+warunek 𝑥1
+3 + 𝑥2
+3 + 3 ⋅ 𝑥1 ⋅ 𝑥2 ⋅ (𝑥1 + 𝑥2 − 3) ≤ 3𝑚 − 7. Za poprawne wykonanie tego
+etapu zdający otrzymuje 4 punkty.
+Podział punktów za drugi etap rozwiązania:
+4 pkt – rozwiązanie nierówności z jedną niewiadomą 𝑚 równoważnej warunkowi
+𝑥1
+3 + 𝑥2
+3 + 3 ⋅ 𝑥1 ⋅ 𝑥2 ⋅ (𝑥1 + 𝑥2 − 3) ≤ 3𝑚 − 7: 𝑚 ∈ (−∞, 1
+3].
+3 pkt – zapisanie nierówności z jedną niewiadomą 𝑚 równoważnej warunkowi
+𝑥1
+3 + 𝑥2
+3 + 3 ⋅ 𝑥1 ⋅ 𝑥2 ⋅ (𝑥1 + 𝑥2 − 3) ≤ 3𝑚 − 7 w postaci 𝑊(𝑚) ≤ 0, gdzie 𝑊(𝑚)
+jest iloczynem co najmniej dwóch wielomianów stopni dodatnich, np.
+(3𝑚 − 1)(3𝑚 + 1)2 ≤ 0, (9𝑚2 − 1)(3𝑚 + 1) ≤ 0, 27 (𝑚 − 1
+3) (𝑚 + 1
+3)
+2
+≤ 0
+ALBO
+– zapisanie nierówności z jedną niewiadomą 𝑚 równoważnej warunkowi
+𝑥1
+3 + 𝑥2
+3 + 3 ⋅ 𝑥1 ⋅ 𝑥2 ⋅ (𝑥1 + 𝑥2 − 3) ≤ 3𝑚 − 7 w postaci
+27𝑚3 + 9𝑚2 − 3𝑚 − 1 ≤ 0 oraz wyznaczenie jednego z pierwiastków wielomianu
+27𝑚3 + 9𝑚2 − 3𝑚 − 1.
+2 pkt – zapisanie nierówności z jedną niewiadomą 𝑚 równoważnej warunkowi
+𝑥1
+3 + 𝑥2
+3 + 3 ⋅ 𝑥1 ⋅ 𝑥2 ⋅ (𝑥1 + 𝑥2 − 3) ≤ 3𝑚 − 7, np.
+Zasady oceniania rozwiązań zadań
+(3𝑚 + 1)3 − 9 ⋅ (2𝑚2 + 𝑚 + 1) ≤ 3𝑚 − 7.
+1 pkt – przekształcenie nierówności 𝑥1
+3 + 𝑥2
+3 + 3 ⋅ 𝑥1 ⋅ 𝑥2 ⋅ (𝑥1 + 𝑥2 − 3) ≤ 3𝑚 − 7 do
+postaci pozwalającej na bezpośrednie zastosowanie wzorów Viète’a, np.
+(𝑥1 + 𝑥2)3 − 9𝑥1𝑥2 ≤ 3𝑚 − 7.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Trzeci etap polega na wyznaczeniu wszystkich wartości parametru 𝑚, które spełniają
+jednocześnie dwa warunki: Δ > 0 i 𝑥1
+3 + 𝑥2
+3 + 3 ⋅ 𝑥1 ⋅ 𝑥2 ⋅ (𝑥1 + 𝑥2 − 3) ≤ 3𝑚 − 7:
+𝑚 ∈ (−∞, −3).
+Za poprawne wykonanie tego etapu zdający otrzymuje 1 punkt.
+1 pkt – poprawne wyznaczenie wszystkich wartości parametru 𝑚, które spełniają
+jednocześnie warunki Δ > 0 i 𝑥1
+3 + 𝑥2
+3 + 3 ⋅ 𝑥1 ⋅ 𝑥2 ⋅ (𝑥1 + 𝑥2 − 3) ≤ 3𝑚 − 7:
+𝑚 ∈ (−∞, −3).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający w etapie I lub II popełni błąd, który nie jest błędem rachunkowym, to za III
+etap otrzymuje 0 punktów.
+2. Jeżeli zdający w etapach I i II nie popełni błędów innych niż rachunkowe i otrzyma zbiory
+rozwiązań, które nie są rozłączne i żaden z nich nie jest zbiorem liczb rzeczywistych,
+a następnie poprawnie wyznaczy część wspólną zbiorów rozwiązań z etapów I i II, to za
+III etap może otrzymać 1 punkt.
+3. Jeżeli zdający w II etapie rozwiązania popełni błąd – przyjmie, że
+𝑥1 + 𝑥2 = ±(2𝑚2 + 𝑚 + 1) lub 𝑥1 ⋅ 𝑥2 = ±(3𝑚 + 1), lub 𝑥1 + 𝑥2 = ± 𝑏
+2𝑎 , to za
+II etap może otrzymać co najwyżej 2 punkty (1 punkt za przekształcenie nierówności
+𝑥1
+3 + 𝑥2
+3 + 3 ⋅ 𝑥1 ⋅ 𝑥2 ⋅ (𝑥1 + 𝑥2 − 3) ≤ 3𝑚 − 7 do postaci pozwalającej na bezpośrednie
+zastosowanie wzorów Viète’a oraz 1 punkt za konsekwentne rozwiązanie nierówności do
+końca), a za III etap otrzymuje 0 punktów.
+4. Jeżeli zdający w II etapie rozwiązania popełni błąd, który nie jest rachunkowy, np.:
+• pominie istotne nawiasy przy przekształcaniu nierówności
+𝑥1
+3 + 𝑥2
+3 + 3 ⋅ 𝑥1 ⋅ 𝑥2 ⋅ (𝑥1 + 𝑥2 − 3) ≤ 3𝑚 − 7 do postaci pozwalającej na
+bezpośrednie zastosowanie wzorów Viète’a,
+• przyjmie, że
+𝑥1
+3 + 𝑥2
+3 = (𝑥1 + 𝑥2)[(𝑥1 + 𝑥2)2 − 𝑥1 ⋅ 𝑥2],
+• przyjmie, że
+𝑥1
+3 + 𝑥2
+3 = (𝑥1 + 𝑥2)3,
+i konsekwentnie do popełnionego błędu doprowadzi rozwiązanie II etapu zadania do
+końca, to może uzyskać co najwyżej 2 punkty za II etap (1 punkt za zastosowanie
+wzorów Viète’a oraz 1 punkt za konsekwentne rozwiązanie nierówności do końca),
+a za III etap otrzymuje 0 punktów.
+5. Jeżeli w II etapie rozwiązania zdający popełni błędy i otrzyma nierówność 𝑉(𝑚) ≤ 0, to
+za podanie zbioru rozwiązań nierówności otrzymuje 1 punkt tylko wtedy, gdy wielomian 𝑉
+jest stopnia trzeciego i ma co najmniej dwa różne pierwiastki rzeczywiste.
+6. Jeżeli zdający wprowadza dodatkowe założenie, które nie wynika z warunków zadania
+(np. 𝑥1 + 𝑥2 > 0, 𝑥1 ⋅ 𝑥2 > 0), to za całe rozwiązanie może otrzymać co najwyżej
+5 punktów (co najwyżej 1 punkt za I etap i co najwyżej 4 punkty za II etap).
+Przykładowe pełne rozwiązanie
+I etap
+Trójmian kwadratowy 𝑥2 − (3𝑚 + 1)𝑥 + 2𝑚2 + 𝑚 + 1 ma dwa różne pierwiastki
+rzeczywiste wtedy i tylko wtedy, gdy wyróżnik tego trójmianu jest dodatni. Rozwiązujemy
+warunek ∆> 0:
+[−(3𝑚 + 1)]2 − 4 ∙ 1 ⋅ (2𝑚2 + 𝑚 + 1) > 0
+𝑚2 + 2𝑚 − 3 > 0
+(𝑚 − 1) ⋅ (𝑚 + 3) > 0
+𝑚 ∈ (−∞, −3) ∪ (1, +∞)
+II etap
+Wyznaczamy wszystkie wartości parametru 𝑚, dla których jest spełniony warunek
+𝑥1
+3 + 𝑥2
+3 + 3 ⋅ 𝑥1 ⋅ 𝑥2 ⋅ (𝑥1 + 𝑥2 − 3) ≤ 3𝑚 − 7, korzystając ze wzorów Viète’a:
+𝑥1
+3 + 𝑥2
+3 + 3 ⋅ 𝑥1 ⋅ 𝑥2 ⋅ (𝑥1 + 𝑥2 − 3) ≤ 3𝑚 − 7
+(𝑥1 + 𝑥2)3 − 9𝑥1𝑥2 ≤ 3𝑚 − 7
+(3𝑚 + 1)3 − 9 ⋅ (2𝑚2 + 𝑚 + 1) ≤ 3𝑚 − 7
+27𝑚3 + 9𝑚2 − 3𝑚 − 1 ≤ 0
+(3𝑚)3 − 13 + 9𝑚2 − 3𝑚 ≤ 0
+(3𝑚 − 1)(9𝑚2 + 3𝑚 + 1) + 3𝑚(3𝑚 − 1) ≤ 0
+(3𝑚 − 1)(9𝑚2 + 6𝑚 + 1) ≤ 0
+(3𝑚 − 1)(3𝑚 + 1)2 ≤ 0
+𝑚 ∈ (−∞, 1
+3]
+III etap
+Wyznaczamy wszystkie wartości parametru 𝑚, które jednocześnie spełniają warunki
+𝑚 ∈ (−∞, −3) ∪ (1, +∞) oraz 𝑚 ∈ (−∞, 1
+3]: 𝑚 ∈ (−∞, −3).
+Zasady oceniania rozwiązań zadań

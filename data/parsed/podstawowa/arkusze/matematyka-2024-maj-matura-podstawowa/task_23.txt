@@ -1,0 +1,15 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-podstawowa.pdf; typ=exam_paper; strony=20; level=podstawowy; year=2024; month=maj; task_id=23]
+Zadanie 23. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) proste 𝑘 oraz 𝑙 są określone równaniami
+𝑘: 𝑦 = (𝑚 + 1)𝑥 + 7
+𝑙: 𝑦 = −2𝑥 + 7
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Proste 𝑘 oraz 𝑙 są prostopadłe, gdy liczba 𝑚 jest równa
+A. (− 1
+2) B. 1
+2 C. (−3) D. 1
+𝐴
+𝐵
+𝐶
+𝑆
+42°

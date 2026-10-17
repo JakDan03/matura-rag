@@ -150,3 +150,43 @@ def test_basic_may_2026_has_thirty_three_leaf_tasks():
     }
     assert sum(document.metadata["task_id"] == document.metadata["task_group_id"] for document in documents) == 29
     assert {document.metadata["parent_task_id"] for document in documents} >= {"12", "13", "24", "33"}
+
+
+def _reader_with_pages(*texts):
+    class Reader:
+        def __init__(self, _path):
+            self.pages = [FakePage(text) for text in texts]
+
+    return Reader
+
+
+def test_exam_papers_drop_sheet_boilerplate(monkeypatch, tmp_path):
+    monkeypatch.setattr(
+        "src.rag.pdf_parser.PdfReader",
+        _reader_with_pages(
+            "Zadanie 1. (0–1)\nTreść zadania\nBrudnopis\n"
+            "Więcej arkuszy znajdziesz na stronie: arkusze.pl\nStrona 5 z 29\nMMAP-R0_100",
+            "Zadanie 2. (0–2)\nDruga treść\nMATEMATYKA\nPoziom rozszerzony\n"
+            "Formuła 2023\nBRUDNOPIS (nie podlega ocenie)",
+        ),
+    )
+    exam = tmp_path / "arkusze" / "matematyka-2023-maj-matura-rozszerzona.pdf"
+    exam.parent.mkdir()
+    exam.touch()
+
+    tasks = {d.metadata["task_id"]: d.get_content() for d in parse_pdf(exam)}
+
+    assert tasks["1"].endswith("Treść zadania")
+    assert tasks["2"].endswith("Druga treść")
+
+
+def test_non_exam_documents_keep_headings_that_look_like_sheet_boilerplate(monkeypatch, tmp_path):
+    monkeypatch.setattr(
+        "src.rag.pdf_parser.PdfReader",
+        _reader_with_pages("MATEMATYKA\nTreść informatora"),
+    )
+    guide = tmp_path / "informatory" / "informator.pdf"
+    guide.parent.mkdir()
+    guide.touch()
+
+    assert "MATEMATYKA" in parse_pdf(guide)[0].get_content()

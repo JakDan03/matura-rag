@@ -1,0 +1,46 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=131; level=podstawowy; year=2024; section=ALBO]
+Przykładowe zadania z rozwiązaniami 131
+Sposób 2. obliczenia mocy zbioru Ω.
+Obliczymy liczbę wszystkich ciągów czterech cyfr (także z zerem na pierwszej pozycji).
+Wszystkich ciągów czterech cyfr (także z zerem na pierwszej pozycji) jest
+10 ⋅ 10 ⋅ 10 ⋅ 10 = 10 000. Od tej liczby należy odjąć liczbę takich ciągów czterech cyfr,
+w których na pierwszej pozycji występuje zero – jest ich 10 ⋅ 10 ⋅ 10 = 1 000.
+Zatem wszystkich liczb czterocyfrowych dodatnich jest:
+|Ω| = 10 000 − 1 000 = 9 000
+(ciąg dalszy rozwiązania)
+Określimy zdarzenie 𝐴 jako zbiór takich czterocyfrowych dodatnich liczb parzystych,
+w których zapisie dziesiętnym występują dokładnie jedna cyfra 2 i dokładnie jedna cyfra 3.
+Na poniższych diagramach z pozycjami cyfr rozpiszemy schematy liczb czterocyfrowych,
+spełniających te warunki.
+• Liczby parzyste, które mają cyfrę 2 na pozycji czwartej oraz cyfrę 3 na pozycjach
+trzeciej, drugiej lub pierwszej:
+10 możliwości
+wyboru spośród
+{0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+10 możliwości
+wyboru spośród
+{0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+10 możliwości
+wyboru spośród
+{0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+10 możliwości
+wyboru spośród
+{0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+7 możliwości
+{1, 4, 5, 6, 7, 8, 9}
+8 możliwości
+{0, 1, 4, 5, 6, 7, 8, 9}
+2
+3
+7 możliwości
+{1, 4, 5, 6, 7, 8, 9}
+8 możliwości
+{0, 1, 4, 5, 6, 7, 8, 9}
+2
+3
+8 możliwości
+{0, 1, 4, 5, 6, 7, 8, 9}
+8 możliwości
+{0, 1, 4, 5, 6, 7, 8, 9}
+2
+3

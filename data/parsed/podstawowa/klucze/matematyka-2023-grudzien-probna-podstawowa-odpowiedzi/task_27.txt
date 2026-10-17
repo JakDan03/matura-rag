@@ -1,0 +1,44 @@
+[ŹRÓDŁO: plik=matematyka-2023-grudzien-probna-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=31, 32; level=podstawowy; year=2023; month=grudzień; term=probna; task_id=27]
+Zadanie 27. (0–2)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+XI.1) zlicza obiekty w prostych sytuacjach
+kombinatorycznych;
+XI.2) zlicza obiekty, stosując reguły
+mnożenia i dodawania (także łącznie) […];
+VI.6) wykorzystuje własności ciągów […]
+arytmetycznych […] do rozwiązywania
+zadań, również osadzonych w kontekście
+praktycznym.
+Zasady oceniania
+2 pkt – poprawna metoda i obliczenie liczby numerów CAN spełniających warunki zadania:
+840.
+1 pkt – podanie liczby możliwości wyboru pierwszej, drugiej i trzeciej cyfry numeru CAN
+ALBO
+– wypisanie czterech trzywyrazowych ciągów arytmetycznych: (9, 6, 3), (8, 5, 2),
+(7, 4, 1), (6, 3, 0),
+ALBO
+– zapisanie liczby możliwości wyboru czwartej, piątej i szóstej cyfry numeru CAN:
+7 ⋅ 6 ⋅ 5.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeżeli zdający błędnie przyjmie, że w numerze CAN nie występuje cyfra 0
+i konsekwentnie poda liczbę wszystkich numerów CAN, w których nie występuje cyfra 0,
+to otrzymuje 1 punkt za całe rozwiązanie.
+2. Jeżeli zdający zapisze tylko 840, to otrzymuje 1 punkt za całe rozwiązanie.
+Przykładowe pełne rozwiązanie
+Liczba wszystkich sześciocyfrowych numerów CAN spełniających warunki zadania jest
+iloczynem liczby możliwości ustawienia cyfr na trzech pierwszych miejscach i liczby
+możliwości ustawienia czwartej, piątej i szóstej cyfry.
+Na pierwszych trzech miejscach znajdują się cyfry, które tworzą ciąg arytmetyczny o różnicy
+(−3). Cztery trzywyrazowe ciągi spełniają powyższy warunek: (9, 6, 3), (8, 5, 2), (7, 4, 1),
+(6, 3, 0).
+Czwartą cyfrę w numerze CAN możemy ustawić na 7 sposobów. Piątą cyfrę – na 6
+sposobów. Szóstą cyfrę – na 5 sposobów.
+Zatem liczba wszystkich sześciocyfrowych numerów CAN, spełniających warunki zadania,
+jest równa: 4 ∙ 7 ∙ 6 ∙ 5 = 840.

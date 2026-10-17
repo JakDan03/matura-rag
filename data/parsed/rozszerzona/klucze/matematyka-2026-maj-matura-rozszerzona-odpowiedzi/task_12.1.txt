@@ -1,0 +1,312 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=49, 50, 51, 52, 53, 54, 55; level=rozszerzony; year=2026; month=maj; task_id=12.1]
+Zadanie 12.1. (0–3)
+Wymagania ogólne Wymaganie szczegółowe
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie
+informacjami przedstawionymi w tekście,
+zarówno matematycznym, jak
+i popularnonaukowym, a także w formie
+wykresów, diagramów, tabel.
+IV. Rozumowanie i argumentacja.
+1. Przeprowadzanie rozumowań, także
+kilkuetapowych, podawanie argumentów
+uzasadniających poprawność rozumowania,
+odróżnianie dowodu od przykładu.
+Zdający:
+VIII.8) korzysta z cech podobieństwa
+trójkątów.
+Zasady oceniania
+3 pkt – poprawne przekształcenia i przeprowadzenie pełnego rozumowania.
+2 pkt – spełnienie kryterium zapisanego w pierwszym myślniku w kategorii za 1 punkt oraz
+zapisanie układu co najwyżej trzech równań niezależnych, umożliwiającego
+wyznaczenie ℎ w zależności od 𝑥
+ALBO
+– wyznaczenie tg(2𝛼) w zależności od 𝑥, np. tg(2𝛼) = 4𝑟𝑥
+𝑥2 − 4𝑟2 (dla sposobu II),
+ALBO
+– wyznaczenie zależności między 𝑃 oraz 𝑥, np. 𝑃2 = 𝑃
+𝑟 (𝑃
+𝑟 − 𝑥) ⋅ 1
+4 𝑥2
+(dla sposobu III).
+1 pkt – zapisanie związku między ℎ i 𝑥 oraz jedną z wielkości: długością 𝑏 ramienia, lub
+długością odcinka 𝐶𝐸, lub długością odcinka 𝐶𝑆, np.:
+𝑏2 = (1
+2 𝑥)
+2
++ ℎ2 , 𝑟
+ℎ −𝑟 =
+1
+2𝑥
+𝑏 , 1
+2 𝑥ℎ = 𝑟 ⋅ (1
+2 𝑥 + 𝑏),
+ALBO
+– zapisanie związku tg 𝛼 = 𝑟
+1
+2 𝑥
+(dla sposobu II),
+ALBO
+– zapisanie związku 𝑃 = (𝑏 + 𝑥
+2) ⋅ 𝑟 lub
+𝑃 = √(𝑏 + 1
+2 𝑥) (𝑏 + 1
+2 𝑥 − 𝑏) (𝑏 + 1
+2 𝑥 − 𝑏) (𝑏 + 1
+2 𝑥 − 𝑥) (dla sposobu III),
+ALBO
+– zapisanie związków 𝑃 = 1
+2 𝑏2 sin(2𝛽) oraz sin 𝛽 = 𝑟
+ℎ − 𝑟 ,
+ALBO
+– zapisanie długości boków trójkąta 𝐴𝐷𝐶 (lub trójkąta 𝐶𝐸𝑆) w zależności od 𝑥 i ℎ
+(dla sposobu IV),
+ALBO
+– zapisanie długości przyprostokątnych trójkątów 𝐴𝐷𝐶 oraz 𝐶𝐸𝑆 w zależności od 𝑥
+i ℎ (dla sposobu IV).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwaga:
+Kategorie za 1 punkt oraz za 2 punkty oceniamy w sytuacji, gdy zdający posługuje się
+symbolem 𝑟 albo przyjmie 𝑟 = 2 lub 𝑟 = 4. Natomiast jeżeli zdający przyjmie promień
+inny niż 2 lub 4, to może otrzymać co najwyżej 1 punkt za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I
+Rozważmy trójkąt równoramienny 𝐴𝐵𝐶 o podstawie 𝐴𝐵 długości 𝑥 i wysokości 𝐶𝐷,
+w który jest wpisany okrąg o promieniu 𝑟 = 2. Niech 𝑆 będzie środkiem tego okręgu,
+natomiast 𝐸 – punktem styczności tego okręgu z ramieniem 𝐴𝐶. Oznaczmy ℎ = |𝐶𝐷| oraz
+𝑏 = |𝐴𝐶| (zobacz rysunek).
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸
+𝑆
+2
+ℎ − 2
+2
+𝑏
+𝑏
+1
+2 𝑥
+1
+2 𝑥
+Zasady oceniania rozwiązań zadań
+Korzystamy z podobieństwa trójkątów 𝐶𝐸𝑆 i 𝐶𝐷𝐴, otrzymując:
+|𝑆𝐸|
+|𝐶𝑆| =
+|𝐴𝐷|
+|𝐴𝐶|
+2
+ℎ − 2 =
+1
+2 𝑥
+𝑏
+𝑏 = 1
+4 𝑥(ℎ − 2)
+Stąd i z twierdzenia Pitagorasa zastosowanego do trójkąta 𝐴𝐷𝐶 dostajemy:
+𝑏2 = (1
+2 𝑥)
+2
++ ℎ2
+(1
+4 𝑥ℎ − 1
+2 𝑥)
+2
+= (1
+2 𝑥)
+2
++ ℎ2
+1
+16 𝑥2ℎ2 − 1
+4 𝑥2ℎ + 1
+4 𝑥2 = 1
+4 𝑥2 + ℎ2
+1
+16 𝑥2ℎ − 1
+4 𝑥2 = ℎ
+ℎ ( 1
+16 𝑥2 − 1) = 1
+4 𝑥2
+ℎ(𝑥2 − 16) = 4𝑥2
+ℎ = 4𝑥2
+𝑥2 − 16
+Wyznaczamy pole 𝑃 trójkąta 𝐴𝐵𝐶:
+𝑃 = 1
+2 𝑥ℎ = 1
+2 𝑥 ⋅ 4𝑥2
+𝑥2 − 16 = 2𝑥3
+𝑥2 − 16
+To należało wykazać.
+Sposób II
+Rozważmy trójkąt równoramienny 𝐴𝐵𝐶 o podstawie 𝐴𝐵 długości 𝑥 i wysokości 𝐶𝐷,
+w który jest wpisany okrąg o promieniu 𝑟 = 2. Niech 𝑆 będzie środkiem tego okręgu.
+Oznaczmy ℎ = |𝐶𝐷| oraz 𝛼 = |∡𝑆𝐵𝐷| (zobacz rysunek).
+Z trójkąta prostokątnego 𝐵𝑆𝐷 otrzymujemy tg 𝛼 = 2
+1
+2 𝑥 = 4
+𝑥 .
+Stąd i ze wzoru na tangens podwojonego kąta otrzymujemy
+tg(2𝛼) = 2 tg 𝛼
+1 − tg2 𝛼 =
+2 ⋅ 4
+𝑥
+1 − (4
+𝑥)
+2 = 8𝑥
+𝑥2 − 16
+Punkt 𝑆 jest środkiem okręgu wpisanego w trójkąt 𝐴𝐵𝐶, więc prosta 𝑆𝐵 jest dwusieczną
+kąta 𝐶𝐵𝐷. Zatem ℎ
+1
+2 𝑥 = tg(2𝛼), czyli
+ℎ = 1
+2 𝑥 ⋅ tg(2𝛼) = 4𝑥2
+𝑥2 − 16
+Wyznaczamy pole 𝑃 trójkąta 𝐴𝐵𝐶:
+𝑃 = 1
+2 𝑥ℎ = 1
+2 𝑥 ⋅ 4𝑥2
+𝑥2 − 16 = 2𝑥3
+𝑥2 − 16
+To należało wykazać.
+Sposób III
+Rozważmy trójkąt równoramienny 𝐴𝐵𝐶 o podstawie 𝐴𝐵 długości 𝑥 i wysokości 𝐶𝐷,
+w który jest wpisany okrąg o promieniu 𝑟 = 2. Oznaczmy 𝑏 = |𝐴𝐶| i niech 𝑝 będzie
+połową obwodu tego trójkąta.
+Wówczas 𝑝 = 𝑏 + 𝑏 + 𝑥
+2 = 𝑏 + 1
+2 𝑥. Stąd i ze wzoru 𝑃 = 𝑝 ⋅ 𝑟 otrzymujemy:
+𝑃 = (𝑏 + 1
+2 𝑥) ⋅ 2
+𝐴
+𝐵
+𝐶
+𝐷
+𝑆
+2
+ℎ − 2
+1
+2 𝑥
+1
+2 𝑥
+𝛼
+Zasady oceniania rozwiązań zadań
+𝑏 = 𝑃 − 𝑥
+2
+Korzystamy ze wzoru Herona i otrzymujemy:
+𝑃 = √𝑝(𝑝 − 𝑏)(𝑝 − 𝑏)(𝑝 − 𝑥)
+𝑃 = √(𝑏 + 1
+2 𝑥) (𝑏 + 1
+2 𝑥 − 𝑏) (𝑏 + 1
+2 𝑥 − 𝑏) (𝑏 + 1
+2 𝑥 − 𝑥)
+𝑃2 = (𝑏 + 1
+2 𝑥) (𝑏 − 1
+2 𝑥) ⋅ 1
+4 𝑥2
+Stąd i ze związku 𝑏 = 𝑃 − 𝑥
+2 wyznaczamy pole trójkąta 𝐴𝐵𝐶:
+𝑃2 = (𝑃 − 𝑥
+2 + 1
+2 𝑥) (𝑃 − 𝑥
+2 − 1
+2 𝑥) ⋅ 1
+4 𝑥2
+𝑃2 = 1
+2 𝑃 ⋅ (1
+2 𝑃 − 𝑥) ⋅ 1
+4 𝑥2
+𝑃 = 1
+2 (1
+2 𝑃 − 𝑥) ⋅ 1
+4 𝑥2
+𝑃 = 1
+16 𝑃𝑥2 − 1
+8 𝑥3
+16𝑃 = 𝑃𝑥2 − 2𝑥3
+2𝑥3 = 𝑃𝑥2 − 16𝑃
+2𝑥3
+𝑥2 − 16 = 𝑃
+To należało wykazać.
+Sposób IV
+Rozważmy trójkąt równoramienny 𝐴𝐵𝐶 o podstawie 𝐴𝐵 długości 𝑥 i wysokości 𝐶𝐷,
+w który jest wpisany okrąg o promieniu 𝑟 = 2. Niech 𝑆 będzie środkiem tego okręgu,
+natomiast 𝐸 – punktem styczności tego okręgu z ramieniem 𝐴𝐶. Oznaczmy ℎ = |𝐶𝐷| oraz
+𝛽 = |∡𝑆𝐶𝐸| (zobacz rysunek).
+Kąty w trójkątach 𝐴𝐷𝐶 oraz 𝑆𝐸𝐶 mają miary 90°, 𝛽 oraz 90° − 𝛽, więc te trójkąty są
+podobne na podstawie cechy kkk podobieństwa trójkątów. Trójkąt 𝐴𝐷𝐶 jest podobny do
+trójkąta 𝑆𝐸𝐶 w skali 𝑘 =
+1
+2𝑥
+2 = 1
+4 𝑥. Zatem |𝐴𝐶| = 𝑘 ⋅ |𝐶𝑆| = 1
+4 𝑥 ⋅ (ℎ − 2) (zobacz
+rysunek).
+Stosujemy do trójkąta 𝐴𝐷𝐶 twierdzenie Pitagorasa i otrzymujemy:
+[1
+4 𝑥 ⋅ (ℎ − 2)]
+2
+= (1
+2 𝑥)
+2
++ ℎ2
+(1
+4 𝑥ℎ − 1
+2 𝑥)
+2
+= (1
+2 𝑥)
+2
++ ℎ2
+1
+16 𝑥2ℎ2 − 1
+4 𝑥2ℎ + 1
+4 𝑥2 = 1
+4 𝑥2 + ℎ2
+1
+16 𝑥2ℎ − 1
+4 𝑥2 = ℎ
+ℎ ( 1
+16 𝑥2 − 1) = 1
+4 𝑥2
+𝐴
+𝐵
+𝐶
+𝐷
+𝐸
+𝑆
+2
+ℎ − 2
+2
+1
+2 𝑥
+1
+2 𝑥
+𝛽
+𝛽
+𝐶
+𝐷
+𝐴
+1
+2 𝑥
+ℎ
+1
+4 𝑥 ⋅ (ℎ − 2)
+𝑆
+𝐶
+𝐸
+𝛽
+ℎ − 2
+2
+𝑘 = 1
+4 𝑥
+Zasady oceniania rozwiązań zadań
+ℎ(𝑥2 − 16) = 4𝑥2
+ℎ = 4𝑥2
+𝑥2 − 16
+Wyznaczamy pole 𝑃 trójkąta 𝐴𝐵𝐶:
+𝑃 = 1
+2 𝑥ℎ = 1
+2 𝑥 ⋅ 4𝑥2
+𝑥2 − 16 = 2𝑥3
+𝑥2 − 16
+To należało wykazać.

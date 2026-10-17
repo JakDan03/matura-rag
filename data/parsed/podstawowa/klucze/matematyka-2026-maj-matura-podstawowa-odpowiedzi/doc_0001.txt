@@ -1,0 +1,26 @@
+[ŹRÓDŁO: plik=matematyka-2026-maj-matura-podstawowa-odpowiedzi.pdf; typ=scoring_guide; strony=1; level=podstawowy; year=2026; month=maj; section=Uwagi ogólne]
+Rodzaj dokumentu:
+Zasady oceniania rozwiązań
+zadań
+Egzamin: Egzamin maturalny
+Przedmiot: Matematyka
+Poziom: Poziom podstawowy
+Formy arkusza:
+MMAP-P0-100 (wersje arkusza: A i B),
+MMAP-P0-200, MMAP-P0-300,
+MMAP-P0-400, MMAP-P0-700,
+MMAP-P0-Q00, MMAP-P0-K00
+Termin egzaminu: 5 maja 2026 r.
+Data publikacji
+dokumentu: 26 czerwca 2026 r.
+Uwagi ogólne:
+1. Akceptowane są wszystkie rozwiązania merytorycznie poprawne i spełniające warunki
+zadania.
+2. Jeżeli zdający poprawnie rozwiąże zadanie i otrzyma poprawny wynik, lecz w końcowym
+zapisie przekształca ten wynik i popełnia przy tym błąd, to może uzyskać maksymalną
+liczbę punktów.
+3. Jeżeli zdający popełni błędy rachunkowe, które na żadnym etapie rozwiązania nie
+upraszczają i nie zmieniają danego zagadnienia, lecz stosuje poprawną metodę
+i konsekwentnie do popełnionych błędów rachunkowych rozwiązuje zadanie, to może
+otrzymać co najwyżej (𝑛 − 1) punktów (gdzie 𝑛 jest maksymalną możliwą do uzyskania
+liczbą punktów za dane zadanie).

@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2026-marzec-probna-podstawowa.pdf; typ=exam_paper; strony=9; level=podstawowy; year=2026; month=marzec; term=probna; task_id=10]
+Zadanie 10. (0–1)
+Funkcja liniowa 𝑓 jest określona wzorem 𝑓(𝑥) = (𝑘 + 2)𝑥 + (𝑘 − 3), gdzie 𝑘 jest liczbą
+rzeczywistą.
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+Funkcja 𝑓 jest malejąca dla każdej liczby 𝑘 należącej do przedziału (−∞, 2). P F
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) wykres funkcji 𝑓 przechodzi
+przez punkt (0, 1) dla 𝑘 = 4. P F

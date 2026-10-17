@@ -1,0 +1,4 @@
+Dział I. Liczby rzeczywiste.
+Poziom: rozszerzony
+Zakres rozszerzony. Uczeń spełnia wymagania określone dla zakresu podstawowego, a ponadto
+stosuje wzór na zamianę podstawy logarytmu.

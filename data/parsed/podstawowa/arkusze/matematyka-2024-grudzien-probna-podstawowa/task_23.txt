@@ -1,0 +1,12 @@
+[ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-podstawowa.pdf; typ=exam_paper; strony=22; level=podstawowy; year=2024; month=grudzień; term=probna; task_id=23]
+Zadanie 23. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dane są cztery okręgi: 𝑜1, 𝑜2, 𝑜3, 𝑜4,
+o równaniach:
+𝑜1: (𝑥 − 1)2 + (𝑦 − 2)2 = 1
+𝑜2: (𝑥 + 1)2 + (𝑦 + 2)2 = 9
+𝑜3: (𝑥 − 3)2 + (𝑦 − 4)2 = 4
+𝑜4: (𝑥 + 3)2 + (𝑦 + 4)2 = 16
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Okręgiem, który nie ma żadnego punktu wspólnego z osiami układu współrzędnych (𝑥, 𝑦),
+jest
+A. 𝑜1 B. 𝑜2 C. 𝑜3 D. 𝑜4

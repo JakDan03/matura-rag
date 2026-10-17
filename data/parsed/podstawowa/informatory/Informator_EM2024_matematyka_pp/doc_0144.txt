@@ -1,0 +1,26 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pp.pdf; typ=exam_guide; strona=144; level=podstawowy; year=2024; section=ALBO]
+144 Informator o egzaminie maturalnym z matematyki na poziomie podstawowym od roku szkolnego 2024/2025
+Zasady oceniania
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+B
+Zadanie 32.2. (0–2)
+Oblicz wysokość maksymalną, na jakiej będzie środek piłki podczas opisanego rzutu.
+Zapisz wynik w zaokrągleniu do drugiego miejsca po przecinku.
+Zasady oceniania
+2 pkt – poprawna metoda rozwiązania oraz zapisanie wyniku 4,93 m.
+1 pkt – zastosowanie wzoru na wierzchołek paraboli oraz prawidłowe podstawienie
+wszystkich danych liczbowych do tego wzoru
+ALBO
+– zapisanie wzoru funkcji w postaci 𝑦 = −0,174(𝑥 − 𝑝)2 + 𝑞 oraz zidentyfikowanie 𝑞
+jako współrzędnej wierzchołka paraboli lub wysokości maksymalnej rzutu.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób 1.
+Wysokość maksymalna, na jakiej będzie środek piłki, jest równa współrzędnej 𝑦 wierzchołka
+paraboli. Skorzystamy ze wzoru na wierzchołek paraboli (zobacz w Wybranych wzorach
+matematycznych):
+ℎ𝑚𝑎𝑥 = 𝑦𝑤 = − 𝑏2 − 4𝑎𝑐
+4𝑎 = − 1,32 + 4 ⋅ 0,174 ⋅ 2,5
+4 ⋅ (−0,174) ≈ 4,93 m

@@ -1,0 +1,17 @@
+[ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=4; level=rozszerzony; year=2024; month=maj; task_id=1]
+Zadanie 1. (0–2)
+W chwili początkowej (𝑡 = 0) filiżanka z gorącą kawą znajduje się w pokoju, a temperatura
+tej kawy jest równa 80 °C. Temperatura w pokoju (temperatura otoczenia) jest stała
+i równa 20 °C. Temperatura 𝑇 tej kawy zmienia się w czasie zgodnie z zależnością
+𝑇(𝑡) = (𝑇𝑝 − 𝑇𝑧) ⋅ 𝑘−𝑡 + 𝑇𝑧 dla 𝑡 ≥ 0
+gdzie:
+𝑇 – temperatura kawy wyrażona w stopniach Celsjusza,
+𝑡 – czas wyrażony w minutach, liczony od chwili początkowej,
+𝑇𝑝 – temperatura początkowa kawy wyrażona w stopniach Celsjusza,
+𝑇𝑧 – temperatura otoczenia wyrażona w stopniach Celsjusza,
+𝑘 – stała charakterystyczna dla danej cieczy.
+Po 10 minutach, licząc od chwili początkowej, kawa ostygła do temperatury 65 °C.
+Oblicz temperaturę tej kawy po następnych pięciu minutach. Wynik podaj w stopniach
+Celsjusza, w zaokrągleniu do jedności. Zapisz obliczenia.
+1.
+0–1–2

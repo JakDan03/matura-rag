@@ -1,0 +1,10 @@
+Dział IX. Geometria analityczna na płaszczyźnie kartezjańskiej.
+Poziom: rozszerzony
+Zakres rozszerzony. Uczeń spełnia wymagania określone dla zakresu podstawowego, a
+ponadto:
+1) znajduje punkty wspólne prostej i okręgu;
+2) znajduje punkty wspólne dwóch okręgów;
+3) zna pojęcie wektora i oblicza jego współrzędne oraz długość, dodaje wektory i mnoży
+wektor przez liczbę, oba te działania wykonuje zarówno analitycznie, jak i geometrycznie;
+4) wyznacza równanie prostej prostopadłej do zadanej prostej i prostej stycznej do zadanego
+okręgu.

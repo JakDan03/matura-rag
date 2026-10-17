@@ -1,0 +1,345 @@
+[ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=37, 38, 39, 40, 41, 42, 43; level=rozszerzony; year=2025; month=maj; task_id=10]
+Zadanie 10. (0–5)
+Wymaganie ogólne Wymagania szczegółowe
+IV. Rozumowanie i argumentacja.
+4. Stosowanie i tworzenie strategii przy
+rozwiązywaniu zadań, również w sytuacjach
+nietypowych.
+Zdający:
+X.3) rozpoznaje w […] ostrosłupach kąty
+między odcinkami […] oraz kąty między
+ścianami, oblicza miary tych kątów;
+X.5) oblicza […] pola powierzchni […]
+ostrosłupów […].
+Zasady oceniania
+5 pkt – zastosowanie poprawnej metody i poprawny wynik: 918.
+4 pkt – obliczenie długości krawędzi 𝑆𝐶 i 𝐵𝐸: |𝑆𝐶| = 34 i |𝐵𝐸| = 15
+ALBO
+– obliczenie długości krawędzi 𝑆𝐶 i 𝐵𝑆: |𝑆𝐶| = 34 i |𝐵𝑆| = 5√34,
+ALBO
+– obliczenie długości krawędzi 𝐵𝑆: |𝐵𝑆| = 5√34 i zapisanie, że trójkąt 𝑆𝐵𝐶 jest
+prostokątny (albo z rozwiązania wynika, że zdający rozpatruje trójkąt 𝑆𝐵𝐶 jako
+prostokątny),
+ALBO
+– obliczenie długości krawędzi 𝐴𝑆 i 𝑆𝐵: |𝐴𝑆| = 4√34 i |𝐵𝑆| = 5√34,
+ALBO
+– obliczenie długości krawędzi 𝐴𝑆 i 𝑆𝐶: |𝐴𝑆| = 4√34 i |𝑆𝐶| = 34,
+ALBO
+– obliczenie długości krawędzi 𝐴𝑆 i 𝐵𝐸: |𝐴𝑆| = 4√34 i |𝐵𝐸| = 15,
+ALBO
+– obliczenie długości krawędzi 𝐴𝑆: |𝐴𝑆| = 4√34 i zapisanie, że trójkąt 𝑆𝐵𝐶 jest
+prostokątny (albo z rozwiązania wynika, że zdający rozpatruje trójkąt 𝑆𝐵𝐶 jako
+prostokątny).
+3 pkt – obliczenie długości odcinka 𝐶𝐸: |𝐶𝐸| = 9 oraz zapisanie równania pozwalającego
+obliczyć długość jednego z odcinków: 𝑆𝐶, 𝑆𝐵, 𝑆𝐴, 𝑆𝐸, np.:
+|𝐶𝐸|
+|𝐵𝐶| =
+|𝐵𝐶|
+|𝑆𝐶| (|𝑆𝐶| z podobieństwa trójkątów 𝐵𝐶𝑆 i 𝐸𝐶𝐵),
+|𝐶𝐸|
+|𝑂𝐶| =
+|𝐴𝐶|
+|𝑆𝐶| (|𝑆𝐶| z podobieństwa trójkątów 𝐸𝐶𝑂 i 𝐴𝐶𝑆),
+|𝐶𝐸|
+|𝐵𝐸| =
+|𝐵𝐶|
+|𝑆𝐵| (|𝑆𝐵| z podobieństwa trójkątów 𝐵𝐶𝑆 i 𝐸𝐶𝐵),
+|𝐶𝐸|
+|𝐵𝐶| =
+|𝐵𝐸|
+|𝑆𝐵| (|𝑆𝐵| z podobieństwa trójkątów 𝐸𝑆𝐵 i 𝐸𝐵𝐶),
+|𝐶𝐸|
+|𝑂𝐸| =
+|𝐴𝐶|
+|𝑆𝐴| (|𝑆𝐴| z podobieństwa trójkątów 𝐸𝐶𝑂 i 𝐴𝐶𝑆),
+|𝑆𝐸| ⋅ |𝐶𝐸| = |𝐵𝐸|2 (|𝑆𝐸| z podobieństwa trójkątów 𝐸𝑆𝐵 i 𝐸𝐵𝐶),
+ALBO
+– zapisanie układu dwóch równań z dwiema niewiadomymi, w którym jedną
+z niewiadomych jest długość krawędzi 𝐵𝑆, a drugą długość krawędzi 𝑆𝐶, np.
+|𝐵𝑆|2 + (3√34)
+2
+= |𝑆𝐶|2 i 15
+3√34 =
+|𝐵𝑆|
+|𝑆𝐶| ,
+ALBO
+– zapisanie równania z jedną niewiadomą (długością krawędzi 𝐵𝑆 albo długością
+krawędzi 𝑆𝐶, albo długością krawędzi 𝐴𝑆), np. ( 15
+|𝐵𝑆|)
+2
++ ( 15
+3√34)
+2
+= 1,
+(3√34
+|𝑆𝐶| )
+2
++ ( 15
+3√34)
+2
+= 1, ( 6√2
+1
+2 ⋅3√34⋅√2)
+2
++ (12√2
+|𝐴𝑆| )
+2
+= 1.
+2 pkt – obliczenie długości 𝑥 odcinka 𝐵𝐸 (lub 𝐷𝐸): 𝑥 = 15
+ALBO
+– obliczenie długości 𝑦 odcinka 𝐸𝑂: 𝑦 = 6√2,
+ALBO
+– spełnienie warunku 2) i jednego z warunków 3),4) określonych w zasadach
+oceniania za 1 punkt.
+1 pkt – spełnienie jednego z poniższych warunków 1)-4):
+1) obliczenie wartości funkcji trygonometrycznej kąta 𝛽
+2 = |∡𝐵𝐸𝑂| (gdzie 𝑂 jest
+punktem przecięcia przekątnych podstawy 𝐴𝐵𝐶𝐷), np.: sin 𝛽
+2 =
+√17
+5 ,
+tg 𝛽
+2 =
+√34
+4 , cos 𝛽
+2 = 2√2
+5 ;
+2) zastosowanie twierdzenia cosinusów do trójkąta 𝐵𝐸𝐷 i zapisanie równania
+(3√34 ⋅ √2)
+2
+= 𝑥2 + 𝑥2 − 2𝑥2 ⋅ (− 9
+25);
+3) zdający zapisze, że trójkąt 𝑆𝐵𝐶 (lub 𝑆𝐷𝐶) jest prostokątny i wskaże właściwy
+wierzchołek kąta prostego lub wynika to z rozwiązania, np.:
+− zapisze równość wynikającą z twierdzenia Pitagorasa: |𝑆𝐶|2 = |𝐵𝑆|2 + |𝐵𝐶|2,
+− zapisze, że trójkąty 𝐶𝐵𝑆 oraz 𝐶𝐸𝐵 są podobne,
+− zapisze równość wynikającą z podobieństwa trójkątów 𝐶𝐵𝑆 oraz 𝐶𝐸𝐵, np.:
+|𝐵𝑆|
+|𝐵𝐶| = |𝐵𝐸|
+|𝐸𝐶|,
+− zapisze, że trójkąty 𝐵𝐸𝑆 oraz 𝐶𝐸𝐵 są podobne,
+− zapisze równość wynikającą z podobieństwa trójkątów 𝐵𝐸𝑆 oraz 𝐶𝐸𝐵, np.:
+|𝐸𝑆|
+|𝐵𝐸| = |𝐵𝐸|
+|𝐸𝐶|;
+4) zapisze, że trójkąt 𝑂𝐸𝐶 jest prostokątny lub wynika to z rozwiązania, np.:
+− zdający zapisze równość |𝑂𝐶|2 = |𝑂𝐸|2 + |𝐸𝐶|2 ,
+− zapisze, że trójkąty 𝑂𝐸𝐶 oraz 𝑆𝐴𝐶 są podobne,
+− zapisze równość wynikającą z podobieństwa trójkątów 𝑂𝐸𝐶 oraz 𝑆𝐴𝐶, np.:
+|𝑂𝐸|
+|𝑂𝐶| = |𝐴𝑆|
+|𝐶𝑆| .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Zasady oceniania rozwiązań zadań
+Uwagi:
+1. Jeżeli zdający w rozwiązaniu rozpatruje ostrosłup prawidłowy czworokątny, to otrzymuje
+co najwyżej 1 punkt (za poprawną interpretację kąta między ścianami bocznymi oraz za
+zapisanie równania wynikającego z twierdzenia cosinusów dla trójkąta 𝐵𝐷𝐸).
+2. Jeżeli zdający w rozwiązaniu błędnie interpretuje kąt między ścianami bocznymi 𝐵𝐶𝑆
+i 𝐶𝐷𝑆, np. zakłada, że jest to kąt 𝐵𝑆𝐷, to może otrzymać co najwyżej 1 punkt (za
+spełnienie warunku 3) z kryterium za 1 punkt).
+3. Jeżeli zdający w rozwiązaniu rozpatruje inną bryłę i nie jest nią ostrosłup prawidłowy
+czworokątny, to otrzymuje 0 punktów za całe rozwiązanie.
+Przykładowe pełne rozwiązania
+Sposób I (poprzez 𝐵𝐸, 𝐶𝑆, 𝐴𝑆)
+Niech 𝐸 będzie spodkiem wysokości ściany bocznej 𝐵𝐶𝑆 poprowadzonej
+z wierzchołka 𝐵. Oznaczmy 𝑥 = |𝐵𝐸| (zobacz rysunek).
+Ponieważ ściany boczne 𝐵𝐶𝑆 i 𝐶𝐷𝑆 są trójkątami przystającymi, więc |𝐷𝐸| = |𝐵𝐸| = 𝑥.
+Stosujemy do trójkąta 𝐵𝐸𝐷 twierdzenie cosinusów i otrzymujemy
+|𝐵𝐷|2 = 𝑥2 + 𝑥2 − 2 ⋅ 𝑥 ⋅ 𝑥 ⋅ cos 𝛽
+(3√34 ⋅ √2)
+2
+= 𝑥2 + 𝑥2 − 2𝑥2 ⋅ (− 9
+25)
+𝑥 = 15
+Stosujemy twierdzenie Pitagorasa do trójkąta 𝐵𝐸𝐶 i obliczamy długość odcinka 𝐶𝐸:
+|𝐶𝐸|2 = |𝐵𝐶|2 − |𝐵𝐸|2
+|𝐶𝐸|2 = (3√34)
+2
+− 152
+|𝐶𝐸| = 9
+𝐴
+𝐵
+𝐶
+𝐷
+𝑆
+𝐸
+𝛽
+𝑥
+3√34
+3√34
+Trójkąt 𝐵𝐶𝑆 jest prostokątny, co wynika z twierdzenia o trzech prostych prostopadłych,
+gdyż 𝐴𝐵 ⊥ 𝐵𝐶 i odcinek 𝐴𝐵 jest rzutem prostokątnym odcinka 𝑆𝐵 na płaszczyznę
+𝐴𝐵𝐶𝐷.
+Trójkąty 𝐵𝐶𝑆 i 𝐸𝐶𝐵 są podobne (na podstawie cechy kkk podobieństwa trójkątów), więc
+|𝐶𝐸|
+|𝐵𝐶| =
+|𝐵𝐶|
+|𝑆𝐶|
+9
+3√34
+= 3√34
+|𝑆𝐶|
+|𝑆𝐶| = 34
+Stosujemy twierdzenie Pitagorasa do trójkąta 𝐴𝐶𝑆 i obliczamy długość odcinka 𝐴𝑆:
+|𝐴𝑆|2 = |𝑆𝐶|2 − |𝐴𝐶|2
+|𝐴𝑆|2 = 342 − (3√34 ⋅ √2)
+2
+|𝐴𝑆| = 4√34
+Obliczamy pole 𝑃𝑏 powierzchni bocznej ostrosłupa:
+𝑃𝑏 = 2 ⋅ 1
+2 ⋅ |𝐴𝐵| ⋅ |𝐴𝑆| + 2 ⋅ 1
+2 ⋅ 𝑥 ⋅ |𝑆𝐶| = 3√34 ⋅ 4√34 + 15 ⋅ 34 = 918
+Sposób Ia (poprzez 𝐵𝐸, 𝐶𝐸, 𝐵𝑆, 𝐴𝑆)
+Niech 𝐸 będzie spodkiem wysokości ściany bocznej 𝐵𝐶𝑆 poprowadzonej
+z wierzchołka 𝐵. Oznaczmy 𝑥 = |𝐵𝐸| (zobacz rysunek).
+𝐴
+𝐵
+𝐶
+𝐷
+𝑆
+𝐸
+𝛽
+𝑥
+3√34
+3√34
+Zasady oceniania rozwiązań zadań
+Ponieważ ściany boczne 𝐵𝐶𝑆 i 𝐶𝐷𝑆 są trójkątami przystającymi, więc |𝐷𝐸| = |𝐵𝐸| = 𝑥.
+Stosujemy do trójkąta 𝐵𝐸𝐷 twierdzenie cosinusów i otrzymujemy
+|𝐵𝐷|2 = 𝑥2 + 𝑥2 − 2 ⋅ 𝑥 ⋅ 𝑥 ⋅ cos 𝛽
+(3√34 ⋅ √2)
+2
+= 𝑥2 + 𝑥2 − 2𝑥2 ⋅ (− 9
+25)
+𝑥 = 15
+Stosujemy twierdzenie Pitagorasa do trójkąta 𝐵𝐸𝐶 i obliczamy długość odcinka 𝐶𝐸:
+|𝐶𝐸|2 = |𝐵𝐶|2 − |𝐵𝐸|2
+|𝐶𝐸|2 = (3√34)
+2
+− 152
+|𝐶𝐸| = 9
+Trójkąt 𝐵𝐶𝑆 jest prostokątny, co wynika z twierdzenia o trzech prostych prostopadłych,
+gdyż 𝐴𝐵 ⊥ 𝐵𝐶 i odcinek 𝐴𝐵 jest rzutem prostokątnym odcinka 𝑆𝐵 na płaszczyznę
+𝐴𝐵𝐶𝐷. Ponieważ kąt ostry przy wierzchołku 𝐶 jest wspólnym kątem trójkątów
+prostokątnych 𝐵𝐶𝐸 i 𝐵𝐶𝑆, więc są to trójkąty podobne. Stąd otrzymujemy:
+|𝐵𝑆|
+|𝐵𝐶| =
+|𝐵𝐸|
+|𝐸𝐶|
+|𝐵𝑆|
+3√34
+= 15
+9
+|𝐵𝑆| = 5√34
+Z twierdzenia Pitagorasa zastosowanego dla trójkąta 𝐴𝐵𝑆 obliczamy długość odcinka 𝐴𝑆:
+|𝐴𝑆|2 = |𝐵𝑆|2 − |𝐴𝐵|2
+|𝐴𝑆|2 = (5√34)
+2
+− (3√34)
+2
+= (4√34)
+2
+|𝐴𝑆| = 4√34
+Obliczamy pole 𝑃𝑏 powierzchni bocznej ostrosłupa:
+𝑃𝑏 = 2 ⋅ 1
+2 ⋅ |𝐴𝐵| ⋅ |𝐴𝑆| + 2 ⋅ 1
+2 ⋅ |𝐵𝑆| ⋅ |𝐵𝐶| = 3√34 ⋅ 4√34 + 5√34 ⋅ 3√34 = 918
+Sposób II (poprzez 𝐸𝑂, 𝑆𝐶, 𝐴𝑆, 𝐵𝑆)
+Przyjmijmy następujące oznaczenia:
+𝐸 – spodek wysokości ściany bocznej 𝐵𝐶𝑆 poprowadzonej z wierzchołka 𝐵,
+𝑂 – punkt przecięcia przekątnych podstawy 𝐴𝐵𝐶𝐷,
+𝑦 – długość odcinka 𝐸𝑂
+(zobacz rysunek).
+Ponieważ ściany boczne 𝐵𝐶𝑆 i 𝐶𝐷𝑆 są trójkątami przystającymi, więc |𝐷𝐸| = |𝐵𝐸|.
+Obliczamy sinus i cosinus kąta ostrego 𝐵𝐸𝑂:
+cos 𝛽 = − 9
+25
+1 − 2 sin2 𝛽
+2 = − 9
+25 oraz 2 cos2 𝛽
+2 − 1 = − 9
+25
+sin 𝛽
+2 =
+√17
+5 oraz cos 𝛽
+2 = 2√2
+5
+Obliczamy tangens kąta ostrego 𝐵𝐸𝑂:
+tg 𝛽
+2 =
+sin 𝛽
+2
+cos 𝛽
+2
+=
+√17
+5
+2√2
+5
+= √34
+4
+Obliczamy długość 𝑦 odcinka 𝐸𝑂:
+tg 𝛽
+2 = |𝐵𝑂|
+|𝐸𝑂|
+√34
+4 =
+1
+2 ⋅ 3√34 ⋅ √2
+𝑦
+𝑦 = 6√2
+Ponieważ kąty 𝑆𝐶𝐴 i 𝑂𝐶𝐸 mają równe miary, więc korzystając z jedynki
+trygonometrycznej oraz definicji sinusa i cosinusa, otrzymujemy
+sin2|∡𝑂𝐶𝐸| + cos2|∡𝑆𝐶𝐴| = 1
+𝐴
+𝐵
+𝐶
+𝐷
+𝑆
+𝐸
+𝑂
+𝑦
+𝛽
+3√34
+3√34
+Zasady oceniania rozwiązań zadań
+( 𝑦
+|𝑂𝐶|)
+2
++ (
+|𝐴𝐶|
+|𝑆𝐶|)
+2
+= 1
+( 6√2
+1
+2 ⋅ 3√34 ⋅ √2
+)
+2
++ (3√34 ⋅ √2
+|𝑆𝐶| )
+2
+= 1
+(6√17
+|𝑆𝐶| )
+2
+= 9
+17
+|𝑆𝐶| = 34
+Stosujemy twierdzenie Pitagorasa do trójkąta 𝐴𝐶𝑆 i obliczamy długość krawędzi 𝐴𝑆:
+|𝐴𝑆|2 + |𝐴𝐶|2 = |𝑆𝐶|2
+|𝐴𝑆|2 = 342 − (3√34 ⋅ √2)
+2
+|𝐴𝑆| = 4√34
+Stosujemy twierdzenie Pitagorasa do trójkąta 𝐴𝐵𝑆 i obliczamy długość krawędzi 𝐵𝑆:
+|𝐵𝑆|2 = |𝐴𝑆|2 + |𝐴𝐵|2
+|𝐵𝑆|2 = (4√34)
+2
++ (3√34)
+2
+|𝐵𝑆| = 5√34
+Obliczamy pole 𝑃𝑏 powierzchni bocznej ostrosłupa:
+𝑃𝑏 = 2 ⋅ 1
+2 ⋅ |𝐴𝐵| ⋅ |𝐴𝑆| + 2 ⋅ 1
+2 ⋅ |𝐵𝑆| ⋅ |𝐵𝐶| = 3√34 ⋅ 4√34 + 5√34 ⋅ 3√34 = 918

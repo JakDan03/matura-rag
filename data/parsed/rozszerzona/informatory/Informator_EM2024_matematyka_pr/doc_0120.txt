@@ -1,0 +1,19 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=120; level=rozszerzony; year=2024; section=|𝐷𝐾| + |𝐾𝐴| = |𝐷′𝐾| + |𝐾𝐴| ≥ |𝐷′𝐴| = |𝐷𝐾′| + |𝐾′𝐴|]
+120 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Ponieważ
+𝑑′(𝑡) > 0 dla 𝑡 ∈ (3
+2 , 5]
+𝑑′(𝑡) < 0 dla 𝑡 ∈ [0, 3
+2) oraz dla 𝑡 ∈ (5, 15
+2 )
+więc
+funkcja 𝑑 jest rosnąca w przedziale [3
+2 , 5]
+funkcja 𝑑 jest malejąca w przedziałach [0, 3
+2] oraz [5, 15
+2 ].
+Ponadto 𝑑 (3
+2) = √180 oraz 𝑑 (15
+2 ) = √400. Zatem funkcja 𝑑 osiąga wartość
+najmniejszą dla 𝑡 = 1,5.
+Odległość między zastępami harcerzy będzie najmniejsza o godzinie 10:30.

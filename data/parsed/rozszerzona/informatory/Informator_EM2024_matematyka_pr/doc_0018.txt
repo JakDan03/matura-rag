@@ -1,0 +1,27 @@
+[ŹRÓDŁO: plik=Informator_EM2024_matematyka_pr.pdf; typ=exam_guide; strona=18; level=rozszerzony; year=2024; section=1. Interpretowanie i operowanie informacjami przedstawionymi […] w formie]
+18 Informator o egzaminie maturalnym z matematyki na poziomie rozszerzonym od roku szkolnego 2024/2025
+Zadanie 3. (0–3)
+Na rysunku obok przedstawiono fragment wykresu
+wielomianu 𝑊 określonego wzorem
+𝑊(𝑥) = 1
+8 𝑥3 − 2𝑥2 + 67
+8 𝑥 − 3
+dla każdego 𝑥 ∈ ℝ.
+Oblicz wszystkie pierwiastki wielomianu 𝑾.
+Zapisz obliczenia.
+Wymagania ogólne
+II. Wykorzystanie i tworzenie informacji.
+1. Interpretowanie i operowanie informacjami przedstawionymi […] w formie
+wykresów, diagramów, tabel.
+III. Wykorzystanie i interpretowanie reprezentacji.
+2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów
+praktycznych i teoretycznych.
+Wymagania szczegółowe
+II. Wyrażenia algebraiczne. Zdający:
+1R) dzieli wielomian jednej zmiennej 𝑊(𝑥) przez dwumian postaci 𝑥 − 𝑎;
+3R) znajduje pierwiastki całkowite wielomianu o współczynnikach całkowitych.
+𝑦 = 𝑊(𝑥)
+1
+𝑥
+𝑦
+1

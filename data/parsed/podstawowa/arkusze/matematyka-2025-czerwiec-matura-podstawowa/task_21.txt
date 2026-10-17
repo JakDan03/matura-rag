@@ -1,0 +1,9 @@
+[ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-podstawowa.pdf; typ=exam_paper; strony=19; level=podstawowy; year=2025; month=czerwiec; task_id=21]
+Zadanie 21. (0–1)
+Kwadrat 𝒦2 jest podobny do kwadratu 𝒦1 w skali 5 (zobacz rysunek).
+Suma pól tych kwadratów jest równa 78.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Długość boku kwadratu 𝒦1 jest równa
+A. √3 B. 3 C. √13 D. 13
+𝒦1
+𝒦2

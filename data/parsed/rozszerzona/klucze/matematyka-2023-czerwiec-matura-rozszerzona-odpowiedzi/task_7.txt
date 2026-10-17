@@ -1,0 +1,115 @@
+[ŹRÓDŁO: plik=matematyka-2023-czerwiec-matura-rozszerzona-odpowiedzi.pdf; typ=scoring_guide; strony=13, 14, 15; level=rozszerzony; year=2023; month=czerwiec; task_id=7]
+Zadanie 7. (0–4)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne Wymaganie szczegółowe
+III. Wykorzystanie i interpretowanie
+reprezentacji.
+2. Dobieranie i tworzenie modeli
+matematycznych przy rozwiązywaniu
+problemów praktycznych i teoretycznych.
+Zdający:
+VI.R2) rozpoznaje zbieżne szeregi
+geometryczne i oblicza ich sumę.
+Zasady oceniania
+4 pkt – poprawne wyznaczenie wszystkich wartości zmiennej 𝑥, dla których suma szeregu
+istnieje (𝑥 ∈ (−∞, −2) ∪ (4, +∞) ) oraz poprawne wyznaczenie wszystkich wartości
+zmiennej 𝑥, dla których suma jest równa
+15
+2 : 𝑥 = 6.
+3 pkt – wyznaczenie zbioru wszystkich wartości 𝑥, dla których istnieje skończona suma
+szeregu ( 𝑥 ∈ (−∞, −2) ∪ (4, +∞) ) oraz zastosowanie wzoru na sumę szeregu
+geometrycznego, wyznaczenie tej sumy i zapisanie równania z niewiadomą 𝑥:
+2𝑥
+1−(− 3
+𝑥−1)
+=
+15
+2
+ALBO
+– zapisanie warunku zbieżności szeregu (|𝑞| < 1) oraz zastosowanie wzoru na sumę
+szeregu geometrycznego, wyznaczenie tej sumy, zapisanie równania z niewiadomą
+𝑥 (
+2𝑥
+1−(− 3
+𝑥−1)
+=
+15
+2 ) i rozwiązanie tego równania: 𝑥 = −
+5
+4 , 𝑥 = 6.
+2 pkt – wyznaczenie zbioru wszystkich wartości 𝑥, dla których istnieje skończona suma
+szeregu: 𝑥 ∈ (−∞, −2) ∪ (4, +∞)
+ALBO
+– zapisanie warunku zbieżności szeregu (|𝑞| < 1) oraz zastosowanie wzoru na sumę
+szeregu geometrycznego, wyznaczenie tej sumy i zapisanie równania z niewiadomą
+𝑥:
+2𝑥
+1 − (− 3
+𝑥 − 1)
+= 15
+2
+1 pkt – zapisanie ilorazu: 𝑞 = −
+3
+𝑥−1 .
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+1. Jeśli zdający rozwiąże odpowiednie równanie i zapisze: 𝑥 = −
+5
+4 ∨ 𝑥 = 6, a następnie
+obliczy iloraz szeregu dla każdej z wyznaczonych wartości zmiennych i na tej podstawie
+dokona właściwego wyboru rozwiązania, to otrzymuje 4 punkty.
+2. Jeśli zdający rozwiąże zadanie bez rozważenia warunku |𝑞| < 1, to może otrzymać
+maksymalnie 2 punkty.
+3. Jeśli zdający zapisze poprawny warunek zbieżności szeregu: |−
+3
+𝑥−1| < 1, ale popełni błąd
+przy wyznaczaniu przedziału zbieżności i konsekwentnie rozwiąże zadanie do końca, to
+może otrzymać 3 punkty.
+4. Jeżeli zdający popełni błąd przy wyznaczaniu ilorazu ciągu, który będzie wyrażeniem
+wymiernym zmiennej 𝑥, np. zapisze, że 𝑞 = −
+3𝑥
+𝑥−1 , i konsekwentnie rozwiąże zadanie do
+końca, to może otrzymać maksymalnie 2 punkty.
+5. Jeśli zdający zapisze dany szereg jako sumę dwóch szeregów postaci
+2𝑥 +
+18𝑥
+(𝑥−1)2 +
+172𝑥
+(𝑥−1)4 + … oraz −
+6𝑥
+𝑥−1 −
+54𝑥
+(𝑥−1)3 −
+516𝑥
+(𝑥−1)5 − … bez odpowiedniego komentarza
+i rozwiąże zadanie konsekwentnie do końca, obliczając sumę dwóch szeregów, to może
+otrzymać maksymalnie 3 punkty.
+Przykładowe pełne rozwiązanie
+Pierwszy wyraz i iloraz tego szeregu są równe, odpowiednio, 𝑎1 = 2𝑥 oraz
+𝑞 = −
+3
+𝑥−1 . Ponieważ 𝑥 ≠ 1 i 𝑥 ≠ 0, to szereg ten jest zbieżny wtedy i tylko wtedy, gdy
+|−
+3
+𝑥−1| < 1, czyli |𝑥 − 1| > 3. Stąd 𝑥 ∈ (−∞, −2) ∪ (4, +∞).
+Wtedy suma 𝑆 tego szeregu jest skończona i równa
+𝑆 = 𝑎1
+1 − 𝑞 = 2𝑥
+1 − (− 3
+𝑥 − 1)
+= 2𝑥(𝑥 − 1)
+𝑥 + 2
+Rozwiązujemy równanie
+2𝑥(𝑥−1)
+𝑥+2 =
+15
+2 w zbiorze (−∞, −2) ∪ (4, +∞):
+2𝑥(𝑥 − 1)
+𝑥 + 2 = 15
+2
+4𝑥(𝑥 − 1) = 15(𝑥 + 2)
+4𝑥2 − 19𝑥 − 30 = 0
+𝑥 = − 5
+4 ∉ (−∞, −2) ∪ (4, +∞) lub 𝑥 = 6 ∈ (−∞, −2) ∪ (4, +∞)
+Zatem 𝑥 = 6.
+Zasady oceniania rozwiązań zadań
