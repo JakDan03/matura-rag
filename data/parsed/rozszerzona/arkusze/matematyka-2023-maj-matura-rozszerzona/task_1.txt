@@ -6,7 +6,5 @@ cząsteczek tej substancji jej masa się zmniejsza. Po każdej kolejnej dobie ub
 funkcja 𝑚(𝑡) określa masę substancji w gramach po 𝑡 pełnych dobach (czas liczymy od
 chwili początkowej).
 Wyznacz wzór funkcji 𝒎(𝒕). Oblicz, po ilu pełnych dobach masa tej substancji będzie
-po raz pierwszy mniejsza od 𝟏, 𝟓 grama.
+po raz pierwszy mniejsza od 𝟏,𝟓 grama.
 Zapisz obliczenia.
-1.
-0–1–2

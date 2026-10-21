@@ -4,8 +4,4 @@ Rozważamy wszystkie stożki, których wysokość jest większa od 5, a odległo
 podstawy od tworzącej jest równa 5.
 Zadanie 12.1. (0–2)
 Wykaż, że objętość 𝑽 stożka, jako funkcja wysokości 𝒉 stożka, wyraża się wzorem
-𝑽(𝒉) = 𝝅
-𝟑 ⋅ 𝟐𝟓𝒉𝟑
-𝒉𝟐 − 𝟐𝟓
-12.1.
-0–1–2
+𝑽(𝒉) = 𝝅/𝟑 ⋅ 𝟐𝟓𝒉^3/(𝒉^2 − 𝟐𝟓)

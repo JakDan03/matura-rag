@@ -5,6 +5,3 @@ wyraz o 4, a pozostałe wyrazy pozostawimy bez zmian, to otrzymamy ciąg arytmet
 Jeżeli drugi i trzeci wyraz tak otrzymanego ciągu arytmetycznego pomniejszymy o 1, to
 otrzymamy nowy ciąg geometryczny.
 Oblicz 𝒙, 𝒚 oraz 𝒛. Zapisz obliczenia.
-8.
-0–1–
-2–3–4

@@ -1,20 +1,16 @@
 [ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=16; level=rozszerzony; year=2023; month=maj; task_id=10]
 Zadanie 10. (0–4)
-Określamy kwadraty 𝐾1 , 𝐾2 , 𝐾3 , … następująco:
-• 𝐾1 jest kwadratem o boku długości 𝑎
-• 𝐾2 jest kwadratem, którego każdy wierzchołek leży na innym boku kwadratu 𝐾1 i dzieli
+Określamy kwadraty 𝐾_1 , 𝐾_2 , 𝐾_3 , … następująco:
+• 𝐾_1 jest kwadratem o boku długości 𝑎
+• 𝐾_2 jest kwadratem, którego każdy wierzchołek leży na innym boku kwadratu 𝐾_1 i dzieli
 ten bok w stosunku 1 ∶ 3
-• 𝐾3 jest kwadratem, którego każdy wierzchołek leży na innym boku kwadratu 𝐾2 i dzieli
+• 𝐾_3 jest kwadratem, którego każdy wierzchołek leży na innym boku kwadratu 𝐾_2 i dzieli
 ten bok w stosunku 1 ∶ 3
 i ogólnie, dla każdej liczby naturalnej 𝑛 ≥ 2,
-• 𝐾𝑛 jest kwadratem, którego każdy wierzchołek leży na innym boku kwadratu 𝐾𝑛−1
+• 𝐾_𝑛 jest kwadratem, którego każdy wierzchołek leży na innym boku kwadratu 𝐾_(𝑛−1)
 i dzieli ten bok w stosunku 1 ∶ 3.
 Obwody wszystkich kwadratów określonych powyżej tworzą nieskończony ciąg
 geometryczny.
 Na rysunku przedstawiono kwadraty utworzone w sposób opisany powyżej.
+[tutaj powinien być rysunek]
 Oblicz sumę wszystkich wyrazów tego nieskończonego ciągu. Zapisz obliczenia.
-10.
-0–1–
-2–3–4
-𝑎
-𝑎

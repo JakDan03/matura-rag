@@ -5,13 +5,8 @@ krawędź podstawy ma długość nie większą niż 8√3.
 Zadanie 13.2. (0–4)
 Pole 𝑃 powierzchni całkowitej graniastosłupa w zależności od długości 𝑎 krawędzi
 podstawy graniastosłupa jest określone wzorem
-𝑃(𝑎) = 𝑎2 ⋅ √3
-2 + 13824√3
-𝑎
-dla 𝑎 ∈ (0, 8√3 ].
+𝑃(𝑎) = 𝑎^2 ⋅ √3 / 2 + 13824√3 / 𝑎
+dla 𝑎 ∈ (0, 8√3].
 Wyznacz długość krawędzi podstawy tego z rozważanych graniastosłupów, którego
 pole powierzchni całkowitej jest najmniejsze. Oblicz to najmniejsze pole. Zapisz
 obliczenia.
-13.2.
-0–1–
-2–3–4

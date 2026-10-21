@@ -1,8 +1,5 @@
 [ŹRÓDŁO: plik=matematyka-2024-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=6; level=rozszerzony; year=2024; month=czerwiec; task_id=2]
 Zadanie 2. (0–2)
 Oblicz granicę
-lim
-𝑥→3−
-|𝑥 − 3|
-𝑥2 − 9
+lim_(𝑥→3−) |𝑥 − 3|/(𝑥^2 − 9)
 Zapisz obliczenia.

@@ -5,12 +5,5 @@ tego prostokąta obrano punkty – odpowiednio – 𝐾, 𝐿, 𝑀 oraz 𝑁 (p
 punktów leży na dokładnie jednym boku prostokąta 𝐴𝐵𝐶𝐷). Czworokąt 𝐾𝐿𝑀𝑁 jest
 trapezem prostokątnym (zobacz rysunek), a wysokość 𝐿𝑀 tego trapezu jest równoległa do
 przekątnej 𝐵𝐷 prostokąta.
+[tu powinien być rysunek]
 Wykaż, że stosunek pola trójkąta 𝑴𝑫𝑵 do pola trójkąta 𝑲𝑩𝑳 jest równy 𝟏𝟔.
-𝐴
-𝐵
-𝐶
-𝐷
-𝐾
-𝐿
-𝑀
-𝑁

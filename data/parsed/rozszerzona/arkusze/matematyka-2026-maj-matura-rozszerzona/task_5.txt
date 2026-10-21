@@ -1,8 +1,5 @@
 [ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=10; level=rozszerzony; year=2026; month=maj; task_id=5]
 Zadanie 5. (0–4)
 Rozwiąż nierówność
-|𝟐𝒙 − 𝟔| − |𝒙𝟐 − 𝟗| < 𝟎
+|𝟐𝒙 − 𝟔| − |𝒙^2 − 𝟗| < 𝟎
 Zapisz obliczenia.
-5.
-0–1–
-2–3–4

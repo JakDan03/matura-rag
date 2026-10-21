@@ -3,6 +3,3 @@ Zadanie 6. (0–4)
 Rozwiąż równanie
 |𝟒𝒙 − 𝟖| + |𝒙 − 𝟐| = |𝟐 − 𝒙| + |𝒙 + 𝟐| + 𝟒
 Zapisz obliczenia.
-6.
-0–1–
-2–3-4

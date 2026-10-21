@@ -3,6 +3,3 @@ Zadanie 6. (0–3)
 Rozwiąż równanie
 𝟒𝐬𝐢𝐧(𝟒𝒙)𝐜𝐨𝐬(𝟔𝒙) = 𝟐𝐬𝐢𝐧(𝟏𝟎𝒙) + 𝟏
 Zapisz obliczenia.
-6.
-0–1–
-2–3

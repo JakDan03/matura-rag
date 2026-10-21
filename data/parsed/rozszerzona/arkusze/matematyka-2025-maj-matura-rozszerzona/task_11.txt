@@ -1,13 +1,9 @@
 [ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=22; level=rozszerzony; year=2025; month=maj; task_id=11]
 Zadanie 11. (0–6)
 Funkcja 𝑓 jest określona wzorem
-𝑓(𝑥) = (2 − 𝑚)𝑥2 − 2(2𝑚 + 1)𝑥 + 𝑚 + 8
+𝑓(𝑥) = (2 − 𝑚)𝑥^2 − 2(2𝑚 + 1)𝑥 + 𝑚 + 8
 dla każdej liczby rzeczywistej 𝑥, gdzie 𝑚 jest liczbą rzeczywistą różną od 2.
 Wyznacz wszystkie wartości parametru 𝒎, dla których funkcja 𝒇 ma dokładnie dwa
-miejsca zerowe 𝒙𝟏 oraz 𝒙𝟐 tego samego znaku, które spełniają warunek
-(𝒙𝟏 − 𝒙𝟐)𝟐 ≤ 𝟏𝟖𝟎
+miejsca zerowe 𝒙_1 oraz 𝒙_2 tego samego znaku, które spełniają warunek
+(𝒙_1 − 𝒙_2)^2 ≤ 𝟏𝟖𝟎
 Zapisz obliczenia.
-11.
-0–1–
-2–3–
-4–5–6

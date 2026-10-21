@@ -1,8 +1,5 @@
 [ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=7; level=rozszerzony; year=2023; month=maj; task_id=4]
 Zadanie 4. (0–3)
 Liczby rzeczywiste 𝑥 oraz 𝑦 spełniają jednocześnie równanie 𝑥 + 𝑦 = 4 i nierówność
-𝑥3 − 𝑥2𝑦 ≤ 𝑥𝑦2 − 𝑦3.
+𝑥^3 − 𝑥^2𝑦 ≤ 𝑥𝑦^2 − 𝑦^3.
 Wykaż, że 𝒙 = 𝟐 oraz 𝒚 = 𝟐.
-4.
-0–1–
-2–3

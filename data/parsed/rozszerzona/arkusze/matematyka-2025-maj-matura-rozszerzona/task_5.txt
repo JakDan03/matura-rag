@@ -3,6 +3,3 @@ Zadanie 5. (0–4)
 Rozwiąż nierówność
 |𝒙 − 𝟐| − 𝟐 ⋅ |𝒙 + 𝟑| < −𝟐
 Zapisz obliczenia.
-5.
-0–1–
-2–3–4

@@ -5,6 +5,3 @@ gry, która na każdej ściance ma inną liczbę oczek – od jednego oczka do s
 Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że otrzymamy co
 najmniej jeden raz sześć oczek, pod warunkiem że otrzymamy dokładnie dwa razy
 pięć oczek. Zapisz obliczenia.
-4.
-0–1–
-2–3

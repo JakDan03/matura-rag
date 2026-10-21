@@ -6,6 +6,3 @@ Oblicz prawdopodobieństwo zdarzenia 𝑨 polegającego na tym, że wylosowane l
 utworzą ciąg, w którym iloczyn każdych trzech kolejnych wyrazów będzie liczbą
 podzielną przez 𝟑. Wynik podaj w postaci nieskracalnego ułamka zwykłego.
 Zapisz obliczenia.
-2.
-0–1–
-2–3

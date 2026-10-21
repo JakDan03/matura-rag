@@ -3,9 +3,9 @@ Zadanie 1. (0–2)
 W warunkach laboratoryjnych obserwowano dynamikę wzrostu liczebności populacji
 pewnego gatunku bakterii. Liczebność 𝑁 populacji bakterii zmienia się w czasie zgodnie
 z zależnością wykładniczą
-𝑁(𝑡) = 𝑁0 ⋅ 𝑘𝑡 dla 𝑡 ≥ 0
+𝑁(𝑡) = 𝑁_0 ⋅ 𝑘^𝑡 dla 𝑡 ≥ 0
 gdzie:
-𝑁0 – liczebność populacji w chwili 𝑡 = 0 rozpoczęcia obserwacji,
+𝑁_0 – liczebność populacji w chwili 𝑡 = 0 rozpoczęcia obserwacji,
 𝑘 – stała dodatnia, charakterystyczna dla danego gatunku bakterii i dla warunków
 przeprowadzenia obserwacji,
 𝑡 – czas wyrażony w godzinach, liczony od chwili 𝑡 = 0 rozpoczęcia obserwacji.
@@ -13,5 +13,3 @@ W chwili rozpoczęcia obserwacji liczebność populacji była równa 10 000, a p
 godzinach była równa 15 625.
 Oblicz, o ile procent wzrastała liczebność populacji tej bakterii w ciągu każdej godziny.
 Zapisz obliczenia.
-1.
-0–1–2

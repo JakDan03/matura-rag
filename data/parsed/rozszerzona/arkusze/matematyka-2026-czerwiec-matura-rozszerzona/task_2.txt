@@ -7,6 +7,3 @@ warunki:
 • cyfra 8 występuje dokładnie dwa razy
 • pozostałe cyfry kodu są parami różnymi liczbami nieparzystymi.
 Oblicz liczbę wszystkich takich kodów. Zapisz obliczenia.
-2.
-0–1–
-2–3

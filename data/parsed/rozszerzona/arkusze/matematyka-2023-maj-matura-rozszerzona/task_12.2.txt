@@ -1,12 +1,8 @@
 [ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=20, 21; level=rozszerzony; year=2023; month=maj; task_id=12.2]
 Zadanie 12.
-Funkcja 𝑓 jest określona wzorem 𝑓(𝑥) = 81log3 𝑥 + 2 ⋅ log2 √27 ⋅ log3 2
-3 ⋅ 𝑥2 − 6𝑥 dla
+Funkcja 𝑓 jest określona wzorem 𝑓(𝑥) = 𝟖𝟏^(𝐥𝐨𝐠_3 𝒙) + (𝟐 ⋅ 𝐥𝐨𝐠_𝟐 √(𝟐𝟕) ⋅ 𝐥𝐨𝐠_𝟑 𝟐)/𝟑 ⋅ 𝒙^𝟐 − 𝟔𝒙 dla
 każdej liczby dodatniej 𝑥.
 Zadanie 12.2. (0–4)
 Oblicz najmniejszą wartość funkcji 𝒇 określonej dla każdej liczby dodatniej 𝒙.
 Zapisz obliczenia.
-Wskazówka: przyjmij, że wzór funkcji 𝑓 można przedstawić w postaci 𝑓(𝑥) = 𝑥4 + 𝑥2 − 6𝑥.
-12.2.
-0–1–
-2–3–4
+Wskazówka: przyjmij, że wzór funkcji 𝑓 można przedstawić w postaci 𝑓(𝑥) = 𝑥^4 + 𝑥^2 − 6𝑥.

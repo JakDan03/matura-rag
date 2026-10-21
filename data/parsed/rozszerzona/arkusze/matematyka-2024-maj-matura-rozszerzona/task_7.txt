@@ -2,8 +2,5 @@
 Zadanie 7. (0–4)
 Trzywyrazowy ciąg (𝑥, 𝑦, 𝑧) jest geometryczny i rosnący. Suma wyrazów tego ciągu jest
 równa 105. Liczby 𝑥, 𝑦 oraz 𝑧 są – odpowiednio – pierwszym, drugim oraz szóstym
-wyrazem ciągu arytmetycznego (𝑎𝑛), określonego dla każdej liczby naturalnej 𝑛 ≥ 1.
+wyrazem ciągu arytmetycznego (𝑎_𝑛), określonego dla każdej liczby naturalnej 𝑛 ≥ 1.
 Oblicz 𝒙, 𝒚 oraz 𝒛. Zapisz obliczenia.
-7.
-0–1–
-2–3–4

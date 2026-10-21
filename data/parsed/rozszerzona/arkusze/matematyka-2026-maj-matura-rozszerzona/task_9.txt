@@ -6,7 +6,3 @@ się w prostej o równaniu 𝑥 + 2𝑦 − 4 = 0. Na boku 𝐴𝐶 tego trójk�
 że |𝐴𝑀| ∶ |𝑀𝐶| = 1 ∶ 4.
 Wyznacz równanie okręgu, który ma środek w punkcie 𝑴 i przechodzi przez punkt 𝑪.
 Zapisz obliczenia.
-9.
-0–1–
-2–3–
-4–5

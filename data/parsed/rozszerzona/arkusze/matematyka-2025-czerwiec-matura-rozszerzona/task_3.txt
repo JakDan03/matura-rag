@@ -3,5 +3,3 @@ Zadanie 3. (0–3)
 Rozważamy wszystkie liczby naturalne sześciocyfrowe, w których zapisie dziesiętnym
 iloczyn cyfr jest liczbą parzystą mniejszą od 5.
 Oblicz, ile jest wszystkich takich liczb sześciocyfrowych. Zapisz obliczenia.
-Kolejne zadania egzaminacyjne są wydrukowane
-na następnych stronach.

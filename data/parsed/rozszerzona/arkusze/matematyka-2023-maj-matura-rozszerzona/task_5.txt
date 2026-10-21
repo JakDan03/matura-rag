@@ -4,18 +4,5 @@ Dany jest trójkąt prostokątny 𝐴𝐵𝐶, w którym |∡𝐴𝐵𝐶| = 90�
 𝐾 i 𝐿 leżą na bokach – odpowiednio – 𝐴𝐵 i 𝐵𝐶 tak, że |𝐵𝐾| = |𝐵𝐿| = 1 (zobacz
 rysunek). Odcinek 𝐾𝐿 przecina wysokość 𝐵𝐷 tego trójkąta w punkcie 𝑁, a ponadto
 |𝐴𝐷| = 2.
+[tutaj powinien być rysunek]
 Wykaż, że |𝑵𝑫| = √𝟑 + 𝟏.
-60°
-1
-𝐾
-𝐴
-𝑁
-𝐿
-𝐵
-𝐶
-2
-𝐷
-1
-5.
-0–1–
-2–3

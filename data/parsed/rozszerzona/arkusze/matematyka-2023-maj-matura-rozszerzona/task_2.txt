@@ -1,10 +1,6 @@
 [ŹRÓDŁO: plik=matematyka-2023-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=5; level=rozszerzony; year=2023; month=maj; task_id=2]
 Zadanie 2. (0–3)
 Tomek i Romek postanowili rozegrać między sobą pięć partii szachów. Prawdopodobieństwo
-wygrania pojedynczej partii przez Tomka jest równe 1
-4 .
+wygrania pojedynczej partii przez Tomka jest równe 1/4 .
 Oblicz prawdopodobieństwo wygrania przez Tomka co najmniej czterech z pięciu
 partii. Wynik podaj w postaci ułamka zwykłego nieskracalnego. Zapisz obliczenia.
-2.
-0–1–
-2–3

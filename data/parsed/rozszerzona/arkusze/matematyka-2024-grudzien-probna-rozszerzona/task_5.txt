@@ -8,8 +8,5 @@ Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że wybierzemy osobę
 z wyższym wykształceniem, jeżeli wiadomo, że ta osoba dobrze włada językiem
 niemieckim. Wynik zapisz w postaci ułamka dziesiętnego w zaokrągleniu do części
 setnych. Zapisz obliczenia.
-5.
-0–1–
-2–3
 Kolejne zadania egzaminacyjne są wydrukowane
 na następnych stronach.

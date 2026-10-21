@@ -1,9 +1,5 @@
 [ŹRÓDŁO: plik=matematyka-2025-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=5; level=rozszerzony; year=2025; month=maj; task_id=2]
 Zadanie 2. (0–3)
 Wykaż, że dla każdej dodatniej liczby rzeczywistej 𝒂 i dla każdej dodatniej liczby
-rzeczywistej 𝒃 takich, że 𝒃 ≠ 𝟏
-𝟐 𝒂, prawdziwa jest nierówność
-(𝒂 + 𝟐𝒃)𝟑 > 𝟖𝒂𝟐𝒃 + 𝟏𝟔𝒂𝒃𝟐
-2.
-0–1–
-2–3
+rzeczywistej 𝒃 takich, że 𝒃 ≠ 𝟏/𝟐 * 𝒂, prawdziwa jest nierówność
+(𝒂 + 𝟐𝒃)^3 > 𝟖𝒂^2𝒃 + 𝟏𝟔𝒂𝒃^2

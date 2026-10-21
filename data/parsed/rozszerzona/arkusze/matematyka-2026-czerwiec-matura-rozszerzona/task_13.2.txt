@@ -7,11 +7,7 @@ punkt 𝐾 = (1, 2).
 Zadanie 13.2. (0–4)
 Pole 𝑃 trójkąta 𝐴𝐵𝐶 w zależności od współczynnika kierunkowego 𝑎 prostej 𝐴𝐵 jest
 określone wzorem
-𝑃(𝑎) = −𝑎2 + 4𝑎 − 4
-2𝑎
+𝑃(𝑎) = (−𝑎^2 + 4𝑎 − 4)/2𝑎
 dla 𝑎 < 0.
 Wyznacz równanie prostej zawierającej przeciwprostokątną 𝑨𝑩 tego z rozważanych
 trójkątów, który ma najmniejsze pole. Zapisz obliczenia.
-13.2
-0–1–
-2–3–4

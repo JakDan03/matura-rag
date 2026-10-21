@@ -3,6 +3,3 @@ Zadanie 6. (0–3)
 Rozważamy wszystkie liczby naturalne, w których zapisie dziesiętnym nie powtarza się
 jakakolwiek cyfra oraz dokładnie trzy cyfry są nieparzyste i dokładnie dwie cyfry są parzyste.
 Oblicz, ile jest wszystkich takich liczb. Zapisz obliczenia.
-6.
-0–1–
-2–3

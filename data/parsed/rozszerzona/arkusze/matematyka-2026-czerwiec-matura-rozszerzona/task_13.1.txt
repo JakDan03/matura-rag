@@ -7,7 +7,4 @@ punkt 𝐾 = (1, 2).
 Zadanie 13.1. (0–2)
 Wykaż, że pole 𝑷 trójkąta 𝑨𝑩𝑪 w zależności od współczynnika kierunkowego 𝒂
 prostej 𝑨𝑩 jest określone wzorem
-𝑷(𝒂) = −𝒂𝟐 + 𝟒𝒂 − 𝟒
-𝟐𝒂
-13.1
-0–1–2
+𝑷(𝒂) = (−𝒂^2 + 𝟒𝒂 − 𝟒)/𝟐𝒂

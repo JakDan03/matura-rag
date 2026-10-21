@@ -2,7 +2,4 @@
 Zadanie 4. (0–3)
 Wykaż, że dla każdej liczby rzeczywistej 𝒙 i dla każdej liczby rzeczywistej 𝒚
 prawdziwa jest nierówność
-𝒙𝒚 + 𝒙 + 𝒚 ≤ 𝒙𝟐 + 𝒚𝟐 + 𝟏
-4.
-0–1–
-2–3
+𝒙𝒚 + 𝒙 + 𝒚 ≤ 𝒙^𝟐 + 𝒚^𝟐 + 𝟏

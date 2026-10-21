@@ -1,5 +1,5 @@
 [ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=12; level=rozszerzony; year=2025; month=czerwiec; task_id=6]
 Zadanie 6. (0–4)
 Rozwiąż równanie
-𝐜𝐨𝐬(𝟐𝒙) + 𝟐𝐜𝐨𝐬𝟐(𝟑𝒙) + 𝐜𝐨𝐬(𝟒𝒙) = 𝟎
+𝐜𝐨𝐬(𝟐𝒙) + 𝟐𝐜𝐨𝐬^2(𝟑𝒙) + 𝐜𝐨𝐬(𝟒𝒙) = 𝟎
 w przedziale [𝟎, 𝝅]. Zapisz obliczenia.

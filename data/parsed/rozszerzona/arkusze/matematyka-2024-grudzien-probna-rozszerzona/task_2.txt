@@ -3,5 +3,3 @@ Zadanie 2. (0–2)
 Okrąg 𝒪 jest styczny do boków 𝐴𝐶 i 𝐵𝐶 trójkąta 𝐴𝐵𝐶 oraz przecina bok 𝐴𝐵 tego
 trójkąta w punktach 𝑀 oraz 𝑁, przy czym 0 < |𝐴𝑀| < |𝐴𝑁| < |𝐴𝐵|.
 Wykaż, że jeśli |𝑨𝑴| = |𝑩𝑵|, to trójkąt 𝑨𝑩𝑪 jest równoramienny.
-2.
-0–1–2

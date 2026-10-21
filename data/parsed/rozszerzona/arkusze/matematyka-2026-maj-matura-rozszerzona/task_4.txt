@@ -5,19 +5,5 @@ długości 𝑎. Punkt 𝑀 jest takim punktem na boku 𝐵𝐶, że odcinki �
 prostopadłe.
 Odcinek 𝐴𝐿 przecina odcinki 𝐷𝐾 oraz 𝐷𝑀 w punktach – odpowiednio – 𝑃 oraz 𝑄
 (zobacz rysunek).
-Wykaż, że |𝑷𝑸| =
-√𝟓
-𝟓 𝒂.
-4.
-0–1–
-2–3
-𝐴
-𝐵
-𝐶
-𝐷
-𝐾
-𝑀
-𝐿
-𝑃
-𝑄
-𝑎
+[tu powinien być rysunek]
+Wykaż, że |𝑷𝑸| = √𝟓/𝟓 * 𝒂.

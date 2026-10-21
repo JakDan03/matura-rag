@@ -4,6 +4,3 @@ Odcinek 𝐶𝐷 jest wysokością trójkąta równoramiennego 𝐴𝐵𝐶, w k
 Prosta 𝑝 jest prostopadła do boku 𝐵𝐶 i przecina ten bok w punkcie 𝐿. Ta prosta przecina
 wysokość 𝐶𝐷 w punkcie 𝐾 oraz przecina bok 𝐴𝐶 w punkcie różnym od 𝐴.
 Wykaż, że |∡𝑪𝑨𝑲| = |∡𝑲𝑫𝑳|.
-5.
-0–1–
-2–3

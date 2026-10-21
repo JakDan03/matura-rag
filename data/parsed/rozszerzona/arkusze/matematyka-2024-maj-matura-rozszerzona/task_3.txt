@@ -8,6 +8,3 @@ Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że wśród opakowań
 poddanych tej kontroli będzie co najwyżej jedno opakowanie ze śmietaną, która
 zawiera mniej niż 36% tłuszczu. Wynik zapisz w postaci ułamka dziesiętnego
 w zaokrągleniu do części tysięcznych. Zapisz obliczenia.
-3.
-0–1–
-2–3

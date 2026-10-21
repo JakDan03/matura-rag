@@ -5,5 +5,4 @@ ostrosłupa oraz promienia 𝑅 okręgu opisanego na podstawie tego ostrosłupa 
 Zadanie 13.1. (0–2)
 Wykaż, że objętość 𝑽 każdego z takich ostrosłupów w zależności od długości 𝑹
 promienia okręgu opisanego na podstawie ostrosłupa jest określona wzorem
-𝑽(𝑹) = √𝟑
-𝟒 ⋅ (𝟔𝑹𝟐 − 𝑹𝟑)
+𝑽(𝑹) = √(𝟑)/𝟒 ⋅ (𝟔𝑹^2 − 𝑹^𝟑)

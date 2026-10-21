@@ -1,6 +1,6 @@
 [ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=16; level=rozszerzony; year=2025; month=czerwiec; task_id=8]
 Zadanie 8. (0–4)
-Wielomian 𝑓 zmiennej rzeczywistej 𝑥 jest określony wzorem 𝑓(𝑥) = 𝑥3 + 𝑎𝑥2 + 𝑏𝑥 + 𝑐,
+Wielomian 𝑓 zmiennej rzeczywistej 𝑥 jest określony wzorem 𝑓(𝑥) = 𝑥^3 + 𝑎𝑥^2 + 𝑏𝑥 + 𝑐,
 gdzie 𝑎, 𝑏, 𝑐 ∈ ℝ. Liczba (−2) jest miejscem zerowym tego wielomianu. W kartezjańskim
 układzie współrzędnych (𝑥, 𝑦) styczna do wykresu wielomianu 𝑓 w punkcie 𝐴
 o pierwszej współrzędnej równej (−2) przecina ten wykres w punkcie 𝑃 = (1, 9).

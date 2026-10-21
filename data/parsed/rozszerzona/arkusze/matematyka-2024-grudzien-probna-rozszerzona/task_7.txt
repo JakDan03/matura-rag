@@ -1,9 +1,6 @@
 [ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona.pdf; typ=exam_paper; strony=12; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=7]
 Zadanie 7. (0–4)
 W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dane są:
-okrąg o równaniu (𝑥 + 1)2 + (𝑦 − 3)2 = 50 i punkty 𝐴 = (6, 4) oraz 𝐵 = (−6, 8).
+okrąg o równaniu (𝑥 + 1)^2 + (𝑦 − 3)^2 = 50 i punkty 𝐴 = (6, 4) oraz 𝐵 = (−6, 8).
 Punkt 𝐶 leży na tym okręgu i |𝐴𝐶| = |𝐵𝐶|.
 Oblicz współrzędne punktu 𝑪. Rozważ wszystkie przypadki. Zapisz obliczenia.
-7.
-0–1–
-2–3–4

@@ -2,8 +2,6 @@
 Zadanie 10. (0–5)
 Dany jest ostrosłup prawidłowy trójkątny 𝐴𝐵𝐶𝐷 o podstawie 𝐴𝐵𝐶. Płaszczyzna
 zawierająca krawędź 𝐴𝐵 podstawy i prostopadła do krawędzi bocznej 𝐶𝐷 przecina tę
-krawędź w punkcie 𝐸, przy czym |𝐶𝐸|
-|𝐷𝐸| = 3
-11 .
+krawędź w punkcie 𝐸, przy czym |𝐶𝐸|/|𝐷𝐸| = 3/11 .
 Oblicz stosunek pola powierzchni całkowitej tego ostrosłupa do pola podstawy 𝑨𝑩𝑪.
 Zapisz obliczenia.

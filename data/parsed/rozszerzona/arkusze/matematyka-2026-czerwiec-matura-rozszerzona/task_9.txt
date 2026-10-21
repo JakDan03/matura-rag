@@ -3,6 +3,3 @@ Zadanie 9. (0–4)
 Pole czworokąta 𝐴𝐵𝐶𝐷 wpisanego w okrąg jest równe 18. Boki 𝐴𝐵 i 𝐵𝐶 są prostopadłe,
 a ponadto |𝐴𝐵| = 4 oraz |𝐵𝐶| = 7.
 Oblicz obwód tego czworokąta. Zapisz obliczenia.
-9.
-0–1–
-2–3–4

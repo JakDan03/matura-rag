@@ -1,10 +1,5 @@
 [ŹRÓDŁO: plik=matematyka-2024-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=5; level=rozszerzony; year=2024; month=maj; task_id=2]
 Zadanie 2. (0–2)
 Oblicz granicę
-lim
-𝑥→2−
-𝑥3 − 8
-(𝑥 − 2)2
+lim_(𝑥→2−) (𝑥^3 − 8)/(𝑥 − 2)^2
 Zapisz obliczenia.
-2.
-0–1–2

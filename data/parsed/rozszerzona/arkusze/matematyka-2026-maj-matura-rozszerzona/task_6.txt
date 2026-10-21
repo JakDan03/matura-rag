@@ -1,10 +1,7 @@
 [ŹRÓDŁO: plik=matematyka-2026-maj-matura-rozszerzona.pdf; typ=exam_paper; strony=12; level=rozszerzony; year=2026; month=maj; task_id=6]
 Zadanie 6. (0–4)
-Dany jest ciąg arytmetyczny (𝑎𝑛) o skończonej liczbie wyrazów. Liczba wyrazów tego ciągu
+Dany jest ciąg arytmetyczny (𝑎_𝑛) o skończonej liczbie wyrazów. Liczba wyrazów tego ciągu
 jest większa od 6. Pierwszy wyraz tego ciągu jest równy 1, a ostatni wyraz tego ciągu jest
 równy (−2025). Drugi, trzeci i szósty wyraz tego ciągu tworzą – w podanej kolejności – ciąg
 geometryczny.
-Oblicz sumę wszystkich wyrazów ciągu (𝒂𝒏). Zapisz obliczenia.
-6.
-0–1–
-2–3–4
+Oblicz sumę wszystkich wyrazów ciągu (𝒂_𝒏). Zapisz obliczenia.

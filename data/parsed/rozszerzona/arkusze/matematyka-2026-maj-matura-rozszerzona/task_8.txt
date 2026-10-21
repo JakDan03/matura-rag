@@ -2,10 +2,6 @@
 Zadanie 8. (0–4)
 W ostrosłupie prawidłowym trójkątnym 𝐴𝐵𝐶𝑆 podstawa 𝐴𝐵𝐶 jest trójkątem
 równobocznym. Długość okręgu opisanego na podstawie 𝐴𝐵𝐶 jest równa 6√2𝜋, a cosinus
-kąta między krawędziami bocznymi 𝑆𝐵 i 𝑆𝐶 jest równy 5
-9 .
+kąta między krawędziami bocznymi 𝑆𝐵 i 𝑆𝐶 jest równy 5/9 .
 Oblicz długość krawędzi podstawy 𝑨𝑩𝑪 oraz cosinus kąta między ścianami
 bocznymi 𝑺𝑨𝑪 i 𝑺𝑩𝑪 tego ostrosłupa. Zapisz obliczenia.
-8.
-0–1–
-2–3–4

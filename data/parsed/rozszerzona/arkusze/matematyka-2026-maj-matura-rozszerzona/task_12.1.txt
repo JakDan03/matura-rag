@@ -5,12 +5,8 @@ długości 𝑥 metrów nieprzekraczającej 10 metrów. Na tym kwietniku ma znaj
 fontanna w kształcie koła o średnicy 4 metrów, które ma być styczne do każdego z boków
 trójkątnego kwietnika (zobacz rysunek). Projektantowi zależy, aby przy tak ustalonej
 wielkości fontanny pole tego kwietnika było najmniejsze.
+[tu powinien być rysunek]
 Zadanie 12.1. (0–3)
 Wykaż, że pole 𝑷 (wyrażone w metrach kwadratowych) trójkątnego kwietnika
 o podstawie długości 𝒙 metrów jest określone wzorem
-𝑷(𝒙) = 𝟐𝒙𝟑
-𝒙𝟐 − 𝟏𝟔
-12.1.
-0–1–
-2–3
-𝑥
+𝑷(𝒙) = 𝟐𝒙^3/(𝒙^2 − 𝟏𝟔)

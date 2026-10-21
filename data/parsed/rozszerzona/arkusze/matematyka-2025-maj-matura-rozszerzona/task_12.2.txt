@@ -4,12 +4,7 @@ Rozważamy wszystkie stożki, których wysokość jest większa od 5, a odległo
 podstawy od tworzącej jest równa 5.
 Zadanie 12.2. (0–4)
 Objętość 𝑉 stożka, jako funkcja wysokości ℎ stożka, wyraża się wzorem
-𝑉(ℎ) = 𝜋
-3 ⋅ 25ℎ3
-ℎ2 − 25
+𝑉(ℎ) = 𝜋/3 ⋅ 25ℎ^3/(ℎ^2 − 25)
 dla ℎ ∈ (5, +∞).
 Wyznacz wysokość tego z rozważanych stożków, którego objętość jest najmniejsza.
 Oblicz tę najmniejszą objętość. Zapisz obliczenia.
-12.2.
-0–1–
-2–3–4

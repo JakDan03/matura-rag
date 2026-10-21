@@ -1,7 +1,7 @@
 [ŹRÓDŁO: plik=matematyka-2025-czerwiec-matura-rozszerzona.pdf; typ=exam_paper; strony=18; level=rozszerzony; year=2025; month=czerwiec; task_id=9]
 Zadanie 9. (0–5)
-Ciąg (𝑎𝑛), określony dla każdej liczby naturalnej 𝑛 ≥ 1, jest arytmetyczny i rosnący. W tym
-ciągu 𝑎6 = 15 oraz 𝑎15 = 𝑎3 ⋅ (𝑎8 − 6).
-Ciąg (𝑏𝑛), określony dla każdej liczby naturalnej 𝑛 ≥ 1, jest geometryczny i 𝑏1 = 𝑎11 oraz
-𝑏2 = 𝑎6.
-Oblicz sumę wszystkich wyrazów ciągu (𝒃𝒏). Zapisz obliczenia.
+Ciąg (𝑎_𝑛), określony dla każdej liczby naturalnej 𝑛 ≥ 1, jest arytmetyczny i rosnący. W tym
+ciągu 𝑎_6 = 15 oraz 𝑎_15 = 𝑎_3 ⋅ (𝑎_8 − 6).
+Ciąg (𝑏_𝑛), określony dla każdej liczby naturalnej 𝑛 ≥ 1, jest geometryczny i 𝑏_1 = 𝑎_11 oraz
+𝑏_2 = 𝑎_6.
+Oblicz sumę wszystkich wyrazów ciągu (𝒃_𝒏). Zapisz obliczenia.

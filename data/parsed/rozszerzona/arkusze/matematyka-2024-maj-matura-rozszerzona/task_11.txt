@@ -5,7 +5,3 @@ prostej o równaniu 𝑦 = 𝑥 + 1. Przez punkt 𝐴 = (1, 2), którego odległ
 większa od √5, poprowadzono dwie proste styczne do tego okręgu w punktach –
 odpowiednio – 𝐵 i 𝐶. Pole czworokąta 𝐴𝐵𝑆𝐶 jest równe 15.
 Oblicz współrzędne punktu 𝑺. Rozważ wszystkie przypadki. Zapisz obliczenia.
-11.
-0–1–
-2–3–
-4–5

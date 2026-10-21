@@ -1,7 +1,6 @@
 [ŹRÓDŁO: plik=matematyka-2024-grudzien-probna-rozszerzona.pdf; typ=exam_paper; strony=25, 27; level=rozszerzony; year=2024; month=grudzień; term=probna; task_id=13.2]
 Zadanie 13.
-Funkcja 𝑓 jest określona wzorem 𝑓(𝑥) = 12𝑥−84
-𝑥−8 dla każdego 𝑥 ∈ (−∞, 8).
+Funkcja 𝑓 jest określona wzorem 𝑓(𝑥) = (12𝑥−84)/(𝑥−8) dla każdego 𝑥 ∈ (−∞, 8).
 W kartezjańskim układzie współrzędnych (𝑥, 𝑦) rozważamy wszystkie czworokąty 𝑂𝐵𝐶𝐷,
 w których:
 • wierzchołek 𝑂 ma współrzędne (0, 0)
@@ -9,15 +8,11 @@ w których:
 odpowiednio – 𝑂𝑥 i 𝑂𝑦
 • wierzchołek 𝐶 ma obie współrzędne dodatnie i leży na wykresie funkcji 𝑓
 (zobacz rysunek).
+[tu powinien być rysunek]
 Zadanie 13.2. (0–4)
 Pole 𝑃 czworokąta 𝑂𝐵𝐶𝐷 w zależności od pierwszej współrzędnej 𝑥 punktu 𝐶 jest
 określone wzorem
-𝑃(𝑥) = 21
-4 ⋅ 𝑥2 − 56
-𝑥 − 8
+𝑃(𝑥) = 21/4 ⋅ (𝑥^2 − 56)/(𝑥 − 8)
 dla 𝑥 ∈ (0, 7).
 Oblicz współrzędne wierzchołka 𝑪, dla których pole czworokąta 𝑶𝑩𝑪𝑫 jest
 największe. Zapisz obliczenia.
-13.2.
-0–1–
-2–3–4

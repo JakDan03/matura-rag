@@ -2,11 +2,4 @@
 Zadanie 3. (0–3)
 Wykaż, że dla każdej dodatniej liczby rzeczywistej 𝒙 i dla każdej dodatniej liczby
 rzeczywistej 𝒚 prawdziwa jest nierówność
-𝟏
-𝒙 + 𝟏
-𝒚 ≤ 𝒙
-𝒚𝟐 + 𝒚
-𝒙𝟐
-3.
-0–1–
-2–3
+𝟏/𝒙 + 𝟏/𝒚 ≤ 𝒙/𝒚^2 + 𝒚/𝒙^2

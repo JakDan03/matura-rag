@@ -5,8 +5,7 @@ równym 24√3.
 Zadanie 12.2. (0–4)
 Objętość 𝑉 graniastosłupa w zależności od długości 𝑎 krawędzi podstawy jest określona
 wzorem
-𝑉(𝑎) = 6𝑎 − 1
-8 𝑎3
+𝑉(𝑎) = 6𝑎 − 1/8 𝑎3
 dla 𝑎 ∈ (0, 4√3).
 Wyznacz długość krawędzi podstawy tego z rozważanych graniastosłupów, którego
 objętość jest największa. Oblicz tę największą objętość. Zapisz obliczenia.

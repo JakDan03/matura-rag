@@ -2,11 +2,5 @@
 Zadanie 7. (0–4)
 W trapezie 𝐴𝐵𝐶𝐷 o podstawach 𝐴𝐵 i 𝐶𝐷 punkt 𝐸 jest środkiem ramienia 𝐴𝐷,
 a punkt 𝐹 jest środkiem ramienia 𝐵𝐶 trapezu. Stosunek pola trapezu 𝐸𝐹𝐶𝐷 do pola
-trapezu 𝐴𝐵𝐹𝐸 jest równy 1
-2 .
-Wykaż, że |𝑪𝑫|
-|𝑨𝑩| = 𝟏
-𝟓 .
-7.
-0–1–
-2–3–4
+trapezu 𝐴𝐵𝐹𝐸 jest równy 1/2 .
+Wykaż, że |𝑪𝑫|/|𝑨𝑩| = 𝟏/𝟓 .
